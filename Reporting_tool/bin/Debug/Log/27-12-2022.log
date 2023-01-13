@@ -1,9 +1,0 @@
-27-12-2022 11:30:13 Error found in fetching data : The SqlParameter is already contained by another SqlParameterCollection.
-27-12-2022 11:44:16 Synthesis Record inserted.
-27-12-2022 11:53:58 Synthesis record updated. Sync_id=1764
-27-12-2022 11:59:00 Refused Synthesis Record updated. Sync_id=1764
-27-12-2022 12:13:26 Synthesis delivered record updated. Sync_Id=1764
-27-12-2022 12:15:48 Synthesis Record inserted.
-27-12-2022 12:17:01 Synthesis record updated. Sync_id=1765
-27-12-2022 12:18:01 Refused Synthesis Record updated. Sync_id=1765
-27-12-2022 12:20:59 Synthesis delivered record updated. Sync_Id=1765

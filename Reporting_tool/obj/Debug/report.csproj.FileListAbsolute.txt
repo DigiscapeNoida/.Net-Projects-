@@ -1,9 +1,0 @@
-D:\Deepak\Reporting_tool\bin\Debug\report.exe.config
-D:\Deepak\Reporting_tool\bin\Debug\report.exe
-D:\Deepak\Reporting_tool\bin\Debug\report.pdb
-D:\Deepak\Reporting_tool\obj\Debug\report.csproj.AssemblyReference.cache
-D:\Deepak\Reporting_tool\obj\Debug\report.csproj.SuggestedBindingRedirects.cache
-D:\Deepak\Reporting_tool\obj\Debug\report.csproj.ResolveComReference.cache
-D:\Deepak\Reporting_tool\obj\Debug\report.csproj.CoreCompileInputs.cache
-D:\Deepak\Reporting_tool\obj\Debug\report.exe
-D:\Deepak\Reporting_tool\obj\Debug\report.pdb
