@@ -1,0 +1,6 @@
+22-12-2022 16:01:14 Error found in fetching data : Could not find stored procedure 'usp_getreport'.
+22-12-2022 16:03:19 Error while inserting data : Procedure or function 'usp_insertrecord' expects parameter '@ststedeligation', which was not supplied.
+22-12-2022 17:42:10 Record inserted.
+22-12-2022 17:45:45 Record inserted.
+22-12-2022 18:14:36 Record number 1 not found.
+22-12-2022 18:23:09 Cancel record updated. Encyc_Id=16034
