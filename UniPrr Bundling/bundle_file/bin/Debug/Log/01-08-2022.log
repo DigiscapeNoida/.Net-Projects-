@@ -1,0 +1,15 @@
+01-08-2022 18:37:32 Processing directory 13877040
+01-08-2022 18:37:34 Converting doc to docx D:\Deepak\Uniprr_testing\output_dir\13877040\input\Manuscript.doc
+01-08-2022 18:37:41 Creating bundle files : D:\Deepak\Uniprr_testing\output_dir\13877040\output
+01-08-2022 18:37:47 Adding line numbers : D:\Deepak\Uniprr_testing\output_dir\13877040
+01-08-2022 18:37:48 Bundle file created : D:\Deepak\Uniprr_testing\output_dir\13877040\output\Bundled.docx
+01-08-2022 18:37:48 Removing line numbers from first file : D:\Deepak\Uniprr_testing\output_dir\13877040
+01-08-2022 18:37:50 Bundle file created : D:\Deepak\Uniprr_testing\output_dir\13877040\output\BundledPdfForReviewer.docx
+01-08-2022 18:37:50 Optimizing images in bundle file D:\Deepak\Uniprr_testing\output_dir\13877040\output\BundledPdfForReviewer.docx
+01-08-2022 18:37:50 Optimizing tables in bundle file D:\Deepak\Uniprr_testing\output_dir\13877040\output\BundledPdfForReviewer.docx
+01-08-2022 18:37:51 Creating PDF file D:\Deepak\Uniprr_testing\output_dir\13877040\output\Bundled.pdf
+01-08-2022 18:37:52 Optimizing images in bundle file D:\Deepak\Uniprr_testing\output_dir\13877040\output\Bundled.docx
+01-08-2022 18:37:52 Optimizing tables in bundle file D:\Deepak\Uniprr_testing\output_dir\13877040\output\Bundled.docx
+01-08-2022 18:37:53 Creating PDF file D:\Deepak\Uniprr_testing\output_dir\13877040\output\BundledPdfForReviewer.pdf
+01-08-2022 18:37:55 Task completed successfully for 13877040
+01-08-2022 18:37:55 Deleting directory D:\Deepak\Uniprr_testing\input_dir\13877040
