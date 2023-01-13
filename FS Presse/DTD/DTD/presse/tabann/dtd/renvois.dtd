@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!--
+  Ce fichier contient les définitions des élements renvois
+  en XML.
+
+  Il est appelé en utilisant l'identifiant systèmle suivant :
+
+    "-//EJC//ELEMENTS XML des renvois presse//FR"
+
+  Les types de renvois déclarés sont :
+
+  rjc     : renvoi vers les encyclopedies
+  rpubl   : renvoi vers la presse
+  rpubl   : renvoi vers la presse (ancien)
+  rccons  : renvoi vers les décisions du conseil consitutionnel
+  rintra  : renvoi internes aux encyclopédies
+  rdec    : renvoi vers les décisions de jurisprudence
+  rjd     : renvoi vers nes numéros Juris-Data
+  rjo     : renvoi vers le JO
+  rtc     : renvoi vers les textes codifiés
+  rtnc    : renvoi vers les textes non codifiés
+  rbiblio : renvoi bibliographique
+  rquid   : renvoi non déterminé
+
+-->
+
+<!--============================================-->
+<!--        RENVOI VERS LES ENCYCLOPEDIES       -->
+<!--============================================-->
+
+
+<!-- renvoi vers les fascicules d'encyclopédie. 
+     @example &lt;rjc>&lt;ncoll libnorm="CL.NO1">Notarial formulaire&lt;/ncoll>, &lt;idenfas1>v° &lt;verbofar libnorm="V.NOTARIA">Notariat&lt;/verbofar>, Fasc. &lt;numfasr>150&lt;/numfasr>&lt;/idenfas1>&lt;/rjc> 
+    -->
+<!ELEMENT  rjc    (#PCDATA | ncoll | idenfas1 | idenfas2 | rdiv1jc | rdiv2jc | rpn1 | rpn2 |
+			 numform1 | numform2 | ranx1 | ranx2)* >
+
+<!-- @attr refid   <em>non utilisé</em>
+     @attr tdl     texte de liaison
+     @attr idbdlr  non utilisé (prévu pour Poet CMS)
+     @attr verppr  version du programme de pose des renvois
+  -->
+<!ATTLIST  rjc
+	refid  IDREFS   #IMPLIED
+	tdl    (avec | rr)	#IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+
+
+<!-- nom de la collection 
+     @example &lt;ncoll libnorm="CL.PL0">Propriété littéraire et artistique&lt;ncoll>
+  -->
+<!ELEMENT  ncoll    (#PCDATA) >
+
+<!-- @attr visible  <em>oui</em> si le nom de la collection apparaît dans le rendu,
+                    et <em>non </em> sinon
+     @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST  ncoll
+	visible  (oui|non)  "oui"
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- identifiant du fascicule référencé, ou du premier fascicule d'un intervalle. 
+     @example &lt;idenfas1>, Fasc. &lt;numfasr>809&lt;/numfasr>&lt;/idenfas1>
+     -->
+<!ELEMENT  idenfas1    (#PCDATA | numfasr | verbofar | artfasr)* >
+
+<!-- identifiant du dernier fascicule d'un intervalle.
+     @example &lt;idenfas1>, Fasc. &lt;numfasr>730-10&lt;/numfasr>&lt;/idenfas1> à &lt;idenfas2>&lt;numfasr>730-14&lt;/numfasr>&lt;/idenfas2>
+      -->
+<!ELEMENT  idenfas2    (#PCDATA | numfasr | verbofar | artfasr)* >
+
+<!-- renvoi vers un numéro de division référencée ou le numéro de la première
+     division d'un intervalle.
+  -->
+<!ELEMENT  rdiv1jc   (#PCDATA) >
+
+<!-- renvoi vers le numéro de la dernière division d'un intervalle.
+  -->
+<!ELEMENT  rdiv2jc   (#PCDATA) >
+
+<!-- numéro de fascicule.
+     @example &lt;idenfas1>, Fasc. &lt;numfasr>809&lt;/numfasr>&lt;/idenfas1>
+     -->
+<!ELEMENT  numfasr    (#PCDATA) >
+
+<!-- verbo. 
+     @example &lt;verbofar libnorm="V.NOTARIA">Notariat&lt;/verbofar> 
+     -->
+<!ELEMENT  verbofar    (#PCDATA) >
+
+<!-- @attr libnorm libellé normalisé du verbo -->
+<!ATTLIST verbofar
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- articles référencés du fascicule. 
+     @example &lt;idenfas1>Art. &lt;artfasr>433-5&lt;/artfasr>, Fasc. &lt;numfasr>10&lt;/numfasr>&lt;/idenfas1>
+     -->
+<!ELEMENT  artfasr    (#PCDATA) >
+
+<!-- renvoi vers un paragraphe numéroté référencé ou le numéro du premier
+     numéro de paragraphe d'un intervalle.
+  -->
+<!ELEMENT  rpn1   (#PCDATA) >
+
+<!-- renvoi vers le numéro du dernier
+     numéro de paragraphe d'un intervalle.
+  -->
+<!ELEMENT  rpn2   (#PCDATA) >
+
+<!-- @attr suivant vaut <em>oui</em> et l'intervalle est non borné à droite.
+  -->
+<!ATTLIST rpn1 suivant (oui|non) "non"
+	>
+
+<!-- numéro de l'annexe référencée, ou numéro du premier élément
+     d'un intervalle d'annexes.
+     -->
+<!ELEMENT  ranx1   (#PCDATA) >
+
+<!-- numéro du dernier élément d'un intervalle d'annexes.
+     -->
+<!ELEMENT  ranx2   (#PCDATA) >
+
+<!-- numéro du formulaire référencé, ou numéro du premier élément
+     d'un intervalle de formulaires.
+     -->
+<!ELEMENT numform1  (#PCDATA) >
+
+<!-- numéro du dernier élément d'un intervalle d'annexes.
+     -->
+<!ELEMENT numform2  (#PCDATA) >
+
+
+<!--============================================-->
+<!--        RENVOI VERS LES TEXTES CODIFIES     -->
+<!--============================================-->
+
+<!-- renvoi vers les texte codifiés
+     @example &lt;rtc verppr="2.1.3" tdl="rr">article &lt;rart1>1994&lt;/rart1> du &lt;ncoder libnorm="C.CIVIL">Code civil&lt;/ncoder>&lt;/rtc>
+  -->
+
+<!ELEMENT  rtc    (#PCDATA | ncoder | rart1| rart2)* >
+
+<!-- @attr refid  <em>non utilisé</em>
+     @attr tdl    texte de liaison
+     @attr idbdlr obsolete (prévu pour Poet-CMS)
+     @attr ncoder nom du code
+     @attr verppr version du programme de pose des renvois
+     -->
+<!ATTLIST  rtc  
+        refid  IDREFS   #IMPLIED
+	tdl    (avec | rr)	#IMPLIED
+	idbdlr CDATA #IMPLIED
+	ncoder CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+
+<!-- nom du code.
+     @example &lt;ncoder libnorm="C.CIVIL">Code civil&lt;/ncoder>
+  -->
+<!ELEMENT  ncoder    (#PCDATA) >
+
+
+<!-- @attr visible  <em>oui</em> si le nom du code et <em>non </em> sinon
+     @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST  ncoder
+	visible  (oui|non)  "oui"
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- article référencé, ou premier article d'un intervalle. 
+     @example &lt;rart1>1994&lt;/rart1>
+     -->
+<!ELEMENT  rart1   (#PCDATA) >
+
+<!-- @attr visible  <em>oui</em> si le numéro d'article est visible et <em>non </em> sinon
+     @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST  rart1  visible  (oui|non)  "oui"
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- dernier article d'un intervalle. 
+     @example &lt;rart1>1994&lt;/rart1> à &lt;rart2>1998&lt;/rart2> 
+     -->
+<!ELEMENT  rart2   (#PCDATA) >
+
+<!-- @attr visible  <em>oui</em> si le numéro d'article est visible et <em>non </em> sinon
+     @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST  rart2  visible  (oui|non)  "oui"
+	libnorm CDATA #IMPLIED
+	>
+
+
+
+<!--============================================-->
+<!--        RENVOI VERS LES TEXTES NON CODIFIES -->
+<!--============================================-->
+
+<!-- renvoi vers les texte non codifiés 
+     @example &lt;rtnc verppr="2.1.3" tdl="rr">&lt;typtncr libnorm="L.LOI">L.&lt;/typtncr> n° &lt;numtncr>96-597&lt;/numtncr>, &lt;datnorm datnorm="02/07/1996">2&nbsp;juill. 1996&lt;/datnorm>&lt;/rtnc>
+     -->
+
+<!ELEMENT  rtnc    (#PCDATA | typtncr | numtncr | datnorm | inttncr | appellation | autorite | rart1 | rart2)* >
+
+<!-- @attr refid   <em>non utilisé</em>
+     @attr tdl     texte de liaison
+     @attr idbdlr  non utilisé (prévu pour Poet CMS)
+     @attr verppr  version du programme de pose des renvois
+  -->
+<!ATTLIST  rtnc  
+        refid  IDREFS   #IMPLIED
+	tdl    (avec | rr)	#IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+
+<!-- type de texte non codifié (renvoi). 
+     @example &lt;typtncr libnorm="L.LOI">L.&lt;/typtncr>-->	
+<!ELEMENT  typtncr    (#PCDATA) >
+
+<!-- @attr visible  <em>oui</em> si le type de TNC est visible et <em>non </em> sinon
+     @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST  typtncr
+	visible  (oui|non)  "oui"
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- numéro de texte non codifié.
+     @example &lt;typtncr libnorm="L.LOI">L.&lt;/typtncr> n° &lt;numtncr>96-597&lt;/numtncr>
+     -->
+<!ELEMENT  numtncr    (#PCDATA) >
+
+<!-- @attr visible  <em>oui</em> si le numéro de texte non codifié est visible
+                    et <em>non </em> sinon
+     @attr ndlr     numero entre crochets ajoute par la redaction
+  -->
+<!ATTLIST  numtncr  
+        visible  (oui|non)  "oui"
+ 	ndlr (AJOUT) #IMPLIED
+	>
+
+
+<!-- date normalisée.
+     @example &lt;datnorm datnorm="22/07/1986">22 juill. 1986&lt;/datnorm>
+     -->
+<!ELEMENT  datnorm    (#PCDATA) >
+
+<!-- @attr visible  <em>oui</em> si le numéro de texte non codifié est visible
+                    et <em>non </em> sinon
+     @attr datnorm  date normalisée au format <code>JJ/MM/AAAA</code>
+  -->
+<!ATTLIST  datnorm
+	visible  (oui|non)  "oui"
+	datnorm	CDATA	#IMPLIED
+	>
+
+<!-- intitulé du texte non codifié. (non posé par le NPPR)
+     -->
+<!ELEMENT  inttncr    (#PCDATA) >
+	
+
+	
+<!-- appellation du texte non codifié. (non posé par le NPPR)
+     -->
+<!ELEMENT  appellation    (#PCDATA) >
+	
+<!-- @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST appellation
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- autorité publiant le texte non codifié. (non posé par le NPPR)
+     -->
+<!ELEMENT  autorite    (#PCDATA) >
+	
+<!-- @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST autorite
+	libnorm CDATA #IMPLIED
+	>
+
+
+
+<!--============================================-->
+<!--        RENVOI VERS LE JO                   -->
+<!--============================================-->
+
+<!-- renvoi vers le journal officiel 
+     @example &lt;rjo verppr="2.1.3" tdl="rr">&lt;sourcer libnorm="SO.jo">JO&lt;/sourcer> &lt;datnorm datnorm="01/04/2004">1er avr. 2004&lt;/datnorm>, p. &lt;pnumr>6431&lt;/pnumr>&lt;/rjo>
+  -->
+<!ELEMENT rjo (#PCDATA | sourcer | datnorm | pnumr)* >
+
+<!-- @attr refid   <em>non utilisé</em>
+     @attr tdl     texte de liaison
+     @attr idbdlr  non utilisé (prévu pour Poet CMS)
+     @attr verppr  version du programme de pose des renvois
+  -->
+<!ATTLIST  rjo  
+        refid  IDREFS   #IMPLIED
+	tdl    (rr)	#IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+
+<!-- source du journal officiel.
+     @example &lt;sourcer libnorm="SO.jo">JO&lt;/sourcer>
+  -->
+<!ELEMENT sourcer     (#PCDATA) >
+	
+<!-- @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST sourcer
+	libnorm CDATA #IMPLIED
+	>
+
+
+<!-- page dans le journal officiel
+     @example p. &lt;pnumr>6431&lt;/pnumr>
+  -->
+<!ELEMENT pnumr     (#PCDATA) >
+	
+
+<!--====================================================-->
+<!--        RENVOI VERS LES DECISIONS DE JURISPRUDENCE  -->
+<!--====================================================-->
+
+<!-- renvoi vers les décisions de jurisprudence.
+     @example &lt;rdec verppr="2.1.3" tdl="rr">&lt;typjurr libnorm="J.CASS">Cass.&lt;/typjurr> &lt;formjur libnorm="F.CHCRI ">crim.&lt;/formjur>, &lt;datnorm datnorm="26/05/1994">26 mai 1994&lt;/datnorm>&lt;/rdec>
+  -->
+
+<!ELEMENT  rdec    (#PCDATA | typdec | typjurr | formjur | siegedec | datnorm | numdec | numjdr)* >
+
+<!-- @attr refid     <em>non utilisé</em>
+     @attr tdl       texte de liaison
+     @attr idbdlr    non utilisé (prévu pour Poet CMS)
+     @attr verppr    version du programme de pose des renvois
+     @attr IDT-JD    identifiant Juris-data
+     @attr InfoCible Infos concernant la cible, obsolete
+     @attr MetaDEC   Meta infos concernant la decision (renvoi), obsolete
+     @attr MetaREQ   Meta infos concernant la requête sur Sysdex, obsolete
+  -->
+<!ATTLIST  rdec  
+        refid  IDREFS   #IMPLIED
+	tdl    (avec | rr)	#IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr     CDATA		#IMPLIED
+	IDT-JD	   CDATA		#IMPLIED	
+        InfoCible  (ADC|ATC|RE|ND|NA)	#IMPLIED	
+	MetaDEC    CDATA		#IMPLIED 	    		
+	MetaREQ    CDATA		#IMPLIED 	    		
+	>
+
+
+<!-- type de décision
+     @example <typdec libnorm="D.DEC">déc.</typdec> n° <numdec>04-D-07</numdec>
+   -->
+<!ELEMENT  typdec    (#PCDATA) >
+	
+<!-- @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST typdec
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- type de juridiction.
+     @example &lt;typjurr libnorm="J.CASS">Cass.&lt;/typjurr>
+  -->
+<!ELEMENT  typjurr    (#PCDATA) >
+
+<!-- @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST typjurr
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- formation.
+     @example &lt;typjurr libnorm="J.CASS">Cass.&lt;/typjurr> &lt;formjur libnorm="F.CHCRI ">crim.&lt;/formjur>
+  -->
+<!ELEMENT  formjur    (#PCDATA) >
+
+<!-- @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST formjur
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- siège de la juridiction.
+     @example &lt;typjurr libnorm="J.CA">CA&lt;/typjurr> &lt;siegedec libnorm="SJ.PARIS">Paris&lt;/siegedec>
+     -->
+<!ELEMENT  siegedec    (#PCDATA) >
+	
+<!-- @attr libnorm  libellé normalisé
+  -->
+<!ATTLIST siegedec
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- numéro de décision. -->
+<!ELEMENT  numdec    (#PCDATA) >
+
+<!-- @attr typnum type de numéro de décision. -->	
+<!ATTLIST  numdec
+	typnum (pourvoi | role | affaire | requete) #IMPLIED
+	>	
+	
+<!-- numéro Juris-Data. 
+     @example &lt;numjdr>2003-233437lt;/numjdr>
+  -->
+<!ELEMENT  numjdr    (#PCDATA) >
+
+
+
+<!--====================================================-->
+<!--        RENVOI VERS LES NUMÉROS JURISDATA           -->
+<!--====================================================-->
+
+<!-- renvoi vers les numéros Jurios-Data. 
+     @example &lt;rjd verppr="2.1.3" tdl="rr" metas="{numjdr:2003-233437}">Juris-Data n&deg;&nbsp;&lt;/rjd>
+     -->
+<!ELEMENT rjd  (#PCDATA | numjdr)* >
+
+
+
+<!-- @attr tdl       texte de liaison
+     @attr idbdlr    non utilisé (prévu pour Poet CMS)
+     @attr verppr    version du programme de pose des renvois
+     @attr IDT-JD    numéro IDT
+     @attr InfoCible Infos concernant la cible, obsolete
+     @attr MetaDEC   Meta infos concernant la decision (renvoi)
+     @attr metas     mata-infos, obsolete
+  -->
+<!ATTLIST rjd	
+		tdl	   (rr)			#IMPLIED
+		idbdlr	   CDATA		#IMPLIED
+		IDT-JD	   CDATA		#IMPLIED	
+        	InfoCible  (ADC|ATC|RE|ND|NA)	#IMPLIED	
+		MetaDEC    CDATA		#IMPLIED	   	
+		metas	   CDATA		#IMPLIED	   	
+		verppr	   CDATA		#IMPLIED
+		>
+
+<!--====================================================-->
+<!--        RENVOI INTRA-ENCYCLOPEDIE                   -->
+<!--====================================================-->
+
+<!-- renvoi interne aux encyclopédies.
+     @example &lt;rintra>Voir infra. &lt;rpn1>80&lt;/rpn1>&lt;/rintra>
+     -->
+<!ELEMENT rintra  (#PCDATA | rdiv1jc | rdiv2jc | rpn1 | rpn2 |  numform1 | numform2 | ranx1 | ranx2)* >
+
+<!-- @attr refid   <em>non utilisé</em>
+     @attr tdl     texte de liaison
+     @attr idbdlr  non utilisé (prévu pour Poet CMS)
+     @attr verppr  version du programme de pose des renvois
+  -->
+<!ATTLIST rintra
+	tdl    (avec | rr)	#IMPLIED
+	refid  IDREFS   #IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+
+
+
+
+<!--====================================================-->
+<!--        RENVOI BIBLIOGRAPHIQUE                      -->
+<!--====================================================-->
+
+<!-- renvoi bibliographique (non posé par le NPPR). -->
+
+<!ELEMENT  rbiblio  ((collectr|auteurr+),(tidoc,(refdoc|rpresse|rpubl)?)+) >
+
+<!-- @attr refid   <em>non utilisé</em>
+     @attr idbdlr  non utilisé (prévu pour Poet CMS)
+     @attr verppr  version du programme de pose des renvois
+  -->
+<!ATTLIST rbiblio 
+        refid  IDREFS   #IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+
+<!-- Collectif de l'auteur. -->
+<!ELEMENT  collectr    (#PCDATA) >
+
+<!-- Auteur (renvoi). -->
+<!ELEMENT  auteurr    (prenomr?, nomr?) >
+
+<!-- @attr ssdir sous la direction de (Imprime : ss dir.)
+     @attr compl Information complementaire (Ex: et a. ou et Rapp. n° 223...)
+  -->
+<!ATTLIST auteurr 
+        ssdir (oui|non) "non"
+        compl CDATA #IMPLIED
+        >
+
+<!-- Nom de l'auteur (renvoi) -->
+<!ELEMENT  nomr    (#PCDATA) >
+
+<!-- Prenom de l'auteur (renvoi) -->
+<!ELEMENT  prenomr    (#PCDATA) >
+
+<!-- Titre -->	
+<!ELEMENT  tidoc    (#PCDATA) >
+
+<!-- References du document : Editeur, partie, date, page.... -->
+<!ELEMENT  refdoc    (#PCDATA) >
+
+
+<!--====================================================-->
+<!--        RENVOI GENERIQUE                            -->
+<!--====================================================-->
+
+<!-- renvoi non résolu (non posé par le NPPR). -->
+
+<!ELEMENT  rquid    (#PCDATA) >
+
+
+<!--====================================================-->
+<!--        RENVOI VERS LA PRESSE                       -->
+<!--====================================================-->
+
+<!-- renvoi vers la presse (format obsolète et non posé par le NPPR). -->
+
+<!ELEMENT  rpresse    (#PCDATA|tidoc|anneer|revnumr|numeltr)* >
+
+<!-- @attr refid   <em>non utilisé</em>
+     @attr tdl     texte de liaison
+     @attr idbdlr  non utilisé (prévu pour Poet CMS)
+     @attr verppr  version du programme de pose des renvois
+  -->
+<!ATTLIST  rpresse 
+	refid  IDREF   #IMPLIED
+	tdl    (avec | rr)	#IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+
+<!-- Annee de la revue (renvoi) -->
+<!ELEMENT  anneer    (#PCDATA) >
+
+<!-- Numero de la revue (renvoi) -->
+<!ELEMENT  revnumr    (#PCDATA) >
+
+<!-- Numero de l'etude ou du commentaire (renvoi) -->
+<!ELEMENT  numeltr    (#PCDATA) >
+
+
+
+<!--====================================================-->
+<!--        RENVOI VERS LA PRESSE                       -->
+<!--====================================================-->
+
+<!-- renvoi vers la presse.
+     @example &lt;rpubl tdl="rr">&lt;nomrev libnorm="R.RDALL">D.&lt;/nomrev> &lt;daterev>1970&lt;/daterev>, &lt;partrev libnorm="P.JURIS">jurispr.&lt;/partrev> p.&nbsp;&lt;pagerev>297&lt;/pagerev>&lt;/rpubl>
+  -->
+<!ELEMENT rpubl  (#PCDATA | nomrev | daterev | revnumr | numeltr | partrev | pagerev | obs | rpn1 | rpn2)* >
+
+<!-- @attr refid   <em>non utilisé</em>
+     @attr tdl     texte de liaison
+     @attr idbdlr  non utilisé (prévu pour Poet CMS)
+     @attr verppr  version du programme de pose des renvois
+  -->
+<!ATTLIST  rpubl 
+        refid  IDREF   #IMPLIED
+	tdl    (rr)	#IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+
+<!-- Nom de la revue -->
+<!ELEMENT  nomrev    (#PCDATA) >
+
+<!-- @attr libnorm libellé normalisé -->	
+<!ATTLIST nomrev
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- date de la revue. 
+     @exemple &lt;daterev annee="2005" mois="08" jour="12">12 août 2005&lt;/daterev>
+  -->
+<!ELEMENT  daterev    (#PCDATA) >
+
+<!-- @attr annee année de la revue
+     @attr mois  mois de la revue (format numérique sur 2 caractères)
+     @attr jour  jour de la revue (format numérique sur 2 caractères)
+  -->
+<!ATTLIST daterev
+	annee NMTOKEN #IMPLIED
+	mois (01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12) #IMPLIED
+	jour (01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31) #IMPLIED >
+	
+<!-- Partie dans la revue 
+     @example &lt;partrev libnorm="P.JURIS">jurispr.&lt;/partrev>
+  -->
+<!ELEMENT  partrev    (#PCDATA) >
+	
+<!-- @attr libnorm libellé normalisé -->	
+<!ATTLIST partrev
+	libnorm CDATA #IMPLIED
+	>
+
+<!-- Numero de page
+     @example p.&nbsp;&lt;pagerev>297&lt;/pagerev>
+     -->
+<!ELEMENT  pagerev    (#PCDATA) >
+
+<!-- Note ou observation -->
+<!ELEMENT  obs    (#PCDATA) >
+	
+
+<!--=============================================================-->
+<!--        RENVOI VERS LES DECISIONS DU CONSEIL CONSTITUTIONNEL -->
+<!--=============================================================-->
+
+<!-- renvoi vers les décisions du conseil consitutionnel. -->
+<!ELEMENT rccons  (#PCDATA | typdec | datnorm | numcc | typjurr)*>
+
+<!-- @attr refid   <em>non utilisé</em>
+     @attr tdl     texte de liaison
+     @attr idbdlr  non utilisé (prévu pour Poet CMS)
+     @attr verppr  version du programme de pose des renvois
+  -->
+<!ATTLIST  rccons  
+        refid  IDREF   #IMPLIED
+	tdl    (rr)	#IMPLIED
+	idbdlr CDATA #IMPLIED
+	verppr CDATA #IMPLIED
+	>
+	
+<!-- Numero de decision du conseil constitutionnel -->
+<!ELEMENT numcc     (#PCDATA) >
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+

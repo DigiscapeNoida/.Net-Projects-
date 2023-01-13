@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+
+Modif 11/03/04 CLE :
+ - Ajout de la valeur TOrgane a la liste des valeurs d'attributs type de l'element champ
+Modif 17/03/04 CLE :
+ - Ajout de la valeur DAPagenum a la liste des valeurs d'attributs type de l'element champ
+
+Modif 09/02/05 VDZ :
+ - ajout des éléments anneedeb, anneefin, numerodeb et numerofin
+ - ajout des valeurs suivantes de l'attribut type :
+     particuleAuteur, partie,  spartie, ssspartie, sssspartie,
+     rectif, extrait, typesource, JVille, JFormation,
+     JNomPartie1, JNomPartie2, JmoisChiffre,
+     DAMoisChiffre, DAAuteur, JLibcomplet, TLibcomplet,
+     DALibcomplet, libcomplet, typart, typartabrv
+
+Modif 15/03/05 CLE :
+ - ajout des valeurs suivantes de l'attribut type :
+     sspartie, TmoisChiffre
+ - suppression de la valeur suivante de l'attribut type :
+     sssspartie
+
+Modif 16/03/05 CLE :
+ - ajout des valeurs suivantes de l'attribut type :
+     sssspartie, numpage
+
+Modif 16/03/05 CLE :
+ - ajout des valeurs suivantes de l'attribut type :
+     motcle5, motcle6
+
+Modif 29/03/05 CLE :
+ - ajout des valeurs suivantes de l'attribut type :
+     JTitre
+
+Modif 29/03/05 CLE :
+ - ajout des valeurs suivantes de l'attribut type :
+     anoteregalement
+
+Modif 28/04/05 VDZ :
+ - ajout de l'attribut artid à <ligne>
+
+Modif 08/06/05 CLE :
+ - ajout de les attributs is et ip à <ligne> (repris des attributs de meme nom dans les articles)
+ - ajout des valeurs suivantes de l'attribut type (ne concerne que les tables pour le CDrom) :
+     anneePub, filenum, jourPub, libelleDecision, moisPub, partietitre et pubdate
+
+Modif 14/06/05 CLE :
+ - ajout des valeurs suivantes de l'attribut type : introAuteur, stitreArticle, commissairegvt
+
+Modif 30/06/05 CLE :
+ - ajout d'un element notabene
+
+Modif 18/07/05 VDZ :
+ - ajout de la valeur 'is' de l'attribut 'type' de l'élément 'champ'
+
+Modif 18/07/05 CLE :
+ - ajout de la valeur 'refsource' de l'attribut 'type' de l'élément 'champ'
+
+Modif 18/07/05 CLE :
+ - ajout de la valeur 'stheme' de l'attribut 'type' de l'élément 'champ'
+
+
+Modif 11/09/07	CLE :
+ - ajout de la valeur 'rpublimpl' de l'attribut 'type' de l'élément 'champ' (pour les sommaire des dossiers CDE)
+
+-->
+
+<!ELEMENT tabann (coderevue, codetable,
+                  (anneedeb,anneefin?)?,
+                  (numerodeb,numerofin?)?,
+		  notabene?, ligne+, notabene?) >
+
+<!-- Designation de la revue :
+<ul>
+<li>apc : Lettre d'actualités des procédures collectives</li>
+<li>apr : Actes pratiques</li>
+<li>ccc : Contrats - Concurrence - Consommation</li>
+<li>cce : Communication - Commerce Électronique</li>
+<li>cde : Cahiers de Droit de l'Entreprise</li>
+<li>cmp : Contrats et Marchés Publics</li>
+<li>cti : Collectivités Territoriales - Intercommunalité</li>
+<li>cur : Construction - Urbanisme</li>
+<li>dpn : Droit pénal</li>
+<li>dru : Revue de droit rural</li>
+<li>env	: Environnement</li>
+<li>eur : Europe</li>
+<li>fam : Droit de la Famille</li>
+<li>jdi : Clunet</li>
+<li>lco : Loyers et copropriété</li>
+<li>pro : Procédures</li>
+<li>rca : Responsabilités Civiles et Assurances</li>
+<li>rda	: Droit Administratif</li>
+<li>rdb : Revue de Droit bancaire et financier</li>
+<li>rdf : Revue de Droit Fiscal</li>
+<li>rds : Droit des sociétés</li>
+<li>rfn : Fiscale Notariale</li>
+<li>rpc : Revue des Procédures civiles et commerciales</li>
+<li>rpi : Propriété Industrielle</li>
+<li>sja : Semaine juridique - A</li>
+<li>sje : Semaine juridique - E</li>
+<li>sjg : Semaine juridique - G</li>
+<li>sjn : Semaine juridique - N</li>
+<li>tps : Travail et Protection sociale</li>
+</ul>
+-->
+<!ELEMENT coderevue (#PCDATA) >
+
+<!-- Designation de la table
+<ul>
+<li>REC1   Récapitulatif 1 (A)	</li>
+<li>REC2   Récapitulatif 2 (A)	</li>
+<li>AAUT   Table des auteurs (A)	</li>
+<li>AAUH   Table des auteurs Hebdos (A)	</li>
+<li>AETU   Table des études ou études et chroniques ou études, chroniques et entretiens (A)	</li>
+<li>AETH   Table des études, aperçus rapides, chroniques et entretiens Hebdos (A)	</li>
+<li>AFOR   Table des formules (A)	</li>
+<li>APRA   Table des fiches pratiques (A)	</li>
+<li>AALP   Table alphabétique générale MENSUELS (A)	</li>
+<li>RALP   Index alphabétique MENSUELS (R )	</li>
+<li>RALH   Index alphabétique HEBDO (R )	</li>
+<li>AALH   Table alphabétique générale HEBDO (A)	</li>
+<li>AJSP   Table chronologique de jurisprudence MENSUELS (A)	</li>
+<li>RJSP   Table chronologique de jurisprudence MENSUELS (R )	</li>
+<li>AJSH   Table chronologique de jurisprudence HEBDO (A)	</li>
+<li>RJSH   Table chronologique de jurisprudence HEBDO (R )	</li>
+<li>ATEX   Table chronologique des textes MENSUELS (A)	</li>
+<li>RTEX   Table chronologique des textes MENSUELS (R )	</li>
+<li>ATEH   Table chronologique des textes Hebdos (A)	</li>
+<li>RTEH   Table chronologique des textes Hebdos (R )	</li>
+<li>ADAD   Table de doctrine administrative MENSUELS (A)	</li>
+<li>RDAD   Table de doctrine administrative MENSUELS (R )	</li>
+<li>ADAH   Table de doctrine administrative Hebdos (A)	</li>
+<li>RDAH   Table de doctrine administrative Hebdos (R )	</li>
+<li>AAJS   Table analytique de jurisprudence (A)	</li>
+<li>AATE   Table analytique des textes (A)	</li>
+<li>ANPA   Table du nom des parties MENSUELS (A)	</li>
+<li>ANPH   Table du nom des parties HEBDOS (A)	</li>
+<li>RNPA   Table du nom des parties MENSUELS (R )	</li>
+<li>RNPH   Table du nom des parties HEBDOS (R )	</li>
+<li>RSOM   Sommaire MENSUELS (R )	</li>
+<li>RSOH   Sommaire HEBDOS (R )	</li>
+<li>ACCL   Table des conclusions des commissaires du gouvernement HEBDO	</li>
+</ul>
+-->
+
+<!ELEMENT codetable (#PCDATA) >
+
+<!ELEMENT anneedeb    (#PCDATA) >
+<!ELEMENT anneefin    (#PCDATA) >
+<!ELEMENT numerodeb   (#PCDATA) >
+<!ELEMENT numerofin   (#PCDATA) >
+
+
+<!ELEMENT ligne (champ+) >
+<!ATTLIST ligne
+	artid	CDATA			#IMPLIED
+	is		(coche|ce)	#IMPLIED
+	ip		(oui|non)	"non"
+>
+
+<!ENTITY % c.champ "(#PCDATA)" >
+
+<!ELEMENT champ %c.champ; >
+<!-- Typage des informations pour appliquer le style et pour les extractions -->
+<!ATTLIST champ
+	type (mois | codepartie | numele | theme | stheme | prenomAuteur
+            | nomAuteur | particuleAuteur | qualiteAuteur
+            | introAuteur | stitreArticle | commissairegvt
+            | titreArticle
+            | motcle1 | motcle2 | motcle3 | motcle4 | motcle5 | motcle6
+            | typedoc | partie | spartie | sspartie | ssspartie | sssspartie | anoteregalement
+            | numele2  | typart | typartabrv
+            | partieabrv | pubnum | numpage
+            | rectif | extrait | typesource | libcomplet
+
+            | JJuridiction | JVille | JFormation
+            | Jidentifiant | JNomPartie | JNomPartie1 | JNomPartie2
+            | Jjour | Jmois | Jannee | JmoisChiffre | JJurisData | JTitre
+            | JLibcomplet
+
+            | TSource | TOrgane | TType | TNumero
+            | TJour | TMois | TAnnee | TTitre | TRefpub
+            | TLibcomplet | TmoisChiffre
+
+            | DAType | DANumero | DAJour | DAMois
+            | DAAnnee | DATitre | DARefpub | DAPagenum
+            | DAMoisChiffre | DAAuteur
+            | DALibcomplet
+
+				| jourPub | moisPub | anneePub | pubdate | filenum | libelleDecision | partietitre
+            | is
+            | refsource
+            | rpublimpl
+
+         ) #REQUIRED >
+
+<!-- Ensemble de paragraphes pouvant preceder ou suivre la table
+Exemple : Par le cabinet xxx
+-->
+<!ELEMENT notabene (#PCDATA) >
+
+
+<!--ENTITY % ISOlat1   PUBLIC "ISO 8879:1986//ENTITIES Added Latin 1//EN">
+%ISOlat1;
+
+<!ENTITY % ISOlat2   PUBLIC "ISO 8879:1986//ENTITIES Added Latin 2//EN">
+%ISOlat2;
+
+<!ENTITY % ISOgrk1 PUBLIC "ISO 8879:1986//ENTITIES Greek Letters//EN">
+%ISOgrk1;
+
+<!ENTITY % ISOgrk2 PUBLIC "ISO 8879-1986//ENTITIES Monotoniko Greek//EN">
+%ISOgrk2;
+
+<!ENTITY % ISOgrk3 PUBLIC "ISO 8879:1986//ENTITIES Greek Symbols//EN">
+%ISOgrk3;
+
+<!ENTITY % ISOnum   PUBLIC  "ISO 8879:1986//ENTITIES Numeric and Special Graphic//EN">
+%ISOnum;
+
+<!ENTITY % ISOamsa   PUBLIC "ISO 8879:1986//ENTITIES Added Math Symbols: Arrow Relations//EN">
+%ISOamsa;
+
+<!ENTITY % ISOpub   PUBLIC "ISO 8879:1986//ENTITIES Publishing//EN">
+%ISOpub;
+
+<!ENTITY % ISOtech   PUBLIC "ISO 8879:1986//ENTITIES General Technical//EN">
+%ISOtech;-->
+
+<!ENTITY % ISOall   PUBLIC "-//EJC//ENTITIES Entites XML ISO//FR"
+                            "../../../ent-ejc/iso-all.xml">
+%ISOall;
+
+<!ENTITY euro "euro">
+

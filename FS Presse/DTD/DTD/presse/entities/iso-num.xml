@@ -1,0 +1,91 @@
+<!-- (C) International Organization for Standardization 1986
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+-->
+<!-- Character entity set. Typical invocation:
+     <!ENTITY % ISOnum PUBLIC
+       "ISO 8879:1986//ENTITIES Numeric and Special Graphic//EN">
+     %ISOnum;
+-->
+<!ENTITY half   "[half  ]"> <!--=fraction one-half-->
+<!ENTITY frac12 "[frac12]"> <!--=fraction one-half-->
+<!ENTITY frac14 "[frac14]"> <!--=fraction one-quarter-->
+<!ENTITY frac34 "[frac34]"> <!--=fraction three-quarters-->
+<!ENTITY frac18 "[frac18]"> <!--=fraction one-eighth-->
+<!ENTITY frac38 "[frac38]"> <!--=fraction three-eighths-->
+<!ENTITY frac58 "[frac58]"> <!--=fraction five-eighths-->
+<!ENTITY frac78 "[frac78]"> <!--=fraction seven-eighths-->
+
+<!ENTITY sup1   "[sup1  ]"> <!--=superscript one-->
+<!ENTITY sup2   "[sup2  ]"> <!--=superscript two-->
+<!ENTITY sup3   "[sup3  ]"> <!--=superscript three-->
+
+<!ENTITY plus   "[plus  ]"> <!--=plus sign B:-->
+<!ENTITY plusmn "[plusmn]"> <!--/pm B: =plus-or-minus sign-->
+<!--ENTITY lt     "[lt    ]"--> <!--=less-than sign R:-->
+<!ENTITY equals "[equals]"> <!--=equals sign R:-->
+<!--ENTITY gt     "[gt    ]"--> <!--=greater-than sign R:-->
+<!ENTITY divide "[divide]"> <!--/div B: =divide sign-->
+<!ENTITY times  "[times ]"> <!--/times B: =multiply sign-->
+
+<!ENTITY curren "[curren]"> <!--=general currency sign-->
+<!ENTITY pound  "[pound ]"> <!--=pound sign-->
+<!ENTITY dollar "[dollar]"> <!--=dollar sign-->
+<!ENTITY cent   "[cent  ]"> <!--=cent sign-->
+<!ENTITY yen    "[yen   ]"> <!--/yen =yen sign-->
+
+<!ENTITY num    "[num   ]"> <!--=number sign-->
+<!ENTITY percnt "[percnt]"> <!--=percent sign-->
+<!--ENTITY amp    "[amp   ]"--> <!--=ampersand-->
+<!ENTITY ast    "[ast   ]"> <!--/ast B: =asterisk-->
+<!ENTITY commat "[commat]"> <!--=commercial at-->
+<!ENTITY lsqb   "[lsqb  ]"> <!--/lbrack O: =left square bracket-->
+<!ENTITY bsol   "[bsol  ]"> <!--/backslash =reverse solidus-->
+<!ENTITY rsqb   "[rsqb  ]"> <!--/rbrack C: =right square bracket-->
+<!ENTITY lcub   "[lcub  ]"> <!--/lbrace O: =left curly bracket-->
+<!ENTITY horbar "[horbar]"> <!--=horizontal bar-->
+<!ENTITY verbar "[verbar]"> <!--/vert =vertical bar-->
+<!ENTITY rcub   "[rcub  ]"> <!--/rbrace C: =right curly bracket-->
+<!ENTITY micro  "[micro ]"> <!--=micro sign-->
+<!ENTITY ohm    "[ohm   ]"> <!--=ohm sign-->
+<!ENTITY deg    "[deg   ]"> <!--=degree sign-->
+<!ENTITY ordm   "[ordm  ]"> <!--=ordinal indicator, masculine-->
+<!ENTITY ordf   "[ordf  ]"> <!--=ordinal indicator, feminine-->
+<!ENTITY sect   "[sect  ]"> <!--=section sign-->
+<!ENTITY para   "[para  ]"> <!--=pilcrow (paragraph sign)-->
+<!ENTITY middot "[middot]"> <!--/centerdot B: =middle dot-->
+<!ENTITY larr   "[larr  ]"> <!--/leftarrow /gets A: =leftward arrow-->
+<!ENTITY rarr   "[rarr  ]"> <!--/rightarrow /to A: =rightward arrow-->
+<!ENTITY uarr   "[uarr  ]"> <!--/uparrow A: =upward arrow-->
+<!ENTITY darr   "[darr  ]"> <!--/downarrow A: =downward arrow-->
+<!ENTITY copy   "[copy  ]"> <!--=copyright sign-->
+<!ENTITY reg    "[reg   ]"> <!--/circledR =registered sign-->
+<!ENTITY trade  "[trade ]"> <!--=trade mark sign-->
+<!ENTITY brvbar "[brvbar]"> <!--=broken (vertical) bar-->
+<!ENTITY not    "[not   ]"> <!--/neg /lnot =not sign-->
+<!ENTITY sung   "[sung  ]"> <!--=music note (sung text sign)-->
+
+<!ENTITY excl   "[excl  ]"> <!--=exclamation mark-->
+<!ENTITY iexcl  "[iexcl ]"> <!--=inverted exclamation mark-->
+<!--ENTITY quot   "[quot  ]"--> <!--=quotation mark-->
+<!--ENTITY apos   "[apos  ]"--> <!--=apostrophe-->
+<!ENTITY lpar   "[lpar  ]"> <!--O: =left parenthesis-->
+<!ENTITY rpar   "[rpar  ]"> <!--C: =right parenthesis-->
+<!ENTITY comma  "[comma ]"> <!--P: =comma-->
+<!ENTITY lowbar "[lowbar]"> <!--=low line-->
+<!ENTITY hyphen "[hyphen]"> <!--=hyphen-->
+<!ENTITY period "[period]"> <!--=full stop, period-->
+<!ENTITY sol    "[sol   ]"> <!--=solidus-->
+<!ENTITY colon  "[colon ]"> <!--/colon P:-->
+<!ENTITY semi   "[semi  ]"> <!--=semicolon P:-->
+<!ENTITY quest  "[quest ]"> <!--=question mark-->
+<!ENTITY iquest "[iquest]"> <!--=inverted question mark-->
+<!ENTITY laquo  "[laquo ]"> <!--=angle quotation mark, left-->
+<!ENTITY raquo  "[raquo ]"> <!--=angle quotation mark, right-->
+<!ENTITY lsquo  "[lsquo ]"> <!--=single quotation mark, left-->
+<!ENTITY rsquo  "[rsquo ]"> <!--=single quotation mark, right-->
+<!ENTITY ldquo  "[ldquo ]"> <!--=double quotation mark, left-->
+<!ENTITY rdquo  "[rdquo ]"> <!--=double quotation mark, right-->
+<!ENTITY nbsp   "[nbsp  ]"> <!--=no break (required) space-->
+<!ENTITY shy    "[shy   ]"> <!--=soft hyphen-->

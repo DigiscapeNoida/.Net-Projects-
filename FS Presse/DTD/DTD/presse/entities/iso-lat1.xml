@@ -1,0 +1,72 @@
+<!-- (C) International Organization for Standardization 1986
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+-->
+<!-- Character entity set. Typical invocation:
+     <!ENTITY % ISOlat1 PUBLIC
+       "ISO 8879:1986//ENTITIES Added Latin 1//EN">
+     %ISOlat1;
+-->
+<!ENTITY aacute "[aacute]"> <!--=small a, acute accent-->
+<!ENTITY Aacute "[Aacute]"> <!--=capital A, acute accent-->
+<!ENTITY acirc  "[acirc ]"> <!--=small a, circumflex accent-->
+<!ENTITY Acirc  "[Acirc ]"> <!--=capital A, circumflex accent-->
+<!ENTITY agrave "[agrave]"> <!--=small a, grave accent-->
+<!ENTITY Agrave "[Agrave]"> <!--=capital A, grave accent-->
+<!ENTITY aring  "[aring ]"> <!--=small a, ring-->
+<!ENTITY Aring  "[Aring ]"> <!--=capital A, ring-->
+<!ENTITY atilde "[atilde]"> <!--=small a, tilde-->
+<!ENTITY Atilde "[Atilde]"> <!--=capital A, tilde-->
+<!ENTITY auml   "[auml  ]"> <!--=small a, dieresis or umlaut mark-->
+<!ENTITY Auml   "[Auml  ]"> <!--=capital A, dieresis or umlaut mark-->
+<!ENTITY aelig  "[aelig ]"> <!--=small ae diphthong (ligature)-->
+<!ENTITY AElig  "[AElig ]"> <!--=capital AE diphthong (ligature)-->
+<!ENTITY ccedil "[ccedil]"> <!--=small c, cedilla-->
+<!ENTITY Ccedil "[Ccedil]"> <!--=capital C, cedilla-->
+<!ENTITY eth    "[eth   ]"> <!--=small eth, Icelandic-->
+<!ENTITY ETH    "[ETH   ]"> <!--=capital Eth, Icelandic-->
+<!ENTITY eacute "[eacute]"> <!--=small e, acute accent-->
+<!ENTITY Eacute "[Eacute]"> <!--=capital E, acute accent-->
+<!ENTITY ecirc  "[ecirc ]"> <!--=small e, circumflex accent-->
+<!ENTITY Ecirc  "[Ecirc ]"> <!--=capital E, circumflex accent-->
+<!ENTITY egrave "[egrave]"> <!--=small e, grave accent-->
+<!ENTITY Egrave "[Egrave]"> <!--=capital E, grave accent-->
+<!ENTITY euml   "[euml  ]"> <!--=small e, dieresis or umlaut mark-->
+<!ENTITY Euml   "[Euml  ]"> <!--=capital E, dieresis or umlaut mark-->
+<!ENTITY iacute "[iacute]"> <!--=small i, acute accent-->
+<!ENTITY Iacute "[Iacute]"> <!--=capital I, acute accent-->
+<!ENTITY icirc  "[icirc ]"> <!--=small i, circumflex accent-->
+<!ENTITY Icirc  "[Icirc ]"> <!--=capital I, circumflex accent-->
+<!ENTITY igrave "[igrave]"> <!--=small i, grave accent-->
+<!ENTITY Igrave "[Igrave]"> <!--=capital I, grave accent-->
+<!ENTITY iuml   "[iuml  ]"> <!--=small i, dieresis or umlaut mark-->
+<!ENTITY Iuml   "[Iuml  ]"> <!--=capital I, dieresis or umlaut mark-->
+<!ENTITY ntilde "[ntilde]"> <!--=small n, tilde-->
+<!ENTITY Ntilde "[Ntilde]"> <!--=capital N, tilde-->
+<!ENTITY oacute "[oacute]"> <!--=small o, acute accent-->
+<!ENTITY Oacute "[Oacute]"> <!--=capital O, acute accent-->
+<!ENTITY ocirc  "[ocirc ]"> <!--=small o, circumflex accent-->
+<!ENTITY Ocirc  "[Ocirc ]"> <!--=capital O, circumflex accent-->
+<!ENTITY ograve "[ograve]"> <!--=small o, grave accent-->
+<!ENTITY Ograve "[Ograve]"> <!--=capital O, grave accent-->
+<!ENTITY oslash "[oslash]"> <!--=small o, slash-->
+<!ENTITY Oslash "[Oslash]"> <!--=capital O, slash-->
+<!ENTITY otilde "[otilde]"> <!--=small o, tilde-->
+<!ENTITY Otilde "[Otilde]"> <!--=capital O, tilde-->
+<!ENTITY ouml   "[ouml  ]"> <!--=small o, dieresis or umlaut mark-->
+<!ENTITY Ouml   "[Ouml  ]"> <!--=capital O, dieresis or umlaut mark-->
+<!ENTITY szlig  "[szlig ]"> <!--=small sharp s, German (sz ligature)-->
+<!ENTITY thorn  "[thorn ]"> <!--=small thorn, Icelandic-->
+<!ENTITY THORN  "[THORN ]"> <!--=capital THORN, Icelandic-->
+<!ENTITY uacute "[uacute]"> <!--=small u, acute accent-->
+<!ENTITY Uacute "[Uacute]"> <!--=capital U, acute accent-->
+<!ENTITY ucirc  "[ucirc ]"> <!--=small u, circumflex accent-->
+<!ENTITY Ucirc  "[Ucirc ]"> <!--=capital U, circumflex accent-->
+<!ENTITY ugrave "[ugrave]"> <!--=small u, grave accent-->
+<!ENTITY Ugrave "[Ugrave]"> <!--=capital U, grave accent-->
+<!ENTITY uuml   "[uuml  ]"> <!--=small u, dieresis or umlaut mark-->
+<!ENTITY Uuml   "[Uuml  ]"> <!--=capital U, dieresis or umlaut mark-->
+<!ENTITY yacute "[yacute]"> <!--=small y, acute accent-->
+<!ENTITY Yacute "[Yacute]"> <!--=capital Y, acute accent-->
+<!ENTITY yuml   "[yuml  ]"> <!--=small y, dieresis or umlaut mark-->

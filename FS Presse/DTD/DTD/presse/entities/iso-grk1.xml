@@ -1,0 +1,59 @@
+<!-- (C) International Organization for Standardization 1986
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+-->
+<!-- Character entity set. Typical invocation:
+     <!ENTITY % ISOgrk1 PUBLIC
+       "ISO 8879:1986//ENTITIES Greek Letters//EN">
+     %ISOgrk1;
+-->
+<!ENTITY agr    "[agr   ]"> <!--=small alpha, Greek-->
+<!ENTITY Agr    "[Agr   ]"> <!--=capital Alpha, Greek-->
+<!ENTITY bgr    "[bgr   ]"> <!--=small beta, Greek-->
+<!ENTITY Bgr    "[Bgr   ]"> <!--=capital Beta, Greek-->
+<!ENTITY ggr    "[ggr   ]"> <!--=small gamma, Greek-->
+<!ENTITY Ggr    "[Ggr   ]"> <!--=capital Gamma, Greek-->
+<!ENTITY dgr    "[dgr   ]"> <!--=small delta, Greek-->
+<!ENTITY Dgr    "[Dgr   ]"> <!--=capital Delta, Greek-->
+<!ENTITY egr    "[egr   ]"> <!--=small epsilon, Greek-->
+<!ENTITY Egr    "[Egr   ]"> <!--=capital Epsilon, Greek-->
+<!ENTITY zgr    "[zgr   ]"> <!--=small zeta, Greek-->
+<!ENTITY Zgr    "[Zgr   ]"> <!--=capital Zeta, Greek-->
+<!ENTITY eegr   "[eegr  ]"> <!--=small eta, Greek-->
+<!ENTITY EEgr   "[EEgr  ]"> <!--=capital Eta, Greek-->
+<!ENTITY thgr   "[thgr  ]"> <!--=small theta, Greek-->
+<!ENTITY THgr   "[THgr  ]"> <!--=capital Theta, Greek-->
+<!ENTITY igr    "[igr   ]"> <!--=small iota, Greek-->
+<!ENTITY Igr    "[Igr   ]"> <!--=capital Iota, Greek-->
+<!ENTITY kgr    "[kgr   ]"> <!--=small kappa, Greek-->
+<!ENTITY Kgr    "[Kgr   ]"> <!--=capital Kappa, Greek-->
+<!ENTITY lgr    "[lgr   ]"> <!--=small lambda, Greek-->
+<!ENTITY Lgr    "[Lgr   ]"> <!--=capital Lambda, Greek-->
+<!ENTITY mgr    "[mgr   ]"> <!--=small mu, Greek-->
+<!ENTITY Mgr    "[Mgr   ]"> <!--=capital Mu, Greek-->
+<!ENTITY ngr    "[ngr   ]"> <!--=small nu, Greek-->
+<!ENTITY Ngr    "[Ngr   ]"> <!--=capital Nu, Greek-->
+<!ENTITY xgr    "[xgr   ]"> <!--=small xi, Greek-->
+<!ENTITY Xgr    "[Xgr   ]"> <!--=capital Xi, Greek-->
+<!ENTITY ogr    "[ogr   ]"> <!--=small omicron, Greek-->
+<!ENTITY Ogr    "[Ogr   ]"> <!--=capital Omicron, Greek-->
+<!ENTITY pgr    "[pgr   ]"> <!--=small pi, Greek-->
+<!ENTITY Pgr    "[Pgr   ]"> <!--=capital Pi, Greek-->
+<!ENTITY rgr    "[rgr   ]"> <!--=small rho, Greek-->
+<!ENTITY Rgr    "[Rgr   ]"> <!--=capital Rho, Greek-->
+<!ENTITY sgr    "[sgr   ]"> <!--=small sigma, Greek-->
+<!ENTITY Sgr    "[Sgr   ]"> <!--=capital Sigma, Greek-->
+<!ENTITY sfgr   "[sfgr  ]"> <!--=final small sigma, Greek-->
+<!ENTITY tgr    "[tgr   ]"> <!--=small tau, Greek-->
+<!ENTITY Tgr    "[Tgr   ]"> <!--=capital Tau, Greek-->
+<!ENTITY ugr    "[ugr   ]"> <!--=small upsilon, Greek-->
+<!ENTITY Ugr    "[Ugr   ]"> <!--=capital Upsilon, Greek-->
+<!ENTITY phgr   "[phgr  ]"> <!--=small phi, Greek-->
+<!ENTITY PHgr   "[PHgr  ]"> <!--=capital Phi, Greek-->
+<!ENTITY khgr   "[khgr  ]"> <!--=small chi, Greek-->
+<!ENTITY KHgr   "[KHgr  ]"> <!--=capital Chi, Greek-->
+<!ENTITY psgr   "[psgr  ]"> <!--=small psi, Greek-->
+<!ENTITY PSgr   "[PSgr  ]"> <!--=capital Psi, Greek-->
+<!ENTITY ohgr   "[ohgr  ]"> <!--=small omega, Greek-->
+<!ENTITY OHgr   "[OHgr  ]"> <!--=capital Omega, Greek-->

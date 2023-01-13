@@ -1,0 +1,52 @@
+<!-- (C) International Organization for Standardization 1986
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+-->
+<!-- Character entity set. Typical invocation:
+     <!ENTITY % ISOamsb PUBLIC
+       "ISO 8879:1986//ENTITIES Added Math Symbols: Binary Operators//EN">
+     %ISOamsb;
+-->
+<!ENTITY amalg  "[amalg ]"> <!--=amalg B: amalgamation or coproduct-->
+<!ENTITY Barwed "[Barwed]"> <!--=doublebarwedge B: log and, dbl bar-->
+<!ENTITY barwed "[barwed]"> <!--=barwedge B: logical and, bar above-->
+<!ENTITY Cap    "[Cap   ]"> <!--=Cap /doublecap B: dbl intersection-->
+<!ENTITY Cup    "[Cup   ]"> <!--=Cup /doublecup B: dbl union-->
+<!ENTITY cuvee  "[cuvee ]"> <!--=curlyvee B: curly logical or-->
+<!ENTITY cuwed  "[cuwed ]"> <!--=curlywedge B: curly logical and-->
+<!ENTITY diam   "[diam  ]"> <!--=diamond B: open diamond-->
+<!ENTITY divonx "[divonx]"> <!--=divideontimes B: division on times-->
+<!ENTITY intcal "[intcal]"> <!--=intercal B: intercal-->
+<!ENTITY lthree "[lthree]"> <!--=leftthreetimes B:-->
+<!ENTITY ltimes "[ltimes]"> <!--=ltimes B: times sign, left closed-->
+<!ENTITY minusb "[minusb]"> <!--=boxminus B: minus sign in box-->
+<!ENTITY oast   "[oast  ]"> <!--=circledast B: asterisk in circle-->
+<!ENTITY ocir   "[ocir  ]"> <!--=circledcirc B: open dot in circle-->
+<!ENTITY odash  "[odash ]"> <!--=circleddash B: hyphen in circle-->
+<!ENTITY odot   "[odot  ]"> <!--=odot B: middle dot in circle-->
+<!ENTITY ominus "[ominus]"> <!--=ominus B: minus sign in circle-->
+<!ENTITY oplus  "[oplus ]"> <!--=oplus B: plus sign in circle-->
+<!ENTITY osol   "[osol  ]"> <!--=oslash B: solidus in circle-->
+<!ENTITY otimes "[otimes]"> <!--=otimes B: multiply sign in circle-->
+<!ENTITY plusb  "[plusb ]"> <!--=boxplus B: plus sign in box-->
+<!ENTITY plusdo "[plusdo]"> <!--=dotplus B: plus sign, dot above-->
+<!ENTITY rthree "[rthree]"> <!--=rightthreetimes B:-->
+<!ENTITY rtimes "[rtimes]"> <!--=rtimes B: times sign, right closed-->
+<!ENTITY sdot   "[sdot  ]"> <!--=cdot B: small middle dot-->
+<!ENTITY sdotb  "[sdotb ]"> <!--=dotsquare /boxdot B: small dot in box-->
+<!ENTITY setmn  "[setmn ]"> <!--=setminus B: reverse solidus-->
+<!ENTITY sqcap  "[sqcap ]"> <!--=sqcap B: square intersection-->
+<!ENTITY sqcup  "[sqcup ]"> <!--=sqcup B: square union-->
+<!ENTITY ssetmn "[ssetmn]"> <!--=smallsetminus B: sm reverse solidus-->
+<!ENTITY sstarf "[sstarf]"> <!--=star B: small star, filled-->
+<!ENTITY timesb "[timesb]"> <!--=boxtimes B: multiply sign in box-->
+<!ENTITY top    "[top   ]"> <!--=top B: inverted perpendicular-->
+<!ENTITY uplus  "[uplus ]"> <!--=uplus B: plus sign in union-->
+<!ENTITY wreath "[wreath]"> <!--=wr B: wreath product-->
+<!ENTITY xcirc  "[xcirc ]"> <!--=bigcirc B: large circle-->
+<!ENTITY xdtri  "[xdtri ]"> <!--=bigtriangledown B: big dn tri, open-->
+<!ENTITY xutri  "[xutri ]"> <!--=bigtriangleup B: big up tri, open-->
+<!ENTITY coprod "[coprod]"> <!--=coprod L: coproduct operator-->
+<!ENTITY prod   "[prod  ]"> <!--=prod L: product operator-->
+<!ENTITY sum    "[sum   ]"> <!--=sum L: summation operator-->

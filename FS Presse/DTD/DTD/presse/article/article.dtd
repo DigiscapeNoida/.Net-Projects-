@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--
+  @title Articles de presse
+  -->
+
+<!-- Versions
+<PRE>
+				1.00	Creation
+16/02/2005	2.00	Integration des hebdomadaires
+23/02/2005	2.01	Corrections de points bloquants
+17/03/2005	2.02	Corrections et ajouts suites aux remarques lors de la creation du numero zero
+25/03/2005	2.03	Modifications suite au mail de SDU du 22/03/2005
+29/03/2005	2.04	Modifications suite au mail de SDU du 29/03/2005
+20/05/2005	2.05
+20/07/2006	2.06	Ajout de la revue DO
+20/02/2006	2.07	Suppression des listes hors paragraphe dans la partie commdo
+13/07/2007	3.00	Modifications pour les revues CDE, CDI
+11/02/2008	3.01	Ajout de rjd dans refbib
+20/05/2009	3.02	Ajout de valeurs d'attributs type
+								bio, adage, image a alerte
+								evenement a apercu
+								enquete a etude
+								agenda a echeado
+05/01/2010	3.03	Ajout de valeurs d'attributs type act dans alerte et anoter dans falerte
+20/02/2010	3.04	Ajout de valeur d'attribut type = chronique dans commdo
+23/06/2010	3.05	Ajout de valeur d'attribut type = veille, etude et instrfisc dans commdo
+06/04/2011	3.06	Ajout de l'element combid dans metaart
+12/01/2012	3.07	Ajout de la valeur d'attribut type enquestions dans etude
+			Ajout de la valeur d'attribut type thesedumois dans alerte
+24/04/2012	3.08	Ajout de la valeur d'attribut type repere et pratique dans commdo
+18/06/2012	3.09	Ajout des types d'articles motsemaine et autre à <alerte> (Mantis 9271)
+			Ajout des <motscles> optionnel en fin de <commdo> (Mantis 8991)
+16/11/2012	3.10	Ajout des types d'articles evenements et partenariats a falerte (Mantis 10254)
+31/01/2013	3.11	Ajout de l'element fichierlie (Jira DTD-2)
+28/01/2014	3.12	Ajout de l'element matiere (JIRA LEX-1855)
+</PRE>
+-->
+
+<!-- Racine d'un article de presse -->
+<!ELEMENT article (metaart, (alerte | falerte | comment | etude | chronique | fiprat | formrfn | indices | repere | panojuri | apercu | texte | essentiel | commdo | echeado | artdossier), fnotes?) >
+
+<!--
+	@attr numerotation conditionne la numerotation des divisions
+-->
+<!ATTLIST article
+	numerotation (automatique | manuelle) "automatique" >
+
+<!ENTITY % commun PUBLIC "-//EJC//ELEMENTS XML communs aux DTDs presse//FR" "../dtd/commun.dtd">
+%commun;
+
+<!-- partie alerte (anciennement actu) -->
+
+<!-- Historique
+
+	08/04/2004	CLE	Modele de contenu de alerte devient unique et plus repetable.
+	28/04/2004	CLE	Auteur devient repetable
+
+	Citron 2
+	18/11/2004	CLE	Ajout de l'element org
+	14/02/2005	CLE	Modification du corps de l'alerte (possibilite d'avoir des alineas puis des div)
+							Ajout des pointcles
+	16/02/2005	CLE	Ajout de la valeur zoom et resumedossier a l'attribut type de alerte
+							Suppression de dossier (va dans le chemin de fer)
+	29/03/2005	CLE	Ajout de cita-bl dans le corps des alerte
+	12/04/2005	CLE	Ajout de l'attribut emev
+	15/04/2005	CLE	Correction tab au lieu de table dans les modeles de contenu des divisions
+							Modification des valeurs d'attribut emev : de oui|non on passe a trame|couleur
+	18/04/2005	CLE	L'attribut emev d'alerte devient optionel
+
+	26/04/2005	VDZ	Autorisation des renvois dans <pointcle>
+	01/06/2005	CLE	Ajout de la valeur d'attribut type : alertecde
+	30/06/2005	CLE	Ajout surtitre
+	30/11/2005	CLE	Ajout de la valeur d'attribut type : recherchethematique
+	04/01/2006	CLE	Ajout de la valeur d'attribut type : aufiltheme
+	05/01/2007	CLE	Ajout de l'exergue dans les divisions 1 et 2 d'alerte
+-->
+
+<!-- Element d'actualite -->
+<!ELEMENT alerte (theme?, num, surtit?, tit, tinoye?, pointcles?, (auteur|org)*, typedoc?, refsource*, ( ((al | tab | imag | exergue)+, div1alerte*) | div1alerte+ ), motscles, reftxt?, refsjc?, refslnf?, auteur*)>
+
+<!--
+	@attr is Interet scientifique - ecrit par une sommite, dans les meilleurs articles de la revue. Correspond a une mise en page particuliere sur le produit papier.
+	@attr ip Interet pratique - article a but pratique.  Correspond a une mise en page particuliere sur le produit papier.
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+	@attr emev Element mis en valeur.  Correspond a une mise en page particuliere sur le produit papier : trame ou cadre ou rien par defaut
+-->
+<!ATTLIST alerte
+	is (oui|non) "non"
+	ip (oui|non) "non"
+	type (enbref | focus | veille | zoom | resumedossier | alertecde | recherchethematique | aufiltheme | bio | adage | image | act | thesedumois | motsemaine | autre) #REQUIRED
+	emev (trame|couleur) #IMPLIED>
+
+<!-- Ensemble des points cle du documents -->
+<!ELEMENT pointcles (pointcle+) >
+
+<!-- Point cle du documents -->
+<!ELEMENT pointcle (#PCDATA|%txtrenv;)* >
+
+<!-- Division 1 d'alerte -->
+<!ELEMENT div1alerte (tit?, ( ((al | tab | imag | cita-bl | exergue)+, div2alerte*) | div2alerte+ ))>
+
+<!-- Division 2 d'alerte -->
+<!ELEMENT div2alerte (tit?, (al | tab | imag | cita-bl | exergue)+)>
+
+<!-- Article "mineur" de la partie alerte
+	Correspond aux rubriques : Agenda, Bibliographie, Veille de texte, Semaine du droit et Au fil des Revues...
+-->
+
+<!-- Historique
+
+	Citron 2
+	14/01/2005	CLE	Ajout de l'element resume pour semaine du droit
+							Ajout du type semainedroit, aufilselection, aufiltheme
+	30/06/2005	CLE	Ajout surtitre et sousstitre
+							Ajout de la valeur d'attribut type rectificatif
+	22/08/2005	CLE	Ajout de la valeur d'attribut type enbref
+	28/10/2005	CLE	Ajout de l'intertit
+	22/11/2006	CLE	Ajout de la valeur d'attribut type annonce
+
+-->
+
+<!-- Element "fausse" alerte -->
+<!ELEMENT falerte (surtit?, tit?, sstit1?, resume?, (tinoye | intertit | al | tab | imag)+)+>
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST falerte
+	type (bibliographie | agenda | veilletextes | semainedroit | aufilselection | aufiltheme | rectificatif | enbref | annonce | anoter |  evenements | partenariats) #REQUIRED >
+
+<!-- partie commentaires -->
+
+<!-- Historique
+
+	08/04/2004	CLE	Ajout d'un niveau de division <comment><sourcex>
+	30/04/2004	CLE	Repetabilite de refsource
+							Structure des division de comentaire modifiee : titre unique en premier, contenu optionnel repetable
+	05/05/2004	CLE	Modification de la definition de l'attribut is de commentaire (anciennement oui|non)
+	08/06/2004	CLE	Repetabilite de l'auteur en fin de commentaire
+	21/10/2004	CLE	Ajout de tables et images dans les extraits de la source
+
+	Citron 2
+	27/10/2004	CLE	Ajout d'un sous theme
+							Ajout d'une phrase d'accroche optionnelle
+	18/11/2004	CLE	Ajout de l'element org
+	19/01/2005	CLE	Suppression de la phrase d'accroche
+	27/01/2005	CLE	Ajout du type notesousarret pour les articles contenant un rapport d'un commissaire du gouvernement
+							Ajout des attributs rectif et extrait dans refsource
+	04/02/2005	CLE	Ajout d'un concom optionnel derriere l'auteur
+							Autorisation d'avoir des alineas avant une div1com dans concom
+	14/02/2005	CLE	Ajout d'auteur optionnel dans concom
+	23/02/2005	CLE	Modification de l'indicateur d'occurrence de (sourcex*, notescom?)+
+	23/03/2005	CLE	Ajout des annexes apres le bloc pratique (decision d'inversion des elements)
+							L'auteur du concom vient en fin de celui ci + modification des occurrences pour regler les cas ambigus
+							Ajout de l'element attribut d'importance apres le refsource
+	30/03/2005	CLE	Correction de l'element attribut d'importance qui devient optionel
+	12/04/2005	CLE	Ajout des extraits avant concom (plus gestion des occurrences pour eviter les ambiguites)
+	13/04/2005	CLE	Le bloc extrait/concom devient optionnel
+	30/06/2005	CLE	Ajout surtitre
+							Ajout de l'exergue dans notescom et concom
+	31/01/2006	CLE	Ajout des valeurs avis, rapport, conclusions et instruction a l'attribut type de notecom
+	13/03/2006	CLE	Ajout de la valeur circulaire a l'attribut type de notecom
+
+-->
+
+<!-- Modele de contenu des corps de division des notes de commentaires -->
+<!ENTITY % txtnotecom "al | cita-bl | tab | nb-bl | imag | exergue">
+
+<!-- Element de commentaire -->
+<!ELEMENT comment ((theme, sstheme?)?, num, titdossier?, surtit?, tit, sstit1?, typedoc?, resume?, (sourcex*, notescom?)*,
+	(auteur|org)*, concom?, annexes?, motscles, reftxt?, refsjc?, refslnf?, refsdossier?, annexes?)>
+
+<!--
+	@attr is Interet scientifique - ecrit par une sommite, dans les meilleurs articles de la revue. Correspond a une mise en page particuliere sur le produit papier.
+	@attr ip Interet pratique - article a but pratique.  Correspond a une mise en page particuliere sur le produit papier.
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST comment
+	is (coche|ce) #IMPLIED
+	ip (oui|non) "non"
+	type (commentaires | anoteregalement | notesousarret) #REQUIRED>
+
+<!-- Englobant la ref a la source et l'extrait -->
+<!ELEMENT sourcex (tit?, (refsource, importance?)+, ( ((extrait | rextrait), concom*) | (concom+, (extrait | rextrait)?) )?)>
+
+<!-- Atribut d'importance suivant le refsource -->
+<!ELEMENT importance (al+) >
+
+<!-- Commentaire du commissaire du gouvernement -->
+<!ELEMENT concom (tit, auteur*, (((%txtnotecom;)+, div1com*) | div1com+), auteur*)>
+
+<!-- Extrait de la source -->
+<!ELEMENT extrait (tit?, (al | tab | imag)+)>
+
+<!-- Renvois vers l'extrait de la source -->
+<!ELEMENT rextrait (#PCDATA | rpubl)*>
+
+<!-- Note d'un commentaire -->
+<!ELEMENT notescom ((%txtnotecom;) | div1com+)*>
+
+<!--
+	@attr type Distinction Notes, Observation, Avis, Rapport, Conclusions, Instruction ou Circulaire en texte genere. Note par defaut
+-->
+<!ATTLIST notescom
+	type (note | observation | avis | rapport | conclusions | instruction | circulaire) #IMPLIED >
+
+<!-- Division de niveau 1 d'une note de commentaire -->
+<!ELEMENT  div1com   ((tit, (%txtnotecom;)*, div2com*) | div2com+)>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div1com      id ID #IMPLIED>
+
+<!-- Division de niveau 2 d'une note de commentaire -->
+<!ELEMENT  div2com   ((tit, (%txtnotecom;)*, div3com*) | div3com+)>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div2com      id ID #IMPLIED>
+
+<!-- Division de niveau 3 d'une note de commentaire -->
+<!ELEMENT  div3com   ((tit, (%txtnotecom;)*, div4com*) | div4com+)>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div3com      id ID #IMPLIED>
+
+<!-- Division de niveau 4 d'une note de commentaire -->
+<!ELEMENT  div4com   ((tit, (%txtnotecom;)*, div5com*) | div5com+)>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div4com      id ID #IMPLIED>
+
+<!-- Division de niveau 5 d'une note de commentaire -->
+<!ELEMENT  div5com   (tit, (%txtnotecom;)+)>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div5com      id ID #IMPLIED>
+
+<!-- Dossier regroupant plusieurs articles -->
+
+<!-- Historique
+	Citron 2
+	18/11/2004	CLE	Ajout de l'element org
+	13/07/2007	CLE	Reactivation du dossier, suppression de l'element sommaire, ajout d'un element introdossier
+	05/09/2007	CLE	Ajout du sommdossier et sous elements
+							Ajout de l'attribut visible a refsdossier
+							Ajout de l'auteur en fin d'introdossier (sous forme d'initiales, comme dans les chroniques)
+	11/09/2007	CLE	Renommage de dossier en artdossier
+							Inclusion de tabann pour le sommaire de dossier
+	12/10/2007	CLE	Ajout des images entre les refart
+	30/10/2007	CLE	Suppression des refart et images
+-->
+
+<!-- Element dossier -->
+<!ELEMENT artdossier (theme?, num, tit, (sstit1, sstit2?)?, typedoc?, (auteur|org)*, (introdossier, auteur*)?, sommdossier, motscles, reftxt?, refsjc?, refslnf?, fnotes?) >
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST artdossier
+	type (dossier) #REQUIRED>
+
+<!-- Introduction du dossier, contient un sommaire "editorial" -->
+<!ELEMENT introdossier ( tit?, p+ ) >
+
+<!-- Sommaire du dossier -->
+<!ELEMENT sommdossier ( ligne+ ) >
+
+<!-- Elements du sommaire du dossier (similaire a tabann) -->
+<!ENTITY % c.champ "(#PCDATA | rpubl)*" >
+
+<!ENTITY % tabann PUBLIC "-//SGIT//ELEMENTS XML tables annuelles de la presse//FR" "../tabann/tabann.dtd">
+%tabann;
+
+<!-- Reference a un articles : pour le dossier et le chemin de fer -->
+<!ELEMENT refart EMPTY>
+<!-- @attr fic   chemin du fichier
+     @attr id    identifiant, égal au nom du fichier sans l'extension
+     -->
+<!ATTLIST refart
+	fic CDATA #REQUIRED
+	id CDATA #REQUIRED>
+
+<!-- Titre du dossier, repris dans les articles contenus dans le dossier -->
+<!ELEMENT titdossier (al) >
+
+<!-- Reference vers les articles du meme dossier -->
+<!ELEMENT refsdossier (#PCDATA | %txtrenv;)* >
+
+<!--
+	@attr visible Indicateur pour savoir si il faut ou non afficher l'information.
+-->
+<!ATTLIST refsdossier
+	visible  (oui|non) "non" >
+
+
+<!-- Sommaire du dossier, reprend les titres, nom d'auteur et page des dossiers -->
+<!ELEMENT sommaire EMPTY>
+
+
+<!-- partie etude - chronique - doctrine
+element etude et chronique
+titre de partie doctrine
+-->
+
+<!-- Historique
+
+	16/11/2004	CLE	Repetabilite du resume (revue Clunet)
+
+	Citron 2
+	20/10/2004	CLE	Ajout de l'element surtit
+	18/11/2004	CLE	Ajout de l'element org
+	19/01/2005	CLE	Remplacement de l'element source par refsource
+							Remplacement de l'element form par formule
+							Ajout de l'element rextrait
+	16/02/2005	CLE	Suppression des valeurs formule, formules, pratbarreaux, pratinstruction, pratparquets et pratpolices a l'attribut type de etude
+							Ajout de la valeur etude a l'attribut type de etude
+	23/03/2005	CLE	Ajout des annexes apres le bloc pratique (decision d'inversion des elements)
+	12/05/2005	CLE	Ajout de la valeur rapport a l'attribut type de etude
+	01/06/2005	CLE	Ajout des valeurs d'attribut type : tableronde, ficheeco, fichetechnique
+	30/06/2005	CLE	Ajout surtitre
+	21/07/2005	CLE	Repetabilite des formules dans les divisions de l'etude
+	26/07/2005	VDZ	Ajout de filet dans div1etu et div2etu
+	05/01/2006	CLE	Repetabilite de refsource
+	13/07/2007	CLE	Ajout de l'element optionel titdossier
+							Ajout de l'element refsdossier
+							Ajout d'un sous titre sous la division 1 (pour mettre une mention d'auteur dans le cas des rubriques "Riposte"
+-->
+
+<!-- Element d'etude -->
+<!ELEMENT etude  (theme?, num, titdossier?, surtit?, tit, sstit1?, typedoc?, ((auteur|org), imag?)*, resume+, sommaire?, (source | refsource)*,
+               corpsetu, annexes?, motscles, reftxt?, refsjc?, refslnf?, refsdossier?, annexes?)>
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST etude
+	type (etudes | etude | entretien | rapport | tableronde | ficheeco | fichetechnique | enquete | enquestions) #REQUIRED>
+
+<!-- Corps d'une etude -->
+<!ELEMENT corpsetu (((pn | (loc?, p)) | exergue | tab | imag | cita-bl | nb-bl | filet)+ | (divintro?, (div1etu | formule)+, divconcl?))>
+
+<!-- Introduction d'une etude -->
+<!ELEMENT divintro (tit?, ((pn | (loc?, p)) | exergue | tab | imag | cita-bl | nb-bl | filet)+)>
+
+<!-- Division de niveau 1 d'une etude -->
+<!ELEMENT div1etu (tit?, sstit1?, (((formule+ | ((pn | (loc?, p) | exergue | tab | imag | cita-bl | nb-bl | filet)+)), div2etu*) | div2etu+))>
+<!-- @attr num Debut de numerotation en cas d'article publie en 2 fois -->
+<!ATTLIST div1etu
+	num CDATA #IMPLIED>
+
+<!-- Division de niveau 2 d'une etude -->
+<!ELEMENT div2etu (tit?, (((formule+ | ((pn | (loc?, p) | exergue | tab | imag | cita-bl | nb-bl | filet)+)), div3etu*) | div3etu+))>
+
+<!-- Division de niveau 3 d'une etude -->
+<!ELEMENT div3etu (tit?, ((((pn | (loc?, p)) | exergue | tab | imag | cita-bl | nb-bl | filet)+, div4etu*) | div4etu+))>
+
+<!-- Division de niveau 4 d'une etude -->
+<!ELEMENT div4etu (tit?, ((((pn | (loc?, p)) | exergue | tab | imag | cita-bl | nb-bl | filet)+, div5etu*) | div5etu+))>
+
+<!-- Division de niveau 5 d'une etude -->
+<!ELEMENT div5etu (tit?, ((pn | (loc?, p)) | exergue | tab | imag | cita-bl | nb-bl | filet)+)>
+
+<!-- Conclusion d'une etude -->
+<!ELEMENT divconcl (tit?, ((pn | (loc?, p)) | exergue | tab | imag | cita-bl | nb-bl | filet)+)>
+
+<!-- Filet horizontal de separation de deux paragraphes -->
+<!ELEMENT filet EMPTY >
+
+<!-- Locuteur (pour les interview en etude) -->
+<!ELEMENT loc (#PCDATA)>
+
+<!-- Reference de la source (garde a des fins de compatibilite) -->
+<!ELEMENT source (#PCDATA)>
+
+
+<!-- Historique
+
+	15/07/2004	CLE	Ajout d'un plan optionnel avant le corps de la chronique
+
+	Citron 2
+	15/11/2004	CLE	Ajout de la partie Actualite bibliographique
+	18/11/2004	CLE	Ajout de l'element org
+	19/01/2005	CLE	Motscles du pnchr devient optionnel
+							Ajout de motscles optionnel en fin d'article
+							Deplacement de divbib en fin d'article
+							Suppression de l'element pnchrbiblio
+							Possibilite d'avoir plusieurs annexes
+	14/02/2005	CLE	refsource devient optionnel
+							Titre du pnchr devient optionnel
+	23/03/2005	CLE	Ajout des annexes apres le bloc pratique (decision d'inversion des elements) + Modification des occurrences pour regler les cas ambigus
+	01/06/2005	CLE	Ajout des nb-bl dans l'element observ
+	30/06/2005	CLE	Ajout surtitre
+							Ajout de la valeur d'attribut type bibliofiscale
+	28/09/2005	CLE	Auteur dans les paragraphes numerotes de chronique devient repetable
+-->
+
+<!-- partie etude - chronique - doctrine
+element etude et chronique
+titre de partie doctrine
+ -->
+
+<!-- Element de chronique -->
+<!ELEMENT chronique (theme?, num, titdossier?, surtit?, tit, sstit1?, typedoc?, (auteur|org)*, resume?, plan?, corpschr, refsdossier?)>
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST chronique
+	type (chronique | bibliofiscale) #REQUIRED>
+
+<!-- Corps d'une chronique -->
+<!ELEMENT corpschr (intro?, div1chr+, concl?, motscles?, annexes?, (divbib, annexes?)?)>
+
+<!-- Division de niveau 1 d'une chronique -->
+<!ELEMENT div1chr (tit?, plan?, intro?, (((neant | pnchr+), div2chr*) | div2chr+ | div3chr+))>
+<!-- @attr num Debut de numerotation en cas d'article publie en 2 fois -->
+<!ATTLIST div1chr
+	num CDATA #IMPLIED>
+
+<!-- Division de niveau 2 d'une chronique -->
+<!ELEMENT div2chr (tit?, intro?, (((neant | pnchr+), div3chr*) | div3chr+))>
+
+<!-- Division de niveau 3 d'une chronique -->
+<!ELEMENT div3chr (tit?, intro?, (((neant | pnchr+), div4chr*) | div4chr+))>
+
+<!-- Division de niveau 4 d'une chronique -->
+<!ELEMENT div4chr (tit?, intro?, (neant | pnchr+))>
+
+<!-- Element marqueur de plan (reprise des titres de div2) -->
+<!ELEMENT plan EMPTY>
+
+<!-- Contenu de division de chronique vide -->
+<!ELEMENT neant EMPTY>
+
+<!-- Paragraphe numerote de chronique -->
+<!ELEMENT pnchr (tit?, refsource*, (extrait | rextrait)?, observ, auteur*, motscles?, reftxt?, refsjc?, refslnf?, refbib?)>
+<!-- @attr num Debut de numerotation en cas d'article publie en 2 fois -->
+<!ATTLIST pnchr
+	num CDATA #IMPLIED>
+
+<!-- Commentaire sur les sources -->
+<!ELEMENT observ (tinoye?, (al | tab | imag | cita-bl | nb-bl)+)>
+
+<!-- Introdutction d'une chronique : a supprimer si absent du stock -->
+<!ELEMENT intro (al | tab | imag | cita-bl)+>
+<!-- Conclusion d'une chronique : a supprimer si absent du stock  -->
+<!ELEMENT concl (al | tab | imag | cita-bl)+>
+
+<!-- Actualite bibliographique -->
+<!ELEMENT divbib (div1bib+) >
+
+<!-- Niveau de division de l'actualite bibliographique : ouvrages generaux / these -->
+<!ELEMENT div1bib (tit, al+) >
+
+<!-- Rappel de publication precedente -->
+<!--ELEMENT refbib (#PCDATA | rpubl)*-->
+
+<!-- partie fiche pratique -->
+
+<!-- Historique
+
+	30/04/2004	CLE	Repetabilite de reftxt, refjp et refbib dans divref
+	15/06/2004	CLE	Ajout d'un niveau thematique optionnel a refjp
+
+	Citron 2
+	18/11/2004	CLE	Ajout de l'element org
+	05/01/2004	CLE	Ajout du resume (contexte ou question)
+							Ajout d'un niveau de division div5prat
+							Ajout du choix (contenu de <cas>) ou element <cas> repetable
+	16/02/2005	CLE	Ajout des valeurs corrige, consultation et conseil a l'attribut type de etude
+	17/03/2005	CLE	Ajout da la valeur d'attribut type vousanous pour l'element fiprat
+	29/03/2005	CLE	Ajout de cita-bl dans le corps des fiprat
+	04/04/2005	CLE	Ajout des annexes apres le bloc pratique
+	17/03/2005	CLE	Ajout da la valeur d'attribut type questionreponse pour l'element fiprat
+	30/06/2005	CLE	Ajout surtitre
+							Ajout de la valeur d'attribut type pratiquesociale
+	02/09/2005	CLE	Ajout de la valeur d'attribut type dossierfiches
+	05/01/2006	CLE	Repetabilite de refsource
+	28/02/2006	CLE	Ajout de rdec, rtnc, rtc et rjc dans refbib
+							Ajout de rccons dans refjp
+	27/03/2007	CLE	Ajout de rjo dans refjp
+	13/07/2007	CLE	Ajout de la valeur d'attribut "cahprat" a l'attribut type
+							Ajout de l'element optionel titdossier
+							Ajout de l'element optionel refsdossier
+-->
+
+<!-- Modele de contenu des corps de division des fiches pratiques -->
+<!ENTITY % txtfiprat "al | tab | nb-bl | cita-bl | imag">
+
+<!-- Element de fiche pratique -->
+<!ELEMENT fiprat (theme?, num, titdossier?, surtit?, tit, sstit1?, typedoc?, (imag | auteur | org)*, resume?, refsource*,
+	( (corpsfiprat, annexes?) | cas+ ),
+	motscles, reftxt?, refsjc?, refslnf?, divref?, refsdossier?, annexes?)>
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST fiprat
+	type (bonnepratique | caspratique | dossierpraticien | fichepratique | pratique | questionsreponses | corrige | consultation | conseil | vousanous | questionreponse | pratiquesociale | dossierfiches | cahprat) #REQUIRED>
+
+<!-- Cas pour les corriges d'examen professionel et cas pratiques (JCP N) -->
+<!ELEMENT cas ((corpsfiprat, annexes?)) >
+
+<!-- Corps de la fiche pratique -->
+<!ELEMENT corpsfiprat ( ((%txtfiprat;)+, div1fiprat*) | div1fiprat+ )>
+
+<!-- Division de niveau 1 d'une fiche pratique -->
+<!ELEMENT  div1fiprat   (tit, (((%txtfiprat;)+, div2fiprat*) | div2fiprat+))>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div1fiprat      id ID #IMPLIED>
+<!-- Division de niveau 2 d'une fiche pratique -->
+<!ELEMENT  div2fiprat   (tit, (((%txtfiprat;)+, div3fiprat*) | div3fiprat+))>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div2fiprat      id ID #IMPLIED>
+<!-- Division de niveau 3 d'une fiche pratique -->
+<!ELEMENT  div3fiprat   (tit, (((%txtfiprat;)+, div4fiprat*) | div4fiprat+))>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div3fiprat      id ID #IMPLIED>
+<!-- Division de niveau 4 d'une fiche pratique -->
+<!ELEMENT  div4fiprat   (tit, (((%txtfiprat;)+, div5fiprat*) | div5fiprat+))>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div4fiprat      id ID #IMPLIED>
+<!-- Division de niveau 5 d'une fiche pratique -->
+<!ELEMENT  div5fiprat   (tit, (%txtfiprat;)+)>
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div5fiprat      id ID #IMPLIED>
+
+<!-- Renvois vers des livres (presse incluse) -->
+<!ELEMENT refbib (#PCDATA | rbiblio | rpubl | rdec | rjd | rtnc | rtc | rjc)*>
+
+<!-- Renvois vers la jurisprudence -->
+<!ELEMENT refjp (#PCDATA | themejp | rdec | rjd | rpubl | rccons | rjo)*>
+
+<!-- Ensemble de references de jurisprudence rassemblees sous un theme commun -->
+<!ELEMENT themejp (themelib, themecont) >
+
+<!-- Contenu textuel des renvois a la jurisprudence pour un thepme donne-->
+<!ELEMENT themecont (#PCDATA | rdec | rjd | rpubl)*>
+
+<!-- Libelle du theme de jurisprudence-->
+<!ELEMENT themelib (#PCDATA)>
+
+<!-- Bloc de references titre "Pour aller pour loin" -->
+<!ELEMENT divref (reftxt*, refjp*, refbib*) >
+
+<!-- Article formule (revue RFN) -->
+
+<!-- Historique
+
+	08/06/2004	CLE	Ajout de l'emph2 dans al-f
+	15/06/2004	CLE	Deplacement du bloc auteur au debut de l'article
+
+	Citron 2
+	18/11/2004	CLE	Ajout de l'element org
+	23/02/2005	CLE	Ajout de formule dans div2rfn
+	30/06/2005	CLE	Ajout surtitre
+	29/05/2006	CLE	Ajout soustitre
+
+-->
+
+<!-- Article de type formule -->
+<!ELEMENT formrfn (theme?, num, titdossier?, surtit?, tit, sstit1?, typedoc?, (auteur|org)*, div1rfn+, motscles, reftxt?, refsjc?, refslnf?, refsdossier?)>
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST formrfn
+	type (formulerfn) #REQUIRED>
+
+<!-- Division de l'article de type formule de niveau 1 -->
+<!ELEMENT div1rfn (tit?, ((al | tab)+ | formule+ | div2rfn+))>
+
+<!-- Division de l'article de type formule de niveau 2 -->
+<!ELEMENT div2rfn (tit?, ((al | tab)+ | formule+))>
+
+<!-- partie indices
+	indice et taux
+	informations fiscales
+
+	24/11/2006	CLE	Ajout de la valeur d'attribut type infprat
+ -->
+
+<!-- Element d'indice, taux ou info. fiscale -->
+<!ELEMENT indices (num, tit?, (al | intertit | tab | imag)+, fnotes?)>
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST indices
+	type (indicestaux|tableactu|infprat) #REQUIRED>
+
+<!-- partie repere -->
+
+<!-- Historique
+
+	Citron 2
+	18/11/2004	CLE	Ajout de l'element org
+	01/06/2005	CLE	Ajout des valeurs d'attribut type : editorial, introdossier
+	30/06/2005	CLE	Ajout surtitre
+-->
+
+<!-- Article de type repere -->
+<!ELEMENT repere (theme?, num, surtit?, tit, sstit1?, typedoc?, (auteur|org)+, corpsrep, imag?, motscles, reftxt?, refsjc?, refslnf?)>
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST repere
+	type (repere | editorial | introdossier) #REQUIRED>
+
+<!-- Corps du repere -->
+<!ELEMENT corpsrep (p)+>
+
+<!-- Ensemble d'erratum -->
+<!--ELEMENT errata  (erratum+) -->
+<!-- Erratum -->
+<!--ELEMENT erratum  (al+) -->
+
+<!-- Sommaire de jurisprudence -->
+
+<!-- Historique
+	Citron 2
+	18/11/2004	CLE	Ajout de l'element org
+	03/05/2004	CLE	Suppression de fnotes (deja present apres l'element somjur)
+							Ajout de resume apres les auteurs
+							Ajout d'un theme repetable, motscles repetable dans l'element de sommaire
+							Remplacement de l'ancien element ref par refsource
+							Titre de l'element devient obligatoire
+							Suppression des elements a reintegrer dans la DTD revue (ancien somjur, div1jur et div2jur)
+							Renommage de elsom en panojuri
+	14/02/2005	CLE	Ajout de la valeur d'attribut anoteregalementjuri a panojuri
+	17/03/2005	CLE	Attribut type de panojuri devient required
+							Ajout de l'element resume
+							Suppression de l'occurrence + de motscles, la repetition se fait au niveau de l'element mc
+	23/03/2005	CLE	L'element solution passe apres l'element refsource
+							Ajout de l'element observation
+
+
+        25/04/2005      VDZ     ajout de valeurs a l'attribut type de solution :
+                                 annulation|non-lieu-a-statuer|recevabilite
+                                |reformation|reformation-partielle
+
+        27/04/2005      VDZ     ajout de valeurs a l'attribut type de solution :
+                                 decharge|decharge-partielle
+	30/06/2005	CLE	Ajout surtitre
+	28/07/2005	CLE	Ajout de valeurs a l'attribut type de solution : sursis-a-statuer
+	25/11/2005	CLE	Le refsource devient repetable
+	30/03/2006	CLE	Ajout de valeurs a l'attribut type de solution : rectification
+	30/03/2007	CLE	Le couple (refsource+, solution?) devient repetable
+-->
+
+<!-- Article de type de panorama de jurisprudence -->
+<!ELEMENT panojuri (theme+, num, titdossier?, surtit?, tit, auteur*, resume?, motscles, notes, (refsource+, solution?)+, observation?, refsdossier?)>
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST panojuri
+	type (panojuri | anoteregalementjuri) #REQUIRED >
+
+<!-- Note dans sommaire de jurisprudence -->
+<!ELEMENT notes (tit?, (al | cita-bl | tab | nb-bl)+)>
+
+<!-- Solution de la jurisprudence -->
+<!ELEMENT solution EMPTY>
+<!-- @attr type Solution de la jurisprudence. Utilisation d'un attribut de type liste exhaustive pour l'avoir de maniere normalisee -->
+<!--ATTLIST solution
+	type (rejet|cassation|casspartielle|irrecevabilite|cass-sans-renvoi
+              |annulation|non-lieu-a-statuer|recevabilite|reformation|reformation-partielle
+              |decharge|decharge-partielle|sursis-a-statuer
+              |rectification) #REQUIRED-->
+<!ATTLIST solution
+	type (rejet|cassation|casspartielle|irrecevabilite|cass-sans-renvoi
+              |annulation|non-lieu-a-statuer|recevabilite|reformation|reformation-partielle
+              |decharge|decharge-partielle|sursis-a-statuer
+              |rectification
+              |avant-dire-droit|annulation-partielle|annulation-sans-renvoi|astreinte
+              |attribution-de-competence|cass-partielle-sans-renvoi
+              |renvoi-conseil-d-etat|renvoi-cjce|condamnation|confirmation|confirmation-partielle
+              |connexite|deboute|declar-compet-administrative|declar-compet-judiciaire
+              |decheance|desistement|evocation|infirmation|infirmation-partielle
+              |non-lieu|rabat-d-arret|radiation|rejet-partiel|renvoi|retrait|supplement-d-instruction
+              |sursis-a-execution|suspension|renvoi-tribunal-des-conflits) #REQUIRED>
+
+<!-- Observation du panorama de jurisprudence -->
+<!ELEMENT observation (tit?, (al | cita-bl | tab | nb-bl)+)>
+
+<!-- partie textes -->
+
+<!-- Historique
+
+	04/01/2005	CLE	Creation
+	07/01/2005	CLE	Ajout de l'attribut type
+	12/01/2005	CLE	Ajout de 5 niveaux de division possibles dans le corps
+	17/01/2005	CLE	Ajout des titres dans les divisions
+	20/01/2005	CLE	Possibilite d'avoir plusieurs annexes
+	23/02/2005	CLE	Ajout du theme
+	17/03/2005	CLE	Correction du parenthesage des divisions
+	20/05/2005	CLE	Inversion des reftxt et refsjc
+	30/06/2005	CLE	Ajout surtitre
+	20/10/2005	CLE	Ajout de valeurs a l'attribut type de texte : projetdetexte
+	05/01/2006	CLE	Repetabilite de refsource
+	14/03/2007	CLE	Ajout de valeurs a l'attribut type de texte : anotertexte
+	12/10/2007	CLE	Ajout du titdossier
+-->
+
+<!-- Reproduction d'un texte integral ou partiel -->
+<!ELEMENT texte (theme?, num, titdossier?, surtit?, tit, refsource*, resume?, corpstxt, motscles, reftxt?, refsjc?, annexes?) >
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST texte
+	type (instrfisc|tc|tnc|projetdetexte|anotertexte) #REQUIRED>
+
+<!-- Corps d'un texte legislatif -->
+<!ELEMENT corpstxt (((p | intertit | tab | imag)+, div1txt*) | div1txt+) >
+
+<!-- Division de niveau 1 d'un texte -->
+<!ELEMENT  div1txt (tit, (((p | intertit | tab | imag)+, div2txt*) | div2txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div1txt      id ID #IMPLIED>
+
+<!-- Division de niveau 2 d'un texte -->
+<!ELEMENT  div2txt (tit, (((p | intertit | tab | imag)+, div3txt*) | div3txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div2txt      id ID #IMPLIED>
+
+<!-- Division de niveau 3 d'un texte -->
+<!ELEMENT  div3txt (tit, (((p | intertit | tab | imag)+, div4txt*) | div4txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div3txt      id ID #IMPLIED>
+
+<!-- Division de niveau 4 d'un texte -->
+<!ELEMENT  div4txt (tit, (((p | intertit | tab | imag)+, div5txt*) | div5txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div4txt      id ID #IMPLIED>
+
+<!-- Division de niveau 5 d'un texte -->
+<!ELEMENT  div5txt (tit, (((p | intertit | tab | imag)+, div6txt*) | div6txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div5txt      id ID #IMPLIED>
+
+<!-- Division de niveau 6 d'un texte -->
+<!ELEMENT  div6txt (tit, (((p | intertit | tab | imag)+, div7txt*) | div7txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div6txt      id ID #IMPLIED>
+
+<!-- Division de niveau 7 d'un texte -->
+<!ELEMENT  div7txt (tit, (((p | intertit | tab | imag)+, div8txt*) | div8txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div7txt      id ID #IMPLIED>
+
+<!-- Division de niveau 8 d'un texte -->
+<!ELEMENT  div8txt (tit, (((p | intertit | tab | imag)+, div9txt*) | div9txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div8txt      id ID #IMPLIED>
+
+<!-- Division de niveau 9 d'un texte -->
+<!ELEMENT  div9txt (tit, (((p | intertit | tab | imag)+, div10txt*) | div10txt+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div9txt      id ID #IMPLIED>
+
+<!-- Division de niveau 10 d'un texte -->
+<!ELEMENT  div10txt (tit, (p | intertit | tab | imag)+) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div10txt      id ID #IMPLIED>
+
+
+
+
+<!-- Article de type apercu rapide, tribune libre, libre propos, reforme et gestion de l'office -->
+
+<!-- Historique
+
+	07/01/2005	CLE	Creation
+	17/01/2005	CLE	Ajout des titres des divisions
+	19/01/2005	CLE	Ajout du bloc pratique
+	17/03/2005	CLE	Ajout des pointcles
+	20/04/2004	CLE	Correction du parenthesage de div1apercu
+	01/06/2005	CLE	Ajout de la valeur d'attribut type : cahierpratique
+	30/06/2005	CLE	Ajout surtitre
+	28/07/2005	CLE	Ajout du refsource
+	17/11/2005	CLE	Ajout de cita-bl dans le corps des apercus
+	05/01/2006	CLE	Repetabilite de refsource
+-->
+
+<!-- Article de type apercu rapide, tribune libre, libre propos, reforme et gestion de l'office -->
+<!ELEMENT apercu (theme?, num, surtit?, tit, sstit1?, pointcles?, (auteur | org)+, corpsap, refsource*, motscles, reftxt?, refsjc?, refslnf?, annexes?) >
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST apercu
+	type (apercu | tribune | propos | reforme | office | cahierpratique | evenement) #REQUIRED >
+
+<!-- Corps d'un apercu rapide -->
+<!ELEMENT corpsap (((al | tab | nb-bl | cita-bl | imag)+, div1apercu*) | div1apercu+) >
+
+<!-- Division de niveau 1 d'un apercu rapide -->
+<!ELEMENT  div1apercu (tit, ( ((al | tab | nb-bl | cita-bl | imag)+, div2apercu*) | div2apercu+ )) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div1apercu      id ID #IMPLIED>
+
+<!-- Division de niveau 2 d'un apercu rapide -->
+<!ELEMENT  div2apercu (tit, (al | tab | nb-bl | cita-bl | imag)+) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div2apercu      id ID #IMPLIED>
+
+<!-- Article de type essentiel sur -->
+
+<!-- Historique
+
+	11/01/2005	CLE	Creation
+	14/01/2005	CLE	Suppression du titre noye
+							Ajout d'un niveau de division 4
+	20/01/2005	CLE	Possibilite d'avoir plusieurs annexes
+	17/03/2005	CLE	Ajout des nb-bl dans les corps des essentiel sur
+							Ajout des titres de division
+	30/06/2005	CLE	Ajout surtitre
+-->
+
+<!-- Article de type essentiel sur -->
+<!ELEMENT essentiel (theme, num, titdossier?, surtit?, tit, sstit1?, (auteur | org)+, resume, corpsess, motscles, divref, refsdossier?, annexes?) >
+<!--
+	@attr type Type d'article. Peut determiner un maquetage particulier et la presence ou non de cet article dans les tables des revues.
+-->
+<!ATTLIST essentiel
+	type (essentiel) "essentiel" >
+
+<!-- Modele de contenu des corps de division des textes -->
+<!ENTITY % txtess "(al | cita-bl | tab | imag | clindoeil | nb-bl)+">
+
+<!-- Partie en un clin d'oeil des essentiel sur -->
+<!ELEMENT clindoeil (al+) >
+
+<!-- Corps d'un article "Essentiel sur" -->
+<!ELEMENT corpsess ((%txtess;, div1ess*) | div1ess+) >
+
+<!-- Division de niveau 1 d'un essentiel sur -->
+<!ELEMENT  div1ess (tit?, ((%txtess;, div2ess*) | div2ess+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div1ess      id ID #IMPLIED>
+
+<!-- Division de niveau 2 d'un essentiel sur -->
+<!ELEMENT  div2ess (tit?, ((%txtess;, div3ess*) | div3ess+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div2ess      id ID #IMPLIED>
+
+<!-- Division de niveau 3 d'un essentiel sur -->
+<!ELEMENT  div3ess (tit?, ((%txtess;, div4ess*) | div4ess+)) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div3ess      id ID #IMPLIED>
+
+<!-- Division de niveau 4 d'un essentiel sur -->
+<!ELEMENT  div4ess (tit?, %txtess;) >
+<!-- @attr id Identifiant de la division -->
+<!ATTLIST  div4ess      id ID #IMPLIED>
+
+
+
+<!-- Commentaire DO (revue RDO) -->
+
+<!-- Historique
+
+	07/04/2006	VDZ	Création
+	30/05/2006	CLE	Modification selon reunion du 12 mai avec BDA
+	22/11/2006	CLE	Suppression des elements rub, srub1 et srub2
+	20/02/2006	CLE	Suppression des listes hors paragraphe dans la partie commdo
+-->
+
+<!-- commentaire de la revue Actualités D.O -->
+<!ELEMENT commdo (theme?, sstheme?, sstheme2?,
+                  num, refdo?, titdossier?, tit, sstit1?, (auteur|org)*,
+                  refsource*, resume?, sommaire?, corpscommdo, motscles?, refsdossier?, annexes?, fnotes?)>
+
+<!--
+	@attr type	type commentaire de la revue Actualités D.O
+	@attr cols	nombre de colonnes pour les projets (2 par defaut)
+	@attr numpn	numerotation des pn : auto = calculee, implicite = dans l'element numpn
+-->
+<!ATTLIST commdo
+     type   (comment|projet|guide|synt|mesdiv|pdv|intropar|autreinf|anot|chronique|veille|etude|instrfisc|repere|pratique|autre)  "autre"
+     cols   CDATA #IMPLIED
+     numpn  (explicite|auto)  "auto"
+>
+
+<!-- rubrique dans laquelle se trouve l'article -->
+<!--ELEMENT rub (al) -->
+<!-- sous rubrique dans laquelle se trouve l'article -->
+<!--ELEMENT srub1 (al) -->
+<!-- sous sous rubrique dans laquelle se trouve l'article -->
+<!--ELEMENT srub2 (al) -->
+
+<!-- corps de commentaire de la revue Actualités D.O -->
+<!ELEMENT corpscommdo ((pn|p|tab|arg|gfilet|gxfilet|refsource)*,
+				  ((d4commdo|d3commdo|d2commdo|d2altcommdo|d1commdo|d1altcommdo|d0commdo)*) )>
+
+<!-- division d'un commentaire de la revue Actualités D.0 (niveau 0) -->
+<!ELEMENT d0commdo  (tit?, stdiv*, (pn|p|tab|arg|gfilet|gxfilet)*, (d4altcommdo|d4commdo|d3commdo|d2commdo|d2altcommdo|d1commdo|d1altcommdo)*)>
+<!-- division d'un commentaire de la revue Actualités D.0 (niveau 1 alternatif) -->
+<!ELEMENT d1altcommdo (tit?, stdiv*, (pn|p|tab|arg|gfilet|gxfilet)*,(d4altcommdo|d4commdo|d3commdo|d2commdo|d2altcommdo|d1commdo)*)>
+<!-- division d'un commentaire de la revue Actualités D.0 (niveau 1) -->
+<!ELEMENT d1commdo  (tit?, stdiv*, (pn|p|tab|arg|gfilet|gxfilet)*,(d4altcommdo|d4commdo|d3commdo|d2commdo|d2altcommdo|d1altcommdo)*)>
+<!-- division d'un commentaire de la revue Actualités D.0 (niveau 2 alternatif) -->
+<!ELEMENT d2altcommdo (tit?, stdiv*, (pn|p|tab|arg|gfilet|gxfilet)*,(d4altcommdo|d4commdo|d3commdo|d2commdo)*)>
+<!-- division d'un commentaire de la revue Actualités D.0 (niveau 2) -->
+<!ELEMENT d2commdo  (tit?, stdiv*, (pn|p|tab|arg|gfilet|gxfilet)*,(d4altcommdo|d4commdo|d3commdo|d2altcommdo)*)>
+<!-- division d'un commentaire de la revue Actualités D.0 (niveau 3) -->
+<!ELEMENT d3commdo  (tit?, stdiv*, (pn|p|tab|arg|gfilet|gxfilet)*,(d4altcommdo|d4commdo)*)>
+<!-- division d'un commentaire de la revue Actualités D.0 (niveau 4) -->
+<!ELEMENT d4commdo  (tit?, stdiv*, (pn|p|tab|arg|gfilet|gxfilet)*,d4altcommdo*)>
+<!-- division d'un commentaire de la revue Actualités D.0 (niveau 4) -->
+<!ELEMENT d4altcommdo  (tit?, stdiv*, (pn|p|tab|arg|gfilet|gxfilet)*,d4commdo*)>
+
+<!-- référence de l'étude commentée -->
+<!ELEMENT refdo (#PCDATA|%txtrenv;)*>
+
+<!-- sous-thème de niveau 2 -->
+<!ELEMENT sstheme2 (al)>
+
+<!-- sous-titre -->
+<!ELEMENT stdiv (al)>
+
+
+<!-- Echeancier DO (revue RDO) -->
+
+<!-- Historique
+
+	27/07/2006	CLE	Création
+	14/11/2006	CLE	Remplacement du divintro generique par un introecheado specifique
+	22/11/2006	CLE	Ajout de l'attribut type
+	30/04/2010	CLE	Ajout de l'attribut qualif a echeado
+				Ajout des attributs jour mois annee d1echeado
+-->
+
+<!-- echeancier de la revue Actualités D.O -->
+<!ELEMENT echeado (num, titdossier?, tit, corpsecheado, refsdossier?, annexes?, fnotes?)>
+
+<!--
+	@attr type	type d'echeancier de la revue Actualités D.O
+	@attr qualif	type de table pour l'onglet "échéanciers fiscal et social" K4C Ultrapratique
+-->
+<!ATTLIST echeado
+     type   (echeado|agcompta|agenda)  #REQUIRED
+     qualif (soc | fiscal) #IMPLIED >
+
+<!-- corps de l'echeancier -->
+<!ELEMENT corpsecheado (introecheado?, d1echeado+) >
+
+<!-- division d'introduction de l'echeancier -->
+<!ELEMENT introecheado (p | tab | imag)+ >
+
+<!-- division de niveau 1 de l'echeancier -->
+<!ELEMENT d1echeado (tit, p*, d2echeado*) >
+
+<!--
+	@attr jour	Jour auquel ont lieu les evenements dans cette D1
+	@attr mois	Mois auquel ont lieu les evenements dans cette D1
+	@attr annee	Annee a laquelle ont lieu les evenements dans cette D1
+-->
+<!ATTLIST d1echeado
+     jour   CDATA #IMPLIED
+     mois   CDATA #IMPLIED 
+     annee  CDATA #IMPLIED >
+
+<!-- division de niveau 2 de l'echeancier -->
+<!ELEMENT d2echeado (tit, p+) >

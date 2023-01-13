@@ -1,0 +1,172 @@
+<!-- Texte des renvois -->
+<!ENTITY  % txtrenv "(rtc|rtnc|rdec|rbiblio|rquid|rjc|rintra|rpresse)">
+
+<!ENTITY % renvois PUBLIC "-//EJC//ELEMENTS des renvois Rosetta//FR">
+<!--!ENTITY % renvois PUBLIC "-//EJC//ELEMENTS XML des renvois presse//FR"-->
+%renvois;
+
+<!-- LES ENTITES ISO -->
+<!ENTITY % ENTejc PUBLIC "-//EJC//ENTITIES Entites des EJC//FR">
+%ENTejc;
+
+
+
+<!ENTITY % text "#PCDATA
+|dingbat|wingdings|webdings|newyork|marlett|monotypesorts|courier|symbol
+|bold|textcolor|italic|superscript|underline|strikethrough
+|allcaps|smallcaps|subscript|arial|image|ref_t
+|ref_d|ref_j|ref_njd|ref_nparties
+|ref_nr|ref_rm|ref_if|ref_npourvoi
+|titrecomment|prenom|nom|newline|%txtrenv;|ref-in
+|footnoteref|hyperlink">
+
+<!ELEMENT presse   - -  (info, fichier, (exercice|titre|motscles|references
+                       |listitem|listitemtab
+                       |rubrique|numero|texte|soustitre|resume|auteur
+                       |section|notes|qualite|ref_jc|ref_ca|decision
+                       |commentaire|table|ptsdesuite|biblio|annexe
+                       |solution|intertitre2|pagebreak)*)>
+
+<!ELEMENT section  - -   (exercice|titre|motscles|references
+                       |listitem|listitemtab
+                       |rubrique|numero|texte|soustitre|resume|auteur
+                       |section|notes|qualite|ref_jc|ref_ca|decision
+                       |commentaire|table|ptsdesuite|biblio|annexe
+                       |solution|intertitre2|pagebreak)*>
+
+<!ELEMENT info      - -  (title?,subject?,author?,operator?,creationtime?,
+                      revisiontime?,numberofpages?,
+                      numberofwords?,numberofchars?,
+                      company?)>
+<!ELEMENT title       - -     (#PCDATA)>
+<!ELEMENT subject      - -    (#PCDATA)>
+<!ELEMENT author       - -    (#PCDATA)>
+<!ELEMENT operator     - -   (#PCDATA)>
+<!ELEMENT creationtime - -   (#PCDATA)>
+<!ELEMENT revisiontime - -   (#PCDATA)>
+<!ELEMENT numberofpages - -  (#PCDATA)>
+<!ELEMENT numberofwords - -  (#PCDATA)>
+<!ELEMENT numberofchars - -  (#PCDATA)>
+<!ELEMENT company      - -   (#PCDATA)>
+
+
+<!ELEMENT fichier  - -  (#PCDATA)>
+<!ELEMENT exercice - -  (#PCDATA)>
+<!ELEMENT titre    - -  (%text;)*>
+<!ATTLIST titre
+          style      CDATA #REQUIRED>
+<!ELEMENT numero   - o  EMPTY>
+<!ATTLIST numero 
+          numero     CDATA #REQUIRED>
+<!ELEMENT motscles - -   (%text;)*>
+<!ELEMENT references - - (%text;)*>
+<!ELEMENT texte      - - (%text;)*>
+<!ELEMENT soustitre  - - (%text;)*>
+<!ATTLIST soustitre
+          style      CDATA #REQUIRED>
+<!ELEMENT listitem   - - (%text;)*>
+<!ELEMENT listitemtab - - (%text;)*>
+<!ELEMENT resume     - - (%text;)*>
+<!ELEMENT notes      - - (%text;)*>
+<!ELEMENT rubrique   - - (%text;)*>
+<!ELEMENT qualite    - - (%text;)*>
+<!ELEMENT ref_jc     - - (%text;)*>
+<!ELEMENT ref_ca     - - (%text;)*>
+<!ELEMENT decision   - - (%text;)*>
+<!ELEMENT commentaire - - (%text;)*>
+<!ELEMENT biblio     - - (%text;)*>
+<!ELEMENT annexe     - - (%text;)*>
+<!ELEMENT solution   - - (%text;)*>
+<!ELEMENT ptsdesuite - - (%text;)*>
+<!ELEMENT intertitre2 - - (%text;)*>
+<!ELEMENT hyperlink  - - (%text;)*>
+
+<!ELEMENT auteur    - - (%text;)*>
+<!ELEMENT nom       - - (#PCDATA)>
+<!ELEMENT prenom    - - (#PCDATA)>
+
+<!ELEMENT ref_t      - -  (%text;)*>
+<!ELEMENT ref_j      - -  (%text;)*>
+<!ELEMENT ref_d      - -  (%text;)*>
+<!ELEMENT ref_njd    - -  (%text;)*>
+<!ELEMENT ref_nparties - - (%text;)*>
+<!ELEMENT ref_nr      - - (%text;)*>
+<!ELEMENT ref_rm      - - (%text;)*>
+<!ELEMENT ref_if      - - (%text;)*>
+<!ELEMENT ref_npourvoi - - (%text;)*>
+<!ELEMENT titrecomment - - (%text;)*>
+
+<!ELEMENT italic     - - (%text;)*>
+<!ELEMENT bold       - - (%text;)*>
+<!ELEMENT superscript - - (%text;)*>
+<!ELEMENT subscript  - - (%text;)*>
+<!ELEMENT underline  - - (%text;)*>
+<!ELEMENT strikethrough - - (%text;)*>
+<!ELEMENT allcaps    - - (%text;)*>
+<!ELEMENT smallcaps  - - (%text;)*>
+<!ELEMENT arial      - - (%text;)*>
+<!ELEMENT courier    - - (%text;)*>
+<!ELEMENT textcolor  - - (%text;)*>
+<!ATTLIST textcolor
+          color       CDATA #REQUIRED>
+<!ELEMENT dingbat    - - (#PCDATA)*>
+<!ELEMENT wingdings  - - (#PCDATA|bold)*>
+<!ELEMENT webdings   - - (#PCDATA)*>
+<!ELEMENT monotypesorts - - (#PCDATA)*>
+<!ELEMENT newyork    - - (#PCDATA|symbol|bold)*>
+<!ELEMENT marlett    - - (#PCDATA)*>
+<!ELEMENT symbol     - - (#PCDATA|bold|italic)*>
+
+<!ELEMENT image     - o EMPTY>
+<!ATTLIST image
+          src        CDATA #REQUIRED
+          width      CDATA #REQUIRED
+          height     CDATA #REQUIRED>
+
+
+
+
+<!ELEMENT newline - o EMPTY>
+<!ELEMENT pagebreak - o EMPTY>
+
+<!ELEMENT footnoteref - - (#PCDATA|footnote)*>
+<!ELEMENT footnote - - (texte)*>
+
+<!ELEMENT  ref-in  - - (%txtrenv;)+>
+
+
+
+
+<!-- CALSTABLE -->
+
+<!ENTITY % common.att ''>
+<!ENTITY % cell.mdl  'titre|listitem|listitemtab|texte|soustitre|notes|ref_jc|ref_ca|decision|commentaire'>
+
+
+<!ELEMENT table - -(tgroup+)>
+<!ATTLIST table frame (all | none) "all"
+                colsep CDATA #IMPLIED
+                rowsep CDATA #IMPLIED
+                %common.att;
+>
+<!ELEMENT tgroup - -  (colspec*,thead?,tbody)>
+<!ATTLIST tgroup  cols CDATA #REQUIRED
+                  colsep CDATA #IMPLIED
+                  rowsep CDATA #IMPLIED
+>
+<!ELEMENT colspec - o EMPTY>
+<!ATTLIST colspec colnum CDATA #IMPLIED
+                  colname CDATA #IMPLIED
+                  colwidth CDATA #IMPLIED
+>
+<!ELEMENT thead - -  (row+)>
+<!ELEMENT tbody - -  (row+)>
+<!ELEMENT row - -  (entry*)>
+<!--ATTLIST row   %common.att; -->
+
+<!ELEMENT entry - - (%cell.mdl;)*>
+<!ATTLIST entry namest CDATA #IMPLIED
+                nameend CDATA #IMPLIED
+                morerows CDATA #IMPLIED
+                valign (top | middle | bottom) "middle"
+                %common.att;>

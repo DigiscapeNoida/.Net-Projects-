@@ -1,0 +1,73 @@
+<!-- (C) International Organization for Standardization 1986
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+-->
+<!-- Character entity set. Typical invocation:
+     <!ENTITY % ISOtech PUBLIC
+       "ISO 8879:1986//ENTITIES General Technical//EN">
+     %ISOtech;
+-->
+<!ENTITY aleph  "[aleph ]"> <!--/aleph =aleph, Hebrew-->
+<!ENTITY and    "[and   ]"> <!--/wedge /land B: =logical and-->
+<!ENTITY ang90  "[ang90 ]"> <!--=right (90 degree) angle-->
+<!ENTITY angsph "[angsph]"> <!--/sphericalangle =angle-spherical-->
+<!ENTITY ap     "[ap    ]"> <!--/approx R: =approximate-->
+<!ENTITY becaus "[becaus]"> <!--/because R: =because-->
+<!ENTITY bottom "[bottom]"> <!--/bot B: =perpendicular-->
+<!ENTITY cap    "[cap   ]"> <!--/cap B: =intersection-->
+<!ENTITY cong   "[cong  ]"> <!--/cong R: =congruent with-->
+<!ENTITY conint "[conint]"> <!--/oint L: =contour integral operator-->
+<!ENTITY cup    "[cup   ]"> <!--/cup B: =union or logical sum-->
+<!ENTITY equiv  "[equiv ]"> <!--/equiv R: =identical with-->
+<!ENTITY exist  "[exist ]"> <!--/exists =at least one exists-->
+<!ENTITY forall "[forall]"> <!--/forall =for all-->
+<!ENTITY fnof   "[fnof  ]"> <!--=function of (italic small f)-->
+<!ENTITY ge     "[ge    ]"> <!--/geq /ge R: =greater-than-or-equal-->
+<!ENTITY iff    "[iff   ]"> <!--/iff =if and only if-->
+<!ENTITY infin  "[infin ]"> <!--/infty =infinity-->
+<!ENTITY int    "[int   ]"> <!--/int L: =integral operator-->
+<!ENTITY isin   "[isin  ]"> <!--/in R: =set membership-->
+<!ENTITY lang   "[lang  ]"> <!--/langle O: =left angle bracket-->
+<!ENTITY lArr   "[lArr  ]"> <!--/Leftarrow A: =is implied by-->
+<!ENTITY le     "[le    ]"> <!--/leq /le R: =less-than-or-equal-->
+<!ENTITY minus  "[minus ]"> <!--B: =minus sign-->
+<!ENTITY mnplus "[mnplus]"> <!--/mp B: =minus-or-plus sign-->
+<!ENTITY nabla  "[nabla ]"> <!--/nabla =del, Hamilton operator-->
+<!ENTITY ne     "[ne    ]"> <!--/ne /neq R: =not equal-->
+<!ENTITY ni     "[ni    ]"> <!--/ni /owns R: =contains-->
+<!ENTITY or     "[or    ]"> <!--/vee /lor B: =logical or-->
+<!ENTITY par    "[par   ]"> <!--/parallel R: =parallel-->
+<!ENTITY part   "[part  ]"> <!--/partial =partial differential-->
+<!ENTITY permil "[permil]"> <!--=per thousand-->
+<!ENTITY perp   "[perp  ]"> <!--/perp R: =perpendicular-->
+<!ENTITY prime  "[prime ]"> <!--/prime =prime or minute-->
+<!ENTITY Prime  "[Prime ]"> <!--=double prime or second-->
+<!ENTITY prop   "[prop  ]"> <!--/propto R: =is proportional to-->
+<!ENTITY radic  "[radic ]"> <!--/surd =radical-->
+<!ENTITY rang   "[rang  ]"> <!--/rangle C: =right angle bracket-->
+<!ENTITY rArr   "[rArr  ]"> <!--/Rightarrow A: =implies-->
+<!ENTITY sim    "[sim   ]"> <!--/sim R: =similar-->
+<!ENTITY sime   "[sime  ]"> <!--/simeq R: =similar, equals-->
+<!ENTITY square "[square]"> <!--/square B: =square-->
+<!ENTITY sub    "[sub   ]"> <!--/subset R: =subset or is implied by-->
+<!ENTITY sube   "[sube  ]"> <!--/subseteq R: =subset, equals-->
+<!ENTITY sup    "[sup   ]"> <!--/supset R: =superset or implies-->
+<!ENTITY supe   "[supe  ]"> <!--/supseteq R: =superset, equals-->
+<!ENTITY there4 "[there4]"> <!--/therefore R: =therefore-->
+<!ENTITY Verbar "[Verbar]"> <!--/Vert =dbl vertical bar-->
+
+<!ENTITY angst  "[angst ]"> <!--Angstrom =capital A, ring-->
+<!ENTITY bernou "[bernou]"> <!--Bernoulli function (script capital B)-->
+<!ENTITY compfn "[compfn]"> <!--B: composite function (small circle)-->
+<!ENTITY Dot    "[Dot   ]"> <!--=dieresis or umlaut mark-->
+<!ENTITY DotDot "[DotDot]"> <!--four dots above-->
+<!ENTITY hamilt "[hamilt]"> <!--Hamiltonian (script capital H)-->
+<!ENTITY lagran "[lagran]"> <!--Lagrangian (script capital L)-->
+<!ENTITY lowast "[lowast]"> <!--low asterisk-->
+<!ENTITY notin  "[notin ]"> <!--N: negated set membership-->
+<!ENTITY order  "[order ]"> <!--order of (script small o)-->
+<!ENTITY phmmat "[phmmat]"> <!--physics M-matrix (script capital M)-->
+<!ENTITY tdot   "[tdot  ]"> <!--three dots above-->
+<!ENTITY tprime "[tprime]"> <!--triple prime-->
+<!ENTITY wedgeq "[wedgeq]"> <!--R: corresponds to (wedge, equals)-->

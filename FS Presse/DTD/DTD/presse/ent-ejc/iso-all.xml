@@ -1,0 +1,44 @@
+
+<!ENTITY % ISOlat1   PUBLIC "ISO 8879:1986//ENTITIES Added Latin 1//EN"
+                            "../entities/iso-lat1.xml">
+%ISOlat1;
+
+<!ENTITY % ISOlat2   PUBLIC "ISO 8879:1986//ENTITIES Added Latin 2//EN"
+                            "../entities/iso-lat2.xml">
+%ISOlat2;
+
+<!ENTITY % ISOgrk1 PUBLIC "ISO 8879:1986//ENTITIES Greek Letters//EN"
+                            "../entities/iso-grk1.xml">
+%ISOgrk1;
+
+<!ENTITY % ISOgrk2 PUBLIC "ISO 8879:1986//ENTITIES Monotoniko Greek//EN"
+                            "../entities/iso-grk2.xml">
+%ISOgrk2;
+
+<!ENTITY % ISOgrk3 PUBLIC "ISO 8879:1986//ENTITIES Greek Symbols//EN"
+                            "../entities/iso-grk3.xml">
+%ISOgrk3;
+
+<!ENTITY % ISOnum   PUBLIC  "ISO 8879:1986//ENTITIES Numeric and Special Graphic//EN"
+                            "../entities/iso-num.xml">
+%ISOnum;
+
+<!ENTITY % ISOamsa   PUBLIC "ISO 8879:1986//ENTITIES Added Math Symbols: Arrow Relations//EN"
+                            "../entities/iso-amsa.xml">
+%ISOamsa;
+
+<!ENTITY % ISOamsb   PUBLIC "ISO 8879:1986//ENTITIES Added Math Symbols: Binary Operators//EN"
+                            "../entities/iso-amsb.xml">
+%ISOamsb;
+
+<!ENTITY % ISOpub   PUBLIC "ISO 8879:1986//ENTITIES Publishing//EN"
+                            "../entities/iso-pub.xml">
+%ISOpub;
+
+<!ENTITY % ISOtech   PUBLIC "ISO 8879:1986//ENTITIES General Technical//EN"
+                            "../entities/iso-tech.xml">
+%ISOtech;
+
+<!ENTITY % ISOcyr1 PUBLIC "ISO 8879:1986//ENTITIES Russian Cyrillic//EN"
+                            "../entities/iso-cyr1.xml">
+%ISOcyr1;

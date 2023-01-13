@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--
+
+	Historique
+
+	14/05/2004	CLE	auteur possible entre d(n)pcomment et d(n+1)pcomment
+	07/01/2004	CLE	Ajout du jour dans daterevue
+
+	08/04/2004	CLE	Modification du modele de contenu de sstit1 et sstit2
+							Ajout du modele de contenu de sstit2
+							Ajout de "exergue | tab | imag" dans le modele de contenu de pn
+	28/04/2004	CLE	Ajout des emphases et appels de note dans tinoye
+	15/06/2004	CLE	Ajout d'un niveau optionel pour regrouper tc et tnc dans reftxt
+	15/07/2004	CLE	Ajout des appels de note dans les emphase
+	10/10/2004	CLE	Ajout des equations dans les alineas
+	16/11/2004	CLE	Ajout de l'attribut langue a resume (revue Clunet)
+
+	Citron 2
+	20/10/2004	CLE	Ajout de l'element surtit
+							Possibilite de rendre le theme invisible
+							Ajout du sous theme
+	15/11/2004	CLE	Appels de note peuvent etre invisibles
+							Ajout des renvois dans les emphases
+							Ajout de l'element <org> pour les collectifs d'auteurs
+	25/01/2005	CLE	Ajout de <reftab>
+							Ajout de 2 divisions dans la partie Panorama de Jurisprudence
+v2.02
+	17/03/2005	CLE	Ajout du titre des tables, dans un groupe reftabgrp
+							Ajout du resume dans la partie ppanojuri
+							Ajout de la partie a noter egalement pour la partie ppanojuri
+v2.03
+	24/03/2005	CLE	Ajout du resume dans la partie d1ppanojuri
+							Ajout d'un 3e niveau de division pour l'actualite (palerte)
+							Ajout d'un surtitre aux titres des division de panorama de jurisprudence
+	25/03/2005	CLE	Ajout de la possibilite de passer de d1palerte a d3palerte
+							Ajout de la branche ptheme
+v2.04
+	06/04/2005	CLE	Ajout de la partie "A noter egalement" dans ptheme
+							Ajout de la possibilite d'avoir des articles directement sous ptheme
+	13/04/2005	CLE	Possibilite d'avoir des articles apres les danoter dans ptheme
+	18/04/2005	CLE	Ajout d'auteur optionel dans la division "A noter egalement"
+v2.05
+	20/04/2005	CLE	Ajout de la possibilite d'avoir des articles en meme temps que des divisions dans la partie alerte
+V2.96
+	30/06/2005	CLE	Element num de dossier devient optionnel
+	11/04/2006  VDZ Ajout de phraseintro
+	12/04/2006  VDZ Ajout de numerosup
+
+V3.00
+	../12/2006	CLE	Ajout des parties pour la revue DO Actualite
+V3.01
+	09/01/2007	CLE	reftab rendu repetable
+V3.02
+	16/01/2007	CLE	Ajout de la possibilite d'avoir des images dans pdo et reftabgrp
+V3.03
+	02/03/2007	CLE	Ajout de phraseintro dans les parties et sous parties d'alerte
+	14/03/2007	CLE	Ajout de danoter dans les parties texte
+V3.04
+	23/05/2007	CLE	Ajout du resume dans les d2ppanojuri
+V3.05
+	20/05/2009	CLE	Ajout des parties pjcpg
+V3.06
+	23/02/2010	CLE	Ajout de la partie tres generique prevue
+
+-->
+<!-- Element racine de la revue -->
+<!ELEMENT revue (meta, chfer)>
+
+<!-- Reference a un articles : pour le dossier et le chemin de fer -->
+<!ELEMENT refart EMPTY>
+<!-- @attr fic   chemin du fichier
+     @attr id    identifiant, égal au nom du fichier sans l'extension
+     -->
+<!ATTLIST refart
+	fic CDATA #REQUIRED
+	id CDATA #REQUIRED>
+
+
+<!-- Elements definissant une table de revue : titre + table -->
+<!ELEMENT reftabgrp (tit, (reftab | imag)+)>
+
+<!-- Reference a une table de chemin de fer -->
+<!ELEMENT reftab EMPTY>
+<!-- @attr fic   chemin du fichier
+     @attr id    identifiant, égal au nom du fichier sans l'extension
+     -->
+<!ATTLIST reftab
+	fic CDATA #REQUIRED
+	id CDATA #REQUIRED>
+
+
+<!ENTITY % commun PUBLIC "-//EJC//ELEMENTS communs aux DTDs presse//FR" "../dtd/commun.dtd">
+%commun;
+
+<!-- ==================================================
+     Meta Donnees
+================================================== -->
+
+<!-- Metainformations de la revue -->
+<!ELEMENT meta  (typerevue, issn?, direction?, parution) >
+
+<!-- Type de la revue -->
+<!ELEMENT typerevue  (#PCDATA) >
+
+<!-- Numero d'issn -->
+<!ELEMENT issn  (#PCDATA) >
+
+<!-- Direction de la revue -->
+<!ELEMENT direction  (auteur*) >
+
+<!-- Elements de parution de la revue -->
+<!ELEMENT parution  (nbannee?, numero?, numerosup?, daterevue*, chrref?,
+               comref?) >
+
+<!-- Nombre d'annees de la revue -->
+<!ELEMENT nbannee  (#PCDATA) >
+<!-- Numero dans l'annee de la revue -->
+<!ELEMENT numero  (#PCDATA) >
+<!-- Numero supplémantaire -->
+<!ELEMENT numerosup  (#PCDATA) >
+<!-- Date de la revue -->
+<!ELEMENT daterevue  (joursemaine?, jour?, mois, annee) >
+<!-- Jour de la semaine de publication de la revue -->
+<!ELEMENT joursemaine  (#PCDATA) >
+<!-- Jour numerique de publication de la revue -->
+<!ELEMENT jour  (#PCDATA) >
+<!-- Mois de publication de la revue -->
+<!ELEMENT mois  (#PCDATA) >
+<!-- Annee de publication de la revue -->
+<!ELEMENT annee  (#PCDATA) >
+<!-- Numeros des chroniques dans la revue -->
+<!ELEMENT chrref  (#PCDATA) >
+<!-- Numeros des commentaires dans la revue -->
+<!ELEMENT comref  (#PCDATA) >
+
+<!-- Chemin de fer de la revue -->
+<!ELEMENT chfer (prepere | palerte | petude | pdossier | pentretien | pchronique | pcomment | pformule | pfiprat | ppanojuri | ptexte | pindices | ptheme | dossier | imag | reftabgrp | pdo | phraseintro | pjcpg | prevue)*>
+
+<!-- Partie repere -->
+<!ELEMENT prepere (tit, (refart | imag)*)>
+
+<!-- Partie alerte + Veille des textes + Agenda + Bibliographie -->
+<!ELEMENT palerte (tit, auteur*, d1palerte+)>
+<!-- Division de partie Alerte de niveau 1 -->
+<!ELEMENT d1palerte (tit, auteur*, phraseintro?, (refart | imag)*, (d2palerte* | d3palerte*))>
+<!-- Division de partie Alerte de niveau 2 -->
+<!ELEMENT d2palerte (tit, auteur*, phraseintro?, (refart | imag)*, d3palerte*)>
+<!-- Division de partie Alerte de niveau 3 -->
+<!ELEMENT d3palerte (tit, auteur*, phraseintro?, (refart | imag)+)>
+
+<!-- Partie etudes -->
+<!ELEMENT petude (tit, (refart | imag)*, d1petude*)>
+
+<!-- Division de partie Etude de niveau 1 -->
+<!ELEMENT d1petude (tit, auteur*, (refart | imag)*)>
+
+<!-- Partie dossier (ensemble d'etudes) -->
+<!ELEMENT pdossier (tit, (refart | imag)*)>
+
+<!-- Partie entretien -->
+<!ELEMENT pentretien (tit, (refart | imag)*)>
+
+<!-- Partie commentaires -->
+<!ELEMENT pcomment (tit, auteur*, (((refart | imag)*, danoter?) | d1pcomment+))>
+<!-- @attr sign type de signature -->
+<!ATTLIST pcomment
+	sign (aucune|complete|initiales|prenomnom|initnom|initcomplet) #IMPLIED>
+
+<!-- Division de partie Commentaire de niveau 1 -->
+<!ELEMENT d1pcomment (tit, auteur*, (((refart | imag)*, danoter?) | d2pcomment+))>
+<!-- Division de partie Commentaire de niveau 2 -->
+<!ELEMENT d2pcomment (tit, auteur*, (((refart | imag)*, danoter?) | d3pcomment+))>
+<!-- Division de partie Commentaire de niveau 3 -->
+<!ELEMENT d3pcomment (tit, auteur*, (refart | imag)*)>
+<!-- Division de partie Commentaire de niveau 'à noter ègalement' -->
+<!ELEMENT danoter (tit, auteur*, (refart | imag)*)>
+
+<!-- Partie chronique -->
+<!ELEMENT pchronique (tit, (refart | imag)*)>
+
+<!-- Partie formule (ex : formule du mois) -->
+<!ELEMENT pformule (tit, (refart | imag)*)>
+
+<!-- Partie fiches pratiques -->
+<!ELEMENT pfiprat (tit, (refart | imag)*)>
+
+<!-- Partie panorama de jurisprudence -->
+<!ELEMENT ppanojuri (surtit?, tit, auteur*, resume?, d1ppanojuri+)>
+
+<!-- Division de partie Panorama de jurisprudence de niveau 1 -->
+<!ELEMENT d1ppanojuri (surtit?, tit, auteur*, resume?, (((refart | imag)*, danoter?) | d2ppanojuri+))>
+
+<!-- Division de partie Panorama de jurisprudence de niveau 2 -->
+<!ELEMENT d2ppanojuri (surtit?, tit, auteur*, resume?, ((refart | imag)*, danoter?))>
+
+<!-- Partie texte -->
+<!ELEMENT ptexte (tit, (refart | imag)*, danoter?) >
+
+<!-- Partie indices et taux -->
+<!ELEMENT pindices (tit, (refart | imag)*)>
+
+<!-- Dossier regroupant plusieurs articles -->
+
+<!-- Historique
+	Citron 2
+	18/11/2004	CLE	Ajout de l'element org
+-->
+
+<!-- Element dossier -->
+<!ELEMENT dossier (theme?, num?, tit, (sstit1, sstit2?)?, typedoc?, (auteur|org)*, p+, sommaire, refart+, motscles, reftxt?, refsjc?, refslnf?, fnotes?) >
+<!-- @attr type type de dossier -->
+<!ATTLIST dossier
+	type (dossier) #REQUIRED>
+
+<!-- Sommaire du dossier, reprend les titres, nom d'auteur et page des dossiers -->
+<!ELEMENT sommaire EMPTY>
+
+<!-- Partie thematiques -->
+<!ELEMENT ptheme (tit, auteur*, (refart | imag | danoter)*, d1ptheme*)>
+<!-- Division de partie thématique de niveau 1 -->
+<!ELEMENT d1ptheme (tit, auteur*, (refart | imag | danoter)*, d2ptheme*)>
+<!-- Division de partie thématique de niveau 2 -->
+<!ELEMENT d2ptheme (tit, auteur*, (refart | imag | danoter)*, d3ptheme*)>
+<!-- Division de partie thématique de niveau 3 -->
+<!ELEMENT d3ptheme (tit, auteur*, (refart | imag | danoter)*)>
+
+<!-- partie DO -->
+<!ELEMENT pdo (tit,(refart | imag | d1pdo | d2pdo)*)>
+<!-- Division de partie DO de niveau 1 -->
+<!ELEMENT d1pdo (tit,(refart | imag | d2pdo)*)>
+<!-- Division de partie DO de niveau 2 -->
+<!ELEMENT d2pdo (tit,(refart | imag)*)>
+
+<!-- Phrase d'introduction. -->
+<!ELEMENT phraseintro (al*)>
+
+
+<!-- Partie pour le nouveau JCP G (mai 2009) -->
+<!ELEMENT pjcpg (tit, auteur*, (refart | imag)*, d1pjcpg*)>
+<!-- Division de partie JCP G de niveau 1 -->
+<!ELEMENT d1pjcpg (tit, auteur*, (refart | imag)*, d2pjcpg*)>
+<!-- Division de partie JCP G de niveau 2 -->
+<!ELEMENT d2pjcpg (tit, auteur*, (refart | imag)*)>
+
+<!-- Partie genrique -->
+<!ELEMENT prevue (tit, auteur*, (refart | imag)*, d1prevue*)>
+<!-- Division de partie generique de niveau 1 -->
+<!ELEMENT d1prevue (tit, auteur*, (refart | imag)*, d2prevue*)>
+<!-- Division de partie generique de niveau 2 -->
+<!ELEMENT d2prevue (tit, auteur*, (refart | imag)*, d3prevue*)>
+<!-- Division de partie generique de niveau 3 -->
+<!ELEMENT d3prevue (tit, auteur*, (refart | imag)*)>

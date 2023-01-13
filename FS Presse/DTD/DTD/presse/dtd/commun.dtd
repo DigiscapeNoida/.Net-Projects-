@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- Historique
+
+	08/04/2004	CLE	Modification du modele de contenu de sstit1 et sstit2
+							Ajout du modele de contenu de sstit2
+							Ajout de "exergue | tab | imag" dans le modele de contenu de pn
+	28/04/2004	CLE	Ajout des emphases et appels de note dans tinoye
+	15/06/2004	CLE	Ajout d'un niveau optionel pour regrouper tc et tnc dans reftxt
+	15/07/2004	CLE	Ajout des appels de note dans les emphase
+	10/10/2004	CLE	Ajout des equations dans les alineas
+	16/11/2004	CLE	Ajout de l'attribut langue a resume (revue Clunet)
+
+	Citron 2
+	20/10/2004	CLE	Ajout de l'element surtit
+							Possibilite de rendre le theme invisible
+							Ajout du sous theme
+	15/11/2004	CLE	Appels de note peuvent etre invisibles
+							Ajout des renvois dans les emphases
+							Ajout de l'element <org> pour les collectifs d'auteurs
+	03/01/2005	CLE	Suppression de l'element ref ancienement utilise dans somjur
+	10/01/2005	CLE	Modification des declarations d'entites
+							Ajout de <id> de l'article dans les <metaart>
+							Ajout des parties <refsource> pour les reponses ministerielles
+							Ajout de <jchambre> pour le refsource pour jurisprudence
+	14/01/2005	CLE	Ajout de la particule du nom d'auteur
+							Ajout des attributs jour, mois, annee a daterev
+							Suppression des parties <refsource> pour les reponses ministerielles (integree a docadm)
+	19/01/2005	CLE	Ajout de introaut pour les institutions
+							Suppression de l'element source
+							Suppression de l'element form
+	24/01/2005	CLE	Ajout de tboi (attribut et element) pour refsource
+							Ajout des attributs rs_texte, rs_docadm et rs_juris dans refsourcebase
+	27/01/2005	CLE	Suppression du champs <metaart><id>
+	31/01/2005	CLE	Renommage de <jchambre> en jformation
+							Suppression de l'element tsource, qui devient attribut de refsource
+							Ajout de l'attribut type a auteur (valeurs principal ou autre)
+	04/02/2005	SLE	Ajout de la valeur pourallerplusloin dans l'attribut type de nb-bl
+	14/02/2005	CLE	Ajout du refsource dans les references inline
+							Ajout de la valeur d'attribut commissairegvt dans auteur
+							Ajout d'un titre optionel au resume
+	16/02/2005	CLE	Ajout de l'attribut emev a l'element cita-bl
+	17/03/2005	CLE	Ajout de la valeur d'attribut bioexpress a nb-bl
+							Ajout de mc5 et mc6 pour les mots cles
+	29/03/2005	CLE	Ajout de jtitre dans le refsource
+							Ajout des renvois dans les motscles et la relance
+	07/04/2005	CLE	Ajout des renvois dans les tinoye
+	15/04/2005	CLE	Ajout des tables dans les nb-bl
+							Ajout d'un titre optionnel a nb-bl
+	18/04/2005	CLE	Alinea ou alineas de formules en contenu des listes
+	01/06/2005	CLE	Ajout de la valeur d'attribut type a nb-bl : exempledeclause, attention
+							Ajout d'un attribut type a imag
+	30/06/2005	CLE	Autoriser tout type de renvois la ou certains types etaient autorises
+	28/07/2005	CLE	Possibilite de rendre le refsource invisible*
+	30/08/2005	CLE	Ajout de l'emph4
+							Autoriser les renvois dans <entry>
+							Autoriser les renvois dans <exergue>
+	06/09/2005	CLE	Ajout de l'attribut invisible a l'element <num>
+	15/03/2006	CLE	Ajout de la possibilite d'avoir des renvois dans refslnf
+	
+	11/04/2006  VDZ Autorisé arg dans il, pn et p
+	11/04/2006  VDZ Défini emph6, emph5, exp
+	11/04/2006  VDZ Ajouté attributs trame et encadré sur al et pn
+	11/04/2006  VDZ Ajouté valeur fleche à ti/@typenum
+	12/04/2006  VDZ Ajouté eqn dans emph1
+	13/04/2006  VDZ Ajouté tab dans il
+	13/04/2006  VDZ Ajouté emph5 dans emph1
+	14/04/2006  VDZ Ajoute @typenum à al
+	14/06/2006	CLE	Ajout des valeurs prealable et remarqueprealable dans l'attribut type de nb-bl
+	22/11/2006	CLE	Ajout des valeurs caspart, notabene, observations dans l'attribut type de nb-bl (valeurs dans arg)
+	31/06/2007	CLE	Ajout de la possibilite d'avoir des tables dans cita-bl
+	20/04/2009	CLE	Ajout de la valeur d'attribut type a nb-bl : encadre
+	06/04/2011	CLE	Ajout de l'element combid dans metaart
+
+-->
+
+<!ENTITY % xouinon "CDATA" >
+<!ENTITY % xoui    "1" >
+<!ENTITY % xnon    "0" >
+
+<!ENTITY % ouinon "(oui|non)" >
+<!ENTITY % oui    "oui" >
+<!ENTITY % non    "non" >
+
+
+<!-- ==================================================
+     Modeles de contenus de type texte
+================================================== -->
+
+<!-- Texte des renvois -->
+<!ENTITY  % txtrenv "rtc|rtnc|rdec|rbiblio|rquid|rjc|rintra|rpubl|rjo|rjd|rccons">
+
+<!ENTITY  % txtemph "emph1|emph2|emph3|emph4|emph5|emph6">
+
+
+<!-- ==================================================
+     Les elements textuels de haut niveau
+================================================== -->
+
+<!-- Elements de contenu -->
+
+<!-- gras -->
+<!ELEMENT emph1  (#PCDATA|apnd|%txtrenv;|eqn|emph5)* >
+
+<!-- italique -->
+<!ELEMENT emph2  (#PCDATA|apnd|%txtrenv;)* >
+
+<!-- gras-italique -->
+<!ELEMENT emph3  (#PCDATA|apnd|%txtrenv;)* >
+
+<!-- Texte dans la couleur de la revue -->
+<!ELEMENT emph4  (#PCDATA|emph1|emph2|emph3|apnd|%txtrenv;)* >
+
+<!-- Texte souligné. -->
+<!ELEMENT emph5  (#PCDATA|apnd|%txtrenv;|emph1|emph2|emph3|emph4)* >
+
+<!-- Texte gras dans un tableau (à confirmer) -->
+<!ELEMENT emph6  (#PCDATA|apnd|%txtrenv;|emph1|emph2|emph3|emph4|emph5|gfilet|gxfilet)* >
+
+<!-- Texte en exposant. -->
+<!ELEMENT exp    (#PCDATA) >
+
+
+<!-- Relance : Texte tague dans un alinea repris en marge de la page -->
+<!ELEMENT relance  (#PCDATA | %txtemph; | %txtrenv;)*>
+
+<!--Citation in-line en romain, ex : doctrine
+Les guillemets seront saisis par les auteurs.-->
+<!ELEMENT cita-in  (#PCDATA | emph1 | %txtrenv;)* >
+
+<!-- Citation texte en italique, ex : texte de loi.
+Les guillemets seront saisis par les auteurs.-->
+<!ELEMENT cita-tx  (%txtemph; | %txtrenv; | ref-in | apnd)+ >
+
+<!-- Alinea -->
+
+<!-- Paragraphe simple -->
+<!ELEMENT  p   (al | exergue | tab | imag | cita-bl | nb-bl | arg | gfilet | gxfilet)+>
+
+<!-- @attr type type de paragraphe (texte genere en cas de nouveaute ou de jurisprudence) (DO)
+	 -->
+<!ATTLIST  p
+	type        (nvo | jp | none)  #IMPLIED
+	fleche      (oui | non) "non" 
+	>
+
+
+<!-- Paragraphe numerote -->
+<!ELEMENT  pn   (numpn?, (tinoye |al | nb-bl | cita-bl | exergue | tab | imag | arg | gfilet | gxfilet)+)>
+
+<!-- @attr type type de paragraphe 
+     @attr trame paragraphe tramé si 'on'
+     @attr encadre paragraphe encadré si 'yes'
+     @attr type type de paragraphe (texte genere en cas de nouveaute ou de jurisprudence) (DO)
+     -->
+<!ATTLIST  pn
+	trame		(on | off)	"off"
+	encadre		(yes | no)	"no" 
+	type        (nvo | jp | none)  #IMPLIED
+	>
+
+<!-- Numero du pn quand celui ci n'est pas automatique incremental -->
+<!ELEMENT numpn (#PCDATA) >
+
+<!-- Alinea simple -->
+<!ELEMENT  al   (#PCDATA | %txtemph; | l | ref-in | %txtrenv; | apnd | icone | cita-in | cita-tx | relance | eqn | exp | gfilet | gxfilet)*>
+
+<!-- Type de paragraphe -->
+
+<!--
+	@attr size Taille des caracteres
+	@attr lp (a faire)
+	@attr alig Alignement du texte de l'alinea. Valeurs : right, left, center
+	@attr emev Element mis en valeur.  Correspond a une mise en page particuliere sur le produit papier.
+    @attr trame alinéa tramé si 'on'
+    @attr encadre alinéa encadré si 'yes'
+    @attr type type de paragraphe (texte genere en cas de nouveaute ou de jurisprudence) (DO)
+ -->
+<!ATTLIST  al
+	size  CDATA    #IMPLIED
+	lp  CDATA    #IMPLIED
+	alig (r | l | c)   #IMPLIED
+	emev (oui | non) "non" 
+	trame		(on | off)	"off"
+	encadre		(yes | no)	"no" 
+	type        (nvo | jp) #IMPLIED
+	>
+
+<!-- Notes -->
+
+<!-- Note de bas de page de la source -->
+<!ELEMENT  fnote   (al)+>
+
+<!-- @attr id Identifiant de la note (numero) -->
+<!ATTLIST  fnote  id  ID  #REQUIRED>
+
+<!-- Appel de note.
+Tout les composants de structure ou les unites d'information pourront contenir des appels de note -->
+<!ELEMENT  apnd   EMPTY>
+
+<!--
+	@attr refid Pointeur vers l'element fnote portant cet identifiant.
+	@attr outnum Indique si il faut imprimer le numero d'appel de note avant son contenu.
+	@attr visible Indicateur pour savoir si il faut ou non afficher l'information.
+-->
+<!ATTLIST  apnd  refid IDREF  #REQUIRED
+           outnum  (oui|non) "oui"
+           visible  (oui|non) "oui" >
+
+<!-- Ensemble des notes -->
+<!ELEMENT fnotes  (fnote)+ >
+
+<!--
+	Listes les items de liste sont precedes par une indication d'ordre (attribut).*
+	Les listes peuvent contenir des alineas. Elles sont incluses dans des alineas.
+	On saisit la numerotation des listes, elle n'est pas automatique
+-->
+<!ELEMENT  l   (il+)>
+
+<!--
+	@attr typenum Type de numerotation, signe precedent le contenu de chaque element de liste.
+	@attr noye Premier element de liste noye.
+-->
+<!ATTLIST  l typenum (tiret|etoile|puce|fleche) #IMPLIED
+	noye  (oui|non) "non">
+
+<!-- Item de liste -->
+
+<!--
+	L'item de liste est l'element minimal constitutif de la liste.
+	Il peut contenir des alineas ou d'autres listes (jusqu'a 5 niveaux).
+	Au moins 1 dans une liste pour permettre la reprise du fonds.
+-->
+<!ELEMENT  il   ((al|arg|imag|tab|gfilet|gxfilet)+ | al-f+)>
+
+<!-- REFERENCES -->
+
+<!--
+	Reference in-line.
+	Composant permettant d'identifier des references in-line de toute nature.
+	Mise en forme particuliere.
+-->
+<!ELEMENT  ref-in   (#PCDATA | %txtrenv; | refsource)*>
+
+<!-- Auteur. Contient aussi bien les references de l'auteur d'un article que celle d'une conclusion ecrite par un commissaire du gouvernement ou encore le nom d'une personne qui repond a un entretien. -->
+<!ELEMENT auteur  (imag?, introaut?, prenom, particule?, nom, qual*) >
+
+<!--
+	@attr visible Indicateur pour savoir si il faut ou non afficher l'information
+	@attr sign Attribut de formatage de la signature de l'auteur<P>
+<B>Example : </B> &lt;auteur>&lt;prenom>Jean&lt;/prenom>&lt;nom>Dupuis&lt;/nom>&lt;qual>Chercheur&lt;/qual>&lt;/auteur><BR>
+	aucune	: (rien)<BR>
+	complete	: Jean Dupuis, Chercheur<BR>
+	initiales: J.D.<BR>
+	prenomnom: Jean Dupuis<BR>
+	initnom	: J. Dupuis<BR>
+	initcomplet	: J. Dupuis, Chercheur<BR>
+<BR>
+Par defaut cette valeur est lue dans l'appel a la rubrique dans le chemin de fer
+	@attr type Conditionne dans quelles tables cet auteur apparaitra
+
+-->
+<!ATTLIST auteur
+	visible (oui | non) "oui"
+	sign (aucune | complete | initiales | prenomnom | initnom | initcomplet) #IMPLIED
+	type (principal | commissairegvt | autre) "principal" >
+
+<!-- Nom d'auteur sans particule -->
+<!ELEMENT nom  (#PCDATA | apnd)* >
+
+<!-- Particule du nom d'auteur -->
+<!ELEMENT particule  (#PCDATA) >
+
+<!-- Prenom d'auteur -->
+<!ELEMENT prenom  (#PCDATA) >
+
+<!-- Qualite d'auteur -->
+<!ELEMENT qual  (#PCDATA | apnd)* >
+
+<!-- Collectif d'auteurs / organisation -->
+<!ELEMENT org (imag?, introaut?, nomorg)* >
+
+<!--
+	@attr visible Indicateur pour savoir si il faut ou non afficher l'information.
+-->
+<!ATTLIST org
+	visible (oui|non) "oui" >
+
+<!-- Nom du collectif d'auteurs / organisation -->
+<!ELEMENT nomorg (#PCDATA|apnd)* >
+
+<!--
+	Texte introducteur de l'auteur
+	@example "par", "sous la direction de"...
+-->
+<!ELEMENT introaut (#PCDATA) >
+
+
+<!-- ==================================================
+     Les elements graphiques
+================================================== -->
+
+<!-- Image -->
+
+<!-- Element graphique (dessin, photo, graphique) de type bitmap -->
+<!ELEMENT imag  (tiimag?, legimag?, apimag)>
+
+<!--
+	@attr id Identifiant pour les liens
+	@attr type Indicateur pour la reprise des images dans les contenus electroniques. Sont repris signature et autre.
+-->
+<!ATTLIST  imag  id  ID   #IMPLIED
+        type (photoauteur|logo|signature|autre|publicite) #IMPLIED>
+
+<!-- Titre d'image -->
+<!ELEMENT tiimag (al)>
+
+<!-- Legende d'image -->
+<!ELEMENT legimag (al)>
+
+<!-- Appel de l'image -->
+<!ELEMENT apimag   EMPTY >
+
+<!--
+	@attr fic nom de fichier de l'image
+	@attr scale Rapport d'agrandissement
+	@attr rotation Rotation 0 ... 360ø
+	@attr position Position de l'image
+-->
+<!ATTLIST apimag fic  CDATA    #REQUIRED
+        scale    CDATA    #IMPLIED
+        rotation    CDATA    #IMPLIED
+        position (c|l|r) "c">
+
+<!-- Icone -->
+
+<!-- Element graphique (dessin, photo, graphique) de type bitmap mais inline -->
+<!ELEMENT icone  (#PCDATA)>
+
+<!--
+	@attr id Identifiant de l'icone
+	@attr fic fichier du graphique
+	@attr scale Rapport d'agrandissement
+	@attr rotation Rotation 0 ... 360ø
+	@attr position Position de l'image
+-->
+<!ATTLIST icone
+	id  ID    #IMPLIED
+	fic  CDATA    #REQUIRED
+	scale  CDATA    #IMPLIED
+	rotation  CDATA    #IMPLIED
+	position (c | l | r)  "c"
+>
+
+
+<!-- ==================================================
+     Les references vers la source
+================================================== -->
+
+<!--
+	Informations de la reference vers la source pour l'alimentation de la base Presse pour la generation des tables
+
+	@example <UL>
+		<LI>&lt;refsourcebase rs_juris="Cass. 1re civ., 30 juin 2004, n&deg; 01-15.964, SARL Behr France c/ St&eacute; Romay AG : Juris-Data n&deg; 2004-024351 ; JCP G 2004, IV, 2798" jjuridiction="Cass." jformation="1re civ." jdate="30 juin 2004" jidentifiant="01-15.964" jnompartie="SARL Behr France" jnompartie2="St&eacute; Romay AG" jjurisdata="2004-024351"/></LI>
+		<LI>&lt;refsourcebase rs_texte="D&eacute;cis. Commission CE, 7 janv. 2005 : JOUE n&deg;7, 11 janv.2005, p. 7" ttype="D&eacute;cis. Commission CE" tdate="7 janv. 2005" trefpub="JOUE n&deg;7, 11 janv.2005, p. 7"/></LI>
+		<LI>&lt;refsourcebase rs_texte="Instr., 17 janv. 2005 ( BOI 5 B-2&#x2013;05, 17 janv. 2005)" ttype="Instr." tdate="17 janv. 2005" tboi="BOI 5 B-2&#x2013;05"/></LI>
+		<LI>&lt;refsourcebase rs_docadm="R&eacute;p. min. n&deg;2297, 18 nov. 2002 &agrave; M. Francois Dupond (JOAN Q, 18 nov. 2001, p. 1337)" datype="R&eacute;p. min." danumero="2297" dadate="18 nov. 2002" darefpub="JOAN Q, 18 nov. 2001, p. 1337" daprenomaut="Francois" danomaut="Dupond"/></LI>
+	</UL>
+-->
+<!ELEMENT refsourcebase  EMPTY >
+
+<!--
+	@attr rs_juris Element englobant les references a la juridiction
+	@attr jjuridiction Juridiction (CASS, Tribunal...)
+	@attr jformation Formation en complement de la juridiction (1er chambre...)
+	@attr jville Siege de l'instance
+	@attr jdate Date de la decision
+	@attr jidentifiant Numero de pourvoi
+	@attr jnompartie Nom de la partie
+	@attr jnompartie2 Nom de la seconde partie
+	@attr jjurisdata Numero Jurisdata
+	@attr jtitre (a faire)
+	@attr rs_texte Element englobant les references a la legislation
+	@attr tsource Source d'un texte, utilise dans une revue pour categoriser les references des textes
+	@attr ttype Type de texte (code, loi...)
+	@attr tnumero Numero d'article du code ou numero de loi
+	@attr tdate Date du texte
+	@attr ttitre Intitule complet du texte
+	@attr trefpub Reference de publication au JO
+	@attr tboi Reference Bulletin Officiel des Impots pour les instructions fiscales
+	@attr rs_docadm Element englobant les references a la doctrine administrative
+	@attr datype Type
+	@attr danumero Numero
+	@attr dadate Date
+	@attr datitre (a faire)
+	@attr darefpub Reference de publication
+	@attr daprenomaut Nom de l'auteur (la personne a qui a ete posee la question)
+	@attr danomaut Prenom de l'auteur (la personne a qui a ete posee la question)
+	@attr dapage Numero de page
+-->
+<!ATTLIST refsourcebase
+	rs_juris CDATA #IMPLIED
+	jjuridiction CDATA #IMPLIED
+	jformation CDATA #IMPLIED
+	jville CDATA #IMPLIED
+	jdate CDATA #IMPLIED
+	jidentifiant CDATA #IMPLIED
+	jnompartie CDATA #IMPLIED
+	jnompartie2 CDATA #IMPLIED
+	jjurisdata CDATA #IMPLIED
+	jtitre CDATA #IMPLIED
+
+	rs_texte CDATA #IMPLIED
+	tsource CDATA #IMPLIED
+	ttype CDATA #IMPLIED
+	tnumero CDATA #IMPLIED
+	tdate CDATA #IMPLIED
+	ttitre CDATA #IMPLIED
+	trefpub CDATA #IMPLIED
+	tboi CDATA #IMPLIED
+
+	rs_docadm CDATA #IMPLIED
+	datype CDATA #IMPLIED
+	danumero CDATA #IMPLIED
+	dadate CDATA #IMPLIED
+	datitre CDATA #IMPLIED
+	darefpub CDATA #IMPLIED
+	daprenomaut CDATA #IMPLIED
+	danomaut CDATA #IMPLIED
+	dapage CDATA #IMPLIED
+>
+
+<!-- Juridiction (CASS, Tribunal...) -->
+<!ELEMENT jjuridiction (#PCDATA) >
+
+<!-- Formation en complement de la juridiction (1er chambre...) -->
+<!ELEMENT jformation (#PCDATA) >
+
+<!-- Siege de l'instance -->
+<!ELEMENT jville (#PCDATA) >
+
+<!-- Date de la decision -->
+<!ELEMENT jdate (#PCDATA) >
+
+<!-- Numero de pourvoi -->
+<!ELEMENT jidentifiant (#PCDATA) >
+
+<!-- Nom de la partie -->
+<!ELEMENT jnompartie (#PCDATA) >
+
+<!-- Nom de la seconde partie -->
+<!ELEMENT jnompartie2 (#PCDATA) >
+
+<!-- Numero Jurisdata -->
+<!ELEMENT jjurisdata (#PCDATA) >
+
+<!-- (a faire) -->
+<!ELEMENT jtitre (#PCDATA) >
+
+<!-- Type de texte (code, loi...) -->
+<!ELEMENT ttype (#PCDATA) >
+
+<!-- Numero d'article du code ou numero de loi -->
+<!ELEMENT tnumero (#PCDATA) >
+
+<!-- Date du texte -->
+<!ELEMENT tdate (#PCDATA) >
+
+<!-- Intitule complet du texte -->
+<!ELEMENT ttitre (#PCDATA) >
+
+<!-- Reference de publication au JO -->
+<!ELEMENT trefpub (#PCDATA) >
+
+<!-- Reference Bulletin Officiel des Impots pour les instructions fiscales -->
+<!ELEMENT tboi (#PCDATA) >
+
+<!-- Type -->
+<!ELEMENT datype (#PCDATA) >
+
+<!-- Numero -->
+<!ELEMENT danumero (#PCDATA) >
+
+<!-- Date -->
+<!ELEMENT dadate (#PCDATA) >
+
+<!-- (a faire) -->
+<!ELEMENT datitre (#PCDATA) >
+
+<!-- Reference de publication -->
+<!ELEMENT darefpub (#PCDATA) >
+
+<!-- Prenom de l'auteur (la personne a qui a ete posee la question) -->
+<!ELEMENT daprenomaut (#PCDATA) >
+
+<!-- Nom de l'auteur (la personne a qui a ete posee la question) -->
+<!ELEMENT danomaut (#PCDATA) >
+
+<!-- Numero de page dans le JOAN -->
+<!ELEMENT dapage (#PCDATA) >
+
+<!-- Element englobant les references a la juridiction -->
+<!ELEMENT rs_juris (#PCDATA | jjuridiction | jformation | jville | jdate | jidentifiant | jnompartie | jnompartie2 | jjurisdata | jtitre)* >
+
+<!-- Element englobant les references a la legislation -->
+<!ELEMENT rs_texte (#PCDATA | ttype | tnumero | tdate | ttitre | trefpub | tboi)* >
+
+<!-- Element englobant les references a la doctrine administrative -->
+<!ELEMENT rs_docadm (#PCDATA | datype | danumero | dadate | datitre | darefpub | daprenomaut | danomaut | dapage)* >
+
+<!--
+	Reference vers la source
+
+	@example <UL>
+		<LI>&lt;refsource type="jurisprudence">&lt;rs_juris>&lt;jjuridiction>Cass.&lt;/jjuridiction> &lt;jformation>1re civ.&lt;/jformation>, &lt;jdate>30 juin 2004&lt;/jdate>, n&deg; &lt;jidentifiant>01-15.964&lt;/jidentifiant>, &lt;jnompartie>SARL Behr France&lt;/jnompartie> c/ &lt;jnompartie2>St&eacute; Romay AG&lt;/jnompartie2> : Juris-Data n&deg; &lt;jjurisdata>2004-024351&lt;/jjurisdata> ; JCP G 2004, IV, 2798&lt;/rs_juris>&lt;/refsource> </LI>
+		<LI>&lt;refsource type="texte">&lt;rs_texte>&lt;ttype>D&eacute;cis. Commission CE&lt;/ttype>, &lt;tdate>7 janv. 2005&lt;/tdate> : &lt;trefpub>JOUE n&deg;7, 11 janv.2005, p. 7&lt;/trefpub>&lt;/rs_texte>&lt;/refsource></LI>
+		<LI>&lt;refsource type="texte">&lt;rs_texte>&lt;ttype>Instr.&lt;/ttype>, &lt;tdate>17 janv. 2005&lt;/tdate> ( &lt;tboi>BOI 5 B-2&ndash;05&lt;/tboi>, 17 janv. 2005)&lt;/rs_texte>&lt;/refsource></LI>
+		<LI>&lt;refsource type="repmin">&lt;rs_docadm>&lt;datype>R&eacute;p. min.&lt;/datype> n&deg;&lt;danumero>2297&lt;/danumero>, &lt;dadate>18 nov. 2002&lt;/dadate> &agrave; M. &lt;daprenomaut>Francois&lt;/daprenomaut> &lt;danomaut>Dupond&lt;/danomaut> (&lt;darefpub>JOAN Q, 18 nov. 2001, p. 1337&lt;/darefpub>)&lt;/rs_docadm>&lt;/refsource></LI>
+	</UL>
+-->
+<!ELEMENT refsource  (#PCDATA | refsourcebase | rs_juris | rs_texte | rs_docadm | %txtrenv;)*>
+
+<!--
+	@attr type Type de reference.
+	@attr tsource Source d'un texte, utilise dans une revue pour categoriser les references des textes<BR>
+<B>Example : </B>Commission, Premier ministre, VII Legislature
+	@attr extrait Indicateur qu'il s'agit d'un extrait. Utilise pour les tables.
+	@attr rectif Indicateur qu'il s'agit d'un rectificatif. Utilise pour les tables.
+	@attr visible Indicateur pour savoir si il faut ou non afficher l'information.
+-->
+<!ATTLIST refsource
+	type (doctrine | jurisprudence | texte | repmin | instrfiscale | circulaire | communique | internet | autre) #REQUIRED
+	tsource CDATA #IMPLIED
+	extrait (oui | non) "non"
+	rectif  (oui | non) "non"
+	visible (oui | non) "oui" >
+
+<!-- Reference electronique -->
+<!--ELEMENT eref  (#PCDATA) -->
+
+
+<!-- ==================================================
+     Autres elements (a faire)
+================================================== -->
+
+<!-- Texte mis en exergue -->
+<!ELEMENT exergue  (#PCDATA | %txtrenv;)*>
+
+<!-- Equation simple -->
+<!ELEMENT eqn  (#PCDATA | emph1 | emph2 | %txtrenv; | fraction | apnd)* >
+
+<!-- Fraction dans une equation -->
+<!ELEMENT fraction  (n,d) >
+
+<!-- Numerateur de fraction -->
+<!ELEMENT n  (#PCDATA | emph1 | emph2 | %txtrenv; | fraction | apnd)* >
+
+<!-- Denominateur de fraction -->
+<!ELEMENT d  (#PCDATA | emph1 | emph2 | %txtrenv; | fraction | apnd)* >
+
+<!-- Numero de l'element -->
+<!ELEMENT num  (#PCDATA) >
+
+<!--
+	@attr visible Indicateur pour savoir si il faut ou non afficher l'information.
+-->
+<!ATTLIST num
+	visible (oui|non) "oui" >
+
+<!-- Theme commun a plusieurs elements -->
+<!ELEMENT theme  (al)>
+
+<!--
+	@attr visible Indicateur pour savoir si il faut ou non afficher l'information.
+-->
+<!ATTLIST theme
+	visible (oui|non) "oui" >
+
+<!-- Sous theme (commentaires de RDF uniquement) -->
+<!ELEMENT sstheme  (al)>
+
+<!-- Titre -->
+<!ELEMENT tit  (al)>
+
+<!-- Intertitre -->
+<!ELEMENT intertit  (al)>
+
+<!-- Sous titre de niveau 1 -->
+<!ELEMENT sstit1  (al) >
+
+<!-- Sous titre de niveau 2 -->
+<!ELEMENT sstit2  (al) >
+
+<!-- Sur titre -->
+<!ELEMENT surtit  (al)>
+
+<!-- Titre noye -->
+<!ELEMENT tinoye  (#PCDATA | %txtemph; | %txtrenv; | apnd | gfilet | gxfilet)*>
+
+<!-- Bloc de citation -->
+<!ELEMENT cita-bl (ligpoint | al | intertit | tab)+>
+
+<!-- Attribut de presentation du bloc de citation
+	@attr emev Extrait mis en valeur (correspond generalement a un cadre ou un grise)
+ -->
+<!ATTLIST cita-bl
+	emev (oui | non) "non" >
+
+<!-- Ligne de points -->
+<!ELEMENT ligpoint  EMPTY>
+
+<!-- Listes de mots cles -->
+<!ELEMENT motscles  (mc+)>
+
+<!-- Serie de mot cles organises en niveaux -->
+<!ELEMENT mc  (mc1, (mc2, (mc3, (mc4, (mc5, mc6?)?)?)?)?)>
+
+<!--
+	@attr visible Indicateur pour savoir si il faut ou non afficher l'information.
+-->
+<!ATTLIST motscles
+	visible (oui|non) "oui">
+
+<!-- Mot cle de niveau 1 -->
+<!ELEMENT mc1  (#PCDATA | %txtrenv;)*>
+
+<!-- Mot cle de niveau 2 -->
+<!ELEMENT mc2  (#PCDATA | %txtrenv;)*>
+
+<!-- Mot cle de niveau 3 -->
+<!ELEMENT mc3  (#PCDATA | %txtrenv;)*>
+
+<!-- Mot cle de niveau 4 -->
+<!ELEMENT mc4  (#PCDATA | %txtrenv;)*>
+
+<!-- Mot cle de niveau 5 -->
+<!ELEMENT mc5  (#PCDATA | %txtrenv;)*>
+
+<!-- Mot cle de niveau 6 -->
+<!ELEMENT mc6  (#PCDATA | %txtrenv;)*>
+
+<!-- Renvoi vers les collection JC -->
+<!ELEMENT refsjc  (#PCDATA | %txtrenv;)*>
+
+<!-- Renvois un quelconque fonds JC -->
+<!ELEMENT refslnf (#PCDATA | %txtrenv;)*>
+
+<!-- Renvois vers un texte -->
+<!ELEMENT reftxt  (#PCDATA | reftc | reftnc | %txtrenv;)*>
+
+<!-- Partie TC des renvois vers un texte -->
+<!ELEMENT reftc  (#PCDATA | %txtrenv;)*>
+
+<!-- Partie TNC des renvois vers un texte -->
+<!ELEMENT reftnc  (#PCDATA | %txtrenv;)*>
+
+<!-- Renvois (dem DBA) (à vérifier) -->
+<!--ELEMENT ref  (%txtrenv;)+-->
+
+<!-- Type de document (etude, formule, conseil...) texte affiche -->
+<!ELEMENT typedoc  (#PCDATA | apnd)* >
+
+<!-- Bloc nota bene (remarque, rappel...) -->
+<!ELEMENT nb-bl (tit?, (al | imag | tab)+)>
+
+<!--
+	@attr titre Generation d'un titre en fonction de cette valeur
+-->
+<!ATTLIST nb-bl
+	titre (remarque | conseilpratique | exemple | pourallerplusloin | bioexpress | exempledeclause | attention | prealable | remarqueprealable | caspart | notabene | observations | encadre) #REQUIRED>
+
+<!-- Ensemble d'annexes -->
+<!ELEMENT annexes (annexe | formule)+>
+
+<!-- Annexe -->
+<!ELEMENT annexe (tit?, (p | intertit | tab | imag | refsource)+)>
+
+
+<!-- ==================================================
+     Les meta donnees d'un article
+================================================== -->
+
+<!-- Meta donnees d'un article -->
+<!ELEMENT metaart (publ+, combid?, fichierlie*, matiere*)>
+
+<!-- Meta donnees de publication -->
+<!ELEMENT publ  (nomrev, daterev, revnumr, revnumrsup?, numeltr, partrev, pagerev, (partie, (d1par, (d2par, d3par?)?)?), dapar?, obs?) >
+
+<!-- Reprise du titre de partie dans le chemin de fer -->
+<!ELEMENT partie (#PCDATA)>
+
+<!-- numéro de revue supplémentaire -->
+<!ELEMENT revnumrsup (#PCDATA)>
+
+<!-- Reprise du titre de la division de partie dans le chemin de fer -->
+<!ELEMENT d1par (#PCDATA)>
+
+<!-- Reprise du titre de la sous division de partie dans le chemin de fer -->
+<!ELEMENT d2par (#PCDATA)>
+
+<!-- Reprise du titre de la sous sous division de partie dans le chemin de fer -->
+<!ELEMENT d3par (#PCDATA)>
+
+<!-- Reprise du titre de la sous partie "A noter egalement" dans le chemin de fer -->
+<!ELEMENT dapar (#PCDATA)>
+
+<!-- Resume d'un commentaire ou d'une etude -->
+<!ELEMENT resume (tit?, p+)>
+
+<!--
+	@attr langue Langue dans laquelle est ecrite un resume. Maquetage different.
+-->
+<!ATTLIST resume
+	langue (en | fr | es | de) #IMPLIED >
+
+<!-- Identifiant referenctiel, combining ID -->
+<!ELEMENT combid (#PCDATA)>
+
+<!-- <b>Définition</b> : fichier lie -->
+<!ELEMENT fichierlie EMPTY >
+<!--
+@attr nomfichier : nom du fichier lie
+@attr URI : URI d'acces au fichier dans le SMS Kepler
+@attr typemime : type mime du fichier lie (ex : application/pdf)
+@att smi : valeur associee au service d'acces aux documents attaches Apollo
+-->
+<!ATTLIST fichierlie
+	nomfichier CDATA #REQUIRED
+	URI CDATA #REQUIRED
+	typemime CDATA #REQUIRED
+	smi CDATA #IMPLIED
+>
+
+<!-- <b>Définition</b> : matiere pour les pack -->
+<!ELEMENT matiere EMPTY >
+<!--
+@attr code : libelle de la matiere suivi de son code entité
+-->
+<!ATTLIST matiere
+	code (affaires_thm125748 | civil_thm136153 | comptabilite_thm799265 | douanes_thm799266 | droit-international_thm381441
+		| europe_thm751300 | fiscal_thm378261 | penal_thm382830 | procedure_thm139313 | profession_thm738806
+		| public_thm482041 | social_thm353322) #REQUIRED
+>
+
+<!-- ==================================================
+     Les tables
+================================================== -->
+
+<!-- ...................................................................... -->
+
+<!-- DocBook XML CALS Table Model V4.0 .................................... -->
+
+<!-- File calstblx.mod .................................................... -->
+
+<!-- Copyright 1992-2000 HaL Computer Systems, Inc.,
+     O'Reilly & Associates, Inc., ArborText, Inc., Fujitsu Software
+     Corporation, Norman Walsh and the Organization for the Advancement
+     of Structured Information Standards (OASIS).
+
+     This DTD is based on the CALS Table Model
+     PUBLIC "-//USA-DOD//DTD Table Model 951010//EN"
+
+     $Id: calstblx.dtd,v 1.5 2000/04/10 19:43:19 nwalsh Exp $
+
+     Permission to use, copy, modify and distribute the DocBook XML DTD
+     and its accompanying documentation for any purpose and without fee
+     is hereby granted in perpetuity, provided that the above copyright
+     notice and this paragraph appear in all copies.  The copyright
+     holders make no representation about the suitability of the DTD for
+     any purpose.  It is provided "as is" without expressed or implied
+     warranty.
+
+     If you modify the DocBook XML DTD in any way, except for declaring and
+     referencing additional sets of general entities and declaring
+     additional notations, label your DTD as a variant of DocBook.  See
+     the maintenance documentation for more information.
+
+   Minor changes were made to this DTD module to correct some things
+   that were valid SGML but invalid XML.  2002 May 2ff, pbg, Arbortext:
+	- use %tbl.table.name; (it was declared but never used)
+	- set %tbl.table.name; to a single name instead of a name group
+	- reorder the definition of %tbl.entry.mdl; so that the #PCDATA
+	  from %paracon; is at the beginning of the or-group and there
+	  isn't an extra level of parens that is invalid in XML.
+
+     Please direct all questions, bug reports, or suggestions for
+     changes to the docbook@lists.oasis-open.org mailing list. For more
+     information, see http://www.oasis-open.org/docbook/.
+-->
+
+<!-- ...................................................................... -->
+
+<!-- This module contains the definitions for the CALS Table Model
+     converted to XML.
+-->
+
+<!-- These definitions are not directly related to the table model, but are
+     used in the default CALS table model and are usually defined elsewhere
+     (and prior to the inclusion of this table module) in a CALS DTD. -->
+
+<!ENTITY % bodyatt "">
+<!ENTITY % secur "">
+
+<!-- no if zero(s),
+                                yes if any other digits value -->
+
+<!ENTITY % yesorno 'CDATA'>
+<!ENTITY % titles  ''>
+
+<!-- default for use in entry content -->
+
+<!ENTITY % paracon '#PCDATA'>
+
+<!--
+The parameter entities as defined below provide the CALS table model
+as published (as part of the Example DTD) in MIL-HDBK-28001.
+
+These following declarations provide the CALS-compliant default definitions
+for these entities.  However, these entities can and should be redefined
+(by giving the appropriate parameter entity declaration(s) prior to the
+reference to this Table Model declaration set entity) to fit the needs
+of the current application.
+-->
+
+<!ENTITY % tbl.table.name       "table">
+<!ENTITY % tbl.table-titles.mdl "">
+<!ENTITY % tbl.table-main.mdl   "(tgroup+)">
+<!ENTITY % tbl.table.mdl        "%tbl.table-titles.mdl; %tbl.table-main.mdl;">
+<!ENTITY % tbl.table.att        '
+    tabstyle    CDATA           #IMPLIED
+    tocentry    %yesorno;       #IMPLIED
+    shortentry  %yesorno;       #IMPLIED
+    orient      (port|land)     #IMPLIED
+    pgwide      %yesorno;       #IMPLIED '>
+<!ENTITY % tbl.tgroup.mdl       "colspec*,spanspec*,thead?,tfoot?,tbody">
+<!ENTITY % tbl.tgroup.att       '
+    tgroupstyle CDATA           #IMPLIED '>
+<!ENTITY % tbl.hdft.mdl         "colspec*,row+">
+<!ENTITY % tbl.row.mdl          "(entry|entrytbl)+">
+<!ENTITY % tbl.entrytbl.mdl     "colspec*,spanspec*,thead?,tbody">
+<!ENTITY % tbl.entry.mdl        "%paracon;|al|al-f|%txtrenv;|arg|d1entry|d2entry|imag">
+
+
+<!-- =====  Element and attribute declarations follow. =====  -->
+
+<!-- Table -->
+<!ELEMENT %tbl.table.name; (%tbl.table.mdl;)>
+
+<!--
+	@attr frame Cadre autour de la table
+	@attr colsep Filet de separation entre les colonnes
+	@attr rowsep Filet de separation entre les lignes
+	@attr tabstyle Style de table pour le maquetage
+	@attr tocentry (a faire)
+	@attr shortentry (a faire)
+	@attr orient Orientation de la table par rapport a la page
+	@attr pgwide Table en pleine page ou non
+-->
+<!ATTLIST %tbl.table.name;
+        frame           (top|bottom|topbot|all|sides|none)      #IMPLIED
+        colsep          %yesorno;                               #IMPLIED
+        rowsep          %yesorno;                               #IMPLIED
+        %tbl.table.att;
+        %bodyatt;
+        %secur;
+>
+
+<!-- Definition des formats de colonnes, header... -->
+<!ELEMENT tgroup (%tbl.tgroup.mdl;) >
+
+<!--
+	@attr cols Nombre de colonnes de la table
+	@attr tgroupstyle (a faire)
+	@attr colsep Separateur de colonnes
+	@attr rowsep Separateur de lignes
+	@attr align Alignement du texte dans la table
+	@attr char Caractere qui sera utilisé pour identifier le début du retrait si align = char
+	@attr charoff Pourcentage de la largeur de la colonne fixant le decalage du retrait à partir de la gauche, si align = char
+	@attr trgrsty style du tgroup
+-->
+<!ATTLIST tgroup
+        cols            CDATA                                   #REQUIRED
+        %tbl.tgroup.att;
+        colsep          %yesorno;                               #IMPLIED
+        rowsep          %yesorno;                               #IMPLIED
+        align           (left|right|center|justify|char)        #IMPLIED
+        char            CDATA                                   #IMPLIED
+        charoff         CDATA                                   #IMPLIED
+        %secur;
+        tgrpsty         NMTOKEN         #IMPLIED
+>
+
+<!-- Secifications d'une colonne -->
+<!ELEMENT colspec EMPTY >
+
+<!--
+	@attr colnum Numero de la colonne
+	@attr colname Nom de la colonne
+	@attr colwidth Largeur de la colonne
+	@attr colsep Separateur de colonnes
+	@attr rowsep Separateur de lignes
+	@attr align Alignement du texte dans la table
+	@attr char Caractere qui sera utilisé pour identifier le début du retrait si align = char
+	@attr charoff Pourcentage de la largeur de la colonne fixant le decalage du retrait à partir de la gauche, si align = char
+-->
+<!ATTLIST colspec
+        colnum          CDATA                                   #IMPLIED
+        colname         CDATA                                   #IMPLIED
+        colwidth        CDATA                                   #IMPLIED
+        colsep          %yesorno;                               #IMPLIED
+        rowsep          %yesorno;                               #IMPLIED
+        align           (left|right|center|justify|char)        #IMPLIED
+        char            CDATA                                   #IMPLIED
+        charoff         CDATA                                   #IMPLIED
+>
+
+<!-- Specification des fusions de cellules -->
+<!ELEMENT spanspec EMPTY >
+
+<!--
+	@attr namest Nom de la premiere colonne fusionee
+	@attr nameend Nom de la derniere colonne fusionee
+	@attr spanname Nom de la fusion
+	@attr colsep Separateur de colonnes
+	@attr rowsep Separateur de lignes
+	@attr align Alignement du texte dans la table
+	@attr char Caractere qui sera utilisé pour identifier le début du retrait si align = char
+	@attr charoff Pourcentage de la largeur de la colonne fixant le decalage du retrait à partir de la gauche, si align = char
+-->
+<!ATTLIST spanspec
+        namest          CDATA                                   #REQUIRED
+        nameend         CDATA                                   #REQUIRED
+        spanname        CDATA                                   #REQUIRED
+        colsep          %yesorno;                               #IMPLIED
+        rowsep          %yesorno;                               #IMPLIED
+        align           (left|right|center|justify|char)        #IMPLIED
+        char            CDATA                                   #IMPLIED
+        charoff         CDATA                                   #IMPLIED
+>
+
+<!-- Header de la table. Repris en haut de chaque nouvelle page -->
+<!ELEMENT thead (%tbl.hdft.mdl;)>
+
+<!--
+	@attr valign Alignement vertical du texte dans la table
+-->
+<!ATTLIST thead
+        valign          (top|middle|bottom)                     #IMPLIED
+        %secur;
+>
+
+<!-- Pas de page de la table. Repris en bas de chaque nouvelle page --> 
+<!ELEMENT tfoot (%tbl.hdft.mdl;)>
+
+<!--
+	@attr valign Alignement vertical du texte dans la table
+-->
+<!ATTLIST tfoot
+        valign          (top|middle|bottom)                     #IMPLIED
+        %secur;
+>
+
+<!-- Corps de la table -->
+<!ELEMENT tbody (row+)>
+
+<!--
+	@attr valign Alignement vertical du texte dans la table
+-->
+<!ATTLIST tbody
+        valign          (top|middle|bottom)                     #IMPLIED
+        %secur;
+>
+
+<!-- Ligne de la table -->
+<!ELEMENT row (%tbl.row.mdl;)>
+
+<!--
+	@attr rowsep Separateur de lignes
+	@attr valign Alignement vertical du texte dans la table
+-->
+<!ATTLIST row
+        rowsep          %yesorno;                               #IMPLIED
+        valign          (top|middle|bottom)                     #IMPLIED
+        %secur;
+>
+
+<!-- (a faire) -->
+<!ELEMENT entrytbl (%tbl.entrytbl.mdl;)>
+
+<!--
+	@attr cols Nombre de colonne
+	@attr tgroupstyle (a faire)
+	@attr colname Nom de la colonne
+	@attr spanname Nom de la fusion
+	@attr namest Nom de la premiere colonne fusionee
+	@attr nameend Nom de la derniere colonne fusionee
+	@attr colsep Separateur de colonnes
+	@attr rowsep Separateur de lignes
+	@attr align Alignement du texte dans la table
+	@attr char Caractere qui sera utilisé pour identifier le début du retrait si align = char
+	@attr charoff Pourcentage de la largeur de la colonne fixant le decalage du retrait à partir de la gauche, si align = char
+-->
+<!ATTLIST entrytbl
+        cols            CDATA                                   #REQUIRED
+        %tbl.tgroup.att;
+        colname         CDATA                                   #IMPLIED
+        spanname        CDATA                                   #IMPLIED
+        namest          CDATA                                   #IMPLIED
+        nameend         CDATA                                   #IMPLIED
+        colsep          %yesorno;                               #IMPLIED
+        rowsep          %yesorno;                               #IMPLIED
+        align           (left|right|center|justify|char)        #IMPLIED
+        char            CDATA                                   #IMPLIED
+        charoff         CDATA                                   #IMPLIED
+        %secur;
+>
+
+<!-- Cellule de la table -->
+<!ELEMENT entry (%tbl.entry.mdl;)*>
+
+<!--
+	@attr colname Nom de la colonne
+	@attr namest Nom de la premiere colonne fusionee
+	@attr nameend Nom de la derniere colonne fusionee
+	@attr spanname Nom de la fusion
+	@attr morerows (a faire)
+	@attr colsep Separateur de colonnes
+	@attr rowsep Separateur de lignes
+	@attr align Alignement du texte dans la table
+	@attr char Caractere qui sera utilisé pour identifier le début du retrait si align = char
+	@attr charoff Pourcentage de la largeur de la colonne fixant le decalage du retrait à partir de la gauche, si align = char
+	@attr rotate Rotation sur le texte dans la cellule
+	@attr valign Alignement vertical du texte dans la cellule
+-->
+
+<!ATTLIST entry
+        colname         CDATA                                   #IMPLIED
+        namest          CDATA                                   #IMPLIED
+        nameend         CDATA                                   #IMPLIED
+        spanname        CDATA                                   #IMPLIED
+        morerows        CDATA                                   #IMPLIED
+        colsep          %yesorno;                               #IMPLIED
+        rowsep          %yesorno;                               #IMPLIED
+        align           (left|right|center|justify|char)        #IMPLIED
+        char            CDATA                                   #IMPLIED
+        charoff         CDATA                                   #IMPLIED
+        rotate          %yesorno;                               #IMPLIED
+        valign          (top|middle|bottom)                     #IMPLIED
+        %secur;
+        ligdc           (oui|non)                               'non'
+        mesure           CDATA          						#IMPLIED  
+>
+
+<!-- End of DocBook XML CALS Table Model V4.0 ............................. -->
+
+<!-- ...................................................................... -->
+
+<!--  11/04/2006 VDZ Ajouté attributs position et rotation à tab 
+      11/04/2006 VDZ Ajouté attribut tgrpsty à tgroup 
+      11/04/2006 VDZ Autorisé arg dans entry
+      12/04/2006 VDZ Autorisé imag dans entry
+-->
+
+<!-- Tableau -->
+<!ELEMENT tab   ((titab, sti1tab?, sti2tab?)? , legtab?, table*)>
+
+<!ATTLIST tab
+	position	(haut | bas | marge | interne)	"interne"
+	rotation	(non | oui)			"non"
+	>
+
+
+<!-- Titre de tableau -->
+<!ELEMENT titab (al)>
+
+<!-- Sous titre de tableau de niveau 1 -->
+<!ELEMENT sti1tab (al)>
+
+<!-- Sous titre de tableau de niveau 2 -->
+<!ELEMENT sti2tab (al)>
+
+<!-- Legende de tableau -->
+<!ELEMENT legtab (al)>
+
+
+<!-- ==================================================
+     Elements de la revue DO
+================================================== -->
+
+<!-- début de filet vertical à gauche -->
+<!ELEMENT gfilet EMPTY >
+<!-- fin de filet vertical à gauche -->
+<!ELEMENT gxfilet EMPTY >
+
+<!-- texte complémentaire -->
+<!ELEMENT arg (al|tab|imag|gfilet|gxfilet)+>
+<!-- @attr typearg  type de texte complémentaire
+     @attr numarg   "oui" si le texte est numéroté
+     -->
+<!ATTLIST arg 
+	typearg		(remarque | exemple | caspart | notabene | observations)	#IMPLIED
+	numarg		(oui| non)	"non" >
+
+
+<!-- division de niveau 1 dans une cellule de tableau -->
+<!ELEMENT d1entry (tit?,(al|al-f|%txtrenv;|arg)*,d2entry*)>
+<!-- division de niveau 2 dans une cellule de tableau -->
+<!ELEMENT d2entry (tit?,(al|al-f|%txtrenv;|arg)*)>
+
+
+<!-- Alinea de formule -->
+<!ELEMENT al-f  (#PCDATA | emph2 | emph3 | ref-in | l | apnd | eqn | rtc|rtnc|rdec|rbiblio|rquid|rjc|rintra|rpubl|rjo|rjd|rccons |
+               indic-in | variante | ajout-in | zoneczi | ligpoint)* >
+<!--
+	@attr type Attribut de mise en page de l'alinea de formule
+-->
+<!ATTLIST al-f
+               type (normal | indent | retrait | centre | droit)  "normal"
+                >
+
+<!-- Formule telle que dans les collections JC -->
+<!ELEMENT formule  (tiff,somform?,observff*,((((tbase | lchoix | indic-bl |
+               artff),(tbase | lchoix | indic-bl | ajout-bl | artff)*),(divform1,(
+               divform1 | ajout-bl | lchoix)*)?) | (divform1,(divform1 | ajout-bl |
+               lchoix)*))?,an-form*) >
+<!--
+	@attr type Differentiation des formules. Correspont en general a un maquetage different
+	@attr id Identifiant de la formule
+	@attr idbdlc Identifiant dans une base de donnees (inutilise)
+-->
+<!ATTLIST formule
+               type (FORMULE | CAS | DISCOURS | MODELE)  "FORMULE"
+               id  ID    #IMPLIED
+               idbdlc  CDATA    #IMPLIED  >
+
+<!-- Titre de formule -->
+<!ELEMENT tiff  (al-f) >
+
+<!-- Sommaire de formule -->
+<!ELEMENT somform    EMPTY  >
+
+<!-- Observation en debut de formule -->
+<!ELEMENT observff  (tiff?,(al | intertit | tab | cita-bl | imag)+) >
+
+<!-- Texte de base de la formule -->
+<!ELEMENT tbase  (ligpoint | al-f | intertiff | sep | tab | imag |
+               cita-bl)+ >
+
+<!-- Titre d'article de formule -->
+<!ELEMENT tiartf  (desartf,num-art1,libartf?) >
+
+<!-- Designation d'article de formule -->
+<!ELEMENT desartf  (#PCDATA) >
+
+<!-- Numero d'article de formule -->
+<!ELEMENT num-art1  (#PCDATA) >
+
+<!-- Libelle d'article de formule -->
+<!ELEMENT libartf  (#PCDATA | emph3 | ref-in | l | apnd | eqn | rtc|rtnc|rdec|rbiblio|rquid|rjc|rintra|rpubl|rjo|rjd|rccons |
+               indic-in | variante | ajout-in | zoneczi | ligpoint)* >
+
+<!-- Division de niv1 d'article de formule -->
+<!ELEMENT niv1artff  (tiff,((((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*),(niv2artff,(niv2artff |
+               ajout-bl | lchoix)*)?) | (niv2artff,(niv2artff | ajout-bl | lchoix)*))?) >
+
+<!-- Division de niv2 d'article de formule -->
+<!ELEMENT niv2artff  (tiff,((((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*),(niv3artff,(niv3artff |
+               ajout-bl | lchoix)*)?) | (niv3artff,(niv3artff | ajout-bl | lchoix)*))?) >
+
+<!-- Division de niv3 d'article de formule -->
+<!ELEMENT niv3artff  (tiff,((((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*),(niv4artff,(niv4artff |
+               ajout-bl | lchoix)*)?) | (niv4artff,(niv4artff | ajout-bl | lchoix)*))?) >
+
+<!-- Division de niv4 d'article de formule -->
+<!ELEMENT niv4artff  (tiff,((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*)?) >
+
+<!-- Bloc d'ajout -->
+<!ELEMENT ajout-bl  (tiff,(((ligpoint | al-f | intertiff | sep |
+               tab | imag | cita-bl) | divform1 | divform2 | divform3 | divform4 |
+               artff | niv1artff | niv2artff | niv3artff | niv4artff) | indic-bl |
+               lchoix)+,pours?)>
+
+<!-- Annexe de formule -->
+<!ELEMENT an-form  (tiff,((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*)) >
+<!-- @attr id Identifiant de l'annexe de formule -->
+<!ATTLIST an-form
+               id  ID    #IMPLIED  >
+
+<!-- Indication inline -->
+<!ELEMENT indic-in  (#PCDATA | rtc|rtnc|rdec|rbiblio|rquid|rjc|rintra|rpubl|rjo|rjd|rccons | apnd)* >
+
+<!-- Variante (ou : ..) -->
+<!ELEMENT variante  (indic-in,trempl)+ >
+
+<!-- Ajout inline -->
+<!ELEMENT ajout-in  (indic-in,trempl)+ >
+
+<!-- Texte de remplacement -->
+<!ELEMENT trempl  (#PCDATA | rtc|rtnc|rdec|rbiblio|rquid|rjc|rintra|rpubl|rjo|rjd|rccons | zoneczi | apnd)* >
+
+<!-- Intetitre de formule -->
+<!ELEMENT intertiff  (al-f) >
+
+<!-- Separateur dans une formule -->
+<!ELEMENT sep   EMPTY  >
+<!-- @attr position Position du filet de separation sur la largeur de la page -->
+<!ATTLIST sep
+               position (center | left | right)  "center" >
+
+<!-- Item de choix -->
+<!ELEMENT choix  (tiff?,(((ligpoint | al-f | intertiff | sep |
+               tab | imag | cita-bl) | divform1 | divform2 | divform3 | divform4 |
+               artff | niv1artff | niv2artff | niv3artff | niv4artff) | indic-bl |
+               ajout-bl)+) >
+
+<!-- Poursuivre ensuite -->
+<!ELEMENT pours   EMPTY  >
+
+<!-- Division de niv1 de formule -->
+<!ELEMENT divform1  (tiff,((((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*),(divform2,(divform2 |
+               ajout-bl | lchoix)*)?) | (divform2,(divform2 | ajout-bl | lchoix)*))) >
+<!-- @attr id Identifiant de la division de formule -->
+<!ATTLIST divform1
+               id  ID    #IMPLIED  >
+
+<!-- Division de niv2 de formule -->
+<!ELEMENT divform2  (tiff,((((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*),(divform3,(divform3 |
+               ajout-bl | lchoix)*)?) | (divform3,(divform3 | ajout-bl | lchoix)*))) >
+<!-- @attr id Identifiant de la division de formule -->
+<!ATTLIST divform2
+               id  ID    #IMPLIED  >
+
+<!-- Division de niv3 de formule -->
+<!ELEMENT divform3  (tiff,((((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*),(divform4,(divform4 |
+               ajout-bl | lchoix)*)?) | (divform4,(divform4 | ajout-bl | lchoix)*))) >
+<!-- @attr id Identifiant de la division de formule -->
+<!ATTLIST divform3
+               id  ID    #IMPLIED  >
+
+<!-- Division de niv4 de formule -->
+<!ELEMENT divform4  (tiff,((tbase | lchoix | indic-bl | artff),(tbase |
+               lchoix | indic-bl | ajout-bl | artff)*)) >
+<!-- @attr id Identifiant de la division de formule -->
+<!ATTLIST divform4
+               id  ID    #IMPLIED  >
+
+<!-- Zone de saisie -->
+<!ELEMENT zoneczi   EMPTY  >
+
+                
+<!-- Liste de choix -->
+<!ELEMENT lchoix  (tiff?,choix,choix+,pours?) >
+
+<!-- Bloc d'indication -->
+<!ELEMENT indic-bl  (al+) >
+
+<!-- Article, rubrique, resolution de Formule -->
+<!ELEMENT artff  (tiartf,((((tbase | lchoix | indic-bl | artff),(tbase | lchoix |
+               indic-bl | ajout-bl | artff)*),(niv1artff,(niv1artff | ajout-bl |
+               lchoix)*)?) | (niv1artff,(niv1artff | ajout-bl | lchoix)*)))>
+<!-- @attr id Identifiant de l'article legislatif -->
+<!ATTLIST artff
+               id  ID    #IMPLIED  >
+
+<!-- ==================================================
+     Les renvois
+================================================== -->
+
+<!ENTITY % renvois PUBLIC "-//EJC//ELEMENTS XML des renvois presse//FR" "renvois.dtd">
+%renvois;
+
+
+<!-- ==================================================
+     Insertion des entites caractere
+================================================== -->
+
+<!ENTITY % ISOall   PUBLIC "-//EJC//ENTITIES Entites XML ISO//FR"
+                            "../ent-ejc/iso-all.xml">
+%ISOall;
+
+
+<!ENTITY euro "euro">

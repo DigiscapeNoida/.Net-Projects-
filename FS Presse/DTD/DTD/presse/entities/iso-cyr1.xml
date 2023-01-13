@@ -1,0 +1,77 @@
+<!-- (C) International Organization for Standardization 1986
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+-->
+<!-- Character entity set. Typical invocation:
+     <!ENTITY % ISOcyr1 PUBLIC
+       "ISO 8879:1986//ENTITIES Russian Cyrillic//EN">
+     %ISOcyr1;
+-->
+<!ENTITY acy    "[acy   ]"> <!--=small a, Cyrillic-->
+<!ENTITY Acy    "[Acy   ]"> <!--=capital A, Cyrillic-->
+<!ENTITY bcy    "[bcy   ]"> <!--=small be, Cyrillic-->
+<!ENTITY Bcy    "[Bcy   ]"> <!--=capital BE, Cyrillic-->
+<!ENTITY vcy    "[vcy   ]"> <!--=small ve, Cyrillic-->
+<!ENTITY Vcy    "[Vcy   ]"> <!--=capital VE, Cyrillic-->
+<!ENTITY gcy    "[gcy   ]"> <!--=small ghe, Cyrillic-->
+<!ENTITY Gcy    "[Gcy   ]"> <!--=capital GHE, Cyrillic-->
+<!ENTITY dcy    "[dcy   ]"> <!--=small de, Cyrillic-->
+<!ENTITY Dcy    "[Dcy   ]"> <!--=capital DE, Cyrillic-->
+<!ENTITY iecy   "[iecy  ]"> <!--=small ie, Cyrillic-->
+<!ENTITY IEcy   "[IEcy  ]"> <!--=capital IE, Cyrillic-->
+<!ENTITY iocy   "[iocy  ]"> <!--=small io, Russian-->
+<!ENTITY IOcy   "[IOcy  ]"> <!--=capital IO, Russian-->
+<!ENTITY zhcy   "[zhcy  ]"> <!--=small zhe, Cyrillic-->
+<!ENTITY ZHcy   "[ZHcy  ]"> <!--=capital ZHE, Cyrillic-->
+<!ENTITY zcy    "[zcy   ]"> <!--=small ze, Cyrillic-->
+<!ENTITY Zcy    "[Zcy   ]"> <!--=capital ZE, Cyrillic-->
+<!ENTITY icy    "[icy   ]"> <!--=small i, Cyrillic-->
+<!ENTITY Icy    "[Icy   ]"> <!--=capital I, Cyrillic-->
+<!ENTITY jcy    "[jcy   ]"> <!--=small short i, Cyrillic-->
+<!ENTITY Jcy    "[Jcy   ]"> <!--=capital short I, Cyrillic-->
+<!ENTITY kcy    "[kcy   ]"> <!--=small ka, Cyrillic-->
+<!ENTITY Kcy    "[Kcy   ]"> <!--=capital KA, Cyrillic-->
+<!ENTITY lcy    "[lcy   ]"> <!--=small el, Cyrillic-->
+<!ENTITY Lcy    "[Lcy   ]"> <!--=capital EL, Cyrillic-->
+<!ENTITY mcy    "[mcy   ]"> <!--=small em, Cyrillic-->
+<!ENTITY Mcy    "[Mcy   ]"> <!--=capital EM, Cyrillic-->
+<!ENTITY ncy    "[ncy   ]"> <!--=small en, Cyrillic-->
+<!ENTITY Ncy    "[Ncy   ]"> <!--=capital EN, Cyrillic-->
+<!ENTITY ocy    "[ocy   ]"> <!--=small o, Cyrillic-->
+<!ENTITY Ocy    "[Ocy   ]"> <!--=capital O, Cyrillic-->
+<!ENTITY pcy    "[pcy   ]"> <!--=small pe, Cyrillic-->
+<!ENTITY Pcy    "[Pcy   ]"> <!--=capital PE, Cyrillic-->
+<!ENTITY rcy    "[rcy   ]"> <!--=small er, Cyrillic-->
+<!ENTITY Rcy    "[Rcy   ]"> <!--=capital ER, Cyrillic-->
+<!ENTITY scy    "[scy   ]"> <!--=small es, Cyrillic-->
+<!ENTITY Scy    "[Scy   ]"> <!--=capital ES, Cyrillic-->
+<!ENTITY tcy    "[tcy   ]"> <!--=small te, Cyrillic-->
+<!ENTITY Tcy    "[Tcy   ]"> <!--=capital TE, Cyrillic-->
+<!ENTITY ucy    "[ucy   ]"> <!--=small u, Cyrillic-->
+<!ENTITY Ucy    "[Ucy   ]"> <!--=capital U, Cyrillic-->
+<!ENTITY fcy    "[fcy   ]"> <!--=small ef, Cyrillic-->
+<!ENTITY Fcy    "[Fcy   ]"> <!--=capital EF, Cyrillic-->
+<!ENTITY khcy   "[khcy  ]"> <!--=small ha, Cyrillic-->
+<!ENTITY KHcy   "[KHcy  ]"> <!--=capital HA, Cyrillic-->
+<!ENTITY tscy   "[tscy  ]"> <!--=small tse, Cyrillic-->
+<!ENTITY TScy   "[TScy  ]"> <!--=capital TSE, Cyrillic-->
+<!ENTITY chcy   "[chcy  ]"> <!--=small che, Cyrillic-->
+<!ENTITY CHcy   "[CHcy  ]"> <!--=capital CHE, Cyrillic-->
+<!ENTITY shcy   "[shcy  ]"> <!--=small sha, Cyrillic-->
+<!ENTITY SHcy   "[SHcy  ]"> <!--=capital SHA, Cyrillic-->
+<!ENTITY shchcy "[shchcy]"> <!--=small shcha, Cyrillic-->
+<!ENTITY SHCHcy "[SHCHcy]"> <!--=capital SHCHA, Cyrillic-->
+<!ENTITY hardcy "[hardcy]"> <!--=small hard sign, Cyrillic-->
+<!ENTITY HARDcy "[HARDcy]"> <!--=capital HARD sign, Cyrillic-->
+<!ENTITY ycy    "[ycy   ]"> <!--=small yeru, Cyrillic-->
+<!ENTITY Ycy    "[Ycy   ]"> <!--=capital YERU, Cyrillic-->
+<!ENTITY softcy "[softcy]"> <!--=small soft sign, Cyrillic-->
+<!ENTITY SOFTcy "[SOFTcy]"> <!--=capital SOFT sign, Cyrillic-->
+<!ENTITY ecy    "[ecy   ]"> <!--=small e, Cyrillic-->
+<!ENTITY Ecy    "[Ecy   ]"> <!--=capital E, Cyrillic-->
+<!ENTITY yucy   "[yucy  ]"> <!--=small yu, Cyrillic-->
+<!ENTITY YUcy   "[YUcy  ]"> <!--=capital YU, Cyrillic-->
+<!ENTITY yacy   "[yacy  ]"> <!--=small ya, Cyrillic-->
+<!ENTITY YAcy   "[YAcy  ]"> <!--=capital YA, Cyrillic-->
+<!ENTITY numero "[numero]"> <!--=numero sign-->
