@@ -1,0 +1,3 @@
+16-12-2022 16:59:59 Error : ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+16-12-2022 17:19:47 Cancel record updated. EID=ENC00001 and ERID=ERNC00008
+16-12-2022 17:22:26 Record number 0 not found.
