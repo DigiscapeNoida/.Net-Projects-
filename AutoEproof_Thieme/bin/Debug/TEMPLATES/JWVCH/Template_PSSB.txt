@@ -1,0 +1,108 @@
+<HTML>
+<BODY>
+<table width="100%">
+<tr><td style="font-family:Arial">
+<p>Urgent: Proofs for immediate corrections of your paper in &#34; physica status solidi (b) &#34; DOI 10.1002/pssb.<PNO></p>
+<p>physica status solidi (b)</p>
+<p>Published by Wiley-VCH Verlag GmbH &amp; Co. KGaA</p>
+<p>Article Production Number: pssb.<PNO></p>
+<p>Username: <USER>
+<BR>Password: <PASSWORD></p>
+<p>Dear Author,</p>
+<p>Welcome to the Wiley-VCH Journals Production eProofing System, which allows authors to receive the page proofs of their articles 
+as a PDF.</p>
+<p>To eProof your article, please:</p>
+<p>1. Activate downloading of the Article Page Proof file by double-clicking on the active link to the eProof server shown below. 
+(We recommend using Internet Explorer for Mac users in case you encounter difficulties with Safari browser.)
+<BR>2. You will be asked for a username and password to open the Article Page Proof file: see top of this e-mail.
+<BR>3. Save the downloaded file to a local directory on your computer.
+</P>
+<P>Link to Article Page Proof:
+<BR>
+&nbsp;&nbsp;&nbsp;<URL>
+<BR>
+(PDF of the actual article followed by softproofing instructions, Reprint Order Form, and price list).</P>
+
+<P>4. During proofreading, please be sure to respond to all queries on the last page of the proofs.
+<BR>5. Your article production number is noted at the top of this message, please refer to it in all correspondence.</P>
+
+<P>Send your corrections and completed Reprint Order Form within 4 days to:</P>
+
+<P><b>RETURN E-MAIL ADDRESS:</b> pssb.proofs@wiley-vch.de</P>
+
+<P>In any case, you should also respond even if there are no corrections required.
+<BR>Please avoid sending your corrections by fax!</P>
+
+<P>Options for returning the correspondence:</P>
+
+<P>(1) PREFERRED: The PDF file should be annotated electronically. Please correct your proof using the electronic annotation tools as instructed in the &lsquo;Using E-annotation Tools&rsquo; guidelines that can be found at the end of your proof.
+
+You will only be able to annotate the file using Acrobat Reader 7.0 or above and Acrobat Professional. Acrobat Reader can be downloaded free of charge at the following address: http://www.adobe.com/products/acrobat/readstep2.html. 
+(Note: Acrobat Reader version 6 and earlier do not have annotating capabilities.) 
+</P>
+
+<P>(2) If you are unable to correct your proof using electronic annotation, please list your corrections directly in the e-mail body or in a doc-file giving page number, column and line number (e.g. page 7, left column, line 12) or return your corrections as scans via e-mail (in either jpg, tif or pdf-format) after inserting them with a black pen.</P>
+
+<P><b>If your paper contains colour figures you have the opportunity to reproduce it in colour. Therefore we ask you to contribute 
+part of the extra cost incurred by colour reproduction, i.e. 495 EUR for one figure and 395 EUR for each additional colour figure (including VAT). </P>
+
+<P>SPECIAL OFFER: For a limited time, we can reproduce ALL the figures in your manuscript in colour for 1,495 EUR (including VAT). 
+To take advantage of this special reduced rate, please complete the attached Reprint Order Form and write Special Offer next to the number of figures.</P>
+
+<P>High quality glossy cover posters showing the front or back cover of any (current and back) journal issue in A1 or A2 size can 
+now also be ordered using the Order Form.</P>
+
+<P>Reprints of your article and journal copies can be ordered at any time (before and after publication).</P>
+<P>
+All reprints will be delivered
+<BR>     - in full colour (regardless of black/white printing in the journal) and 
+<BR>     - with colour cover (either standard layout or individually customised containing the abstract of your article or a selected figure, logo etc.).</P>
+
+<P>Orders of 100 reprints or more will be accompanied by one free copy of the journal issue with your contribution. You will also 
+receive a free high-resolution PDF file of your article for an unlimited number of printouts.</P>
+
+<P>*** Please return your order for article reprints, journal issues or colour figures <BR>as soon as possible. ***</b></P>
+
+
+<P>If you have any production questions regarding your manuscript, please contact the Journal Production Editor at this address:</P>
+
+<P>Journal Production Editor
+<BR>physica status solidi (b)
+<BR>E-mail: pssb.corr@wiley-vch.de
+<BR>Fax: +49(0)30-47031334</P>
+
+<P>As long as there is no page number available, online manuscripts should be cited in the following manner:
+<BR>Authors, Journal Abbreviation, online publication date, DOI.</P>
+
+<P>If you experience any technical problems, or problems accessing your proof, there is help available to you Monday through Friday,
+ 8:30am - 4:30pm EST. Please contact Thomson Press:</P>
+
+<P>    E-mail: wileyvch.j@thomsondigital.com</P>
+
+<P>Thank you for your prompt attention and cooperation.</P>
+
+<P>Note: PDF files produced by the eProof system will look exactly like your page proofs. However, all graphic images in the PDF are 
+downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher 
+resolution and sharpness in the printed article.
+<BR>All PDF files produced for the eProof system are Acrobat version 5.0 files. </P>
+
+
+<P>With kind regards,</P>
+
+<P>Wiley-VCH Team</P>
+
+
+<P>Wiley-VCH Verlag GmbH &amp; Co. KGaA
+<BR>Rotherstrasse 21 
+<BR>10245 Berlin 
+<BR>Germany
+</P>
+<HR>
+<P>Wiley-VCH Verlag GmbH &amp; Co. KGaA. – A company of John Wiley & Sons, Inc.
+<BR>Location of the Company: Weinheim, Germany. Chairman of the Supervisory Board: Stephen Michael Smith. Trade Register:t 
+<BR>Mannheim, HRB 432833. General Partner: John Wiley &amp; Sons GmbH, 
+<BR>Location: Weinheim. Trade Register: Mannheim, HRB 432296. Managing Directors: Bijan Ghawami, Dr. Jon Walmsley
+</P>
+</td></tr></table>
+</body>
+</html>

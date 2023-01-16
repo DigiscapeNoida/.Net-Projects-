@@ -1,0 +1,61 @@
+<HTML>
+<BODY>
+<table width="100%">
+<tr><td style="font-family:Arial">
+<BR>
+<p><JID> &nbsp;Molecular Medicine
+<BR>Published by Wiley Blackwell</p>
+
+<p>Article Production Number:  <AID></p>
+
+<p>Username : <USER>
+<BR>Password : <PASSWORD></p>
+
+<p>Dear Author,</p>
+
+<p>Your article has been copy edited and typeset, and the page proofs are available for download. 
+Your manuscript has been produced as an eProof PDF file, which allows you to annotate your proofs electronically. Adobe Acrobat Reader 7.0 or above is required as earlier versions do NOT have e-annotating capabilities. If you do not have the correct version of Adobe Reader then you will need to download it for free from <a href=http://get.adobe.com/uk/reader/>http://get.adobe.com/uk/reader/</a> so that you can save the changes to your proofs.</p> 
+
+
+<p><B>Please follow the instructions below to access and annotate your article:</B></p>
+
+<p>1.   Use the following link to download your eProof PDF file:</p>
+&nbsp;&nbsp;&nbsp;<URL>  
+<BR>
+<p>This single eProof PDF file contains the proofs, a reprint order form and instructions for annotating the proofs electronically. The proofs are low resolution; however, please be assured that a high resolution version will be used for printing.
+<BR><B>Please note that the eProof PDF file is for your corrections only, and that you are not allowed to put it on your website.</B></p> 
+<p>2.  You will be asked for a username and password to open the eProof PDF file. This information appears at the top of this E-mail message.
+<BR>If you encounter any problems downloading the PDF file, please contact
+<BR><a href=mailto:wileyvch.j@thomsondigital.com>wileyvch.j@thomsondigital.com</a></p> 
+
+<p>3.   Check the proofs very carefully against the original manuscript. Double-check figures and tables. Be sure to respond to all queries in the page proofs.</p> 
+
+<p>4.  You have three options for <B>returning your corrections to</B> </p>
+
+<a href=mailto:wileyvch.j@thomsondigital.com>wileyvch.j@thomsondigital.com</a>
+
+<p><B>Option 1:</B> Make your corrections in the eProof PDF file using e-annotation tools in Acrobat. Instructions for annotating the proofs electronically are provided at the end of the eProof PDF file.
+<br>Return the corrected proofs as a PDF file (Please note: we cannot use FDF files).</p>
+
+<p><B>Option 2:</B> List your corrections in a DOC file indicating the page number, column and line number (e.g. page 2, left column, line 12).</p>
+
+<p><B>Option 3:</B> Insert your corrections clearly on a printout of your proofs, scan the pages and return these in either JPG, TIF or PDF-format.</p>
+
+
+<p>The <B>reprint order form</B> should be returned to the EMBO Molecular Medicine Production via fax +49 (0) 6201 606 202 or E-mail to <a href=mailto: mbrunner@wiley.com>mbrunner@wiley.com</a></p>
+
+<p>If you have any production questions concerning your manuscript, please contact Melanie Brunner-Straub:</p>
+
+
+<P>E-mail: <a href=mailto:mbrunner@wiley.com>mbrunner@wiley.com</a>
+<BR>Fax : +49 (0) 6201 606 202</P>
+
+
+
+<P>Best regards,</P> 
+
+<P>EMBO Molecular Medicine Production Team</P>
+
+</td></tr></table>
+</body>
+</html>

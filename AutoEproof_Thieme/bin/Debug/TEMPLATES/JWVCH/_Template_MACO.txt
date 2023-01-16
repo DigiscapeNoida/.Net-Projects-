@@ -1,0 +1,45 @@
+<JID>
+
+Published by Wiley-VCH Verlag GmbH
+
+Article Production Number:  <AID>
+
+Username : <USER>
+Password : <PASSWORD>
+
+Dear Author,
+
+Please find below link for your galley proofs and reprint order form as PDF files. We need your corrections very urgently.
+
+
+To eProof your article:
+1.   Open your Internet browser and connect to the Internet.
+2.   Activate downloading of the Article Page Proof file and eProof Support Document by double-clicking on the active links to the eProof server shown below.
+3.   You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message.
+4.   Save the downloaded file to a local directory on your computer's hard drive [for example, c:/temp].
+
+Link to your article and eProof Support Documents:
+     Article Page Proof:
+
+
+     <URL>
+
+
+Please print out these files and write your corrections on the galley proofs and fill out the forms as usual. Please supply text for graphical abstracts (at most 400 characters) and figure suggestion. For this you require the program "ADOBE Acrobat Reader", which can be downloaded free of charge from the Internet (http://www.adobe.com). The proofs are best viewed with Acrobat Reader 4.x.
+
+If you have any questions or cannot open these files for any reason then please e-mail us at <PEEMAIL> to let us know. PLEASE NOTE: THIS E-MAIL WAS SENT BY THE TYPESETTERS AND NOT BY THE EDITORIAL OFFICE. THEREFORE DO NOT USE THE "REPLY TO MESSAGE" FUNCTION.
+
+
+If you have any production questions pertaining to your manuscript, please contact the Journal Production Manager at the address given below:
+
+
+<PEDESIG>
+<JNAME>
+<PEADDRESS>
+E-mail: <PEEMAIL>
+
+
+As long as there is no page number available, online manuscripts should be cited in the following manner: Authors, Journal Abbreviation, online publication date, DOI. 
+
+
+Please send your corrections electronically, to the editorial office in Berlin (juergen.mietz@bam.de).

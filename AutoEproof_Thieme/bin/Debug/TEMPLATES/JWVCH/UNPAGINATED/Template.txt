@@ -1,0 +1,35 @@
+<HTML>
+<BODY>
+<table width="100%">
+<tr><td style="font-family:Arial">
+<P>Dear author(s),</P>
+
+<P>It is our pleasure to inform you that your paper is now being published online. Please find attached to this message, a PDF file of your paper for 50 printouts. Please note that this file is a high-resolution version with 300 dpi (as opposed to the 72 dpi online PDF file).</P>
+
+<P>Your paper will shortly be published online in the EarlyView service of Wiley Online Library (<a href="http://wileyonlinelibrary.com">http://wileyonlinelibrary.com</a>) without final pagination. It may be accessed using the Digital Object Identifier (DOI). Please link to the abstract and full text at Wiley Online Library using <a href="http://dx.doi.org/10.1002/<JID>.<AID>">http://dx.doi.org/10.1002/<JID>.<AID></a> . Citations should be written as Author(s), Journal Title, DOI:10.1002/<JID>.<AID>(year of publication)</P>
+
+<P>As soon as your article has been assigned to a forthcoming print issue, the conventional citation information (volume, issue, page numbers) will be added to the PDF and print version, so as to be available from the abstract page at Wiley Online Library.</P>
+
+<P>If you have ordered hardcopy reprints or journal issues, these will be sent to the address you gave within two weeks after publication of the print issue.</P>
+
+<P>We would like to take this opportunity to thank you for your contribution and for choosing our journal for the publication of your article.
+<BR>Please feel free to refer your collaborators and colleagues to this publication. Please note that you are not allowed to openly post the final published version on the Internet.</P>
+
+<P>With kind regards,</P>
+
+<P>Wiley-VCH Team</P>
+
+<P>Wiley-VCH Verlag GmbH &amp; Co. KGaA
+<BR>Rotherstrasse 21 
+<BR>10245 Berlin 
+<BR>Germany
+<HR>
+
+<BR>Wiley-VCH Verlag GmbH &amp; Co. KGaA.
+<BR>Location of the Company: Weinheim, Germany. Chairman of the Supervisory Board: Stephen Michael Smith. 
+<BR>Trade Register: Amtsgericht Mannheim, HRB 432833. General Partner: John Wiley &amp; Sons GmbH, 
+<BR>Location: Weinheim. District Court  Mannheim, HRB 432296. Managing Directors: Jim Dicks, Bijan Ghawami, William Pesce
+</P>
+</td></tr></table>
+</BODY>
+<BR></HTML>

@@ -1,0 +1,74 @@
+<JID>
+
+Published by Wiley-VCH Verlag GmbH
+
+Article Production Number:  <AID>
+
+Username : <USER>
+Password : <PASSWORD>
+
+Dear Author:
+
+Welcome to the Wiley-VCH Journals Production eProofing System, which allows authors to receive the page proofs of their articles as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. You must have Adobe Acrobat Reader or Acrobat Exchange software installed on your computer to use PDF files. Acrobat Reader software is a free download from the Internet. If you do not have Adobe Acrobat Reader or Acrobat Exchange installed on your computer, please refer to Adobe Acrobat Reader Instructions at the end of this message.
+
+To eProof your article:
+1.   Open your Internet browser and connect to the Internet.
+2.   Activate downloading of the Article Page Proof file and eProof Support Document by double-clicking on the active links to the eProof server shown below.
+3.   You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message.
+4.   Save the downloaded file to a local directory on your computer's hard drive [for example, c:/temp].
+
+Link to your article and eProof Support Documents:
+     Article Page Proof:
+     <URL>  (link to the actual article followed by reprint form and softproofing instruction)
+
+5.   Close your Internet browser.
+6.   Open the files with Adobe Acrobat Reader.
+7.   Print the files using Adobe Acrobat Reader. 
+8.   Proofread the proofs for information accuracy against your manuscript copy. Double-check figures and tables. Be sure to respond to all queries on the page proofs. 
+All queries are listed on the last page of the proof. 
+When reviewing your page proofs please keep in mind that a professional copyeditor edited your manuscript to comply with the presentational style requirements for the journal.
+9.   If applicable, keep in mind editorial comments sent to you in a previous email.
+10.  Your article production number is noted at the top of this message, please refer to it on all correspondence.
+11.  You have three options for return correspondence:
+
+
+*Option 1: Please return your corrections as scans  per E-mail (in either jpg, tif or pdf-format) after inserting them with a black pen. Send your corrections and updated reprint order form within 4 days to:  <PEDESIG>, <JNAME>
+Email: <PEEMAIL>
+
+
+*Option 2: List your corrections in a doc-file giving page number, column and line number (e.g page 403, left column, line 12). E-mail this list and updated reprint order form within 4 days to: <PEDESIG>, <JNAME>
+Email: <PEEMAIL>
+
+*Option 3: Make your corrections in the PDF file using the markup functions in Acrobat. E-mail the corrected proof as a PDF file (Please note: we cannot use FDF files) and the updated reprint order form within 4 days to: <PEDESIG>, <JNAME>
+E-mail: <PEEMAIL>
+
+Please avoid sending your corrections by fax. The quality is not very good and there is a 0.5 cm margin around the page that cuts off any writing there.
+
+We recommend using the Internet Explorer for Mac users in case you encounter difficulties with Safari browser.
+
+If you have any production questions pertaining to your manuscript, please contact the Journal Production Manager at the address given below:
+
+<PEDESIG>
+<JNAME>
+<PEADDRESS>
+E-mail: <PEEMAIL>
+Tel   : <PEPHONE>
+Fax   : <PEFAX>
+
+
+
+As long as there is no page number available, online manuscripts should be cited in the following manner:
+Authors, Journal Abbreviation, online publication date, DOI.
+
+
+If you experience any technical problems, or problems accessing your proof, there is help available to you Monday through Friday, 8:30am - 4:30pm EST. Please contact:
+
+           E-mail: Thomson Press <wileyvch.j@thomsondigital.com>
+
+Thank you for your prompt attention and cooperation during this phase of preparing your article for publication.
+
+   Adobe Acrobat Reader Instructions
+ 1) To download the latest version of the Acrobat Reader use your browser to go directly to the address -
+http://www.adobe.com/products/acrobat/readstep2.html
+2) PDF files produced by the E-proof System will look exactly like your page proofs. However, all graphic images in the PDF are downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher resolution and sharpness in the printed article.
+3) All PDF files produced for the E-proof System are Acrobat version 5.0 files.

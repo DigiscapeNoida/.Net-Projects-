@@ -1,0 +1,21 @@
+<HTML>
+<BODY>
+<table width="100%">
+<tr><td style="font-family:Arial">
+<P>Dear Author,</P>
+<P>Attached please find a PDF of your contribution. Please allow me to call your attention to the E-Offprint Terms & Conditions which you will find below:</P>
+<P>E-Offprint Terms & Conditions</P>
+<P>Please note the following Terms and Conditions regarding the use of this e-Offprint file. Use of this e-Offprint file indicates consent to these Terms and Conditions.</P>
+<P>Provided that you give appropriate acknowledgement to the Journal and the copyright holder, Wiley Periodicals Inc., and give full bibliographic reference of the article, and as long as you do not sell or reproduce the article or any part of it for commercial purposes (i.e. for monetary gain on your own account or on that of a third party, or for indirect financial gain by a commercial entity) you may use the PDF, in the following ways:</P>
+
+<P>You may share print or electronic copies of the article with colleagues;</P>
+<P>You may use all or part of the article and abstract, without revision or modification, in personal compilations or other publications of your own work;</P>
+<P>You may use the article within your employer’s institution or company for educational or research purposes, including use in course packs.</P>
+
+<P><B>Please note that you are not permitted to post the Wiley Blackwell PdF version of the article online unless you have paid the OnlineOpen fee.</B></P>
+<P>For additional information regarding any use of this PDF file not covered by these Terms and Conditions, please refer to the Wiley Blackwell Rights Department at: rights@wiley-vch.de.</P>
+<P>With kind regards,</P>
+<P>Wiley-VCH Team</P>
+</td></tr></table>
+</BODY>
+<BR></HTML>

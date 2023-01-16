@@ -1,0 +1,35 @@
+<HTML>
+<BODY>
+<table width="100%">
+<tr><td style="font-family:Arial">
+<P>Dear author(s),</P>
+
+<P>It is our pleasure to inform you that your paper is now being published. Please find attached to this message a PDF file, of your paper for 50 printouts. Please note that this file is a high-resolution version with 300 dpi (as opposed to the 72 dpi online PDF file).</P>
+
+<P>For the relevant citation information (volume, issue, page numbers, DOI - Digital Object Identifier) of your paper, please see the title page.</P>
+
+<P>You will also soon be able to find your paper  in Wiley Online Library (http://wileyonlinelibrary.com) as well as in the relevant print issue.</P>
+
+<P>If you have ordered hardcopy reprints or journal issues, these will be sent to the address you gave within two weeks from now.</P>
+
+<P>We would like to take this opportunity to thank you for your contribution and for choosing our journal for the publication of your article. Please feel free to refer your collaborators and colleagues to this publication. Please note that you are not allowed to openly post the final published version on the Internet.</P>
+
+<P>With kind regards,</P>
+
+<P>Wiley-VCH Team</P>
+
+
+<P>Wiley-VCH Verlag GmbH & Co. KGaA
+<BR>Rotherstrasse 21 
+<BR>10245 Berlin 
+<BR>Germany
+<BR>
+<HR>
+<BR>Wiley-VCH Verlag GmbH & Co. KGaA.
+<BR>Location of the Company: Weinheim, Germany. Chairman of the Supervisory Board: Stephen Michael Smith.
+<BR>Trade Register: Amtsgericht Mannheim, HRB 432833. General Partner: John Wiley & Sons GmbH,
+<BR>Location: Weinheim. District Court  Mannheim, HRB 432296. Managing Directors: Jim Dicks, Bijan Ghawami, William Pesce
+</P>
+</td></tr></table>
+</BODY>
+<BR></HTML>

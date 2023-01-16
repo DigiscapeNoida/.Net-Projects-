@@ -1,0 +1,51 @@
+<JID>
+
+Published by Wiley-VCH Verlag GmbH
+
+Article Production Number:  <AID>
+
+Username : <USER>
+Password : <PASSWORD>
+
+Dear Author,
+Welcome to the Wiley-VCH Journals Production eProofing System, which allows authors to receive the page proofs of their articles as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. You must have Adobe Acrobat Reader or Acrobat Exchange software installed on your computer to use PDF files. Acrobat Reader software is a free download from the Internet. If you do not have Adobe Acrobat Reader or Acrobat Exchange installed on your computer, please refer to Adobe Acrobat Reader Instructions at the end of this message.
+
+To eProof your article:
+1.   Open your Internet browser and connect to the Internet.
+2.   Activate downloading of the Article Page Proof file and eProof Support Document by double-clicking on the active links to the eProof server shown below.
+3.   You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message.
+4.   Save the downloaded file to a local directory on your computer's hard drive [for example, c:/temp].
+
+Link to your article and eProof Support Documents:
+     Article Page Proof:
+
+
+     <URL>
+
+5.   Close your Internet browser.
+6.   Open the files with Adobe Acrobat Reader.
+7.   Print the files using Adobe Acrobat Reader. 
+8.   Proofread the proofs for information accuracy against your manuscript copy. 
+     Double-check figures and tables. Be sure to respond to all queries on the page proofs. 
+9.  Please insert in your corrections and comments in English.
+10.  You have three options for return corrections to the editorial office in Berlin (juergen.mietz@bam.de).
+
+*Option 1: Please return your corrections as scans per E-mail (in either jpg, tif or pdf-format) after inserting them with a black pen. Correct the proofs carefully, following the instructions. 
+Please note that the enclosed PDF file is for your corrections only, and that you are not allowed to put it on your website.
+
+*Option 2: List your corrections in a doc-file giving page number, column and line number (e.g page 403, left column, line 12).
+
+ Option 3: Make your corrections in the PDF file using the markup functions in Acrobat. E-mail the corrected proof as a PDF file (Please note: we cannot use FDF files).
+
+If you have any questions or cannot open these files for any reason then please e-mail us at mbeyer@wiley.com to let us know. 
+PLEASE NOTE: THIS E-MAIL WAS SENT BY THE TYPESETTERS AND NOT BY THE EDITORIAL OFFICE. THEREFORE DO NOT USE THE "REPLY TO MESSAGE" FUNCTION.
+
+If you have any production questions pertaining to your manuscript, please contact the Journal Production Manager at the address given below:
+
+Journal Production Manager
+Materials and Corrosion
+Boschstrasse 12, 69469 Weinheim, Germany
+E-mail: <PEEMAIL>
+
+As long as there is no page number available, online manuscripts should be cited in the following manner: Authors, Journal Abbreviation, online publication date, DOI. 
+

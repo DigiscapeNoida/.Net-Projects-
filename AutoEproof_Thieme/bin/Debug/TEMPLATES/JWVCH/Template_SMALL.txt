@@ -1,0 +1,57 @@
+
+
+Dear Author,
+
+Welcome to the Wiley-VCH Journals Production eProofing System, which allows authors to receive the page proofs of their articles as electronic files.
+To view the page proofs, you will need the free program Adobe Acrobat Reader (http://www.adobe.com/reader).Please note that the resolution of these electronic proofs is lower than the final print version. 
+
+To eProof your article:
+Activate downloading of the Article Page Proof file and eProof Support Document by double-clicking on the active links to the eProof server shown
+below.
+
+Link to your article and eProof Support Documents:
+     Article Page Proof:
+    <URL>  (link to the actual article followed by reprint form and softproofing instruction)
+
+You will be asked for a username and password to open the Article Page
+
+Article Production Number:  <AID>
+
+Username : <USER>
+Password : <PASSWORD>
+
+If you experience any technical problems, or problems accessing your proof, there is help available to you Monday through Friday, 8:30am - 4:30pm EST.
+Please contact:
+
+           E-mail: Thomson Press <wileyvch.j@thomsondigital.com>
+
+Proofread the proofs for information accuracy against your manuscript copy. Double-check figures and tables. Be sure to respond to all queries on
+the page proofs.
+
+There are three ways you can make your corrections to these proofs:
+
+1) Please make the corrections in the PDF file using the markup functions in Acrobat and e-mail it to us at small@wiley-vch.de  (This option
+is only possible if you are using the full version of Acrobat, not the free Acrobat Reader.)
+
+2) Please produce a separate word file that describes the corrections to be done at each location and e-mail the file to us at small@wiley-vch.de 
+
+3) Please scan your corrections (in pdf-format) after inserting them with a black pen and e-mail them to us at small@wiley-vch.de 
+
+Please avoid sending your corrections by fax if possible. The quality is not sufficient and there is a 0,5 margin around the page in which written comments are cut off. Reprint order forms are still welcome by fax.
+
+Any corrections should be returned to us no more than three days
+after the page proofs have been received. Receipt of corrections will be acknowledged by the Editorial Office. If you have not received confirmation within three days, please contact us by e-mail.
+
+Best regards
+The Small Team
+
+Small
+WILEY-VCH Verlag
+Boschstrasse 12
+69469 Weinheim
+Germany
+
+Phone: +49 (0) 6201-606-531
+Fax: +49 (0) 6201-606-500
+Email: small@wiley-vch.de 
+
