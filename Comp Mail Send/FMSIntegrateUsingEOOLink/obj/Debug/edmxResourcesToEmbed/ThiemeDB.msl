@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="OPSModelStoreContainer" CdmEntityContainer="OPSEntities">
+    <EntitySetMapping Name="OPSDetails">
+      <EntityTypeMapping TypeName="OPSModel.OPSDetail">
+        <MappingFragment StoreEntitySet="OPSDetails">
+          <ScalarProperty Name="OPSID" ColumnName="OPSID" />
+          <ScalarProperty Name="Jid" ColumnName="Jid" />
+          <ScalarProperty Name="Client" ColumnName="Client" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="Jname" ColumnName="Jname" />
+          <ScalarProperty Name="Peditor" ColumnName="Peditor" />
+          <ScalarProperty Name="Designation" ColumnName="Designation" />
+          <ScalarProperty Name="Pe_email" ColumnName="Pe_email" />
+          <ScalarProperty Name="PRMaill" ColumnName="PRMaill" />
+          <ScalarProperty Name="CCMail" ColumnName="CCMail" />
+          <ScalarProperty Name="ReviewerEmail" ColumnName="ReviewerEmail" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="BccMail" ColumnName="BccMail" />
+          <ScalarProperty Name="FromMail" ColumnName="FromMail" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="TemplateFileName" ColumnName="TemplateFileName" />
+          <ScalarProperty Name="final_cc" ColumnName="final_cc" />
+          <ScalarProperty Name="PrinterMail" ColumnName="PrinterMail" />
+          <ScalarProperty Name="PrinterCC" ColumnName="PrinterCC" />
+          <ScalarProperty Name="FailEmail" ColumnName="FailEmail" />
+          <ScalarProperty Name="PrinterName" ColumnName="PrinterName" />
+          <ScalarProperty Name="Reminder" ColumnName="Reminder" />
+          <ScalarProperty Name="DateModified" ColumnName="DateModified" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="InternalPEName" ColumnName="InternalPEName" />
+          <ScalarProperty Name="InternalPEmail" ColumnName="InternalPEmail" />
+          <ScalarProperty Name="ProofExpired" ColumnName="ProofExpired" />
+          <ScalarProperty Name="BatchMail" ColumnName="BatchMail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ThiemeOffPrints">
+      <EntityTypeMapping TypeName="OPSModel.ThiemeOffPrint">
+        <MappingFragment StoreEntitySet="ThiemeOffPrint">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Volume" ColumnName="Volume" />
+          <ScalarProperty Name="SNO" ColumnName="SNO" />
+          <ScalarProperty Name="JID" ColumnName="JID" />
+          <ScalarProperty Name="AID" ColumnName="AID" />
+          <ScalarProperty Name="DOI" ColumnName="DOI" />
+          <ScalarProperty Name="STAGE" ColumnName="STAGE" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+          <ScalarProperty Name="PROCESSTIME" ColumnName="PROCESSTIME" />
+          <ScalarProperty Name="MailSubjectLine" ColumnName="MailSubjectLine" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CorAuthorDetaills">
+      <EntityTypeMapping TypeName="OPSModel.CorAuthorDetaill">
+        <MappingFragment StoreEntitySet="CorAuthorDetaill">
+          <ScalarProperty Name="DOI" ColumnName="DOI" />
+          <ScalarProperty Name="PdfName" ColumnName="PdfName" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="CorMail" ColumnName="CorMail" />
+          <ScalarProperty Name="CorName" ColumnName="CorName" />
+          <ScalarProperty Name="AID" ColumnName="AID" />
+          <ScalarProperty Name="JID" ColumnName="JID" />
+          <ScalarProperty Name="Client" ColumnName="Client" />
+          <ScalarProperty Name="CorID" ColumnName="CorID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_InsertThiemeOffPrint" FunctionName="OPSModel.Store.usp_InsertThiemeOffPrint" />
+  </EntityContainerMapping>
+</Mapping>

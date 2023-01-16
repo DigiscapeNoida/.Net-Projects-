@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OPSModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2006/04/edm/ssdl">
+  <EntityContainer Name="OPSModelStoreContainer">
+    <EntitySet Name="CorAuthorDetaill" EntityType="OPSModel.Store.CorAuthorDetaill" store:Type="Tables" store:Schema="dbo" store:Name="CorAuthorDetaill">
+      <DefiningQuery>SELECT 
+      [CorAuthorDetaill].[CorID] AS [CorID], 
+      [CorAuthorDetaill].[Client] AS [Client], 
+      [CorAuthorDetaill].[JID] AS [JID], 
+      [CorAuthorDetaill].[AID] AS [AID], 
+      [CorAuthorDetaill].[CorName] AS [CorName], 
+      [CorAuthorDetaill].[CorMail] AS [CorMail], 
+      [CorAuthorDetaill].[Title] AS [Title], 
+      [CorAuthorDetaill].[PdfName] AS [PdfName], 
+      [CorAuthorDetaill].[DOI] AS [DOI]
+      FROM [dbo].[CorAuthorDetaill] AS [CorAuthorDetaill]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="OPSDetails" EntityType="OPSModel.Store.OPSDetails" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ThiemeOffPrint" EntityType="OPSModel.Store.ThiemeOffPrint" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'OPSTEST.dbo.CorAuthorDetaill' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="CorAuthorDetaill">
+    <Key>
+      <PropertyRef Name="CorID" />
+      <PropertyRef Name="JID" />
+      <PropertyRef Name="AID" />
+      <PropertyRef Name="CorName" />
+      <PropertyRef Name="CorMail" />
+      <PropertyRef Name="Title" />
+    </Key>
+    <Property Name="CorID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Client" Type="varchar" MaxLength="50" />
+    <Property Name="JID" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="AID" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CorName" Type="varchar" Nullable="false" MaxLength="150" />
+    <Property Name="CorMail" Type="varchar" Nullable="false" MaxLength="150" />
+    <Property Name="Title" Type="varchar(max)" Nullable="false" />
+    <Property Name="PdfName" Type="varchar" MaxLength="50" />
+    <Property Name="DOI" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="OPSDetails">
+    <Key>
+      <PropertyRef Name="OPSID" />
+    </Key>
+    <Property Name="OPSID" Type="int" Nullable="false" />
+    <Property Name="Jid" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="Client" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Category" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="Jname" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Peditor" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Designation" Type="nvarchar" MaxLength="50" />
+    <Property Name="Pe_email" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="PRMaill" Type="nvarchar" MaxLength="250" />
+    <Property Name="CCMail" Type="nvarchar" MaxLength="255" />
+    <Property Name="ReviewerEmail" Type="varchar(max)" />
+    <Property Name="Role" Type="varchar" MaxLength="200" />
+    <Property Name="BccMail" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="FromMail" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="100" />
+    <Property Name="Fax" Type="nvarchar" MaxLength="100" />
+    <Property Name="Address" Type="nvarchar" MaxLength="150" />
+    <Property Name="TemplateFileName" Type="nvarchar" MaxLength="150" />
+    <Property Name="final_cc" Type="nvarchar" MaxLength="100" />
+    <Property Name="PrinterMail" Type="nvarchar" MaxLength="50" />
+    <Property Name="PrinterCC" Type="nvarchar" MaxLength="50" />
+    <Property Name="FailEmail" Type="varchar" Nullable="false" MaxLength="250" />
+    <Property Name="PrinterName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Reminder" Type="nvarchar" MaxLength="50" />
+    <Property Name="DateModified" Type="datetime" />
+    <Property Name="ModifiedBy" Type="nvarchar" MaxLength="50" />
+    <Property Name="Remarks" Type="nvarchar" MaxLength="500" />
+    <Property Name="InternalPEName" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="InternalPEmail" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="ProofExpired" Type="int" Nullable="false" />
+    <Property Name="BatchMail" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="ThiemeOffPrint">
+    <Key>
+      <PropertyRef Name="SNO" />
+    </Key>
+    <Property Name="SNO" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="JID" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="AID" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DOI" Type="varchar" MaxLength="50" />
+    <Property Name="Volume" Type="varchar" MaxLength="50" />
+    <Property Name="Year" Type="varchar" MaxLength="50" />
+    <Property Name="STAGE" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="STATUS" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="PROCESSTIME" Type="datetime" Nullable="false" />
+    <Property Name="MailSubjectLine" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <Function Name="usp_InsertThiemeOffPrint" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="SNO" Type="int" Mode="In" />
+    <Parameter Name="JID" Type="varchar" Mode="In" />
+    <Parameter Name="AID" Type="varchar" Mode="In" />
+    <Parameter Name="DOI" Type="varchar" Mode="In" />
+    <Parameter Name="STAGE" Type="varchar" Mode="In" />
+    <Parameter Name="MailSubjectLine" Type="varchar(max)" Mode="In" />
+  </Function>
+</Schema>
