@@ -1,0 +1,6 @@
+D:\WinCVS\AutoEproof\FMSIntegrateUsingEOOLink\TDLemansMails\bin\Debug\TDLemansMails.dll
+D:\WinCVS\AutoEproof\FMSIntegrateUsingEOOLink\TDLemansMails\bin\Debug\TDLemansMails.pdb
+D:\WinCVS\AutoEproof\FMSIntegrateUsingEOOLink\TDLemansMails\obj\Debug\TDLemansMails.dll
+D:\WinCVS\AutoEproof\FMSIntegrateUsingEOOLink\TDLemansMails\obj\Debug\TDLemansMails.pdb
+D:\WinCVS\AutoEproof\FMSIntegrateUsingEOOLink\TDLemansMails\bin\Debug\ProcessNotification.dll
+D:\WinCVS\AutoEproof\FMSIntegrateUsingEOOLink\TDLemansMails\bin\Debug\ProcessNotification.pdb
