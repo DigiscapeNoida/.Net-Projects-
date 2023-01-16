@@ -1,0 +1,76 @@
+<HTML>
+<BODY>                                            
+<p><JNAME></p>
+<p>Published by John Wiley & Sons, Inc.</p>
+
+<p>Article Production Number:  <PNO>(<DOI>)</p>
+
+<p>Username: <USER>
+<BR>Password: <PASSWORD></p>
+
+<p>Dear Author:<p>
+
+<p>Welcome to the Wiley Journals Production eProofing System, which allows authors to receive the page proofs of their articles as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. <b><U>Please note that proof corrections must be delivered via email; faxed proof corrections are no longer accepted</U></b>
+<BR>You must have Adobe Acrobat Reader or Acrobat Exchange software installed on your computer to use PDF files. Acrobat Reader software is a free download from the Internet. If you do not have Adobe Acrobat Reader or Acrobat Exchange installed on your computer, please refer to the downloading instructions at the end of this message.
+
+<p>To eProof your article:</p>
+
+<p>1.   Open your Internet browser and connect to the Internet.
+<BR>2.   Activate downloading of the Article Page Proof file and eProof Support Document by clicking on the active links to the eProof server shown below.
+<BR>3.   You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message.
+<BR>4.   Save the downloaded file to a local directory on your computer's hard drive [for example, c:/temp].
+</p>
+<P>Link to your article and eProof Support Documents:</P>
+     <P>Article Page Proof:
+     
+     <BR><p> <URL></p>
+ <BR></P>
+<P>5.   Close your Internet browser.
+<BR>6.   Open the files with Adobe Acrobat Reader.
+<BR>7.   Using Option 1 or Option 2 as outlined below, proofread the page proofs for information accuracy against your manuscript copy.
+<BR>8.   Double-check figures and tables. Be sure to respond to all queries on the page proofs. All queries are listed on the last page of the proof. When reviewing your page proofs please keep in mind that a professional
+copyeditor edited your manuscript to comply with the style requirements for the journal.
+<BR>9.   Your article production number is noted at the top of this message. Please refer to it on all correspondence.
+<BR>10.  You have two e-mail options for communicating your proof corrections:</P>
+
+<P>*Option 1: Print the files using Adobe Acrobat Reader. Use a black pen to mark changes directly on the printed proofs, checking all article elements as instructed above.  When your hand-marked corrections are complete, digitally scan the corrected proofs. Return your marked proofs as an attachment via e-mail to Jennifer Chinworth, production editor, at <a href=nauprod@wiley.com.>nauprod@wiley.com</a></P>
+
+
+<P>*Option 2:  If you own Adobe Acrobat, you may attach your corrections to the PDF eProof file as Acrobat Notes, checking all article elements as instructed above. Instructions for using the Notes feature of Acrobat Exchange are attached as a PDF file to this e-mail. This option is not available with Adobe Acrobat Reader, the free Internet download software.
+<BR>* E-mail the corrected PDF to Jennifer Chinworth, production editor, at <a href=nauprod@wiley.com.>nauprod@wiley.com</a>.</P>
+
+<p><B>Supporting Information</B><BR>
+
+If you have previously provided Supporting Information with your article, please note it will not be edited or altered from its original format during the Production process. Although a proof of your Supporting Information is not available, it will appear online when your article is published.</p>
+
+<BR><P>If you have any production questions pertaining to your manuscript, please contact the Senior Production Editor at the address given below:
+<BR><PE>
+<BR><PEDESIG>
+<BR>Wiley Blackwell
+<BR><PEADDRESS>
+<BR>E-mail: <PEEMAIL>
+<BR>If you experience any technical problems, or problems accessing your proof, there is help available to you Monday through Friday, 8:30am - 4:30pm EST.</P>
+<P>Please contact:</P>
+ &nbsp; &nbsp;<P> E-mail: Thomson Press <a href=mailto:wileyny.j@thomsondigital.com>wileyny.j@thomsondigital.com</a></P>
+
+<P>Thank you for your prompt attention and cooperation during this phase of preparing your article for publication.</P>
+
+<P> Adobe Acrobat Reader Instructions</P>
+<P>The Adobe Acrobat Reader allows you to view, navigate, and print PDF files. Acrobat Reader is the free viewing companion to Adobe Acrobat software.
+To download the latest version of the Acrobat Reader:
+<BR>1)   Use your browser to go directly to the address -
+<BR><a href= "http://www.adobe.com/prodindex/acrobat/readstep.html">http://www.adobe.com/prodindex/acrobat/readstep.html</a>
+<BR>2)   Review the selection options carefully to match the proper Acrobat Reader version to your computer's configuration. Here are some useful pointers:
+<BR>*    Acrobat Reader is designed to work with Microsoft Internet Explorer 6.0.
+<BR>3)   All PDF files produced for the E-proof System are Acrobat version 4.0 files.
+<BR>4)   PDF files produced by the E-proof System will look exactly like your page proofs. However, all graphic images in the PDF are downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher resolution and sharpness in the printed article.
+<BR>5)   Troubleshooting PDF Viewing Problems:
+<BR>*    Acrobat Reader comes with a help file. Please review the READER.PDF file located in your \Acrobat\Help directory.
+<BR>*    If the Acrobat Reader help file does not provide you a solution, try the Adobe Support Database at<BR><a href="http://www.adobe.com/supportservice/custsupport/database.html">http://www.adobe.com/supportservice/custsupport/database.html</a>
+<BR>*    Additional information about Acrobat Reader can be found at these sites:
+<BR>*   <a href= http://www.adobe.com/supportservice/custsupport/techguide.html</a>
+<BR><a href="http://www.adobe.com/supportservice/custsupport/TECHGUIDE/ACRBT/READER/reader_browser.html">http://www.adobe.com/supportservice/custsupport/TECHGUIDE/ACRBT/READER/reader_browser.html</a></P>
+
+<p>This e-proof is to be used only for the purpose of returning corrections to the publisher.</p>
+<HTML>
+<BODY>  

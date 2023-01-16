@@ -1,0 +1,65 @@
+<HTML>
+<BODY>
+
+<p>Sent by Thomson on behalf of Wiley-Blackwell</p>
+
+<p><B>JOURNAL OF QUATERNARY SCIENCE</B></p>
+
+<p>Published by: Wiley-Blackwell</p>
+<p>Article ID: JQS_<PNO></p>
+ 
+<p>Dear Author, </p>
+
+<p>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a future issue of the <B>JOURNAL OF QUATERNARY SCIENCE</B>, is now available as a PDF file. To download your proof, please copy and paste the following URL into your web browsers window: </p>
+ 
+<p> <URL></p>
+<br/>Username     : <USER>
+<br/>Password     : <PASSWORD>
+
+<p><B>PROOF CHECKING INSTRUCTIONS</B><br/>
+Please note that your proofs should preferably be marked-up electronically using the PDF annotation tools, and returned by email to <B>'JQS Proofs' (<a href="mailto:jqs@wiley.com">jqs@wiley.com</a>)</B>. Instructions on using the annotation tools are attached to your proof (see Using E-annotation Tools*). Should you encounter any problems please contact the Production Editor at <a href="mailto:jqs@wiley.com">jqs@wiley.com</a>.
+If you are unable to electronically annotate the document please see the 'Returning Corrections' section below. </p>
+<p>Please check your proofs carefully, and note that this is the only chance you have to make corrections to the article. Once your article is published online, further corrections cannot be accepted. </p>
+<p>When checking your proofs, please pay particular attention to units, numbers, figures and tables, and other numerical matter and references (which have been corrected for style but not checked for accuracy, which remains the responsibility of the author).  Please also answer any specific questions from the copy-editor, which are listed on the Author Query Form at the back of the proof, and are numbered and flagged in the text. Please respond to these queries by making the necessary corrections and/or additions to the relevant text of your PDF proof, and only use the 'post-it' notes if additional clarification or comments are needed. </p>
+<p>If no corrections are received, the Editors reserve the right to correct the proof themselves. </p>
+
+
+<p><B>RETURNING CORRECTIONS</B><br/>
+Please return your corrected proofs as soon as possible, preferably within 3 days of receipt, to avoid unnecessary delay in the publication of your article. Please return your annotated PDF proof by e-mail to <B>'JQS Proofs' (<a href="mailto:jqs@wiley.com">jqs@wiley.com</a>)</B>. </p>
+
+ <p> [If you are unable to correct your proof using electronic annotation, please print out your proof and mark corrections onto the hard copy, using the standard symbols shown in the mark-up symbols document located on the e-proofing website. Please then email as an attached scan along with a Word document, listing all the changes.] </p>
+
+<p>Note that returning corrections by email as an e-annotated PDF document is the preferred method, as it will enable quicker processing of your article. </p>
+
+
+<p><b>FIGURES</b><br/>
+Figures marked as 'Low Resolution' in the margin are not suitable for publication and you should resupply a high quality version (if you have not already done so) by email to the Production Editor (<a href="mailto:jqs@wiley.com">jqs@wiley.com</a>). See instructions about such figures in the Author Query form. </p>
+
+<p><b>EARLY VIEW</b><br/>
+Although the <i>Journal of Quaternary Science</i> offers Early View publication (online publication of articles in advance of journal issue and print publication), this publication stage CANNOT be used as an additional proof-checking stage. It is therefore important that you take this <B><i>'first proof'</i></B> opportunity to check thoroughly all details of your proof. </p>
+
+<p><b>OFFPRINTS</b><br/>
+Free access to the final PDF offprint or your article will be available via Author Services only. Please therefore sign up for Author Services if you would like to access your article PDF offprint and enjoy the many other benefits the Service offers. </p>
+
+<p>If you require paper offprints these may be ordered online. Please click on the following link fill in the necessary details and ensure that you complete all of the required fields:
+http://offprint.cosprinters.com/cos/bw/<br/>
+If you have queries about paper offprints please email <a href="mailto:offprint@cosprinters.com">offprint@cosprinters.com</a></p>
+
+<p>Your article production ID code is noted at the top of this message - please refer to it in all correspondence, including the subject line of any Emails. </p>
+
+<p>Yours sincerely, </p>
+
+<p>Jane Houchin<br/>
+Journal of Quaternary Science<br/>
+Wiley-Blackwell<br/>
+9600 Garsington Road<br/>
+Oxford OX4 2DQ<br/>
+UK<br/>
+E-mail: <a href="mailto:jqs@wiley.com">jqs@wiley.com</a></p>
+
+<p>*You will only be able to annotate the file using Acrobat Reader 7.0 or above and Acrobat Professional. Acrobat Reader can be downloaded free of charge at the following address: http://www.adobe.com/products/acrobat/readstep2.html. NOTE: Earlier versions of Acrobat Reader do not have annotating capabilities. </p>
+
+</BODY>
+</HTML>
+
+

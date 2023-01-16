@@ -1,0 +1,53 @@
+<HTML>
+<body>
+<p><h3>Foreign Language Annals</h3></p>
+<p>Published by: Wiley, USA<br/>
+ Article AID: FLAN_<PNO>
+
+<p><b>This is an automated email, replies to this message will not be received.</b> Please read the entire document for instructions on downloading your proof, returning corrections, and instructions for accessing your free final PDF after your article has published.</p>
+
+<p>Dear Author,</p> 
+<p>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a future issue of Foreign Language Annals, has now been uploaded as a PDF file. </p>
+
+<p>To access your paper, please copy and paste the following URL into your web browser's window:</p>
+
+<p><URL></p>
+
+<p>Username     : <USER><br/>
+Password        : <PASSWORD></p>
+
+<p><b><u>Reviewing your paper and returning corrections</u></b></p>
+<p>Corrections are due WITHIN 48 HOURS to the Proofreader at the address indicated below:</p>
+
+<p><b>Simone Payment, <a href="mailto:simonep@verizon.net">simonep@verizon.net</a> </b><br/>
+<b>8 B St.</b><br/>
+<b>Reading, MA  01867</b><br/>
+<b>Phone/Fax: 781-942-0406</b></p>
+
+
+<p>Please follow <u>one of the following options</u> for returning proof corrections to the journal Proofreader, Simone Payment.</p>  
+
+<p>1) Use PDF mark-up tools to electronically annotate your corrections, and send the corrected PDF to the Proofreader via email. [PREFERRED method, if possible]</p>
+
+<p>2) Write your corrections on a printed copy of the PDF, then FAX or SCAN & EMAIL your corrections to the Proofreader. Indicate any changes or corrections by printing clearly and carefully in the margin with a dark pen. Attach additional sheet(s) of paper as needed if space in margin is not sufficient for legible writing. Please type long insertions/corrections that may be hard to read in handwritten form and email them to the Proofreader.</p>
+
+<p>3) Send a list of corrections in an email to the Proofreader.  Please note page number and line number with each correction. Describe all corrections as clearly and unambiguously as possible.</p>
+
+<p>4) If there are special circumstances and you are unable to email or fax your corrections, the proofreader's mailing address is provided. Please note that mail is not a preferred method of submitting corrections and should be used only if the other options are unavailable to you. </p>
+
+<p>In all cases, be sure to respond to queries (if any) as listed on the last page and marked throughout the text. Any queries from the copyeditor are listed on the last page of the proof. The text to which the queries refer is indicated on the proof by numbers (e.g., Q1) in the margin. Please ensure these are answered in full. If you are unsure of how to answer the queries, or if you have questions, please contact the Editor or Proofreader. </p>
+
+<p>Double check any tables and check the quality of the figure reproductions. <u>Please also note that no substantial changes or re-writing of material are allowed at this stage.</u> </p>
+
+
+<p><b><u>Additional Links</u></b><br/>
+·	You need to have Adobe Acrobat PDF reader installed on your computer to review your proofs. If you click on the PDF icon and nothing happens, you can download an Adobe Acrobat PDF reader for free by going to <a href="http://www.adobe.com/products/acrobat/readstep.html">http://www.adobe.com/products/acrobat/readstep.html</a> and following the steps on the website. If you still have difficulty, feel free to ask us for assistance.<br/>
+·	**NEW** Free access to the final PDF offprint of your article will be available via AUTHOR SERVICES only. Please sign up for Author Services if you would like to access your article PDF offprint and enjoy the many other benefits the service offers.  Visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a> to sign up.<br/>
+·	If you wish to order printed offprints from this journal, please click on the following link: <a href="https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=FLAN">https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=FLAN</a><br/>
+·	If you wish to order printed copies of this journal, please use the following link: <a href="http://journalshelp.wiley.com">http://journalshelp.wiley.com</a><br>
+·	The library subscription form is available on the eproofing site.</p>
+
+<p>Questions<br/>
+If you have any questions about accessing the PDF file of the proofs, printing, correcting, or returning proofs, please contact the Production Editor at FLAN@wiley.com. <b>Any replies to this automated message will NOT be received.</b></p>
+</body>
+</HTML>

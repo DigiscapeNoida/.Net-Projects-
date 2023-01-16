@@ -1,0 +1,45 @@
+<JNAME>
+Published by: Wiley
+Article ID: <PNO>(<DOI>)
+ 
+Dear Author,
+
+The proof of your paper, which is scheduled to appear in a future issue of Biometrics, has now been uploaded as a PDF file. 
+
+To access your paper, please copy and paste the following URL into your web browser's window:
+  <URL>
+
+Username     : <USER>
+Password     : <PASSWORD>
+
+Returning Corrected Proofs:
+Please review the PDF file and read the instructions attached thoroughly, and return corrections within 48 hours to the Proofreader at the address indicated below:   
+
+<PE>
+<PEEMAIL>
+
+Please follow one of the following two options for returning proof corrections: 
+1) Open the PDF, review the article, and send a list of corrections in an email to the Proofreader.  Please note page number, column, and line with each correction. Describe all corrections as clearly and unambiguously as possible. 
+2) Open and review the PDF, and note corrections electronically via the Comments menu in Adobe Acrobat  Reader (version 8.0 or higher), and return via email attachment to the proofreader.  
+
+In all cases, be sure to respond to author queries (if any) as listed on the last page and marked throughout the text. Proofread any tables, figure legends, and equations. Check the quality of the figure reproductions. 
+
+Any email correspondence should be directed to the Proofreader as noted above.  Please do not reply directly to this message.  
+ 
+Queries 
+Queries from the copyeditor are listed on the last page of the proof. The text to which the queries refer is indicated on the proof by numbers (e.g. Q1) in the margin. Please ensure these are answered in full. 
+
+Offprint Request:
+If you wish to order hardcopy offprints of your article, please click on the following link:
+https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=BIOM
+
+Free access to the final PDF offprint of your article will be available via author services. Please sign up for author services if you would like to access your article PDF offprint upon publication of your paper, and enjoy the many other benefits the service offers. Visit http://authorservices.wiley.com/bauthor/ to sign up for author services.
+
+Questions? 
+If you have any questions about accessing the PDF file of the proofs, or  correcting or returning proofs, please contact the Production Editor at: wileyny.j@thomsondigital.com
+
+Yours sincerely,
+<PE>
+<PEDESIG>
+Wiley Blackwell
+

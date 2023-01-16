@@ -1,0 +1,97 @@
+Molecular Reproduction and Development (MRD)
+
+Published by John Wiley & Sons, Inc.
+
+Article Production Number:  <PNO>(<DOI>)
+
+Username: <USER>
+Password: <PASSWORD>
+
+Dear Author:
+
+Welcome to the Wiley Journals Production eProofing System, which allows authors to receive the page proofs of their articles as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. You must have Adobe Acrobat Reader or Acrobat Exchange software installed on your computer to use PDF files. Acrobat Reader software is a free download from the Internet. If you do not have Adobe Acrobat Reader or Acrobat Exchange installed on your computer, please refer to the downloading instructions near the end of this message.
+
+Your article may be published online via Wiley's EarlyView(r) service (www.interscience.wiley.com) shortly after receipt of corrections. EarlyView(r) is Wiley's online publication of individual articles in full text HTML and/or PDF format before release of the compiled print issue of the journal. Articles posted online in EarlyView(r) are peer-reviewed, copyedited, author corrected, and fully citable via the article DOI (for further information, visit www.doi.org). EarlyView(r) means you benefit from the best of two worlds - fast online availability as well as traditional, issue-based archiving.
+
+To download your article:
+
+1.	Open your Internet browser and connect to the Internet.
+2.	Activate downloading of the Article Page Proof file and eProof Support Document by clicking on the active links to the eProof server shown below.
+3.	You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message.
+4.	Save the downloaded file to a local directory on your computer's hard drive (for example, c:\temp).
+
+Link to your article and eProof Support Documents:
+     Article Page Proof:
+
+<URL>
+
+5.	Close your Internet browser.
+6.	Open the files with Adobe Acrobat Reader.
+7.	Print the files using Adobe Acrobat Reader (if marking corrections on hardcopy. See below for preferred methods of making corrections).
+8.	Proofread the printed proofs for information accuracy against your manuscript copy and answer all queries.
+
+If you experience technical problems or problems accessing your proof, there is help available to you Monday through Friday, 8:30 a.m. to 4:30 p.m. EST. Please contact: eproof@thomsondigital.com
+
+Proof checklist:
+
+*	This will be your only chance to review this proof. Once an article appears online, even as an EarlyView article, it cannot be changed in any way.
+*	Please note that the volume and page numbers shown on the proof are for position only.
+*	Queries for you to answer (if any) are listed on the last page of the proof.
+*	Note that excessive author alterations not related to typesetting errors may ultimately result in delay of publication and extra costs may be charged to you.
+*	Check size, numbering, and orientation of figures.
+*	All images in the PDF are downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher resolution and sharpness in the printed article.
+*	Review figure legends to ensure that they are complete.
+*	Check all tables. Review layout, title, and footnotes.
+
+Submitting corrections:
+
+*	To ensure that your corrections are made as you intend, it is recommended that you make them using the Notes tool and return both the PDF and FDF files to lgraup@infionline.net.
+*	If you are unable to send corrections in an FDF file, you should send a Word document, or email message, detailing your corrections and referring to proper page and line numbers, to lgraup@infionline.net.
+*	If neither of the above options is possible, you may then print and mark up a hard copy of the proof and fax those pages to 570 754 2247. Please be sure to mark your corrections clearly and avoid writing too close to the edge of the paper.
+
+Adobe Acrobat Reader instructions:
+
+The Adobe Acrobat Reader allows you to view, navigate, and print PDF files. Acrobat Reader is the free viewing companion to Adobe Acrobat software.
+
+To download the latest version of the Acrobat Reader:
+1.	Use your browser to go to http://www.adobe.com/prodindex/acrobat/readstep.html
+2.	Review the selection options carefully to match the proper Acrobat Reader version to your computer's configuration. Acrobat Reader is designed to work with Microsoft Internet Explorer 6.0.
+3.	All PDF files produced for the eProof System will look exactly like your page proofs. However, all graphic images in the PDF are downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher resolution and sharpness in the printed article.
+4.	Troubleshooting PDF viewing problems:
+	* Acrobat Reader comes with a help file. Please review the READER.PDF file located in your \Acrobat\Help directory.
+	* If the Acrobat Reader help file does not provide you a solution, try the Adobe Support Database at http://www.adobe.com/supportservice/custsupport/database.html.
+	* Additional information about Acrobat Reader can be found at these sites:
+	http://www.adobe.com/supportservice/custsupport/techguide.html
+	http://www.adobe.com/supportservice/custsupport/TECHGUIDE/ACRBT/READER/reader_browser.html
+
+
+Softproofing using the Notes tool:
+
+NOTE: ACROBAT READER FROM THE INTERNET DOES NOT CONTAIN THE NOTES TOOL USED IN THIS PROCEDURE.
+
+Acrobat annotation tools can be very useful for indicating changes to the PDF proof of your article. By using Acrobat annotation tools, a full digital pathway can be maintained for your page proofs.
+
+The Notes annotation tool can be used with Adobe Acrobat 4.0, 5.0, or 6.0. Other annotation tools are also available in Acrobat 4.0, but this instruction sheet will concentrate on how to use the Notes tool. Acrobat Reader, the free Internet download software from Adobe, DOES NOT contain the Notes tool. In order to softproof using the Notes tool, you must have the full software suite Adobe Acrobat 4.0, 5.0, or 6.0 installed on your computer.
+
+Steps for Softproofing using Adobe Acrobat Notes tool:
+
+1.	Open the PDF page proof of your article using either Adobe Acrobat 4.0, 5.0, or 6.0. Proof your article on screen or print a copy for markup of changes.
+2.	Go to File/Preferences/Annotations (in Acrobat 4.0) or Document/Add a Comment (in Acrobat 6.0) and enter your name into the "default user" or "author" field. Also, set the font size at 9 or 10 point.
+3.	When you have decided on the corrections to your article, select the Notes tool from the Acrobat toolbox and click in the margin next to the text to be changed.
+4.	Enter your corrections into the Notes text box window. Be sure to clearly indicate where the correction is to be placed and what text it will affect. If necessary to avoid confusion, you can use your Text Selection tool to copy the text to be corrected and paste it into the Notes text box window. At this point, you can type the corrections directly into the Notes text box window. DO NOT correct the text by typing directly onto the PDF page.
+5.	Go through your entire article using the Notes tool as described in Step 4.
+6.	When you have completed the corrections to your article, go to file/Export/Annotations (in Acrobat 4.0) or Document/Add a Comment (in Acrobat 6.0).
+7.	When closing your article PDF, be sure NOT to save changes to the original file.
+8.	To make changes to a Notes file you have exported, simply re-open the original PDF proof file, go to File/Import/Notes and import the Notes file you saved. Make changes and re-export the Notes file, keeping the same file name.
+9.	When complete, attach your original PDF file and your Notes file to an e-mail message.
+
+
+The eProof is to be used only for the purpose of returning corrections to the publisher.
+
+
+Thank you,
+
+Larry Graup / MRD Production
+E-mail: lgraup@infionline.net
+Fax: 570 754 2247 
+Telephone: 570 754 3060

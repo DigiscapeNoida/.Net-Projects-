@@ -1,0 +1,45 @@
+<HTML>
+<BODY>
+<P><JNAME></P>
+<P>Published by: Wiley Blackwell</P> 
+<P>Article AID: <PNO></P>
+
+
+<P>Dear Author,</P> 
+
+<P>Your page proofs are available in PDF format; please refer to this URL address :</P>
+
+  <P><URL></P>
+
+<P>Username     : <USER></P>
+<P>Password     : <PASSWORD></P>
+
+
+
+<P>The site contains 1 file. You will need to have Adobe Acrobat Reader (version 8 or above) software to read these files. This is free software and is available for user downloading at <a href="http://www.adobe.com/products/acrobat/readstep.html.">http://www.adobe.com/products/acrobat/readstep.html.</a></P> 
+
+<P>Please correct your proof using the electronic annotation tools as instructed in the Using E-annotation Tools guidelines enclosed with your PDF proof.If you need any technical support please contact <a href="wileyus@thomsondigital.com.">wileyus@thomsondigital.com.</a> Be sure to include your article number.</P> 
+
+<P><b>This file contains:</b></P> 
+
+<P>Using E-annotation Tools Guidelines<br/> 
+Color Charge<br/>
+Copyright Transfer Agreement <br/>
+A copy of your page proofs for your article</P> 
+
+<P><b>After printing the PDF file, please read the page proofs carefully and:</b></P> 
+
+<P>indicate changes or corrections in the margin of the page proofs;<br/> 
+answer all queries that appear on the last page of the PDF proof.<br/>
+Within two business days, please e-mail your annotated proofs and copyright transfer agreement (only if you have not already signed one) to <a href="ajpprod@wiley.com">ajpprod@wiley.com</a></P>
+
+<P><b>PLEASE ALWAYS INCLUDE YOUR ARTICLE NO. <PNO> WITH ALL CORRESPONDENCE.</b></P> 
+
+<P>This e-proof is to be used only for the purpose of returning corrections to the publisher.</P> 
+
+<P>Sincerely,</P>
+
+<P>AJP Production<br/>
+<PEEMAIL></p>
+</BODY>
+</HTML>

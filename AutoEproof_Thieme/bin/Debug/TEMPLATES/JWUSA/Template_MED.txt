@@ -1,0 +1,75 @@
+<JNAME>
+
+Published by John Wiley & Sons, Inc.
+
+Article Production Number:  <PNO>(<DOI>)
+
+Username: <USER>
+Password: <PASSWORD>
+
+Dear Author:
+
+Welcome to the Wiley Journals Production eProofing System, which allows authors to receive the page proofs of their articles as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. You must have Adobe Acrobat Reader or Acrobat Exchange software installed on your computer to use PDF files. Acrobat Reader software is a free download from the Internet. If you do not have Adobe Acrobat Reader or Acrobat Exchange installed on your computer, please refer to the downloading instructions at the end of this message.
+
+To eProof your article:
+
+1.   Open your Internet browser and connect to the Internet.
+2.   Activate downloading of the Article Page Proof file and eProof Support Document by clicking on the active links to the eProof server shown below.
+3.   You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message.
+4.   Save the downloaded file to a local directory on your computer's hard drive [for example, c:/temp].
+
+Link to your article and eProof Support Documents:
+     Article Page Proof:
+
+     <URL>
+
+5.   Close your Internet browser.
+6.   Open the files with Adobe Acrobat Reader.
+7.   Print the files using Adobe Acrobat Reader.
+8.   Proofread the printed proofs for information accuracy against your manuscript copy. Use a black pen to mark changes directly on the printed proofs. Double-check figures and tables. Be sure to respond to all queries on the page proofs. All queries are listed on the last page of the proof. When reviewing your page proofs please keep in mind that a professional
+copyeditor edited your manuscript to comply with the presentational style requirements for the journal.
+9.   Your article production number is noted at the top of this message, please refer to it on all correspondence.
+10.  You have two options for return correspondence:
+
+*Option 1: Return your marked proofs, copyright transfer agreement(only if you have not already signed one), and reprint order forms by fax to <PE> [<PEDESIG>, John Wiley & Sons, Inc. (<PEFAX>)].
+*  A fax cover sheet, a copyright transfer agreement(only if you have not already signed one), and a reprint order form in PDF format are attached to this e-mail for you to print and fax.
+
+*Option 2: If you own Adobe Acrobat 4.0, 5,0 or 6.0, you may attach your corrections to the PDF eProof file as Acrobat Notes. Instructions for using the Notes feature of Acrobat Exchange are attached as a PDF file to this e-mail. This option is not available with Adobe Acrobat Reader, the free Internet download software.
+*  Use Adobe Acrobat to add notes to complete the information necessary for your reprint order form.
+* E-mail the corrected PDF, signed copyright transfer agreement(only if you have not already signed one), and updated Reprint Order form to <PE>, <PEDESIG> [<PEEMAIL>].
+
+If you have any production questions pertaining to your manuscript, please contact the Senior Production Editor at the address given below:
+
+<PE>
+<PEDESIG>
+John Wiley & Sons, Inc.
+<PEADDRESS>
+E-mail: <PEEMAIL>
+Tel : <PEPHONE>
+Fax : <PEFAX>
+
+If you experience any technical problems, or problems accessing your proof, there is help available to you Monday through Friday, 8:30am - 4:30pm EST.
+
+Please contact:
+
+               E-mail: Thomson Press <eproof@thomsondigital.com>
+
+Thank you for your prompt attention and cooperation during this phase of preparing your article for publication.
+
+ Adobe Acrobat Reader Instructions
+The Adobe Acrobat Reader allows you to view, navigate, and print PDF files. Acrobat Reader is the free viewing companion to Adobe Acrobat software.
+To download the latest version of the Acrobat Reader:
+1)   Use your browser to go directly to the address - http://www.adobe.com/prodindex/acrobat/readstep.html
+2)   Review the selection options carefully to match the proper Acrobat Reader version to your computer's configuration. Here are some useful pointers:
+*    Acrobat Reader is designed to work with Microsoft Internet Explorer 6.0.
+3)   All PDF files produced for the E-proof System are Acrobat version 4.0 files.
+4)   PDF files produced by the E-proof System will look exactly like your page proofs. However, all graphic images in the PDF are downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher resolution and sharpness in the printed article.
+5)   Troubleshooting PDF Viewing Problems:
+*    Acrobat Reader comes with a help file. Please review the READER.PDF file located in your \Acrobat\Help directory.
+*    If the Acrobat Reader help file does not provide you a solution, try the Adobe Support Database at http://www.adobe.com/supportservice/custsupport/database.html.
+*    Additional information about Acrobat Reader can be found at these sites:
+*    http://www.adobe.com/supportservice/custsupport/techguide.html
+http://www.adobe.com/supportservice/custsupport/TECHGUIDE/ACRBT/READER/reader_browser.html
+
+This e-proof is to be used only for the purpose of returning corrections to the publisher.
+

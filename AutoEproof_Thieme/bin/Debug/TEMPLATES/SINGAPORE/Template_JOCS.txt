@@ -1,0 +1,92 @@
+<HTML>
+<BODY>                                            
+<p><h3>Journal of Cardiac Surgery</h3></p>
+<p>Published by Wiley Blackwell<br/>
+
+Article ID: JOCS <PNO></p>
+
+
+<p>Dear Author:</p>
+
+<p>Welcome to our eProofing System, which allows authors to receive page proofs of their articles as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. You must have Adobe Acrobat Reader or Acrobat Exchange software installed on your computer to use PDF files. Acrobat Reader software is a free download from the Internet. If you do not have Adobe Acrobat Reader or Acrobat Exchange installed on your computer, 
+   please refer to the downloading instructions at the end of this message. 
+
+ <p><URL></p>
+ 
+
+<p>Username     : <USER><br/>
+Password     : <PASSWORD></p> 
+<p>A link to take you directly to your article, a fax cover sheet and a color charge form are attached to this e-mail. 
+If for any reason you cannot download or read your article or the attachments, 
+please email Corinna Choh, Production Editor: <a href="cchoh@wiley.com">cchoh@wiley.com</a></P>
+
+<p><b>Color Charge Form: </b><br/>
+1. The Color Charge form can be found under "Supporting Documents" on the e-proof site.<br/>
+
+2. The charge for printing color figures within your article is $850 per page.<br/>
+
+3. If you do not return the order form within 48 hours indicating that you wish to have your figures printed in color, they will be printed in black and white.<br/>
+
+4. Fax the Color Charge form to Corinna Choh at +1-781-338-8357. </p>
+
+<p>Please note, beginning on June 1, 2010, all manuscripts accepted in the "Images in Cardiac Surgery" or "Surgical Techniques" section will be published in color at no cost to the author.</p>
+
+<p><b>Conflict of Interest</b> <br/>
+
+When a manuscript reports on a specific product, the author must enclose a statement disclosing any financial or commercial interest in the manufacturer or distributor of the product, including any corporate funding or affiliations. </p>
+
+<p><b>Offprint Requests:</b><br/>
+If you wish to order offprints from this journal please click on the following link:<br>
+<a href="https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=JCS ">https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=JCS </a></p>
+
+<p><b>PDF Offprints:</b><br/>
+Free access to the final PDF offprint of your article will be available via author services. Please sign up for author services if you would like to access your article PDF offprint upon publication of your paper, and enjoy the many other benefits the service offers. Visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a> to sign up for author services.</p>
+<p><b>To eProof your article:</b><br/>
+1. Save the files to a local directory on your computer’s hard drive [for example, c:/temp].<br/>
+
+2. Open the files with Adobe Acrobat Reader. <br/>
+
+3. Print the files using Adobe Acrobat Reader. <br/>
+
+4. Proofread the printed proofs for information accuracy against your manuscript copy. Mark changes directly on the printed proofs. Double-check figures and tables.
+Be sure to respond to all queries on the page proofs. All queries are listed on the last page of the proof. 
+When reviewing your page proofs please keep in mind that a professional copyeditor edited your manuscript to comply with the presentational style requirements for the journal.<br/>
+
+5. Please email your list of corrections, answers to the queries, and corrected page proofs to Suzanne Lassandro (Journal of Cardiac Surgery proofreader, 
+e-mail: <a href="lassandro7@aol.com">lassandro7@aol.com</a>  or fax: 561-423-4676) within 48 hours of receipt. 
+Your article production number is noted at the top of this message; please refer to it and the Journal Title on all correspondence.</p>
+
+<p>If you own Acrobat Exchange 3.x or Acrobat 4.0, you may attach your corrections to the PDF eProof file as Acrobat Notes.
+Instructions for using the Notes feature of Acrobat Exchange are attached as a PDF file to this e-mail. 
+This option is not available with Adobe Acrobat Reader, the free Internet download software. 
+Use Acrobat Exchange to add notes to complete the information necessary for your reprint order form. </p>
+
+<p>Thank you for your prompt attention and cooperation during this phase of preparing your article for publication.</p>
+
+<p><b>Adobe Acrobat Reader Instructions </b><br/>
+
+The Adobe Acrobat Reader allows you to view, navigate, and print PDF files. Acrobat Reader is the free viewing companion to Adobe Acrobat software. To download the latest version of the Acrobat Reader:<br/> 
+
+1. Use your browser to go directly to the address<br/> <a href="http://www.adobe.com/prodindex/acrobat/readstep.html">http://www.adobe.com/prodindex/acrobat/readstep.html</a><br/>
+ 
+2. Review the selection options carefully to match the proper Acrobat Reader version to your computer's configuration. Here are some useful pointers: Acrobat Reader version 3.0 does not fully support Microsoft Internet Explorer 4.0. Acrobat Reader version 3.01 is designed to work with Microsoft Internet Explorer versions 3.0, 3.01, 3.02, and 4.0. Acrobat Reader version 4.0 is a relatively recent release and has not been extensively tested in the field. <br/>
+
+3. All PDF files produced for the eProof System are Acrobat version 3.x files. Do not use older versions of Acrobat Reader like version 2.1. <br/>
+
+4. PDF files produced by the eProof System will look exactly like your page proofs. However, all images in the PDF are downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher resolution and sharpness in the printed article. <br/>
+
+5. Troubleshooting PDF Viewing Problems: Acrobat Reader comes with a help file. Acrobat Reader help file does not provide you a solution, try the Adobe Support Database at 
+<a href="http://www.adobe.com/supportservice/custsupport/database.html ">http://www.adobe.com/supportservice/custsupport/database.html </a><br/>
+6. Additional information about Acrobat Reader can be found at these sites: <br/>
+<a href="http://www.adobe.com/supportservice/custsupport/techguide.html">http://www.adobe.com/supportservice/custsupport/techguide.html</a><br/>
+<a href="http://www.adobe.com/supportservice/custsupport/TECHGUIDE/ACRBT/READER/reader_browser">http://www.adobe.com/supportservice/custsupport/TECHGUIDE/ACRBT/READER/reader_browser</a></p>
+<p>With warm regards,</p>
+
+<p><PE><br/>
+Production Editor| Journal Content Management <br/>
+Wiley Blackwell | John Wiley & Sons Singapore Pte. Ltd.<br/>
+1 Fusionopolis Walk, #07-01 Solaris South Tower Singapore 138628.<br/>
+Tel: +65 6643 8461 | E-fax: +1-781-338-8357 | Fax: +65 6643 8599 <br/>
+Email: <a href="cchoh@wiley.com">cchoh@wiley.com</a></p> 
+</BODY>
+</HTML> 

@@ -1,0 +1,55 @@
+<JNAME>
+
+Published by Wiley Blackwell Journals Production.
+
+Article Production Number:  <PNO>
+
+Username: <USER>
+Password: <PASSWORD>
+
+Dear Author:
+
+Welcome to the eProofing System, which allows receiving of the page proofs as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. You must have Adobe Acrobat Reader installed on your computer to use PDF files. Acrobat Reader software is a free download from the Internet.
+
+Proof corrections should be returned to <PEEMAIL> within 48 hours after receipt unless an extension has been requested.
+
+To download your article:
+
+1.  Activate downloading of the Article Page Proof file by clicking on the active links to the eProof server shown below.
+2.  You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message.
+3.  Save the downloaded file to a local directory on your computer's hard drive (for example, c:\temp).
+
+Link to your article and eProof Support Documents:
+
+    Article Page Proof:
+
+     <URL>
+
+4.    Follow the enclosed instructions for annotating your article proofs.
+5.    Your article production number is noted at the top of this message, please refer to it on all correspondence.
+
+* E-mail the corrected PDF, signed copyright transfer agreement (only if you have not already signed one) to <PE>, <PEDESIG> [<PEEMAIL>].
+
+If you have any production questions pertaining to your manuscript, please contact the production team freely at the above listed address.
+
+If you experience any technical problems, or problems accessing your proof, there is help available to you Monday through Friday, 8:30am - 4:30pm EST. Please contact: wileyus@thomsondigital.com
+
+Proof checklist:
+
+*    This will be your only chance to review this proof. Once an article appears online, it cannot be changed in any way.
+*    Please note that the volume and page numbers shown on the proof are for position only.
+*    Queries for you to answer (if any) are listed on the last page of the proof.
+*    Note that excessive author alterations not related to typesetting errors may ultimately result in delay of publication and extra costs may be charged to you.
+*    Check size, numbering, and orientation of figures.
+*    All images in the PDF are downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher resolution and sharpness in the printed article.
+*    Review figure legends to ensure that they are complete.
+*    Check all tables. Review layout, title, and footnotes.
+
+The eProof is to be used only for the purpose of returning corrections to the publisher.
+
+Thank you,
+
+JSO Production Team
+E-mail:  <PEEMAIL>
+
+

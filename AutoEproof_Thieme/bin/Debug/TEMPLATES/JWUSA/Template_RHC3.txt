@@ -1,0 +1,55 @@
+<html>
+<body>
+<p><b><JNAME></b><p/>
+<p>Published by Wiley Blackwell, Boston</p>
+Article ID: RHC3 <PNO></p>
+ 
+<p>Dear Author,</p>
+
+<p>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a future issue of <I>Risks,
+Hazards, & Crisis in Public Policy</I>, has now been uploaded as a PDF file.</p> 
+
+<p>To access your paper, please copy and paste the following URL into your web browser's window:</p>
+
+<BR><p> <URL></p>
+     <p>Username: <USER>
+    <BR>Password: <PASSWORD></p>
+
+<p><b>Returning Corrected Proofs:</b><br/>
+Print the PDF file and read the instructions attached thoroughly, and return corrections<b> within 48 hours</b> to
+the Proofreader at the address indicated below:</p>   
+
+<BR><P>Martha Kirk<br>
+	Email: <U><a href="mailto:marthakirk@charter.net">marthakirk@charter.net</a></U></P>
+
+<p><b>Instructions:</b><br/> 
+Be sure to review these before in advance of proofing your article.</p> 
+
+<p><b>Please follow one of the following two options for returning proof corrections:</b><br/> 
+1) Open the PDF proof in Adobe Acrobat. Mark your corrections directly on the PDF using the
+Commenting tools. Save the PDF and attach to an email to the proofreader. Please make sure to respond to
+any author queries located on the last page of the proof.<br/>
+2) Open the PDF and review the article, then send a list of corrections in an email to the Proofreader.<br/>
+Please note page number, column, and line with each correction. Describe all corrections as clearly and
+unambiguously as possible. Please be sure to respond to all author queries listed on the last page of the
+proof.</p>
+
+<p>Any email correspondence should be directed to the Proofreader as noted above. <b> Please do not reply
+directly to this message.</b></p>  
+ 
+<p><b>Queries</b><br/> 
+Queries from the copyeditor are listed on the last page of the proof. The text to which the queries refer is
+indicated on the proof by numbers (e.g. Q1) in the margin. Please ensure these are answered in full.</p> 
+
+<p><b>Electronic Offprint (PDF):</b></p>
+
+<p>Free access to the final PDF offprint or your article will be available via author services only. Please
+therefore sign up for author services if you would like to access your article PDF offprint and enjoy the
+many other benefits the service offers.  Visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a>
+to sign up for author<br/> services.</p>
+
+<p>Yours sincerely,<br/>
+Joshua Gannon<br/>
+Production Editor</p>
+</body>
+</html>

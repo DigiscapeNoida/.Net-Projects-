@@ -1,0 +1,36 @@
+<html>
+<body style="font-family: Calibri;text-align: justify;">
+<H1><b>Journal of Applied Behavior Analysis</b></H1>
+<p>Published by: Wiley Blackwell, Boston<BR>
+Article ID: JABA <PNO></p>
+<p>Dear Author,</p>
+<p>The proof of your paper, which is scheduled to appear in a future issue of the <i>Journal of Applied Behavior Analysis</i>, has now been uploaded as a PDF file.</p> 
+<p>To access your paper, please copy and paste the following URL into your web browser's window:<BR>
+<URL></P>
+<P>Username : <USER><BR>
+   Password : <PASSWORD></p>
+<p><b>Returning Corrected Proofs:</b></p>
+<p><b>Within 2 business days</b> please send Kathy Hill all proof corrections or notify her there are no corrections.  She can be reached at the following address:<BR>
+Kathy Hill<BR>
+E-mail:<a href="malto:behavior@mail.ku.edu">behavior@mail.ku.edu</a></p>   
+<p><b>Please review your PDF proof and follow one of the two options for returning proof corrections:</b></p>
+<p>1) Open and review the PDF, then make corrections using the e-annotation mark-up tools available in the free version of <u><a href="http://get.adobe.com/reader/">Adobe Reader</u></a>. Your marked-up PDF corrections should be emailed directly to the Proofreader.</p>  
+<p>2) Open the PDF, review the article, and send a list of corrections in an email to the Proofreader.  Please note page number, column, and line with each correction. Describe all corrections as clearly and unambiguously as possible.</p>
+<p>In all cases, please be sure to respond to author queries (if any) as listed on the last page and marked throughout the text. Please proofread any tables, figure legends, and equations. Check the quality of the figure reproductions. </p>
+<p>Any e-mail correspondence should be directed to the Proofreader as noted above. <b>Please do not reply directly to this message</b>. </p>
+<p><b>Queries</b><BR>
+<p>Queries from the copyeditor are listed on the last page of the proof. The text to which the queries refer is indicated on the proof by numbers (e.g., Q1) in the margin. Please ensure that these queries are answered in full.</p>
+<p><b>Supporting Information</b></p>
+<p>If you have previously provided Supporting Information with your article, please note it will not be edited or altered from its original format during the Production process. Although a proof of your Supporting Information is not available, it will appear online when your article is published. </p>
+<p><b>Offprint Request</b><BR>
+If you wish to order offprints from this journal, please click on the following link:<BR>
+<a href="https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=JABA">https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=JABA</a></p> 
+<p><b>Final PDF Offprint and Author Services</b></p>
+<p>Free access to the final PDF offprint of your article will be available via Author Services ONLY. Please therefore sign up for Author Services if you would like to access your article PDF offprint and enjoy the many other benefits the service offers. Please visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a> to register for Author Services and for more information.</p>
+<p><b>Questions?</b></p>
+<p>If you have any questions about accessing the PDF file of the proofs, printing, correcting, or returning proofs, please contact the Production Editor at <a href="malto:JABA@wiley.com">JABA@wiley.com</a>.</p>  
+<p>Yours sincerely,</p>
+<p>Angelo Morales<br/>
+Production Editor</p>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<html>
+<body style="font-family: Calibri;text-align: justify;">
+<p><B><JNAME></B></p>
+<p>Published by Wiley Blackwell</p>
+
+<p>Article ID:  <PNO></p>
+
+
+<p>Dear Author:<p>
+
+<p>The proof of your paper <ART_TITLE>,which is scheduled to appear in a future issue of Poverty & Public Policy, has now been uploaded as a PDF file.<br>
+To access your paper, please copy and paste the following URL into your web browser's window:
+     <BR><p> <URL></p>
+     <p>Username: <USER>
+    <BR>Password: <PASSWORD></p>
+ </P>
+<P><B>Returning Corrected Proofs:</B>
+<BR>Print the PDF file and read the instructions attached thoroughly, and return corrections within 48 hours to the Proofreader at the address indicated below:  
+<BR><P>Amy Kirtley-Hill<br>
+	Email: <U><a href="mailto:amkirtley-hill@comcast.net">amkirtley-hill@comcast.net</a></U></P>
+</P></P>
+<P><B>Instructions: </B><br>Be sure to review these before in advance of proofing your article. <br>
+<B>Please follow one of the following two options for returning proof corrections:</B><br>1) Open the PDF proof in Adobe Acrobat. Mark your corrections directly on the PDF using the Commenting tools. Save the PDF and attach to an email to the proofreader. Please make sure to respond to any author queries located on the last page of the proof.
+<br>2) Open the PDF and review the article, then send a list of corrections in an email to the Proofreader. Please note page number, column, and line with each correction. Describe all corrections as clearly and unambiguously as possible. Please be sure to respond to all author queries listed on the last page of the proof.
+
+<P><B>Queries</B> <BR>Queries from the copyeditor are listed on the last page of the proof. The text to which the queries refer is indicated on the proof by numbers (e.g. Q1) in the margin. Please ensure these are answered in full.</p>
+<p><B>Electronic Offprint (PDF): </B><br>Free access to the final PDF offprint or your article will be available via author services
+only. Please therefore sign up for author services if you would like to access your article PDF offprint and enjoy the many other benefits
+the service offers. Visit <U><A HREF="http://authorservices.wiley.com/bauthor">http://authorservices.wiley.com/bauthor</A></U> to sign up for author services. </P> 
+<p>Sincerely,<br>
+<BR><PE>
+<BR><PEDESIG> </p>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<HTML>
+<BODY>
+<p><B>Cell Biology International</B></p>
+<p>Published by Wiley Blackwell</p>
+
+<p>Article ID:CBIN_<PNO></p>
+
+<p>Dear Author:</p>
+
+<p>Welcome to the eProofing System, which allows receiving of the page proofs as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. You must have Adobe Acrobat Reader installed on your computer to use PDF files. Acrobat Reader software is a free download from the Internet.
+
+<br><br>Proof corrections should be returned to <U><a href="ahistorill@wiley.com">ahistorill@wiley.com</a></U> within 3 days after receipt unless an extension has been requested. 
+
+<br><br>To download your article: 
+<br>1. Activate downloading of the Article Page Proof file by clicking on the active links to the eProof server shown below. 
+<br>2. You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message. 
+<br>3. Save the downloaded file to a local directory on your computer's hard drive (for example, c:\temp). 
+
+<br><br>Link to your article and eProof Support Documents: 
+
+<br><br>Article Page Proof: 
+
+<p> <URL></p>
+<br>Username     : <USER>
+<br>Password     : <PASSWORD> 
+
+<br><br>4. Follow the enclosed instructions for annotating your article proofs. 
+<br>5. Your article production number is noted at the top of this message, please refer to it on all correspondence. 
+
+<br><br>* E-mail the corrected PDF to <U><a href="ahistorill@wiley.com">ahistorill@wiley.com</a></U> 
+
+<br><br>If you have any production questions or problems accessing your proofs please email <U><a href="ahistorill@wiley.com">ahistorill@wiley.com</a></U>
+
+<br><br><b>Copyright Agreement</b>
+<br>A completed copyright agreement is required before your article can be published. If you have not already completed this using Wiley Author Licensing Service (WALS) please login to Author Services to complete your copyright form online.
+
+<br><br><b>Proof checklist:</b> 
+<br>* This will be your only chance to review this proof. Once an article appears online, it cannot be changed in any way. 
+<br>* Please note that the volume and page numbers shown on the proof are for position only. 
+<br>* Queries for you to answer (if any) are listed on the last page of the proof. 
+<br>* Note that excessive author alterations not related to typesetting errors may ultimately result in delay of publication and extra costs may be charged to you. 
+<br>* Check size, numbering, and orientation of figures. 
+<br>* All images in the PDF are downsampled (reduced to lower resolution and file size) to facilitate Internet delivery. These images will appear at higher resolution and sharpness in the printed article. 
+<br>* Review figure legends to ensure that they are complete. 
+<br>* Check all tables. Review layout, title, and footnotes.
+<br><br>The eProof is to be used only for the purpose of returning corrections to the publisher. 
+<br><br>Thank you, 
+<br>Arlen Historillo
+<br>Production Editor
+<br>On behalf of Wiley
+<br>Manila 
+<br>E-mail: <U><a href="ahistorill@wiley.com">ahistorill@wiley.com</a></U>
+</p>
+</BODY>
+</HTML>

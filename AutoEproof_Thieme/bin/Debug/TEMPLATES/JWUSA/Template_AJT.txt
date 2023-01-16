@@ -1,0 +1,48 @@
+<html>
+<body style="font-family: Calibri;text-align: justify;">
+<H1><b>American Journal of Transplantation</b></H1>
+<p>Published by: Wiley<BR>
+Article ID: AJT <PNO></p>
+
+<P>Dear Author,</P>
+
+<P>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a future issue of the <i><b>American Journal of Transplantation</i></b>, has now been uploaded as a PDF file. </P>
+
+<P>To access your paper, please copy and paste the following URL into your web browser's window:<BR>
+<URL></p>
+
+<p>Username: <USER><BR>
+Password: <PASSWORD></p>
+
+<p><b>Page charges/Color Charges:</b><BR>
+Seven journal pages are printed free of charge. Each additional page will be charged at US $115.  In addition, if your paper has images that you would like to appear in color, please download and return the PDF color and page charges form to 781-338-8484 or indicate on the proof if the image should be converted to black and white.</p>
+
+<p>We do not invoice until the article has appeared in a print version of the journal. </p>
+<p><b>Returning Corrected Proofs:</b><BR>
+Print the PDF file and read the instructions in this email thoroughly, and return corrections within <b>48 hours</b> to the Proofreader at the address indicated below:</p>
+
+<p>Kelly Gunther<BR>
+E-mail: <a href="mailto:kjguntherproofs@gmail.com">kjguntherproofs@gmail.com</a></p>
+
+<p><b>Instructions:</b> </p>
+
+<p>Open and print the PDF, review the article, and send a list of corrections in an email to the Proofreader.  Please note page number, column, and line with each correction. Describe all corrections as clearly and unambiguously as possible. You can also mark proofs neatly in the margins and fax to the proofreader. There should be no rewriting or revising of your manuscript at this stage.</p>
+
+<p>Please check all numbers (in the text, tables, figures and references). Tables should be checked for proper alignment as well as for content. Clearly note all misspellings and typographical errors. Fill in any missing data in the references. Graphics should be checked for placement only, as the low-resolution image is not indicative of the final appearance of the figure. If you have not previously been in contact with the copy editor and you did not receive a query sheet, please contact me immediately. Please answer all author queries (Q1, Q2, etc.) noted in the margins and detailed on the query sheet. Any queries that are unanswered will be assumed to be satisfactory as they stand.</p>
+
+<p>Any email correspondence should be directed to the Proofreader as noted above. <b> Please do not reply directly to this message.</b> </p>
+ 
+<p><b>Offprints</b><BR>
+If you wish to order offprints from this journal please click on the following link:<BR>
+<a href="https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=AJT">https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=AJT</a></p>
+<p>Free access to the final PDF offprint of your article will be available via author services. Please sign up for author services if you would like to access your article PDF offprint upon publication of your paper, and enjoy the many other benefits the service offers. Visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a> to sign up for author services.</p>
+
+<p><b>Questions?</b><BR>
+If you have any questions about accessing the PDF file of the proofs, or correcting or returning proofs, please contact the Production Editor at: <a href="mailto:ajt@wiley.com">ajt@wiley.com</a>.</p>
+
+<p>Yours sincerely,<BR>
+<PE><BR>
+Senior Production Editor<BR>
+<b>Wiley Blackwell</b></p>
+</body>
+</html>

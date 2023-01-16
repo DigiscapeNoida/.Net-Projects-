@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Journal of Risk and Insurance</title>
+</head>
+<body style="font-family:  Calibri,Arial, Helvetica, sans-serif;text-align: justify;">
+<H2>Journal of Risk and Insurance</H2>
+<p>Published by: Wiley Periodicals, Inc.<BR>
+Article ID: JORI_<PNO></p>
+<p>Dear Author,</p>
+<p>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a future issue of the <i>Journal of Risk and Insurance</i>, has now been uploaded as a PDF file. </p>
+<p>To access your paper, please copy and paste the following URL into your webbrowser's window:</p>
+<p><URL></p>
+<p>Username     : <USER><br/>
+  Password      : <PASSWORD></p>
+
+<p><b>Returning Corrected Proofs:</b><br/>
+Print the PDF file and read the instructions attached thoroughly, and return corrections <b><u>WITHIN 48 HOURS</u></b> to the Proofreader at the address indicated below:</p>
+<p><b>Beth Baugh<br/>
+35 McEvoy Place <br>Dubuque , IA 52003 <br>Phone: 563-542-6737<br/>
+E-mail: <a href="mailto:bethbaugh@outlook.com">bethbaugh@outlook.com</a> </b></p>
+<p><b><u>Instructions: </u></b>
+<ul type=disc>
+<li>Detailed instructions are below; be sure to review these in advance of proofing your article. </li>
+<li>Any queries from the copyeditor are listed on the last page of the proof. The text to which the queries refer is indicated on the proof by numbers (e.g. Q1) in the margin. Please ensure these are answered in full.<u>If you are unsure of how to answer the queries, or if you have questions,please contact the Editor. </u></li>
+<li>You need to have Adobe Acrobat PDF reader installed on your computer. If you click on the PDF icon and nothing happens, you can download an Adobe Acrobat PDF reader for free by going to <a href="http://www.adobe.com/products/acrobat/readstep.html">http://www.adobe.com/products/acrobat/readstep.html</a> and following the steps on the website. If you still have difficulty, feel free to ask us for assistance.</li>
+<li>**NEW** Free access to the final PDF offprint or your article will be available via AUTHOR SERVICES only. Please sign up for Author Services if you would like to access your article PDF offprint and enjoy the many other benefits the service offers.&nbsp; Visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a> to sign up.</li>
+<li>If you wish to order offprints from this journal please click on the following link:
+<br><a href="https://caesar.sheridan.com/reprints/redir.php?pub=10089&amp;acro=JORI">https://caesar.sheridan.com/reprints/redir.php?pub=10089&amp;acro=JORI</a></li>
+</ul>
+<p><b>Please follow <u>one of the following options</u> for returning proof corrections: </b></p>
+<p>1) Open, print, and review the PDF, then make corrections to your hard copy and SCAN/EMAIL or FAX your corrections to the proofreader. Indicate any changes or corrections by printing clearly, carefully, and with a dark pen (blue or black ink) in the margin of the proof. Attach additional sheet(s) of paper as needed for more complex insertions if space in margin is not sufficient for legible writing of correction. Please type insertions that may be hard to read in handwritten form. </p>
+<p>2) Use PDF markup tools to electronically annotate your corrections, and send the corrected PDF to the proofreader via email. </p>
+<p>3) Open the PDF, review the article, and send a list of corrections in an email to the proofreader. Please note page number, column, and line with each correction. Describe all corrections as clearly and unambiguously as possible</p>
+<p>In all cases, be sure to respond to author queries (if any) as listed on the last page and marked throughout the text. Double check any tables, figure legends, and equations. Check the quality of the figure reproductions. <u>Please also note that no substantial changes or re-writing of material are allowed at this stage.</u></p>
+<p><b><u>Questions: </u></b><br/>
+If you have any questions about accessing the PDF file of the proofs, printing, correcting or returning proofs, please contact the Production Editor at: <a href="mailto:hmdsahle@wiley.com">hmdsahle@wiley.com</a>.</p>
+<p>Yours sincerely,</p>
+<p><PE><br/>
+<PEDESIG></p>
+</body>
+</html>

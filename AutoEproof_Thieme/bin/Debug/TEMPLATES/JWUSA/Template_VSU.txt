@@ -1,0 +1,54 @@
+<html>
+<body style="font-family: Calibri;text-align: justify;">
+<p><h3>Veterinary Surgery</h3></p>
+<p>Published by: Wiley Blackwell Publishing, USA</p>
+
+<p>Dear Author,</p>
+
+<p>The proof of your paper, which is scheduled to appear in a future issue of <i>Veterinary Surgery (VSU)</i>, is now available as a PDF file. To access your paper, please copy and paste the following URL into your web browser's window:</p>
+ 
+<p><URL></p>
+<p>Username   : <USER><br>
+ Password     : <PASSWORD></p>
+
+<p>You may now review this proof and send corrections to the proofreader. Please try to do so within 72 hours, so that your article can be advanced to the final publication stages as soon as possible.</p>
+
+<p><b>Proofreader</b></p>
+<p>Rebecca Meiser<br/>
+E-mail: <a href="mailto:meiser_rebecca@sbcglobal.net">meiser_rebecca@sbcglobal.net</a></p>
+
+
+<p>Any email correspondence should be directed to the Proofreader as noted above.  <b>Please do not reply directly to this message.</b></p>
+
+<p><b>Please follow one of the following two options for returning proof corrections:</b></p>
+<p>1. Open the PDF, review the article, and send a list of corrections in an email to the proofreader. Please note page number, column, and line with each correction. Describe all corrections as clearly and unambiguously as possible.</p>
+
+<p>2. Open and review the PDF, and note corrections electronically via the Comments menu in Adobe Acrobat Reader (version 8.0 or higher), and return via email attachment to the proofreader.</p>
+
+<p>In all cases, be sure to respond to author queries as listed on the last page and marked throughout the text. Proofread any tables, figure legends, and equations.</p>
+
+<p><b>Copyright</b><br/>
+
+Your article cannot be published unless we have received your completed license agreement. If you have not already done so, please login into our Author Services site at the following link to complete the agreement:
+
+<a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/register.asp</a>
+
+<p>Once you are registered and logged in, please click on “Add New Article” on the left menu bar in your account and you will be prompted to enter your article’s Article Unique ID (found in your Welcome email). Upon completion, you will be able to see your article under “My Publications” and its progress status.  From here, you may also proceed in the signing of the license for your article by clicking “Sign license agreement now.”</p>
+
+<p>If you do not have your Article ID or have any other questions about the Author Services site, please contact our Author Services team at <a href="http://cs-author.wiley.com">http://cs-author.wiley.com</a>.  Note that this is an online license agreement. You do not need to print out and sign any documents unless instructed by the system.</p>
+
+
+<p><b>Offprint Request:</b><br/>
+
+Free access to the final PDF offprint or your article will be available via Wiley’s Author Services. Please register to access your article PDF offprint and enjoy the many other benefits the service offers.  Visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a> to register.
+
+<p>If you wish to order offprints from this journal please click on the following link:
+<a href="https://caesar.sheridan.com/reprints/redir.php?pub=10089&amp;acro=VSU">https://caesar.sheridan.com/reprints/redir.php?pub=10089&amp;acro=VSU</a></p>
+
+
+<p>Best Regards,<br/>
+Michelle McCauley<br/>
+Production Editor<br/>
+<a href="mailto:vsu@wiley.com">vsu@wiley.com</p>
+</body>
+</html>

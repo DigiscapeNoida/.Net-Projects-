@@ -1,0 +1,59 @@
+<html>
+<body style="font-family: Calibri;text-align: justify;">
+<p><B><JNAME></B></p>
+<p>Published by: Wiley Blackwell, USA<br/>
+
+Article ID: MONO <PNO></p>
+ 
+<p>Dear Author,</p>
+
+<p>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a future issue of the <i>Monographs of the SRCD,</i> has now been uploaded as a PDF file.</p>
+
+<p>To access your paper, please copy and paste the following URL into your web browser's window:<br/>
+ <BR><p> <URL></p>
+     <p>Username: <USER>
+    <BR>Password: <PASSWORD></p>
+
+<p><b>Returning Corrected Proofs:</b><br/>
+Please print the PDF file and read the instructions below thoroughly, and return corrections within 6 business days to the 
+Proofreader at the address indicated below:<br/>
+
+<BR><P>Roseann Staplins<br>
+E-mail: <U><a href="mailto:rastaplins@comcast.net">rastaplins@comcast.net</a></U></P>
+<p>Phone/Fax: (203) 467-8805</p>
+<p><b>Please follow one of the following two options for returning proof corrections:</b><br/><br/>
+
+1) Open and print the PDF, review the article, and send a list of corrections via e-mail or fax to the Proofreader. Please note page
+number and line number with each correction. Describe all corrections as clearly and unambiguously as possible.<br/><br/>
+
+2) Open and review the PDF. Mark corrections as e-annotations on the PDF, then e-mail the marked-up PDF to the Proofreader.<br/></p>
+
+<p>In all cases, please be sure to respond to author queries (if any) as listed on the last page and marked throughout the text.
+Please proofread any tables, figure legends, and equations. Check the quality of the figure reproductions.<br/><br/>
+
+Any e-mail correspondence should be directed to the Proofreader as noted above. <b>Please do not reply directly to this message.</b></p>
+ 
+<b>Queries</b><br/> 
+Queries from the copyeditor are listed on the last page of the proof. The text to which the queries refer is indicated on the
+proof by numbers (e.g., Q1) in the margin. Please ensure that these queries are answered in full.<br/><br/> 
+
+<b>Offprint Request</b><br/>
+If you wish to order offprints from this journal, please click on the following link:<br/>
+<a href="https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=MONO">https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=MONO</a><br/><br/> 
+
+<b>***Final PDF Offprint and Author Services***</b><br/>
+Free access to the final PDF offprint of your article will be available via Author Services ONLY. Please therefore sign up for<br/>
+Author Services if you would like to access your article PDF offprint and enjoy the many other benefits the service offers.<br/>
+Please visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a> to register for Author
+Services and for more information.<br/><br/>
+
+<b>Questions?</b><br/>
+If you have any questions about accessing the PDF file of the proofs, printing, correcting, or returning proofs, please contact the<br/>
+Production Editor at <PEEMAIL>.<br/><br/>
+
+Yours sincerely,<br/>
+
+<PE><br/>
+<PEDESIG><br/>
+</body>
+</html>

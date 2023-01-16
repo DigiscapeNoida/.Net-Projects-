@@ -1,0 +1,46 @@
+<html>
+<body style="font-family: Calibri;text-align: justify;">
+<p><B><JNAME></B></p>
+<p>Published by Wiley Blackwell</p>
+
+<p>Article ID:  <PNO></p>
+
+
+<p>Dear Author:<p>
+
+<p>The proof of your paper ‘<ART_TITLE>’, which is scheduled to appear in a future issue of <I>MLJ</I>, has now been uploaded as a
+PDF file. To access your paper,&nbsp;&nbsp;please copy and paste the following URL into your web browser’s window:
+     <BR><p> <URL></p>
+     <p>Username: <USER>
+    <BR>Password: <PASSWORD></p>
+ </P>
+<P><B>Returning Corrected Proofs:</B>
+<BR>Please read the instructions attached thoroughly, and return corrections within 3 days to the editor at the address indicated below:
+<BR><P>Heidi Byrnes, Editor<br>
+	Email: <U><a href="mailto:modlangjournal@georgetown.edu">modlangjournal@georgetown.edu</a></U></P>
+</P>
+<BR>Any email correspondence should be directed to the editor as noted above. <B>Please do not reply directly to this message. </B>See the instruction letter included
+with your proofs for further details</P>
+
+<P><B>Instructions: </B><br>
+Please follow one of the below options for returning proof corrections:<br>1) Mark corrections electronically in the PDF using the e-annotation tools in Acrobat
+Reader and return by email to the editor. Note that you will only be able to annotate the file using Acrobat Reader 7.0 or above
+and Acrobat Professional. Earlier versions of Acrobat Reader do not have annotating capabilities.  Acrobat Reader can be downloaded free
+of charge at the following address: <U><a href="http://get.adobe.com/reader/">http://get.adobe.com/reader/</a></U><br>
+<BR>2) Open and print the PDF, review the article, and send a list of corrections in an email to the editor. 
+Please note page number, column, and line with each  correction. Describe all corrections as clearly and unambiguously as possible.<P>
+<P>In all cases, be sure to respond to author queries (if any) as listed on the last page and marked throughout the text. Proofread any tables, figure legends, and equations.
+ Check the quality of the figure reproductions. </P>
+<P><B>Queries</B> <BR>Queries from the copyeditor are listed on the last page of the proof. The text to which the queries refer is indicated on the proof by numbers
+(e.g. Q1) in the margin. Please ensure these are answered in full.</p>
+<p><B>Offprint Request:</B><br>Free access to the final PDF offprint or your article will be available via author services
+only. Please therefore sign up for author services if you would like to access your article PDF offprint and enjoy the many other benefits
+the service offers. Visit <U><A HREF="http://authorservices.wiley.com/bauthor">http://authorservices.wiley.com/bauthor</A></U> to sign up for author services. </P> 
+<P>If you wish to order offprints from this journal please click on the following link:<br><U><A HREF="https://caesar.sheridan.com/reprints/redir.php?pub=10089&amp;acro=MODL">https://caesar.sheridan.com/reprints/redir.php?pub=10089&amp;acro=MODL</A></U></P>
+<P><B>Questions?</B><br>If you have any questions about accessing the PDF file of the proofs, printing, correcting or returning proofs, please contact the
+Production Editor at <U><A HREF="mailto:mmccauley@wiley.com">mmccauley@wiley.com</A></U></P>
+<p>Sincerely,<br>
+<BR><PE>
+<BR><PEDESIG> </p>
+</body>
+</html>

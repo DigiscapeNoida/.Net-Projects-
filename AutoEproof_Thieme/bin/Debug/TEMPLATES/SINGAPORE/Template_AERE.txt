@@ -1,0 +1,44 @@
+<HTML>
+<BODY>
+<P><h3>The Australian Economic Review</h3></p>
+
+<p>Published by: Wiley Blackwell Asia Pacific<br/>
+Article ID: AERE <PNO></p>
+
+<p>Dear Author,</p> 
+<p>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a forthcoming issue of <i><b>The Australian Economic Review</b></i>, is now ready for collection.</p>
+
+<p>To access your paper, please copy and paste the following URL into your web browser's address window:</p>
+<p> <URL></p>
+<p>Username     : <USER><br/>
+Password     : <PASSWORD></p>
+<p>At this web address you will also find a document detailing instructions for checking the proof. Also in a section titled 'Supporting Documents' you will find other necessary forms that we require you to complete and return with your proof corrections. </p>
+
+<p><b>Checklist<br>
+-check the proof according to the instructions;<br/>
+
+-Add corrections using e-annotation tools within the proof (guidelines found in 'Supporting Documents' section);<br/>
+
+complete any associated forms (found in 'Supporting Documents' section); and<br/>
+
+return to me by <u>email or fax</u> within 5 working days of receipt of this notification.</b></p>
+
+<p>Please note: Once you have returned your corrections you will not receive a return email from me unless there are missing forms to be returned, missing information or if clarification is required. <br/>
+<p>* The PDF document can be opened using Adobe Acrobat Reader, which you can download free from: <a href="http://www.adobe.com/products/acrobat/readstep2.html"> http://www.adobe.com/products/acrobat/readstep2.html</a></p>
+* The ZIP-compressed documents can be opened using unzipping software such as Stuffit Expander, which you can download free from: <a href="http://www.stuffit.com"> http://www.stuffit.com</a></p>
+<p><b>NOTE:</b> To proceed with publication we need your approval to publish your article, either with or without correction. If your corrections are not received on time, publication of your paper may be delayed, or the Editor-in-Chief may correct your article on your behalf or agree that the article can be published without amendment. </p>
+<p>Thank you for your assistance. </p>
+<p>Yours sincerely </p>
+<p><PE><br/>
+<PEDESIG><br/> 
+Journal Content Management <br/>
+John Wiley & Sons Singapore Pte. Ltd. <br/>
+1 Fusionopolis Walk, <br/>
+#07-01 Solaris South Tower <br/>
+Singapore 138628 <br/>
+Tel: (65) 6643 8458 <br/>
+Fax: (65) 6643 8599<br/>
+Email: <a href="yvlim@wiley.com">yvlim@wiley.com</a></p>
+</BODY>
+</HTML>
+

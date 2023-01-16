@@ -1,0 +1,77 @@
+<HTML>
+<body>
+<p><h3>Lasers in Surgery and Medicine</h3></p>
+<p>Published by: Wiley, USA<br/>
+
+
+Article Production Number:  <PNO>(<DOI>)
+
+Username: <USER>
+Password: <PASSWORD>
+
+<p>Dear Author:</p>
+
+<p>Welcome to the Wiley Journals Production eProofing System, which allows authors to receive the page proofs of their articles as electronic files. eProofs are Portable Document Format (PDF) files generated from the typesetting of your article. You must have Adobe Acrobat Reader or Acrobat Exchange software installed on your computer to use PDF files. The latest version of Acrobat Reader can be downloaded free of charge at the following address: <a href="http://www.adobe.com/products/acrobat/readstep2.html">http://www.adobe.com/products/acrobat/readstep2.html</a>.</p> 
+
+<b>To eProof your article:</b>
+
+<p>1.   Open your Internet browser and connect to the Internet.</p>
+<p>2.   Activate downloading of the Article Page Proof file and eProof Support Document by clicking on the active links to the eProof server shown below.</p>
+<p>3.   You will be asked for a username and password to open the Article Page Proof files. This information appears at the top of this e-mail message.</p>
+<p>4.   Save the downloaded file to a local directory on your computer's hard drive [for example, c:/temp].</p>
+
+<p>Link to your article and eProof Support Documents:</p>
+     <p>Article Page Proof:</p>
+
+     <URL>
+
+<b>Returning Corrected Proofs:</b>
+<p>Please access the PDF file, read the instructions below thoroughly, and return corrections <b>within 48 hours (business days)</b> to the Production Editor at <a href="mailto:lsmprod@wiley.com">lsmprod@wiley.com</a>.</p>
+
+
+<p>Please follow one of the following two options for returning proof corrections:</p>
+
+<p>1)  PREFERRED OPTION: Open and review the PDF. Mark corrections as e-annotations on the PDF, then e-mail the marked-up PDF to the Production Editor at <a href="mailto:lsmprod@wiley.com">lsmprod@wiley.com</a>.</p>
+
+<p>2) Open and review the PDF, and send a list of corrections via e-mail to the Production Editor at <a href="mailto:lsmprod@wiley.com">lsmprod@wiley.com</a>. Please note page number, column number, and line number with each correction. Describe all corrections as clearly and unambiguously as possible.</p>
+
+<p>In all cases, please be sure to respond to Author Queries (if any) as listed on the last page and marked throughout the text. Please proofread any tables, figure legends, and equations. Check the quality of the figure reproductions.</p>
+
+<b>Queries</b><br>
+Queries from the copyeditor are listed on an Author Query Form following the last article page. The text to which the queries refer is indicated on the proof by numbers (e.g., Q1, Q2). Please ensure that these queries are answered in full.</p>
+
+<b>Supporting Information</b><br>
+If you have previously provided Supporting Information with your article, please note it will not be edited or altered from its original format during the Production process. Although a proof of your Supporting Information is not available, it will appear online when your article is published.
+
+<p>Your article production ID is shown in the subject line of this message – please refer to it in all correspondence. Please do not reply directly to this message.</p>
+
+<b>Offprint Request</b><br>
+If you wish to order printed offprints of your article, please click on the following link:
+<a href="https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=LSM">https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=LSM</a><p>
+
+<b>Accessing Your Free PDF Offprint</b><br>
+
+Free access to the final PDF offprint of your article will be available via Author Services ONLY. Please therefore sign up for Author Services if you would like to access your article PDF offprint and enjoy the many other benefits the service offers. Visit <a href="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</a> for more information and to sign up for Author Services.
+
+
+<p>If you have any production questions pertaining to your manuscript, please contact the Production Editor at the address given below:</p>
+
+<p><a href="mailto:lsmprod@wiley.com">lsmprod@wiley.com</a></p>
+
+
+<p>If you experience any technical problems, or problems accessing your proof, there is help available to you Monday through Friday, 8:30am - 4:00pm EST.</p>
+
+<p>Please contact:</p>
+
+               E-mail: Thomson Digital <a href="mailto:wileyny.j@thomsondigital.com">wileyny.j@thomsondigital.com</a>
+
+<p>Thank you for your prompt attention and cooperation during this phase of preparing your article for publication.</p>
+
+
+<p>Michele Heal<p>
+LSM Production Editor
+<a href="mailto:lsmprod@wiley.com">lsmprod@wiley.com</a>
+</body>
+</HTML>
+
+

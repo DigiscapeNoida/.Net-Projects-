@@ -1,0 +1,40 @@
+<html>
+<body>
+<p><b>Journal of Integrative Plant Biology</b></p>
+<p>Published by: Wiley<BR>
+Article ID: JIPB_<PNO>
+<p>Dear Author,</p>
+<p>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a forthcoming issue of Journal of Integrative Plant Biology, is now ready for correction.</p>
+<p>To access your paper, please copy and paste the following URL into your webbrowser’s window:</p>
+
+<p><URL><BR>
+Username :<USER><BR>
+Password : <PASSWORD><BR>
+</p>
+
+<p>At this web address you will also find a document detailing instructions for checking the proof. </p>
+<p><b>Returning Corrections</b><br/>
+Please note that this file should be annotated electronically and returned by email to the address below. Please correct your proof using the electronic annotation tools as instructed in the "Using E-annotation Tools" guidelines that can be found at the end of your proof. Please return your corrected proof or advise the Production Editor if you have no corrections (email is sufficient) within <u><b>24 hours</b></u> of receipt. Please return the corrected proof by e-mail to the address below:</p>
+
+
+<p>Proof corrections should be returned via e-mail to: <a href="arjun.p@thomsondigital.com">arjun.p@thomsondigital.com</a></p>
+<p>If you are unable to correct your proof using electronic annotation, please list all corrections and send back via email to the address given below, or mark all corrections directly on the proofs and send the scanned copy via email. Please do not send corrections by fax or post.</p>
+
+<p>* The PDF document can be opened using Adobe Acrobat Reader, which you can download free from: <a href="http://www.adobe.com/products/acrobat/readstep2.html">http://www.adobe.com/products/acrobat/readstep2.html</a></p>
+<p>* The ZIP-compressed documents can be opened using unzipping software such as Stuffit Expander, which you can download free from: <a href="http://www.stuffit.com">http://www.stuffit.com</a></p>
+<p><b>NOTE:</b> To proceed with publication we need your approval to publish your article, either with or without correction. If your corrections are not received on time, publication of your paper may be delayed, or the Editor-in-Chief may correct your article on your behalf or agree that the article can be published without amendment.</p>
+<p>Thank you for your assistance. </p>
+<p>Yours sincerely,<br/>
+<PE><br/>
+<PEDESIG>
+<p>Journal Content Management
+<br>Wiley
+<br>John Wiley &amp; Sons Singapore Pte Ltd
+<br>1 Fusionopolis Walk
+<br>#07-01 Solaris South Tower
+<br>Singapore 138628
+<br>Tel: +65 9776 9379 
+<br>Fax: +65 6643 8008
+<br>E-mail: scheong@wiley.com
+</body>
+</html>

@@ -1,0 +1,49 @@
+<html>
+<body style="font-family: Calibri;text-align: justify;">
+<p><B><JNAME></B></p>
+<p>Published by Wiley Blackwell, Boston</p>
+
+<p>Article ID:  JEAB<PNO></p>
+
+
+<p>Dear Author:<p>
+
+<p>The proof of your paper, which is scheduled to appear in a future issue of the <I>Journal of the Experimental Analysis of Behavior</I>, has now been uploaded as a PDF file.  
+<br>To access your paper, please copy and paste the following URL into your web browser's window:
+     <BR><p> <URL></p>
+     <p>Username: <USER>
+    <BR>Password: <PASSWORD></p>
+ </P>
+<P><B>Returning Corrected Proofs:</B>
+<BR>Please print the PDF file and read the instructions below thoroughly, and return corrections<b> within 2 business days</b> to the Proofreader at the address indicated below:
+<BR><P>Sharon Corcoran<br>
+	Email: <U><a href="mailto:sharoncorcoran@wustl.edu">sharoncorcoran@wustl.edu</a></U></P>
+</P>
+</P>
+<P><B>Please follow one of the following two options for returning proof corrections:</B><br>
+1) Open and review the PDF, then make corrections using the e-annotation mark-up tools available in the free version of Adobe Reader. 
+	Your marked-up PDF corrections should be emailed directly to the Proofreader. 
+<BR>2) Open the PDF, review the article, and send a list of corrections in an email to the Proofreader.  Please note page number, 
+	column, and line with each correction. Describe all corrections as clearly and unambiguously as possible.<P>
+<P>In all cases, please be sure to respond to author queries (if any) as listed on the last page and marked throughout the text. 
+Please proofread any tables, figure legends, and equations. Check the quality of the figure reproductions. </P>
+<p>Any e-mail correspondence should be directed to the Proofreader as noted above. <b>Please do not reply directly to this message.</b> </p>	
+<P><B>Queries</B> <BR>Queries from the copyeditor are listed on the last page of the proof. 
+	The text to which the queries refer is indicated on the proof by numbers (e.g., Q1) in the margin. Please ensure that these queries are answered in full.</p>
+
+<p><B>Offprint Request:</B><br>If you wish to order offprints from this journal, please click on the following link:
+<br><U><A HREF="https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=JEAB ">https://caesar.sheridan.com/reprints/redir.php?pub=10089&acro=JEAB </A></U> 
+<br><br><b>***Final PDF Offprint and Author Services***</b>
+</P> 
+
+<P>Free access to the final PDF offprint of your article will be available via Author Services ONLY. 
+	Please therefore sign up for Author Services if you would like to access your article PDF offprint and enjoy the many other benefits the service offers. 
+	Please visit <U><A HREF="http://authorservices.wiley.com/bauthor/">http://authorservices.wiley.com/bauthor/</A></U>
+</P>
+<P><B>Questions?</B><br>If you have any questions about accessing the PDF file of the proofs, printing, correcting, or returning proofs, please contact the Production Editor at 
+<U<a href="malto:JEAB@wiley.com">JEAB@wiley.com</A></U></P>
+<p>Sincerely,<br>
+<BR><PE>
+<BR><PEDESIG> </p>
+</body>
+</html>

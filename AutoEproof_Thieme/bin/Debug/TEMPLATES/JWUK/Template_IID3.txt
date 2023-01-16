@@ -1,0 +1,65 @@
+<html>
+<body>
+<B>Immunity, Inflammation and Disease</B></p>
+<P>Published by: Wiley Blackwell</P>
+<P>Article ID:IID3_<DOI></P>
+
+<P>Dear Author,</P>
+
+<P>The proof of your paper "<ART_TITLE>", which is scheduled to appear in a future issue of the IID3, has now been uploaded as PDF file.</P>
+
+<p>To access your paper, please copy and paste the following URL into your web browser's window:</p>
+ 
+<P><URL></P>
+ 
+<P>Username     :<USER></P>
+<P>Password     :<PASSWORD></P>
+
+<P>Please note that this file should be annotated electronically and returned by email to the address below. Please correct your proof electronically using the tools in the ‘Commenting’ toolbar in Acrobat. Should you encounter any problems please contact the Production Editor at <a href="mailto:jeting@wiley.com">jeting@wiley.com</a>.</P>
+
+<P>If you are unable to electronically annotate the document please see the “Returning Corrections” section below.<P>
+
+<P>Proofread the file for accuracy against your manuscript copy. Your article production id is noted at the top of this message - please refer to it in all correspondence. </P>
+
+<P>Acrobat Reader & Acrobat Professional</P>
+<P>You will only be able to annotate the file using Acrobat Reader 7.0 or above and Acrobat Professional This can be downloaded free of charge at the following address: <a href="http://www.adobe.com/products/acrobat/readstep2.html">http://www.adobe.com/products/acrobat/readstep2.html</a></P>
+
+<P><b>NOTE: Earlier versions of Acrobat Reader do not have annotating capabilities.</b></P>
+
+<P><b>Queries</b></P>
+<P>Queries from the Production Editor are listed on the last page of the proof. The text to which the queries refer is indicated on the proof by numbers (e.g. Q1) in the margin. Please ensure these are answered in full.</P>
+
+<P><b>Corrections</b></P>
+<P>You are responsible for the contents of your paper. We can only publish your paper after we have received your explicit approval of the proofs. Therefore, we would ask you to check the proof carefully, paying particular attention to the accuracy of equations, tables, illustrations (which may have been redrawn), other numerical matter and references (which have been corrected for style but not checked for accuracy, which remains the responsibility of the author). To facilitate PDF proofing, low-resolution images may have been used in this file. However, high-resolution images will be used in the final published version. If you have any queries regarding the quality of the artwork, please contact the Production Editor. As this is a page proof, to which corrections are expensive, please make the fewest possible alterations other than corrections of errors, and wherever a change is essential, please substitute as few words as possible occupying an approximately equal amount of space. If returning the proof by fax, please use a black pen to mark up any corrections.</P>
+
+<P><b>Supporting Information</b> </P>
+<P>If you have previously provided Supporting Information with your article, please note it will not be edited or altered from its original format during the Production Process. Although a proof of your Supporting Information is not available, it will appear online when your article is published.</P>
+
+<P><b>Returning Corrections</b></P>
+<P>Please note that this file should be annotated electronically and returned by email to the address below. Please correct your proof using the electronic annotation tools as instructed in the "Using E-annotation Tools" guidelines that can be found at the end of your proof. Please return your corrected proof or advise the Production Editor if you have no corrections (email is sufficient) within three days of receipt. Please return the corrected proof by e-mail to the address below:</P>
+
+<P>If you are unable to correct your proof using electronic annotation, please list all corrections and send back via email to the address given below, or mark all corrections directly on the proofs and send the scanned copy via email. Please do not send corrections by fax or post.</P>
+
+<P>Proof corrections should be returned via e-mail to: <a href="mailto:jeting@wiley.com">jeting@wiley.com</a></p>
+
+<P><b>OFFPRINTS</b> </P>
+<P>Free access to the PDF offprint of your article will be available via author services only. Please therefore sign up for author services if you would like to access your article PDF offprint and enjoy the many other benefits the service offers. </P>
+
+<P>Additional paper offprints may be ordered online. Please click on the following link fill in the necessary details and ensure that you type information in all of the required fields: <a href="http://offprint.cosprinters.com/blackwell">http://offprint.cosprinters.com/blackwell</a></P>
+
+<P>If you have queries about offprints please email <a href="mailto:offprint@cosprinters.com">offprint@cosprinters.com</a></P>
+
+<P><b>Further Queries</b></P>
+<P>If you have any questions about accessing the PDF file of the proofs, printing, correcting or returning proofs, please contact the Production Editor at: <a href="mailto:IID3@wiley.com">IID3@wiley.com</a>.
+
+<p><PE><br/>
+Production Editor<br/>
+On behalf of Wiley<br/>
+Manila<br/>
+Email: <a href="jeting@wiley.com">jeting@wiley.com</a><br/>
+Tel. +632-855 8714; +632 855 8790<br/>
+Fax: +632 325 0768<br/>
+
+</P>
+</body>
+</html>
