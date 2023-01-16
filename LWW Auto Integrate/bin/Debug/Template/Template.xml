@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<orders>
+  <order customer="JWUSA" category="JOURNAL">
+    <time day="02" month="10" yr="2012" hr="06" min="51" sec="40" />
+    <due-date>
+      <date day="12" month="10" yr="2012" />
+    </due-date>
+    <prod-site>LWW Journals</prod-site>
+    <stage step="S100" />
+    <executor type="TYPESETTER" addressee="yes">
+      <exec-code>THOM</exec-code>
+      <exec-name>Thomson Digital</exec-name>
+      <aff>
+        <address>B/10-12</address>
+        <address-contd>Noida Special Economic Zone</address-contd>
+        <zipcode zipcode-pos="AFTERCTY">201 305</zipcode>
+        <cty>Noida</cty>
+        <cny>India</cny>
+        <tel>+91-120-256 2499</tel>
+        <fax>+91-120-256 2299</fax>
+      </aff>
+    </executor>
+    <item-info>
+      <jid>NAU</jid>
+      <jname>Neurourology and Urodynamics</jname>
+      <aid>22345</aid>
+      <doi>22345</doi>
+      <vol>0</vol>
+      <issue>0</issue>
+      <item-title />
+      <suppmat value="no" />
+      <nih value="no" />
+      <artcat></artcat>
+      <arttype></arttype>
+      <workflowdesc></workflowdesc>
+      <editor-info>
+        <editor></editor>
+        <designation></designation>
+        <aff>
+          <organization />
+          <institute />
+          <address></address>
+          <zipcode zipcode-pos="AFTERCTY" />
+          <cty />
+          <cny />
+          <tel></tel>
+          <fax></fax>
+        </aff>
+      </editor-info>
+      <received-date>
+        <date day="00" month="00" yr="0000" />
+      </received-date>
+      <revised-date>
+        <date day="00" month="00" yr="0000" />
+      </revised-date>
+      <accept-date>
+        <date day="00" month="00" yr="0000" />
+      </accept-date>
+      <prd-type-as-sent>FTP</prd-type-as-sent>
+      <online-version type="print" />
+      <pit></pit>
+      <typesetting-required required="yes" />
+      <copy-editing-required required="yes" />
+      <no-mns-pages>0</no-mns-pages>
+      <no-phys-figs>0</no-phys-figs>
+      <no-bw-figs />
+      <no-web-colour-figs />
+      <no-colour-figs />
+      <no-e-components />
+      <righthand-start>N</righthand-start>
+      <copyright-recd-date>
+        <date day="01" month="10" yr="2012" />
+      </copyright-recd-date>
+      <first-author>
+        <degree />
+        <fnm />
+        <snm />
+      </first-author>
+      <corr-author>
+        <degree />
+        <fnm />
+        <snm />
+        <aff>
+          <organization />
+          <institute />
+          <address />
+          <zipcode />
+          <cty />
+          <cny />
+          <tel />
+          <fax />
+        </aff>
+      </corr-author>
+      <eproofing-info>
+        <to-mail />
+        <cc-mail />
+        <cta />
+        <cid />
+        <offprint />
+        <additional-attachments />
+      </eproofing-info>
+      <item-remarks>
+        <item-remark>
+          <remark />
+        </item-remark>
+      </item-remarks>
+    </item-info>
+  </order>
+</orders>

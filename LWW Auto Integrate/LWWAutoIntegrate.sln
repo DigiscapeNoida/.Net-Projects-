@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LWWAutoIntegrate", "LWWAutoIntegrate.csproj", "{8F81EE94-FE77-485F-B67E-A313F853A802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F81EE94-FE77-485F-B67E-A313F853A802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F81EE94-FE77-485F-B67E-A313F853A802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F81EE94-FE77-485F-B67E-A313F853A802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F81EE94-FE77-485F-B67E-A313F853A802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA0D018-A1DD-4AC0-A29C-647F4BF9D7CB}
+	EndGlobalSection
+EndGlobal
