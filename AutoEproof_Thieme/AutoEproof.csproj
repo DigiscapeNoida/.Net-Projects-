@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0DD8DD04-C1AB-407B-8A33-724692F6B548}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AutoEproof</RootNamespace>
+    <AssemblyName>AutoEproof</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DatabaseLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DatabaseLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\..\XMLOrder\Bin\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Acrobat, Version=1.1.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.Acrobat.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.iSED, Version=4.42.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.iSED.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\PdfProcess\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MsgRcvr, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MsgRcvr\bin\Debug\MsgRcvr.dll</HintPath>
+    </Reference>
+    <Reference Include="PDFAnnotationEnable, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\PDFAnnotationEnable.exe</HintPath>
+    </Reference>
+    <Reference Include="PdfProcess">
+      <HintPath>..\PdfProcess\bin\Debug\PdfProcess.dll</HintPath>
+    </Reference>
+    <Reference Include="ProcessNotification">
+      <HintPath>..\ProcessNotification\bin\Debug\ProcessNotification.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArticleInfo.cs" />
+    <Compile Include="ArticleUserUpdate.cs" />
+    <Compile Include="AssignUser.cs" />
+    <Compile Include="AuthorInfo.cs" />
+    <Compile Include="CleanProof.cs" />
+    <Compile Include="CopyGraphics.cs" />
+    <Compile Include="EPOut.cs" />
+    <Compile Include="EVDatasetProcess.cs" />
+    <Compile Include="FreshResupply.cs" />
+    <Compile Include="GetPDFXML.cs" />
+    <Compile Include="eMailProcess.cs" />
+    <Compile Include="eProofThieme.cs" />
+    <Compile Include="IssueMail.cs" />
+    <Compile Include="MergeNjdPdf.cs" />
+    <Compile Include="MoveToFMS.cs" />
+    <Compile Include="NIHProcess.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="PDFFormProcess.cs" />
+    <Compile Include="QCSubmit.cs" />
+    <Compile Include="QueryLinking.cs" />
+    <Compile Include="RvsAndIssFiles.cs" />
+    <Compile Include="StripnsMsg.cs" />
+    <Compile Include="ThiemeXml.cs" />
+    <Compile Include="Web References\OPSServise\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="WljPlanner.cs" />
+    <Compile Include="WriteLog.cs" />
+    <Compile Include="ConfigDetails.cs" />
+    <Compile Include="CreateURL.cs" />
+    <Compile Include="eProof.cs" />
+    <Compile Include="eProofInfo.cs" />
+    <Compile Include="eProofResultNotification.cs" />
+    <Compile Include="ExcelDetails.cs" />
+    <Compile Include="FAXProcess.cs" />
+    <Compile Include="FtpProcess.cs" />
+    <Compile Include="GetInput.cs" />
+    <Compile Include="IValidate.cs" />
+    <Compile Include="MailDetail.cs" />
+    <Compile Include="NativeWin32.cs" />
+    <Compile Include="OPSProcess.cs" />
+    <Compile Include="ProcessMsg.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ReviseProcess.cs" />
+    <Compile Include="SqlHelper.cs" />
+    <Compile Include="Web References\URLService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="app.manifest" />
+    <None Include="bin\Debug\AutoEproof.exe.config" />
+    <None Include="bin\Debug\AutoEproof.vshost.exe.config" />
+    <None Include="bin\Debug\AutoEproof.vshost.exe.manifest" />
+    <None Include="bin\Debug\CopyCleanProof\LogFile\12-08-2016.log" />
+    <None Include="bin\Debug\CopyCleanProof\LogFile\20-07-2016.log" />
+    <None Include="bin\Debug\CopyCleanProof\LogFile\2016-06-30.log" />
+    <None Include="bin\Debug\CTAForm.pdf" />
+    <None Include="bin\Debug\CTAForm_Org.pdf" />
+    <None Include="bin\Debug\DatabaseLayer.dll.config" />
+    <None Include="bin\Debug\EPOut\LogFile\2015-08-17.log" />
+    <None Include="bin\Debug\EPOut\LogFile\2015-08-17\2015-08-17_18_37_33.log" />
+    <None Include="bin\Debug\EPOut\LogFile\2015-09-24.log" />
+    <None Include="bin\Debug\EPOut\LogFile\2016-06-16.log" />
+    <None Include="bin\Debug\IJNS_CTAForm.pdf" />
+    <None Include="bin\Debug\Instruction\SampleTesteproofwithThomson.pdf" />
+    <None Include="bin\Debug\Instruction\ThiemeApproval.pdf" />
+    <None Include="bin\Debug\LogFiles\03-05-2018\03-05-2018.log" />
+    <None Include="bin\Debug\LogFiles\08-05-2017\08-05-2017.log" />
+    <None Include="bin\Debug\LogFiles\17-01-2018\17-01-2018.log" />
+    <None Include="bin\Debug\LogFiles\20-09-2018\20-09-2018.log" />
+    <None Include="bin\Debug\LogFiles\20-11-2017\20-11-2017.log" />
+    <None Include="bin\Debug\LogFiles\21-02-2018\21-02-2018.log" />
+    <None Include="bin\Debug\LogFiles\22-11-2018\22-11-2018.log" />
+    <None Include="bin\Debug\LogFile\03-05-2018.log" />
+    <None Include="bin\Debug\LogFile\08-05-2017.log" />
+    <None Include="bin\Debug\LogFile\17-01-2018.log" />
+    <None Include="bin\Debug\LogFile\20-09-2018.log" />
+    <None Include="bin\Debug\LogFile\20-11-2017.log" />
+    <None Include="bin\Debug\LogFile\21-02-2018.log" />
+    <None Include="bin\Debug\LogFile\22-11-2018.log" />
+    <None Include="bin\Debug\PDFAnnotationEnable.exe.config" />
+    <None Include="bin\Debug\PDFAnnotationEnable.vshost.exe.config" />
+    <None Include="bin\Debug\PDFAnnotationEnable.vshost.exe.manifest" />
+    <None Include="bin\Debug\Process\AJIM22923\AJIM-22923_Temp.pdf" />
+    <None Include="bin\Debug\RvsCopy\LogFile\03-08-2017.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_18_53.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_19_43.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_26_19.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_37_11.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_37_19.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_37_28.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_46_38.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_47_57.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_49_01.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_49_13.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_51_39.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_09_54_42.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_10_05_11.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\04-02-2017\04-02-2017_10_05_34.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\15-11-2016.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\15-11-2016\15-11-2016_17_51_33.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\15-11-2016\15-11-2016_18_16_57.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\17-11-2016.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\17-11-2016\17-11-2016_17_56_36.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\17-11-2016\17-11-2016_18_37_45.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\17-11-2016\17-11-2016_18_42_43.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\17-11-2016\17-11-2016_19_13_22.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2015-06-23.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2015-06-24.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2015-07-02.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2015-09-10.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2015-09-12.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2015-09-12\2015-09-12_13_39_57.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2015-09-12\2015-09-12_13_40_25.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2015-10-23.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2016-03-05.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2016-03-05\2016-03-05_19_21_57.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2016-05-04.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2017-03-06.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\2017-03-06\2017-03-06_PM_2_19_15.log" />
+    <None Include="bin\Debug\RvsCopy\LogFile\22-08-2017.log" />
+    <None Include="bin\Debug\RvsIssFileCopy.exe.Config" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="packages\AspNet.ScriptManager.jQuery.1.7.1\AspNet.ScriptManager.jQuery.1.7.1.nupkg" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\OPSServise\ArticleInfo.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\OPSServise\OPSService.wsdl" />
+    <None Include="Web References\OPSServise\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\URLService\CreateEproofURL.wsdl" />
+    <None Include="Web References\URLService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://172.16.2.251:8081/eProof/CreateEproofURL.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\URLService\</RelPath>
+      <UpdateFromURL>http://172.16.2.251:8081/eProof/CreateEproofURL.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>AutoEproof_URLService_CreateEproofURL</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://172.16.3.11/ops/OPSService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\OPSServise\</RelPath>
+      <UpdateFromURL>http://172.16.3.11/ops/OPSService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>AutoEproof_OPSServise_OPSService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\URLService\CreateEproofURL.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\OPSServise\OPSService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\0.jpg" />
+    <Content Include="bin\Debug\10129.jpg" />
+    <Content Include="bin\Debug\12332.jpg" />
+    <Content Include="bin\Debug\13646.jpg" />
+    <Content Include="bin\Debug\14664.jpg" />
+    <Content Include="bin\Debug\15332.jpg" />
+    <Content Include="bin\Debug\1568.jpg" />
+    <Content Include="bin\Debug\15934.jpg" />
+    <Content Include="bin\Debug\16396.jpg" />
+    <Content Include="bin\Debug\16474.jpg" />
+    <Content Include="bin\Debug\18395.jpg" />
+    <Content Include="bin\Debug\18611.jpg" />
+    <Content Include="bin\Debug\21283.jpg" />
+    <Content Include="bin\Debug\23301.jpg" />
+    <Content Include="bin\Debug\23739.jpg" />
+    <Content Include="bin\Debug\2986.jpg" />
+    <Content Include="bin\Debug\33582.jpg" />
+    <Content Include="bin\Debug\34883.jpg" />
+    <Content Include="bin\Debug\3528.jpg" />
+    <Content Include="bin\Debug\35899.jpg" />
+    <Content Include="bin\Debug\38733.jpg" />
+    <Content Include="bin\Debug\4100.jpg" />
+    <Content Include="bin\Debug\42042.jpg" />
+    <Content Include="bin\Debug\42208.jpg" />
+    <Content Include="bin\Debug\43052.jpg" />
+    <Content Include="bin\Debug\45864.jpg" />
+    <Content Include="bin\Debug\8089.jpg" />
+    <Content Include="bin\Debug\8131.jpg" />
+    <Content Include="bin\Debug\Apache.NMS.ActiveMQ.dll" />
+    <Content Include="bin\Debug\Apache.NMS.ActiveMQ.xml" />
+    <Content Include="bin\Debug\AutoEproof.exe" />
+    <Content Include="bin\Debug\AutoEproof.pdb" />
+    <Content Include="bin\Debug\AutoEproof.vshost.exe" />
+    <Content Include="bin\Debug\DatabaseLayer.dll" />
+    <Content Include="bin\Debug\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="bin\Debug\Interop.Acrobat.dll" />
+    <Content Include="bin\Debug\Interop.iSED.dll" />
+    <Content Include="bin\Debug\iSED.dll" />
+    <Content Include="bin\Debug\itextsharp.dll" />
+    <Content Include="bin\Debug\MsgRcvr.dll" />
+    <Content Include="bin\Debug\NIHAbr.txt" />
+    <Content Include="bin\Debug\NIHFull.txt" />
+    <Content Include="bin\Debug\PDFAnnotationEnable.exe" />
+    <Content Include="bin\Debug\PDFAnnotationEnable.vshost.exe" />
+    <Content Include="bin\Debug\PdfProcess.dll" />
+    <Content Include="bin\Debug\ProcessNotification.dll" />
+    <Content Include="bin\Debug\Process\AJIM22923\AJIM22923.xml" />
+    <Content Include="bin\Debug\ReviseTemplate\AB.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\AJIM.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\cbin.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\CLEN.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\Common.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\DEV.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\ETC.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\EUFM.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\JBMR.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\JCB.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\JCP.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\JCPH.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\JOR.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\JSO.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\MIM.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\PBC.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\PROS.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\VSU.txt" />
+    <Content Include="bin\Debug\ReviseTemplate\WSB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUK\Template_CBI3.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUK\Template_CBIN.htm" />
+    <Content Include="bin\Debug\TEMPLATES\JWUK\Template_CBIN.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUK\Template_IID3.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUK\Template_JQS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_AB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_AJAD.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_AJIM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_AJMA.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_AJMB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_AJMC.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_AJP.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_AJT.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_BEM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_BIES.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_BIOM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_BIT.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_CAE.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_CJCE.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_CJS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_CPDD.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_DAT.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_DEV.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_ETC.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_FLAN.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_FUT.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_IEAM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JABA.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JBMR.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JCB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JCD.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JCP.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JCPH.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JEAB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JEZ.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JEZB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JGT.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JMV.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JOR.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JPS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JSCH.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JSO.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_JWMG.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_LSM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_MAS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_MC.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_MED.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_MODL.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_MONO.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_MRD.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_NAU.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_NUR.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_PBC.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_POI3.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_POLQ.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_POP4.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_PPUL.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_PROS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_RHC3.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_SCA.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_TEA.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_VSU.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_WMH3.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_WSB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWUSA\Template_ZOO.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\ARDP.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\PAGINATED\CLEANTemplate.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\PAGINATED\Template.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\PRINTERHIGH\Template_BIES.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_ADBI.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_ADEM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_AFM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_AM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_ARDP.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_BIES.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_CLEAN.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_CLEN.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_CVDE.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_EJLT.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_EMBO.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_IROH.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_JOBM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MABI.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MACO.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MAME.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MASY.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MATS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MBS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MCP.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MME.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MRC.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MRE.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MREN.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_MTS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_PPAP.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_PSE.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_PSSA.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_PSSB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_SMALL.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_SRIN.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\Template_STAR.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\UNPAGINATED\Template.txt" />
+    <Content Include="bin\Debug\TEMPLATES\JWVCH\_Template_MACO.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_AERE.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_AFDR.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_CAG.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_ECNO.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_EDE.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_EUFM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_IJET.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_INFI.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_JFIR.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_JIPB.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_JOCS.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_JOIC.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_JORC.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_JORI.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_JSE.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_JWIP.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_MIM.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_PBAF.txt" />
+    <Content Include="bin\Debug\TEMPLATES\SINGAPORE\Template_RURD.txt" />
+    <Content Include="bin\Debug\WaterMark.jpg" />
+    <Content Include="obj\Release\TempPE\Web References.OPSServise.Reference.cs.dll" />
+    <Content Include="obj\Release\TempPE\Web References.URLService.Reference.cs.dll" />
+    <Content Include="packages\AspNet.ScriptManager.jQuery.1.7.1\lib\net40\AspNet.ScriptManager.jQuery.dll" />
+    <Content Include="packages\AspNet.ScriptManager.jQuery.1.7.1\lib\net45\AspNet.ScriptManager.jQuery.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\LogFiles\02-08-2017\" />
+    <Folder Include="bin\Debug\New folder\" />
+    <Folder Include="bin\Release\" />
+    <Folder Include="TestResults\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
