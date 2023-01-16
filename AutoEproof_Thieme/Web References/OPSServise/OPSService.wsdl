@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetArticleInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Client_" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="JID_" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AID_" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetArticleInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetArticleInfoResult" type="tns:ArticleInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArticleInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ArticleTitle" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AuthorName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AuthorEmail" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetArticleArticle">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Client_" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="JID_" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AID_" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetArticleArticleResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetArticleArticleResult" type="tns:ArticleInfo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="WriteOPSWindowLog">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LogStr" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="WriteOPSWindowLogResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetFMGStage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Client" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="JID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetFMGStageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetFMGStageResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRvsFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Client" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="JID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRvsFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRvsFileResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAIDList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="prefixText" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="count" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="contextKey" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAIDListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAIDListResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetArticleInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetArticleInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetArticleInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetArticleInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetArticleArticleSoapIn">
+    <wsdl:part name="parameters" element="tns:GetArticleArticle" />
+  </wsdl:message>
+  <wsdl:message name="GetArticleArticleSoapOut">
+    <wsdl:part name="parameters" element="tns:GetArticleArticleResponse" />
+  </wsdl:message>
+  <wsdl:message name="WriteOPSWindowLogSoapIn">
+    <wsdl:part name="parameters" element="tns:WriteOPSWindowLog" />
+  </wsdl:message>
+  <wsdl:message name="WriteOPSWindowLogSoapOut">
+    <wsdl:part name="parameters" element="tns:WriteOPSWindowLogResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetFMGStageSoapIn">
+    <wsdl:part name="parameters" element="tns:GetFMGStage" />
+  </wsdl:message>
+  <wsdl:message name="GetFMGStageSoapOut">
+    <wsdl:part name="parameters" element="tns:GetFMGStageResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetRvsFileSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRvsFile" />
+  </wsdl:message>
+  <wsdl:message name="GetRvsFileSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRvsFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAIDListSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAIDList" />
+  </wsdl:message>
+  <wsdl:message name="GetAIDListSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAIDListResponse" />
+  </wsdl:message>
+  <wsdl:portType name="OPSServiceSoap">
+    <wsdl:operation name="GetArticleInfo">
+      <wsdl:input message="tns:GetArticleInfoSoapIn" />
+      <wsdl:output message="tns:GetArticleInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetArticleArticle">
+      <wsdl:input message="tns:GetArticleArticleSoapIn" />
+      <wsdl:output message="tns:GetArticleArticleSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="WriteOPSWindowLog">
+      <wsdl:input message="tns:WriteOPSWindowLogSoapIn" />
+      <wsdl:output message="tns:WriteOPSWindowLogSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetFMGStage">
+      <wsdl:input message="tns:GetFMGStageSoapIn" />
+      <wsdl:output message="tns:GetFMGStageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRvsFile">
+      <wsdl:input message="tns:GetRvsFileSoapIn" />
+      <wsdl:output message="tns:GetRvsFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAIDList">
+      <wsdl:input message="tns:GetAIDListSoapIn" />
+      <wsdl:output message="tns:GetAIDListSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="OPSServiceSoap" type="tns:OPSServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetArticleInfo">
+      <soap:operation soapAction="http://tempuri.org/GetArticleInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArticleArticle">
+      <soap:operation soapAction="http://tempuri.org/GetArticleArticle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WriteOPSWindowLog">
+      <soap:operation soapAction="http://tempuri.org/WriteOPSWindowLog" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetFMGStage">
+      <soap:operation soapAction="http://tempuri.org/GetFMGStage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRvsFile">
+      <soap:operation soapAction="http://tempuri.org/GetRvsFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAIDList">
+      <soap:operation soapAction="http://tempuri.org/GetAIDList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="OPSServiceSoap12" type="tns:OPSServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetArticleInfo">
+      <soap12:operation soapAction="http://tempuri.org/GetArticleInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArticleArticle">
+      <soap12:operation soapAction="http://tempuri.org/GetArticleArticle" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WriteOPSWindowLog">
+      <soap12:operation soapAction="http://tempuri.org/WriteOPSWindowLog" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetFMGStage">
+      <soap12:operation soapAction="http://tempuri.org/GetFMGStage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRvsFile">
+      <soap12:operation soapAction="http://tempuri.org/GetRvsFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAIDList">
+      <soap12:operation soapAction="http://tempuri.org/GetAIDList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="OPSService">
+    <wsdl:port name="OPSServiceSoap" binding="tns:OPSServiceSoap">
+      <soap:address location="http://172.16.3.11/ops/OPSService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="OPSServiceSoap12" binding="tns:OPSServiceSoap12">
+      <soap12:address location="http://172.16.3.11/ops/OPSService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

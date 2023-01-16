@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="OPS" Class="AEPSJWDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=172.16.3.11;Initial Catalog=OPS;User ID=sa" SettingsObjectName="DatabaseLayer.Properties.Settings" SettingsPropertyName="OPSConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.OPSDetails" Member="OPSDetails">
+    <Type Name="OPSDetail">
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Jid" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Category" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Jname" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Peditor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Designation" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Pe_email" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="PRMaill" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="CCMail" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Role" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="BccMail" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="FromMail" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Fax" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="TemplateFileName" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="final_cc" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="PrinterMail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrinterCC" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="FailEmail" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="PrinterName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Reminder" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DateModified" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ModifiedBy" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Remarks" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="InternalPEName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="InternalPEmail" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ProofExpired" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BatchMail" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="ReviewerEmail" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="OPSDetail_ReviseHistory" Member="ReviseHistories" ThisKey="OPSID" OtherKey="OPSID" Type="ReviseHistory" />
+      <Association Name="OPSDetail_OPSFAX" Member="OPSFAX" ThisKey="OPSID" OtherKey="OPSID" Type="OPSFAX" Cardinality="One" />
+      <Association Name="OPSDetail_OPSFtpDtl" Member="OPSFtpDtls" ThisKey="OPSID" OtherKey="OPSID" Type="OPSFtpDtl" />
+      <Association Name="OPSDetail_eProofHistory" Member="eProofHistories" ThisKey="OPSID" OtherKey="OPSID" Type="eProofHistory" />
+      <Association Name="OPSDetail_OPSRevise" Member="OPSRevise" ThisKey="OPSID" OtherKey="OPSID" Type="OPSRevise" Cardinality="One" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ArticleContentReport" Member="ArticleContentReports">
+    <Type Name="ArticleContentReport">
+      <Column Name="ACRID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorAuthor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CorEmail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ReviseHistory" Member="ReviseHistories">
+    <Type Name="ReviseHistory">
+      <Column Name="RHID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailFrom" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailTo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MailBCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorrName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RevisionSend" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="RevisionType" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="OPSDetail_ReviseHistory" Member="OPSDetail" ThisKey="OPSID" OtherKey="OPSID" Type="OPSDetail" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OPSFAX" Member="OPSFAXes">
+    <Type Name="OPSFAX">
+      <Column Name="OPSFAXID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MailTo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MailFrom" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailBCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TemplateFile" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorrName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FtpUpload" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="FtpPath" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="FtpUID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ftpPWD" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="EarlyView" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="OPSDetail_OPSFAX" Member="OPSDetail" ThisKey="OPSID" OtherKey="OPSID" Type="OPSDetail" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OPSFtpDtl" Member="OPSFtpDtls">
+    <Type Name="OPSFtpDtl">
+      <Column Name="FID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="isOPS" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FtpUpload" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FtpPath" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FtpUID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ftpPWD" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FnlRmndrMailTo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FnlRmndrMailCC" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Association Name="OPSDetail_OPSFtpDtl" Member="OPSDetail" ThisKey="OPSID" OtherKey="OPSID" Type="OPSDetail" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OPSJIDLIST" Member="OPSJIDLISTs">
+    <Type Name="OPSJIDLIST">
+      <Column Name="JID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ArticleCategory" Member="ArticleCategories">
+    <Type Name="ArticleCategory">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Category" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.eProofHistory" Member="eProofHistories">
+    <Type Name="eProofHistory">
+      <Column Name="EPRID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DOI" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ArticleTitle" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MailFrom" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailTo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailCC" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="MailBCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorrName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ProofPosted" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CloseDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="MailToBeSend" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ReminderDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ReminderCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="OPSDetail_eProofHistory" Member="OPSDetail" ThisKey="OPSID" OtherKey="OPSID" Type="OPSDetail" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThiemeOffPrint" Member="ThiemeOffPrints">
+    <Type Name="ThiemeOffPrint">
+      <Column Name="SNO" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DOI" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Volume" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Year" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="STAGE" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="STATUS" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PROCESSTIME" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="MailSubjectLine" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CorAuthorDetaill" Member="CorAuthorDetaills">
+    <Type Name="CorAuthorDetaill">
+      <Column Name="CorID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DOI" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CorMail" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="CorMailCC" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="PdfName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OPSRevise" Member="OPSRevises">
+    <Type Name="OPSRevise">
+      <Column Name="OPSRevID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MailTo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailCC" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="MailFrom" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailBCC" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="TemplateFile" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorrName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FtpUpload" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FtpPath" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="FtpUID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ftpPWD" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FtpAuthCrcnt" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FtpAuthCrcntPath" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="EarlyView" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="OPSDetail_OPSRevise" Member="OPSDetail" ThisKey="OPSID" OtherKey="OPSID" Type="OPSDetail" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MessageDetail" Member="MessageDetails">
+    <Type Name="MessageDetail">
+      <Column Name="MsgID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Stage" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MsgDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="JIDAID" Type="System.String" DbType="VarChar(100) NOT NULL" IsDbGenerated="true" CanBeNull="false" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Function Name="dbo.CheckReViewExistence" Method="CheckReViewExistence" IsComposable="true">
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_DeleteArticleReviewDetail" Method="usp_DeleteArticleReviewDetail">
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.CountUploadArticles" Method="CountUploadArticles" IsComposable="true">
+    <Parameter Name="CLIENT" Parameter="cLIENT" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Stage" Parameter="stage" Type="System.String" DbType="VarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.GetAuthorEmailFromArticleContentReport" Method="GetAuthorEmailFromArticleContentReport" IsComposable="true">
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.String" />
+  </Function>
+  <Function Name="dbo.ToCheckArticleContentReport" Method="ToCheckArticleContentReport" IsComposable="true">
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.GetReviseCount" Method="GetReviseCount" IsComposable="true">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_GetReviseHistory" Method="usp_GetReviseHistory">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <ElementType Name="usp_GetReviseHistoryResult">
+      <Column Name="RHID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailFrom" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailTo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MailBCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorrName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RevisionSend" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="RevisionType" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.usp_UpdateCloseDateInEProofHistory" Method="usp_UpdateCloseDateInEProofHistory">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_GeteProofHistory" Method="usp_GeteProofHistory">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <ElementType Name="usp_GeteProofHistoryResult">
+      <Column Name="EPRID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ArticleTitle" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="MailFrom" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailTo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailCC" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="MailBCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorrName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ProofPosted" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CloseDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="MailToBeSend" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ReminderDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ReminderCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.usp_DeleteProofHistory" Method="usp_DeleteProofHistory">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_InserteProofHistory" Method="usp_InserteProofHistory">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="ArticleTitle" Parameter="articleTitle" Type="System.String" DbType="VarChar(MAX)" />
+    <Parameter Name="MailFrom" Parameter="mailFrom" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="MailTo" Parameter="mailTo" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="MailCC" Parameter="mailCC" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="MailBCC" Parameter="mailBCC" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="CorrName" Parameter="corrName" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Doi" Parameter="doi" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_InsertThiemeOffPrint" Method="usp_InsertThiemeOffPrint">
+    <Parameter Name="SNO" Parameter="sNO" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="DOI" Parameter="dOI" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Volume" Parameter="volume" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Year" Parameter="year" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="STAGE" Parameter="sTAGE" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="STATUS" Parameter="sTATUS" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="MailSubjectLine" Parameter="mailSubjectLine" Type="System.String" DbType="VarChar(MAX)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_InsertReviseHistory" Method="usp_InsertReviseHistory">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="MailFrom" Parameter="mailFrom" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="MailTo" Parameter="mailTo" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="MailCC" Parameter="mailCC" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="MailBCC" Parameter="mailBCC" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="CorrName" Parameter="corrName" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="RevisionType" Parameter="revisionType" Type="System.String" DbType="VarChar(30)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_UpdateMessageStatus" Method="usp_UpdateMessageStatus">
+    <Parameter Name="MsgID" Parameter="msgID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Pages" Parameter="pages" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_InsertMessageDetail" Method="usp_InsertMessageDetail">
+    <Parameter Name="Client" Parameter="client" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Stage" Parameter="stage" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="IP" Parameter="iP" Type="System.String" DbType="VarChar(30)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_GetInprocessMessageDetail" Method="usp_GetInprocessMessageDetail">
+    <ElementType Name="usp_GetInprocessMessageDetailResult">
+      <Column Name="MsgID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Stage" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MsgDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="JIDAID" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.usp_GetIssueFilesMessageDetail" Method="usp_GetIssueFilesMessageDetail">
+    <ElementType Name="usp_GetIssueFilesMessageDetailResult">
+      <Column Name="MsgID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Stage" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MsgDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="JIDAID" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.usp_GetReviseFilesMessageDetail" Method="usp_GetReviseFilesMessageDetail">
+    <ElementType Name="usp_GetReviseFilesMessageDetailResult">
+      <Column Name="MsgID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Stage" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MsgDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="JIDAID" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.usp_UpdateRvsIssMessageStatus" Method="usp_UpdateRvsIssMessageStatus">
+    <Parameter Name="MsgID" Parameter="msgID" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_InsertIssueFilesMessageDetail" Method="usp_InsertIssueFilesMessageDetail">
+    <Parameter Name="JIDAID" Parameter="jIDAID" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Stage" Parameter="stage" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_InsertToAuthorMessageDetail" Method="usp_InsertToAuthorMessageDetail">
+    <Parameter Name="JIDAID" Parameter="jIDAID" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Stage" Parameter="stage" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_GetStripnsFilesMessageDetail" Method="usp_GetStripnsFilesMessageDetail">
+    <ElementType Name="usp_GetStripnsFilesMessageDetailResult">
+      <Column Name="MsgID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Stage" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MsgDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="JIDAID" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.usp_UpdateStripnsFilesMessageDetail" Method="usp_UpdateStripnsFilesMessageDetail">
+    <Parameter Name="MsgID" Parameter="msgID" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_GetReviseHistoryStageWise" Method="usp_GetReviseHistoryStageWise">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="STAGE" Parameter="sTAGE" Type="System.String" DbType="VarChar(30)" />
+    <ElementType Name="usp_GetReviseHistoryStageWiseResult">
+      <Column Name="RHID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OPSID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailFrom" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailTo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MailCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MailBCC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CorrName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RevisionSend" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="RevisionType" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GetReviseCountStageWise" Method="GetReviseCountStageWise" IsComposable="true">
+    <Parameter Name="OPSID" Parameter="oPSID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="STAGE" Parameter="sTAGE" Type="System.String" DbType="VarChar(30)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_GetJQAMessageDetail" Method="usp_GetJQAMessageDetail">
+    <ElementType Name="usp_GetJQAMessageDetailResult">
+      <Column Name="MsgID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Stage" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MsgDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="JIDAID" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.usp_GetJQAHistory" Method="usp_GetJQAHistory">
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Stage" Parameter="stage" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Vol" Parameter="vol" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Iss" Parameter="iss" Type="System.String" DbType="VarChar(30)" />
+    <ElementType Name="usp_GetJQAHistoryResult">
+      <Column Name="Sno" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Client" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="JID" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="AID" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="VOL" Type="System.String" DbType="VarChar(70)" CanBeNull="true" />
+      <Column Name="ISSUE" Type="System.String" DbType="VarChar(70)" CanBeNull="true" />
+      <Column Name="STAGE" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="TDStatus" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="TDProcessDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="JQAStatus" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="JQADate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="JIDAID" Type="System.String" DbType="VarChar(120) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.usp_UplateS280WIPWithJQAStatus" Method="usp_UplateS280WIPWithJQAStatus">
+    <Parameter Name="JIDAID" Parameter="jIDAID" Type="System.String" DbType="VarChar(60)" />
+    <Parameter Name="Stage" Parameter="stage" Type="System.String" DbType="VarChar(60)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_JQAStatus" Method="usp_JQAStatus">
+    <Parameter Name="JID" Parameter="jID" Type="System.String" DbType="VarChar(60)" />
+    <Parameter Name="AID" Parameter="aID" Type="System.String" DbType="VarChar(60)" />
+    <Parameter Name="Stage" Parameter="stage" Type="System.String" DbType="VarChar(60)" />
+    <Parameter Name="Vol" Parameter="vol" Type="System.String" DbType="VarChar(60)" />
+    <Parameter Name="Issue" Parameter="issue" Type="System.String" DbType="VarChar(70)" />
+    <Parameter Name="IP" Parameter="iP" Type="System.String" DbType="VarChar(30)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.usp_UpdateS280WIPWithJQAStatus" Method="usp_UpdateS280WIPWithJQAStatus">
+    <Parameter Name="JIDAID" Parameter="jIDAID" Type="System.String" DbType="VarChar(60)" />
+    <Parameter Name="Stage" Parameter="stage" Type="System.String" DbType="VarChar(60)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
