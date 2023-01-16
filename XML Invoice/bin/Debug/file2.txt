@@ -1,0 +1,22 @@
+<InvoiceDetailItem invoiceLineNumber="xxxxx" quantity="xxxxx">
+<UnitOfMeasure>xxxxx</UnitOfMeasure>
+<UnitPrice>
+<Money currency="xxxxx">xxxxx</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="xxxxx">
+<ItemID>
+<SupplierPartID>xxxxx</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">xxxxx</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="xxxxx">xxxxx</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="xxxxx">xxxxx</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="xxxxx">xxxxx</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">xxxxx</Extrinsic>
+</InvoiceDetailItem>

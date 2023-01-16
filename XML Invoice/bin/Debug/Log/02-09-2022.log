@@ -1,0 +1,64 @@
+02-09-2022 13:18:55 =================================================================
+02-09-2022 13:18:55 Processing file D:\Deepak\xmlinv\input\100169.xls
+02-09-2022 13:18:55 Output XML file created 100169_22100169.xml
+02-09-2022 13:18:55 Output XML file created 100169_22100169.xml
+02-09-2022 13:18:55 Source file moved to success location 100169.xls
+02-09-2022 13:18:55 =================================================================
+02-09-2022 13:18:55 Processing file D:\Deepak\xmlinv\input\100170.xls
+02-09-2022 13:18:56 Output XML file created 100170_22100170.xml
+02-09-2022 13:18:56 Output XML file created 100170_22100170.xml
+02-09-2022 13:18:56 Source file moved to success location 100170.xls
+02-09-2022 13:33:23 =================================================================
+02-09-2022 13:33:23 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 13:33:23 Error found in file D:\Deepak\xmlinv\input\100169.xlsx The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+02-09-2022 13:33:23 Source file moved to fail location 100169.xlsx
+02-09-2022 13:35:25 =================================================================
+02-09-2022 13:35:25 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 13:35:26 Error found in D:\Deepak\xmlinv\input\100169.xlsx Column 'jrno' does not belong to table .
+02-09-2022 13:35:26 Source file moved to fail location 100169.xlsx
+02-09-2022 13:39:06 =================================================================
+02-09-2022 13:39:06 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 13:39:07 Error found in D:\Deepak\xmlinv\input\100169.xlsx Column 'jrno' does not belong to table .
+02-09-2022 13:39:07 Source file moved to fail location 100169.xlsx
+02-09-2022 13:43:12 =================================================================
+02-09-2022 13:43:12 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 13:51:57 =================================================================
+02-09-2022 13:51:57 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 13:54:07 =================================================================
+02-09-2022 13:54:07 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 13:54:15 Country code not found.
+02-09-2022 13:55:46 =================================================================
+02-09-2022 13:55:46 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 14:01:12 =================================================================
+02-09-2022 14:01:12 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 14:02:20 Output XML file created 100169_22100169.xml
+02-09-2022 14:02:20 Output XML file created 100169_22100169.xml
+02-09-2022 14:02:20 Source file moved to success location 100169.xlsx
+02-09-2022 14:58:05 =================================================================
+02-09-2022 14:58:05 Processing file D:\Deepak\xmlinv\input\100169.xlsx
+02-09-2022 15:04:31 Output XML file created 100169_22100169.xml
+02-09-2022 15:04:31 Output XML file created 100169_22100169.xml
+02-09-2022 15:04:31 Source file moved to success location 100169.xlsx
+02-09-2022 15:06:43 =================================================================
+02-09-2022 15:06:43 Processing file D:\Deepak\xmlinv\input\100009.xlsx
+02-09-2022 15:06:58 Output XML file created 100009_22100009.xml
+02-09-2022 15:06:58 Output XML file created 100009_22100009.xml
+02-09-2022 15:06:58 Source file moved to success location 100009.xlsx
+02-09-2022 17:22:34 =================================================================
+02-09-2022 17:22:34 Processing file D:\Deepak\xmlinv\input\102136.xls
+02-09-2022 17:22:34 Error found in file D:\Deepak\xmlinv\input\102136.xls The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+02-09-2022 17:22:34 Source file moved to fail location 102136.xls
+02-09-2022 17:24:31 =================================================================
+02-09-2022 17:24:31 Processing file D:\Deepak\xmlinv\input\102152.xls
+02-09-2022 17:24:31 Error found in file D:\Deepak\xmlinv\input\102152.xls The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+02-09-2022 17:24:31 Source file moved to fail location 102152.xls
+02-09-2022 17:26:18 =================================================================
+02-09-2022 17:26:18 Processing file D:\Deepak\xmlinv\input\102152.xls
+02-09-2022 17:26:18 Output XML file created 102152_22102152.xml
+02-09-2022 17:26:18 Output XML file created 102152_22102152.xml
+02-09-2022 17:26:18 Source file moved to success location 102152.xls
+02-09-2022 17:49:28 =================================================================
+02-09-2022 17:49:28 Processing file D:\Deepak\xmlinv\input\100170.xls
+02-09-2022 17:49:28 Output XML file created 100170_22100170.xml
+02-09-2022 17:49:28 Output XML file created 100170_22100170.xml
+02-09-2022 17:49:28 Source file moved to success location 100170.xls

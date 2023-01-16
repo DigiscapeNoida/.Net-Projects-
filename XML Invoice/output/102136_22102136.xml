@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.023/InvoiceDetail.dtd">
+<cXML payloadID="918613022" timestamp="2022-08-18T17:47:16+05:30">
+<Header>
+<From>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+</Credential>
+<Credential domain="PrivateID">
+<Identity>16168</Identity>
+</Credential>
+</From>
+<To>
+<Credential domain="NetworkID">
+<Identity>AN01009238492</Identity>
+</Credential>
+</To>
+<Sender>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+<SharedSecret>thomson@123</SharedSecret>
+</Credential>
+<UserAgent>Ariba Network V1.1</UserAgent>
+</Sender>
+</Header>
+<Request deploymentMode="production">
+<InvoiceDetailRequest>
+<InvoiceDetailRequestHeader invoiceDate="2021-10-29T17:47:16+05:30" invoiceID="TDGTKEXT22102136" invoiceOrigin="supplier" operation="new" purpose="standard">
+<InvoiceDetailHeaderIndicator/>
+<InvoiceDetailLineIndicator/>
+<InvoicePartner>
+<Contact addressID="50283771" role="remitTo">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>TSEYANG DZONG,AMDO GOLAI,NH 31A,P.O.TADONG</Street>
+<City>GANGTOK</City>
+<State>SIKKIM</State>
+<PostalCode>737102</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="billTo">
+<Name xml:lang="en-US">ELSEVIER BV</Name>
+<PostalAddress>
+<Street>P.O. 839,</Street>
+<City>Amsterdam AV</City>
+<State>FC</State>
+<PostalCode>999999</PostalCode>
+<Country isoCountryCode="NL">THE NETHERLANDS</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="from">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>TSEYANG DZONG,AMDO GOLAI,NH 31A,P.O.TADONG</Street>
+<City>GANGTOK</City>
+<State>SIKKIM</State>
+<PostalCode>737102</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="soldTo">
+<Name xml:lang="en-US">ELSEVIER BV</Name>
+<PostalAddress>
+<Street>P.O. 839,</Street>
+<City>Amsterdam AV</City>
+<State>FC</State>
+<PostalCode>999999</PostalCode>
+<Country isoCountryCode="NL">THE NETHERLANDS</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoiceDetailShipping>
+<Contact role="shipFrom">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>TSEYANG DZONG,AMDO GOLAI,NH 31A,P.O.TADONG</Street>
+<City>GANGTOK</City>
+<State>SIKKIM</State>
+<PostalCode>737102</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+<Contact role="shipTo">
+<Name xml:lang="en-US">ELSEVIER BV</Name>
+<PostalAddress>
+<Street>P.O. 839,</Street>
+<City>Amsterdam AV</City>
+<State>FC</State>
+<PostalCode>999999</PostalCode>
+<Country isoCountryCode="NL">THE NETHERLANDS</Country>
+</PostalAddress>
+</Contact>
+</InvoiceDetailShipping>
+<Extrinsic name="journalNo">31029</Extrinsic>
+<Extrinsic name="volumeNo">Early and Late Costs</Extrinsic>
+<Extrinsic name="new message">This invoice should be deducted against the pre-payment made for January-June 2022</Extrinsic>
+</InvoiceDetailRequestHeader>
+<InvoiceDetailOrder>
+<InvoiceDetailOrderInfo>
+<OrderIDInfo orderID="T9999999"/>
+</InvoiceDetailOrderInfo>
+<InvoiceDetailItem invoiceLineNumber="1" quantity="18">
+<UnitOfMeasure>ATL</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">12.61</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="1">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">FINAL XML AND ARTWORKS</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">226.98</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">226.98</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">226.98</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCTYP</Extrinsic>
+</InvoiceDetailItem>
+</InvoiceDetailOrder>
+<InvoiceDetailSummary>
+<SubtotalAmount>
+<Money alternateAmount="226.98" alternateCurrency="USD" currency="USD">226.98</Money>
+</SubtotalAmount>
+<Tax>
+<Money currency="USD">0</Money>
+<Description xml:lang="en-US"/>
+</Tax>
+<GrossAmount>
+<Money currency="USD">226.98</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">226.98</Money>
+</NetAmount>
+<DueAmount>
+<Money alternateAmount="226.98" alternateCurrency="USD" currency="USD">226.98</Money>
+</DueAmount>
+</InvoiceDetailSummary>
+</InvoiceDetailRequest>
+</Request>
+</cXML>
