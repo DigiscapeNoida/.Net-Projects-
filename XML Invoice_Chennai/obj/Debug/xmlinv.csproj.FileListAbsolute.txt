@@ -1,0 +1,16 @@
+D:\Deepak\xmlinv\bin\Debug\xmlinv.exe.config
+D:\Deepak\xmlinv\bin\Debug\xmlinv.exe
+D:\Deepak\xmlinv\bin\Debug\xmlinv.pdb
+D:\Deepak\xmlinv\obj\Debug\xmlinv.csproj.AssemblyReference.cache
+D:\Deepak\xmlinv\obj\Debug\xmlinv.csproj.SuggestedBindingRedirects.cache
+D:\Deepak\xmlinv\obj\Debug\xmlinv.csproj.CoreCompileInputs.cache
+D:\Deepak\xmlinv\obj\Debug\xmlinv.exe
+D:\Deepak\xmlinv\obj\Debug\xmlinv.pdb
+D:\Deepak\xmlinv_chennai\bin\Debug\xmlinv.exe.config
+D:\Deepak\xmlinv_chennai\bin\Debug\xmlinv.exe
+D:\Deepak\xmlinv_chennai\bin\Debug\xmlinv.pdb
+D:\Deepak\xmlinv_chennai\obj\Debug\xmlinv.csproj.AssemblyReference.cache
+D:\Deepak\xmlinv_chennai\obj\Debug\xmlinv.csproj.SuggestedBindingRedirects.cache
+D:\Deepak\xmlinv_chennai\obj\Debug\xmlinv.csproj.CoreCompileInputs.cache
+D:\Deepak\xmlinv_chennai\obj\Debug\xmlinv.exe
+D:\Deepak\xmlinv_chennai\obj\Debug\xmlinv.pdb

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.023/InvoiceDetail.dtd">
+<cXML payloadID="806659113" timestamp="2022-09-02T14:58:06+05:30">
+<Header>
+<From>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+</Credential>
+<Credential domain="PrivateID">
+<Identity>16168</Identity>
+</Credential>
+</From>
+<To>
+<Credential domain="NetworkID">
+<Identity>AN01009238492</Identity>
+</Credential>
+</To>
+<Sender>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+<SharedSecret>thomson@123</SharedSecret>
+</Credential>
+<UserAgent>Supplier</UserAgent>
+</Sender>
+</Header>
+<Request deploymentMode="production">
+<InvoiceDetailRequest>
+<InvoiceDetailRequestHeader invoiceDate="2022-07-05T14:58:06+05:30" invoiceID="TDEDSDEXT22100169" invoiceOrigin="supplier" operation="new" purpose="standard">
+<InvoiceDetailHeaderIndicator/>
+<InvoiceDetailLineIndicator/>
+<InvoicePartner>
+<Contact addressID="51055283" role="remitTo">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="billTo">
+<Name xml:lang="en-US">ELSEVIER ESPAÃ‘A, S.L.U.</Name>
+<PostalAddress>
+<Street> 20-30, planta 1</Street>
+<City>Barcelona </City>
+<State>FC</State>
+<PostalCode>8029</PostalCode>
+<Country isoCountryCode="ES">SPAIN</Country>
+</PostalAddress>
+<Email>r.crespo@elsevier.com</Email>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="from">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="soldTo">
+<Name xml:lang="en-US">ELSEVIER ESPAÃ‘A, S.L.U.</Name>
+<PostalAddress>
+<Street> 20-30, planta 1</Street>
+<City>Barcelona </City>
+<State>FC</State>
+<PostalCode>8029</PostalCode>
+<Country isoCountryCode="ES">SPAIN</Country>
+</PostalAddress>
+<Email>r.crespo@elsevier.com</Email>
+</Contact>
+</InvoicePartner>
+<InvoiceDetailShipping>
+<Contact role="shipFrom">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+<Contact role="shipTo">
+<Name xml:lang="en-US">ELSEVIER ESPAÃ‘A, S.L.U.</Name>
+<PostalAddress>
+<Street> 20-30, planta 1</Street>
+<City>Barcelona </City>
+<State>FC</State>
+<PostalCode>8029</PostalCode>
+<Country isoCountryCode="ES">SPAIN</Country>
+</PostalAddress>
+</Contact>
+</InvoiceDetailShipping>
+<Extrinsic name="NewMessage">This invoice should be deducted against the pre-payment made for January-June 2022</Extrinsic>
+<Extrinsic name="invoiceSourceDocument">ExternalPurchaseOrder</Extrinsic>
+<Extrinsic name="invoiceSubmissionMethod">Online</Extrinsic>
+<Extrinsic name="punchinContractInvoice">no</Extrinsic>
+<Extrinsic name="tag">9788413823126</Extrinsic>
+<Extrinsic name="releaseNo">001</Extrinsic>
+</InvoiceDetailRequestHeader>
+<InvoiceDetailOrder>
+<InvoiceDetailOrderInfo>
+<OrderIDInfo orderID="48163"/>
+</InvoiceDetailOrderInfo>
+<InvoiceDetailItem invoiceLineNumber="1" quantity="491">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">2.15</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="1">
+<ItemID>
+<SupplierPartID>9788413823126</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">704 -  CHARGES Re-flowing text -NEW DESIGN</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">1055.65</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">1055.65</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1055.65</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="2" quantity="12">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">4.3</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="2">
+<ItemID>
+<SupplierPartID>9788413823126</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">704 -  TYPESETTING: TYPESETTING & SUPPLYING PDF FILE -NEW DESIGN</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">51.6</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">51.6</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">51.6</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="3" quantity="459">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.43</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="3">
+<ItemID>
+<SupplierPartID>9788413823126</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">704 -  Process subject or author index from provided index</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">197.37</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">197.37</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">197.37</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+</InvoiceDetailOrder>
+<InvoiceDetailSummary>
+<SubtotalAmount>
+<Money alternateAmount="1304.62" alternateCurrency="USD" currency="USD">1304.62</Money>
+</SubtotalAmount>
+<Tax>
+<Money currency="USD">0</Money>
+<Description xml:lang="en-US"/>
+</Tax>
+<GrossAmount>
+<Money currency="USD">1304.62</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1304.62</Money>
+</NetAmount>
+<DueAmount>
+<Money alternateAmount="1304.62" alternateCurrency="USD" currency="USD">1304.62</Money>
+</DueAmount>
+</InvoiceDetailSummary>
+</InvoiceDetailRequest>
+</Request>
+</cXML>

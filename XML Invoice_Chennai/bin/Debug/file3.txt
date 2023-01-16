@@ -1,0 +1,22 @@
+</InvoiceDetailOrder>
+<InvoiceDetailSummary>
+<SubtotalAmount>
+<Money alternateAmount="xxxxx" alternateCurrency="xxxxx" currency="xxxxx">xxxxx</Money>
+</SubtotalAmount>
+<Tax>
+<Money currency="xxxxx">xxxxx</Money>
+<Description xml:lang="en-US"/>
+</Tax>
+<GrossAmount>
+<Money currency="xxxxx">xxxxx</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="xxxxx">xxxxx</Money>
+</NetAmount>
+<DueAmount>
+<Money alternateAmount="xxxxx" alternateCurrency="xxxxx" currency="xxxxx">xxxxx</Money>
+</DueAmount>
+</InvoiceDetailSummary>
+</InvoiceDetailRequest>
+</Request>
+</cXML>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.023/InvoiceDetail.dtd">
+<cXML payloadID="256238939" timestamp="2022-07-21T13:42:14+05:30">
+<Header>
+<From>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+</Credential>
+<Credential domain="PrivateID">
+<Identity>16168</Identity>
+</Credential>
+</From>
+<To>
+<Credential domain="NetworkID">
+<Identity>AN01009238492</Identity>
+</Credential>
+</To>
+<Sender>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+<SharedSecret>thomson@123</SharedSecret>
+</Credential>
+<UserAgent>Supplier</UserAgent>
+</Sender>
+</Header>
+<Request deploymentMode="production">
+<InvoiceDetailRequest>
+<InvoiceDetailRequestHeader invoiceDate="2022-01-08T13:42:14+05:30" invoiceID="TDEDSDEXT22100656" invoiceOrigin="supplier" operation="new" purpose="standard">
+<InvoiceDetailHeaderIndicator/>
+<InvoiceDetailLineIndicator/>
+<InvoicePartner>
+<Contact addressID="50283771" role="remitTo">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="billTo">
+<Name xml:lang="en-US">ELSEVIER GMBH</Name>
+<PostalAddress>
+<Street>HackerbrÃ¼cke 6</Street>
+<City>Muenchen</City>
+<State>FC</State>
+<PostalCode>80335</PostalCode>
+<Country isoCountryCode="DE">GERMANY</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="from">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="soldTo">
+<Name xml:lang="en-US">ELSEVIER GMBH</Name>
+<PostalAddress>
+<Street>HackerbrÃ¼cke 6</Street>
+<City>Muenchen</City>
+<State>FC</State>
+<PostalCode>80335</PostalCode>
+<Country isoCountryCode="DE">GERMANY</Country>
+</PostalAddress>
+<Email>j.staengle@elsevier.com</Email>
+</Contact>
+</InvoicePartner>
+<InvoiceDetailShipping>
+<Contact role="shipFrom">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+<Contact role="shipTo">
+<Name xml:lang="en-US">ELSEVIER GMBH</Name>
+<PostalAddress>
+<Street>HackerbrÃ¼cke 6</Street>
+<City>Muenchen</City>
+<State>FC</State>
+<PostalCode>80335</PostalCode>
+<Country isoCountryCode="DE">GERMANY</Country>
+</PostalAddress>
+</Contact>
+</InvoiceDetailShipping>
+<Extrinsic name="NewMessage">This invoice should be deducted against the pre-payment made for January-June 2022</Extrinsic>
+<Extrinsic name="invoiceSourceDocument">ExternalPurchaseOrder</Extrinsic>
+<Extrinsic name="invoiceSubmissionMethod">Online</Extrinsic>
+<Extrinsic name="punchinContractInvoice">no</Extrinsic>
+<Extrinsic name="tag">9783437237928</Extrinsic>
+<Extrinsic name="releaseNo">001</Extrinsic>
+</InvoiceDetailRequestHeader>
+<InvoiceDetailOrder>
+<InvoiceDetailOrderInfo>
+<OrderIDInfo orderID="45634"/>
+</InvoiceDetailOrderInfo>
+<InvoiceDetailItem invoiceLineNumber="1" quantity="414">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">2.9</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="1">
+<ItemID>
+<SupplierPartID>9783437237928</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital, Spreti: Kunsttherapie bei psychischen StÃ¶rungen, Composition Typesetting"	  704 -  Typesetting: Typesetting & Supplying PDF File -Standard Design</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">1200.6</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">1200.6</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1200.6</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="2" quantity="2">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.87</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="2">
+<ItemID>
+<SupplierPartID>9783437237928</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital, Spreti: Kunsttherapie bei psychischen StÃ¶rungen, Composition/Typesetting	  704 -  TYPESETTING: AUTHOR CORRECTION: Correction 30% of basic price</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">1.74</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">1.74</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1.74</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="3" quantity="402">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.63</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="3">
+<ItemID>
+<SupplierPartID>9783437237928</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital, Spreti: Kunsttherapie bei psychischen StÃ¶rungen,Composition/Typesetting"	  714 - Indexing: Subject Index To Keywords (From Word File Index Marks)</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">253.26</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">253.26</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">253.26</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="4" quantity="4">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.58</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="4">
+<ItemID>
+<SupplierPartID>9783437237928</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital, Spreti: Kunsttherapie bei psychischen StÃ¶rungen, Composition/Typesetting"	  704 -  TYPESETTING: AUTHOR CORRECTION: Correction 20% of basic price</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">2.32</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">2.32</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">2.32</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="5" quantity="129">
+<UnitOfMeasure>Figure</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.4</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="5">
+<ItemID>
+<SupplierPartID>9783437237928</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital, Spreti: Kunsttherapie bei psychischen StÃ¶rungen, Author Corrections Repro,"	  702 - Combiprints of Figures</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">51.6</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">51.6</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">51.6</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCILL</Extrinsic>
+</InvoiceDetailItem>
+</InvoiceDetailOrder>
+<InvoiceDetailSummary>
+<SubtotalAmount>
+<Money alternateAmount="1509.52" alternateCurrency="USD" currency="USD">1509.52</Money>
+</SubtotalAmount>
+<Tax>
+<Money currency="USD">0</Money>
+<Description xml:lang="en-US"/>
+</Tax>
+<GrossAmount>
+<Money currency="USD">1509.52</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1509.52</Money>
+</NetAmount>
+<DueAmount>
+<Money alternateAmount="1509.52" alternateCurrency="USD" currency="USD">1509.52</Money>
+</DueAmount>
+</InvoiceDetailSummary>
+</InvoiceDetailRequest>
+</Request>
+</cXML>

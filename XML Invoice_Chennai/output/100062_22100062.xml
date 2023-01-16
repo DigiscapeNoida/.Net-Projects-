@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.023/InvoiceDetail.dtd">
+<cXML payloadID="897650198" timestamp="2022-10-04T12:56:21+05:30">
+<Header>
+<From>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+</Credential>
+<Credential domain="PrivateID">
+<Identity>16168</Identity>
+</Credential>
+</From>
+<To>
+<Credential domain="NetworkID">
+<Identity>AN01009238492</Identity>
+</Credential>
+</To>
+<Sender>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+<SharedSecret>thomson@123</SharedSecret>
+</Credential>
+<UserAgent>Ariba Network V1.1</UserAgent>
+</Sender>
+</Header>
+<Request deploymentMode="production">
+<InvoiceDetailRequest>
+<InvoiceDetailRequestHeader invoiceDate="2021-09-29T12:56:21+05:30" invoiceID="MDPEXT22100062" invoiceOrigin="supplier" operation="new" purpose="standard">
+<InvoiceDetailHeaderIndicator/>
+<InvoiceDetailLineIndicator/>
+<InvoicePartner>
+<Contact addressID="117445" role="remitTo">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>Kochar Bliss,4th Floor, A8 and A9 Thiru Vi Ka Industrial Estate, Guindy</Street>
+<City>CHENNAI</City>
+<State>Tamil Nadu</State>
+<PostalCode>600032</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="billTo">
+<Name xml:lang="en-US">ELSEVIER BV</Name>
+<PostalAddress>
+<Street>P.O. 839,</Street>
+<City>Amsterdam AV</City>
+<State>FC</State>
+<PostalCode>999999</PostalCode>
+<Country isoCountryCode="NL">THE NETHERLANDS</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="from">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>Kochar Bliss,4th Floor, A8 and A9 Thiru Vi Ka Industrial Estate, Guindy</Street>
+<City>CHENNAI</City>
+<State>Tamil Nadu</State>
+<PostalCode>600032</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="soldTo">
+<Name xml:lang="en-US">ELSEVIER BV</Name>
+<PostalAddress>
+<Street>P.O. 839,</Street>
+<City>Amsterdam AV</City>
+<State>FC</State>
+<PostalCode>999999</PostalCode>
+<Country isoCountryCode="NL">THE NETHERLANDS</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoiceDetailShipping>
+<Contact role="shipFrom">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>Kochar Bliss,4th Floor, A8 and A9 Thiru Vi Ka Industrial Estate, Guindy</Street>
+<City>CHENNAI</City>
+<State>Tamil Nadu</State>
+<PostalCode>600032</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+<Contact role="shipTo">
+<Name xml:lang="en-US">ELSEVIER BV</Name>
+<PostalAddress>
+<Street>P.O. 839,</Street>
+<City>Amsterdam AV</City>
+<State>FC</State>
+<PostalCode>999999</PostalCode>
+<Country isoCountryCode="NL">THE NETHERLANDS</Country>
+</PostalAddress>
+</Contact>
+</InvoiceDetailShipping>
+<Extrinsic name="journalNo">8057</Extrinsic>
+<Extrinsic name="volumeNo">EuroTox 2021 Conversion Project</Extrinsic>
+<Extrinsic name="new message">This invoice should be deducted against the pre-payment made for January-June 2022</Extrinsic>
+</InvoiceDetailRequestHeader>
+<InvoiceDetailOrder>
+<InvoiceDetailOrderInfo>
+<OrderIDInfo orderID=" EWPO3642 "/>
+</InvoiceDetailOrderInfo>
+<InvoiceDetailItem invoiceLineNumber="1" quantity="601">
+<UnitOfMeasure>Articles</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.14</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="1">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">PDF to Ultralite Conversion</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">84.14</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">84.14</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">84.14</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">
+</Extrinsic>
+</InvoiceDetailItem>
+</InvoiceDetailOrder>
+<InvoiceDetailSummary>
+<SubtotalAmount>
+<Money alternateAmount="84.14" alternateCurrency="USD" currency="USD">84.14</Money>
+</SubtotalAmount>
+<Tax>
+<Money currency="USD">0</Money>
+<Description xml:lang="en-US"/>
+</Tax>
+<GrossAmount>
+<Money currency="USD">84.14</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">84.14</Money>
+</NetAmount>
+<DueAmount>
+<Money alternateAmount="84.14" alternateCurrency="USD" currency="USD">84.14</Money>
+</DueAmount>
+</InvoiceDetailSummary>
+</InvoiceDetailRequest>
+</Request>
+</cXML>

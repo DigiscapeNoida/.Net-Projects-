@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.023/InvoiceDetail.dtd">
+<cXML payloadID="704753051" timestamp="2022-07-21T13:42:14+05:30">
+<Header>
+<From>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+</Credential>
+<Credential domain="PrivateID">
+<Identity>16168</Identity>
+</Credential>
+</From>
+<To>
+<Credential domain="NetworkID">
+<Identity>AN01009238492</Identity>
+</Credential>
+</To>
+<Sender>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+<SharedSecret>thomson@123</SharedSecret>
+</Credential>
+<UserAgent>Supplier</UserAgent>
+</Sender>
+</Header>
+<Request deploymentMode="production">
+<InvoiceDetailRequest>
+<InvoiceDetailRequestHeader invoiceDate="2022-01-10T13:42:14+05:30" invoiceID="TDEDSDEXT22100657" invoiceOrigin="supplier" operation="new" purpose="standard">
+<InvoiceDetailHeaderIndicator/>
+<InvoiceDetailLineIndicator/>
+<InvoicePartner>
+<Contact addressID="50283771" role="remitTo">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="billTo">
+<Name xml:lang="en-US">ELSEVIER GMBH</Name>
+<PostalAddress>
+<Street>HackerbrÃ¼cke 6</Street>
+<City>Muenchen</City>
+<State>FC</State>
+<PostalCode>80335</PostalCode>
+<Country isoCountryCode="DE">GERMANY</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="from">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="soldTo">
+<Name xml:lang="en-US">ELSEVIER GMBH</Name>
+<PostalAddress>
+<Street>HackerbrÃ¼cke 6</Street>
+<City>Muenchen</City>
+<State>FC</State>
+<PostalCode>80335</PostalCode>
+<Country isoCountryCode="DE">GERMANY</Country>
+</PostalAddress>
+<Email>i.mergenhagen@elsevier.com</Email>
+</Contact>
+</InvoicePartner>
+<InvoiceDetailShipping>
+<Contact role="shipFrom">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>A-129, NSEZ</Street>
+<City>NOIDA</City>
+<State>UTTAR PRADESH</State>
+<PostalCode>201305</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+<Contact role="shipTo">
+<Name xml:lang="en-US">ELSEVIER GMBH</Name>
+<PostalAddress>
+<Street>HackerbrÃ¼cke 6</Street>
+<City>Muenchen</City>
+<State>FC</State>
+<PostalCode>80335</PostalCode>
+<Country isoCountryCode="DE">GERMANY</Country>
+</PostalAddress>
+</Contact>
+</InvoiceDetailShipping>
+<Extrinsic name="NewMessage">This invoice should be deducted against the pre-payment made for January-June 2022</Extrinsic>
+<Extrinsic name="invoiceSourceDocument">ExternalPurchaseOrder</Extrinsic>
+<Extrinsic name="invoiceSubmissionMethod">Online</Extrinsic>
+<Extrinsic name="punchinContractInvoice">no</Extrinsic>
+<Extrinsic name="tag">9783437454370</Extrinsic>
+<Extrinsic name="releaseNo">001</Extrinsic>
+</InvoiceDetailRequestHeader>
+<InvoiceDetailOrder>
+<InvoiceDetailOrderInfo>
+<OrderIDInfo orderID="46878"/>
+</InvoiceDetailOrderInfo>
+<InvoiceDetailItem invoiceLineNumber="1" quantity="385">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">2.9</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="1">
+<ItemID>
+<SupplierPartID>9783437454370</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital,  Luomajoki: Fallbuch Physiotherapie: Muskuloskelettales System, Composition Typesetting	  704 -  Typesetting: Typesetting & Supplying PDF File -Standard Design</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">1116.5</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">1116.5</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1116.5</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="2" quantity="358">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.63</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="2">
+<ItemID>
+<SupplierPartID>9783437454370</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital,  Luomajoki: Fallbuch Physiotherapie: Muskuloskelettales System,Composition/Typesetting	  714 - Indexing: Subject Index To Keywords (From Word File Index Marks)</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">225.54</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">225.54</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">225.54</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="3" quantity="4">
+<UnitOfMeasure>Pages</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.58</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="3">
+<ItemID>
+<SupplierPartID>9783437454370</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital,  Luomajoki: Fallbuch Physiotherapie: Muskuloskelettales System,Composition/Typesetting	  704 -  TYPESETTING: AUTHOR CORRECTION: Correction 20% of basic price</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">2.32</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">2.32</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">2.32</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCTP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="4" quantity="155">
+<UnitOfMeasure>Figure</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.4</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="4">
+<ItemID>
+<SupplierPartID>9783437454370</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">Thomson Digital,  Luomajoki: Fallbuch Physiotherapie: Muskuloskelettales System, Author Corrections Repro,"	  702 - Combiprints of Figures</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">62.0</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">62.0</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">62.0</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCILL</Extrinsic>
+</InvoiceDetailItem>
+</InvoiceDetailOrder>
+<InvoiceDetailSummary>
+<SubtotalAmount>
+<Money alternateAmount="1406.36" alternateCurrency="USD" currency="USD">1406.36</Money>
+</SubtotalAmount>
+<Tax>
+<Money currency="USD">0</Money>
+<Description xml:lang="en-US"/>
+</Tax>
+<GrossAmount>
+<Money currency="USD">1406.36</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1406.36</Money>
+</NetAmount>
+<DueAmount>
+<Money alternateAmount="1406.36" alternateCurrency="USD" currency="USD">1406.36</Money>
+</DueAmount>
+</InvoiceDetailSummary>
+</InvoiceDetailRequest>
+</Request>
+</cXML>

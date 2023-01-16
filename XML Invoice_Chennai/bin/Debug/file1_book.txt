@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.023/InvoiceDetail.dtd">
+<cXML payloadID="xxxxx" timestamp="xxxxx">
+<Header>
+<From>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+</Credential>
+<Credential domain="PrivateID">
+<Identity>16168</Identity>
+</Credential>
+</From>
+<To>
+<Credential domain="NetworkID">
+<Identity>AN01009238492</Identity>
+</Credential>
+</To>
+<Sender>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+<SharedSecret>thomson@123</SharedSecret>
+</Credential>
+<UserAgent>Supplier</UserAgent>
+</Sender>
+</Header>
+<Request deploymentMode="production">
+<InvoiceDetailRequest>
+<InvoiceDetailRequestHeader invoiceDate="xxxxx" invoiceID="MDPEXTxxxxx" invoiceOrigin="supplier" operation="new" purpose="standard">
+<InvoiceDetailHeaderIndicator/>
+<InvoiceDetailLineIndicator/>
+<InvoicePartner>
+<Contact addressID="xxxxx" role="remitTo">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>Kochar Bliss,4th Floor, A8 and A9 Thiru Vi Ka Industrial Estate, Guindy</Street>
+<City>CHENNAI</City>
+<State>Tamil Nadu</State>
+<PostalCode>600032</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="billTo">
+<Name xml:lang="en-US">xxxxx</Name>
+<PostalAddress>
+<Street>xxxxx</Street>
+<City>xxxxx</City>
+<State>xxxxx</State>
+<PostalCode>xxxxx</PostalCode>
+<Country isoCountryCode="xxxxx">xxxxx</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="from">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>Kochar Bliss,4th Floor, A8 and A9 Thiru Vi Ka Industrial Estate, Guindy</Street>
+<City>CHENNAI</City>
+<State>Tamil Nadu</State>
+<PostalCode>600032</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="soldTo">
+<Name xml:lang="en-US">xxxxx</Name>
+<PostalAddress>
+<Street>xxxxx</Street>
+<City>xxxxx</City>
+<State>xxxxx</State>
+<PostalCode>xxxxx</PostalCode>
+<Country isoCountryCode="xxxxx">xxxxx</Country>
+</PostalAddress>
+<Email>xxxxx</Email>
+</Contact>
+</InvoicePartner>
+<InvoiceDetailShipping>
+<Contact role="shipFrom">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>Kochar Bliss,4th Floor, A8 and A9 Thiru Vi Ka Industrial Estate, Guindy</Street>
+<City>CHENNAI</City>
+<State>Tamil Nadu</State>
+<PostalCode>600032</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+<Contact role="shipTo">
+<Name xml:lang="en-US">xxxxx</Name>
+<PostalAddress>
+<Street>xxxxx</Street>
+<City>xxxxx</City>
+<State>xxxxx</State>
+<PostalCode>xxxxx</PostalCode>
+<Country isoCountryCode="xxxxx">xxxxx</Country>
+</PostalAddress>
+</Contact>
+</InvoiceDetailShipping>
+<Extrinsic name="invoiceSourceDocument">ExternalPurchaseOrder</Extrinsic>
+<Extrinsic name="invoiceSubmissionMethod">Online</Extrinsic>
+<Extrinsic name="punchinContractInvoice">no</Extrinsic>
+<Extrinsic name="tag">xxxxx</Extrinsic>
+<Extrinsic name="releaseNo">001</Extrinsic>
+</InvoiceDetailRequestHeader>
+<InvoiceDetailOrder>
+<InvoiceDetailOrderInfo>
+<OrderIDInfo orderID="xxxxx"/>
+</InvoiceDetailOrderInfo>

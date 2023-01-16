@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.023/InvoiceDetail.dtd">
+<cXML payloadID="579518767" timestamp="2022-09-02T17:26:18+05:30">
+<Header>
+<From>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+</Credential>
+<Credential domain="PrivateID">
+<Identity>16168</Identity>
+</Credential>
+</From>
+<To>
+<Credential domain="NetworkID">
+<Identity>AN01009238492</Identity>
+</Credential>
+</To>
+<Sender>
+<Credential domain="NetworkID">
+<Identity>AN01009831419</Identity>
+<SharedSecret>thomson@123</SharedSecret>
+</Credential>
+<UserAgent>Ariba Network V1.1</UserAgent>
+</Sender>
+</Header>
+<Request deploymentMode="production">
+<InvoiceDetailRequest>
+<InvoiceDetailRequestHeader invoiceDate="2021-11-17T17:26:18+05:30" invoiceID="TDGTKEXT22102152" invoiceOrigin="supplier" operation="new" purpose="standard">
+<InvoiceDetailHeaderIndicator/>
+<InvoiceDetailLineIndicator/>
+<InvoicePartner>
+<Contact addressID="51055283" role="remitTo">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>TSEYANG DZONG,AMDO GOLAI,NH 31A,P.O.TADONG</Street>
+<City>GANGTOK</City>
+<State>SIKKIM</State>
+<PostalCode>737102</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="billTo">
+<Name xml:lang="en-US">ELSEVIER ESPAÃ‘A, S.L. </Name>
+<PostalAddress>
+<Street>20-30, planta 1</Street>
+<City>Barcelona </City>
+<State>FC</State>
+<PostalCode>802900</PostalCode>
+<Country isoCountryCode="ES">SPAIN</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="from">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>TSEYANG DZONG,AMDO GOLAI,NH 31A,P.O.TADONG</Street>
+<City>GANGTOK</City>
+<State>SIKKIM</State>
+<PostalCode>737102</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoicePartner>
+<Contact role="soldTo">
+<Name xml:lang="en-US">ELSEVIER ESPAÃ‘A, S.L. </Name>
+<PostalAddress>
+<Street>20-30, planta 1</Street>
+<City>Barcelona </City>
+<State>FC</State>
+<PostalCode>802900</PostalCode>
+<Country isoCountryCode="ES">SPAIN</Country>
+</PostalAddress>
+</Contact>
+</InvoicePartner>
+<InvoiceDetailShipping>
+<Contact role="shipFrom">
+<Name xml:lang="en-US">Thomson Digital(A DIVISION OF THOMSON PRESS(INDIA)LTD.)</Name>
+<PostalAddress>
+<Street>TSEYANG DZONG,AMDO GOLAI,NH 31A,P.O.TADONG</Street>
+<City>GANGTOK</City>
+<State>SIKKIM</State>
+<PostalCode>737102</PostalCode>
+<Country isoCountryCode="IN">INDIA</Country>
+</PostalAddress>
+</Contact>
+<Contact role="shipTo">
+<Name xml:lang="en-US">ELSEVIER ESPAÃ‘A, S.L. </Name>
+<PostalAddress>
+<Street>20-30, planta 1</Street>
+<City>Barcelona </City>
+<State>FC</State>
+<PostalCode>802900</PostalCode>
+<Country isoCountryCode="ES">SPAIN</Country>
+</PostalAddress>
+</Contact>
+</InvoiceDetailShipping>
+<Extrinsic name="journalNo">15717</Extrinsic>
+<Extrinsic name="volumeNo">AD VOL. 112/10</Extrinsic>
+<Extrinsic name="new message">This invoice should be deducted against the pre-payment made for January-June 2022</Extrinsic>
+</InvoiceDetailRequestHeader>
+<InvoiceDetailOrder>
+<InvoiceDetailOrderInfo>
+<OrderIDInfo orderID="T00442874"/>
+</InvoiceDetailOrderInfo>
+<InvoiceDetailItem invoiceLineNumber="1" quantity="108">
+<UnitOfMeasure>PAGE</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">3.2</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="1">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">ZMJ - TEXT PROCESSING CHARGES AND SUPPLYING OF PDF FILES (MF)</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">345.6</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">345.6</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">345.6</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCTYP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="2" quantity="98">
+<UnitOfMeasure>PAGE</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">8</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="2">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">CHARGES FOR COPY EDITING -SPANISH</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">784</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">784</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">784</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCDES</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="3" quantity="98">
+<UnitOfMeasure>PAGE</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">4.5</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="3">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">CHARGES FOR MASTER COPYING -SPANISH</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">441.0</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">441.0</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">441.0</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCDES</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="4" quantity="34">
+<UnitOfMeasure>Article</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.83</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="4">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">CHARGES FOR LOGIN</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">28.22</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">28.22</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">28.22</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCDES</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="5" quantity="108">
+<UnitOfMeasure>PAGE</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.38</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="5">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">CHARGES FOR LANGUAGE PREMIUM (12%)</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">41.04</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">41.04</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">41.04</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCCEP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="6" quantity="15">
+<UnitOfMeasure>FIG</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.5</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="6">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">CHARGES FOR RELABELING OF FIGURES</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">7.5</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">7.5</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">7.5</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCARP</Extrinsic>
+</InvoiceDetailItem>
+<InvoiceDetailItem invoiceLineNumber="7" quantity="2">
+<UnitOfMeasure>PAGE</UnitOfMeasure>
+<UnitPrice>
+<Money currency="USD">0.8</Money>
+</UnitPrice>
+<InvoiceDetailItemReference lineNumber="7">
+<ItemID>
+<SupplierPartID>td100036207E9</SupplierPartID>
+</ItemID>
+<Description xml:lang="en-US">FTF: CHARGES FOR FAST TRACK -25%</Description>
+</InvoiceDetailItemReference>
+<SubtotalAmount>
+<Money currency="USD">1.6</Money>
+</SubtotalAmount>
+<GrossAmount>
+<Money currency="USD">1.6</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1.6</Money>
+</NetAmount>
+<Extrinsic name="businessActivity">PPCTYP</Extrinsic>
+</InvoiceDetailItem>
+</InvoiceDetailOrder>
+<InvoiceDetailSummary>
+<SubtotalAmount>
+<Money alternateAmount="1648.96" alternateCurrency="USD" currency="USD">1648.96</Money>
+</SubtotalAmount>
+<Tax>
+<Money currency="USD">0</Money>
+<Description xml:lang="en-US"/>
+</Tax>
+<GrossAmount>
+<Money currency="USD">1648.96</Money>
+</GrossAmount>
+<NetAmount>
+<Money currency="USD">1648.96</Money>
+</NetAmount>
+<DueAmount>
+<Money alternateAmount="1648.96" alternateCurrency="USD" currency="USD">1648.96</Money>
+</DueAmount>
+</InvoiceDetailSummary>
+</InvoiceDetailRequest>
+</Request>
+</cXML>
