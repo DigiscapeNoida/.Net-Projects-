@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMSIntegrateUsingEOOLink", "FMSIntegrateUsingEOOLink\FMSIntegrateUsingEOOLink.csproj", "{A3C35B7D-41B8-4828-AF64-B82E3A6842F0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WordProcess", "WordProcess\WordProcess.vbproj", "{A1D10CA6-ACE6-40D5-849B-BDD88379357E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelRead", "ExcelRead\ExcelRead\ExcelRead.csproj", "{8E608C37-FFFA-44DC-9CCB-C871D8D1E972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleAontentReport", "ArticleAontentReport\ArticleAontentReport.csproj", "{F36D0885-4B22-4FF8-8562-B3D3599770A7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelSheet", "ExcelSheet\ExcelSheet.vbproj", "{46E3B7AC-AF65-42D6-8F22-384EBD131C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WileyMetaData", "WileyMetaData\WileyMetaData.csproj", "{51DDD6ED-30F0-417B-9D6B-D1270FD5AC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThiemeProcess", "ThiemeProcess\ThiemeProcess\ThiemeProcess.csproj", "{58D2DE20-5A9F-4043-B41E-A6A8462D9F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C35B7D-41B8-4828-AF64-B82E3A6842F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C35B7D-41B8-4828-AF64-B82E3A6842F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C35B7D-41B8-4828-AF64-B82E3A6842F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C35B7D-41B8-4828-AF64-B82E3A6842F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D10CA6-ACE6-40D5-849B-BDD88379357E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D10CA6-ACE6-40D5-849B-BDD88379357E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D10CA6-ACE6-40D5-849B-BDD88379357E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D10CA6-ACE6-40D5-849B-BDD88379357E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E608C37-FFFA-44DC-9CCB-C871D8D1E972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E608C37-FFFA-44DC-9CCB-C871D8D1E972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E608C37-FFFA-44DC-9CCB-C871D8D1E972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E608C37-FFFA-44DC-9CCB-C871D8D1E972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36D0885-4B22-4FF8-8562-B3D3599770A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36D0885-4B22-4FF8-8562-B3D3599770A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36D0885-4B22-4FF8-8562-B3D3599770A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36D0885-4B22-4FF8-8562-B3D3599770A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E3B7AC-AF65-42D6-8F22-384EBD131C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E3B7AC-AF65-42D6-8F22-384EBD131C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E3B7AC-AF65-42D6-8F22-384EBD131C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E3B7AC-AF65-42D6-8F22-384EBD131C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51DDD6ED-30F0-417B-9D6B-D1270FD5AC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DDD6ED-30F0-417B-9D6B-D1270FD5AC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DDD6ED-30F0-417B-9D6B-D1270FD5AC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DDD6ED-30F0-417B-9D6B-D1270FD5AC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D2DE20-5A9F-4043-B41E-A6A8462D9F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D2DE20-5A9F-4043-B41E-A6A8462D9F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D2DE20-5A9F-4043-B41E-A6A8462D9F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D2DE20-5A9F-4043-B41E-A6A8462D9F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
