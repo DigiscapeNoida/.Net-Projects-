@@ -1,0 +1,14 @@
+D:\Rohit\Workingcopy\LWWTaskMail\LWWTaskMail\bin\Debug\LWWTaskMail.exe.config
+D:\Rohit\Workingcopy\LWWTaskMail\LWWTaskMail\bin\Debug\LWWTaskMail.exe
+D:\Rohit\Workingcopy\LWWTaskMail\LWWTaskMail\bin\Debug\LWWTaskMail.pdb
+D:\Rohit\Workingcopy\LWWTaskMail\LWWTaskMail\obj\Debug\LWWTaskMail.csprojResolveAssemblyReference.cache
+D:\Rohit\Workingcopy\LWWTaskMail\LWWTaskMail\obj\Debug\LWWTaskMail.exe
+D:\Rohit\Workingcopy\LWWTaskMail\LWWTaskMail\obj\Debug\LWWTaskMail.pdb
+D:\Deepak\LWWTaskMail\LWWTaskMail\bin\Debug\LWWTaskMail.exe.config
+D:\Deepak\LWWTaskMail\LWWTaskMail\bin\Debug\LWWTaskMail.exe
+D:\Deepak\LWWTaskMail\LWWTaskMail\bin\Debug\LWWTaskMail.pdb
+D:\Deepak\LWWTaskMail\LWWTaskMail\obj\Debug\LWWTaskMail.csproj.AssemblyReference.cache
+D:\Deepak\LWWTaskMail\LWWTaskMail\obj\Debug\LWWTaskMail.csproj.SuggestedBindingRedirects.cache
+D:\Deepak\LWWTaskMail\LWWTaskMail\obj\Debug\LWWTaskMail.csproj.CoreCompileInputs.cache
+D:\Deepak\LWWTaskMail\LWWTaskMail\obj\Debug\LWWTaskMail.exe
+D:\Deepak\LWWTaskMail\LWWTaskMail\obj\Debug\LWWTaskMail.pdb
