@@ -1,0 +1,1547 @@
+<?xml version = '1.0' encoding = 'iso-8859-1'?>
+<?xml-stylesheet type="text/xsl" href="issue.xsl" ?><!DOCTYPE orders SYSTEM "ptsiiiorder125.dtd">
+<orders>
+   <order>
+      <time day="18" month="07" yr="2008" hr="11" min="00" sec="22"/>
+      <po-number>T00151875</po-number>
+      <due-date>
+         <date day="21" month="07" yr="2008"/>
+      </due-date>
+      <prod-site>ESEO - Elsevier Journals</prod-site>
+      <opco>OCUK - Operating Company Elsevier Ltd</opco>
+      <stage step="F300"/>
+      <executor type="PSP" addressee="no">
+         <exec-code>4MJOH</exec-code>
+         <exec-name>Johnson</exec-name>
+         <aff>
+            <organization>Elsevier Ltd</organization>
+            <inst-contd>Editorial-Production Department</inst-contd>
+            <address>The Boulevard, Langford Lane</address>
+            <zipcode zipcode-pos="AFTERCTY">OX5 1GB</zipcode>
+            <cty>Kidlington, Oxon</cty>
+            <cny>United Kingdom</cny>
+            <tel>+44 (0) 1865 843532</tel>
+            <fax>+44 (0) 1865 843948</fax>
+         </aff>
+      </executor>
+      <executor type="ES" addressee="no">
+         <exec-code>2KPAR</exec-code>
+         <exec-name>Partner</exec-name>
+         <aff>
+            <organization>Elsevier Ltd</organization>
+            <inst-contd>Editorial-Production Department</inst-contd>
+            <address>Stover Court, Bampfylde Street</address>
+            <zipcode zipcode-pos="AFTERCTY">EX1 2AH</zipcode>
+            <cty>Exeter, Devon</cty>
+            <cny>United Kingdom</cny>
+            <tel>+44 (0) 1392 285860</tel>
+            <fax>+44 (0) 1865 853132</fax>
+         </aff>
+      </executor>
+      <executor type="TYPESETTER" addressee="yes">
+         <exec-code>THOM</exec-code>
+         <exec-name>Thomson Digital</exec-name>
+         <aff>
+            <address>B/10-12</address>
+            <address-contd>Noida Special Economic Zone</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">201 305</zipcode>
+            <cty>Noida</cty>
+            <cny>India</cny>
+            <tel>+91-120-256 2499</tel>
+            <fax>+91-120-256 2299</fax>
+         </aff>
+      </executor>
+      <executor type="WAREHOUSE" addressee="no">
+         <exec-code>WHEAT</exec-code>
+         <exec-name>Polestar Wheatons Ltd</exec-name>
+         <aff>
+            <address>Hennock Road</address>
+            <address-contd>Marsh Barton Tr. Estate</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">EX2 8RP</zipcode>
+            <cty>Exeter</cty>
+            <cny>United Kingdom</cny>
+            <tel>+44 1392 420 222</tel>
+            <fax>+44 1392 421 695</fax>
+         </aff>
+      </executor>
+      <executor type="PRINTER" addressee="no">
+         <exec-code>WHEAT</exec-code>
+         <exec-name>Polestar Wheatons Ltd</exec-name>
+         <aff>
+            <address>Hennock Road</address>
+            <address-contd>Marsh Barton Tr. Estate</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">EX2 8RP</zipcode>
+            <cty>Exeter</cty>
+            <cny>United Kingdom</cny>
+            <tel>+44 1392 420 222</tel>
+            <fax>+44 1392 421 695</fax>
+         </aff>
+      </executor>
+      <executor type="BINDER" addressee="no">
+         <exec-code>WHEAT</exec-code>
+         <exec-name>Polestar Wheatons Ltd</exec-name>
+         <aff>
+            <address>Hennock Road</address>
+            <address-contd>Marsh Barton Tr. Estate</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">EX2 8RP</zipcode>
+            <cty>Exeter</cty>
+            <cny>United Kingdom</cny>
+            <tel>+44 1392 420 222</tel>
+            <fax>+44 1392 421 695</fax>
+         </aff>
+      </executor>
+      <issue-info>
+         <general-info>
+            <version-no>F300.1</version-no>
+            <pii>S0020-1383(08)X0007-5</pii>
+            <issue-production-type>TYP</issue-production-type>
+            <buffer-status status="no"/>
+            <jid>JINJ</jid>
+            <journal-no>3040</journal-no>
+            <issn>0020-1383</issn>
+            <journal-title>Injury</journal-title>
+            <vol-from>39</vol-from>
+            <iss-from>8</iss-from>
+            <paper-type-interior>ROG80</paper-type-interior>
+            <paper-type-cover>HEG200</paper-type-cover>
+            <cover-finishing>Blank</cover-finishing>
+            <binding-type>perfect</binding-type>
+            <trimmed-size>210x280mm</trimmed-size>
+            <head-margin>12</head-margin>
+            <back-margin>20</back-margin>
+            <typeset-model>EU6</typeset-model>
+            <righthand-start>N</righthand-start>
+            <issue-weight>386.48</issue-weight>
+            <spine-width>5.29</spine-width>
+            <effect-cover-date>200808</effect-cover-date>
+            <cover-date>
+               <date-range>
+                  <start-date>200808</start-date>
+               </date-range>
+            </cover-date>
+            <cover-date-printed>August 2008</cover-date-printed>
+            <no-pages-prelims>4</no-pages-prelims>
+            <no-pages-interior>140</no-pages-interior>
+            <no-pages-extra>0</no-pages-extra>
+            <no-pages-insert>0</no-pages-insert>
+            <no-pages-bm>4</no-pages-bm>
+            <no-pages-print>148</no-pages-print>
+            <no-pages-web>0</no-pages-web>
+            <no-pages-total>148</no-pages-total>
+            <no-pages-blank>0</no-pages-blank>
+            <no-pages-adverts>5</no-pages-adverts>
+            <page-ranges>
+               <page-range type="PRELIM">
+                  <first-page>i</first-page>
+                  <last-page>iv</last-page>
+               </page-range>
+               <page-range type="INTERIOR">
+                  <first-page>827</first-page>
+                  <last-page>966</last-page>
+               </page-range>
+               <page-range type="BACKMATTER">
+                  <first-page>I</first-page>
+                  <last-page>IV</last-page>
+               </page-range>
+            </page-ranges>
+            <corrections type="FTP"/>
+         </general-info>
+         <issue-content>
+            <row type="non-ce">
+               <item-title>Outside Front Cover</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO1</page-from>
+               <page-to>CO1</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <remark>Update from 39/7</remark>
+            </row>
+            <row type="advert">
+               <item-title>IFC - paid advert jinj_Synthes_PFNA_51745_250608.pdf</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO2</page-from>
+               <page-to>CO2</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <remark>Colour</remark>
+            </row>
+            <row type="non-ce">
+               <item-title>Contents</item-title>
+               <pit>ZZZ</pit>
+               <prefix>FM</prefix>
+               <page-from>i</page-from>
+               <page-to>ii</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <remark>Auto Generate</remark>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>80002573</aid>
+               <pii>S0020-1383(08)00306-9</pii>
+               <doi>10.1016/S0020-1383(08)00306-9</doi>
+               <item-title>Editorial Board/Publication Information</item-title>
+               <pit>EDB</pit>
+               <prefix>FM</prefix>
+               <page-from>iii</page-from>
+               <page-to>iii</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <remark>Update from 39/7</remark>
+            </row>
+            <row type="non-ce">
+               <item-title>Copyright Information</item-title>
+               <pit>ZZZ</pit>
+               <prefix>FM</prefix>
+               <page-from>iv</page-from>
+               <page-to>iv</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <remark>Repeat from 39/7</remark>
+            </row>
+            <row type="h1">
+               <item-title>Editorial</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H1</prefix>
+               <page-from>H1</page-from>
+               <page-to>H1</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3681</aid>
+               <pii>S0020-1383(08)00289-1</pii>
+               <doi>10.1016/j.injury.2008.06.016</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Innovations in Osteosynthesis and Fracture Care</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="10" month="07" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Prof.</degree>
+                  <fnm>Peter V.</fnm>
+                  <snm>Giannoudis</snm>
+                  <aff>
+                     <organization>Leeds Teaching Hospitals NHS Trust</organization>
+                     <institute>Department of Trauma and Orthopaedics</institute>
+                     <inst-contd>Academic Unit, Clarendon Wing</inst-contd>
+                     <address>Great George Street</address>
+                     <zipcode>LS1 3EX</zipcode>
+                     <cty>Leeds</cty>
+                     <cny>United Kingdom</cny>
+                     <tel>+44 0113-3922750</tel>
+                     <ead>peter.giannoudis@leedsth.nhs.uk</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-08-00551</eo-item-nr>
+               <pit>EDI</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>827</page-from>
+               <page-to>838</page-to>
+               <pdf-pages>12</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="h1">
+               <item-title>Articles</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H1</prefix>
+               <page-from>H1</page-from>
+               <page-to>H1</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3495</aid>
+               <pii>S0020-1383(08)00002-8</pii>
+               <doi>10.1016/j.injury.2008.01.001</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>The Bristol regional pelvic and acetabular fracture service: workload implications of managing the polytraumatised patient</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="02" month="02" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Mr.</degree>
+                  <fnm>P.</fnm>
+                  <snm>Harvie</snm>
+                  <aff>
+                     <organization>Nuffield Orthopaedic Centre</organization>
+                     <institute>Specialist Registrar Trauma &amp; Orthopaedics</institute>
+                     <address>Windmill Road</address>
+                     <address-contd>Briar Barn, 1 Poplars Close</address-contd>
+                     <zipcode>NN12 8RW</zipcode>
+                     <cty>Blakesley</cty>
+                     <cny>United Kingdom</cny>
+                     <tel>+44 1327 861 108</tel>
+                     <ead>harvie1@tiscali.co.uk</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00693</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>839</page-from>
+               <page-to>843</page-to>
+               <pdf-pages>5</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3579</aid>
+               <pii>S0020-1383(08)00156-3</pii>
+               <doi>10.1016/j.injury.2008.03.030</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>TRAUMA EXPERIENCE IN THE UK AND IRELAND: ANALYSIS OF ORTHOPAEDIC TRAINING USING THE FHI ELOGBOOK</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="17" month="03" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Mr.</degree>
+                  <fnm>Simon S.</fnm>
+                  <snm>Jameson</snm>
+                  <aff>
+                     <organization>Royal Hospital for Sick Children</organization>
+                     <institute>Trauma &amp; Orthopaedics</institute>
+                     <address>5 Bromley Close</address>
+                     <address-contd>High Shincliffe</address-contd>
+                     <zipcode>DH1 2TZ</zipcode>
+                     <cty>Durham</cty>
+                     <cny>United Kingdom</cny>
+                     <tel>+44 078 12603112</tel>
+                     <ead>simonjameson@doctors.org.uk</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00757</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>844</page-from>
+               <page-to>852</page-to>
+               <pdf-pages>9</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3474</aid>
+               <pii>S0020-1383(07)00503-7</pii>
+               <doi>10.1016/j.injury.2007.12.001</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Laparotomy and Unstable Pelvic Fractures</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="19" month="12" yr="2007"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Mr.</degree>
+                  <fnm>J.F.</fnm>
+                  <snm>Keating</snm>
+                  <aff>
+                     <organization>Royal Infirmary</organization>
+                     <institute>Department of Orthopaedic Trauma</institute>
+                     <address>Little France</address>
+                     <address-contd>Old Dalkeith Road</address-contd>
+                     <zipcode>EH16 4SU</zipcode>
+                     <cty>Edinburgh, Scotland</cty>
+                     <cny>United Kingdom</cny>
+                     <tel>+44 131 242 3436</tel>
+                     <fax>+44 131 242 3467</fax>
+                     <ead>john.keating@ed.ac.uk</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00276</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>853</page-from>
+               <page-to>857</page-to>
+               <pdf-pages>5</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3510</aid>
+               <pii>S0020-1383(08)00049-1</pii>
+               <doi>10.1016/j.injury.2008.01.017</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>PUTATIVE PROPRIOCEPTIVE FUNCTION OF THE PELVIC LIGAMENTS: BIOMECHANICAL AND HISTOLOGICAL STUDIES</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="22" month="01" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Bertalan</fnm>
+                  <snm>Dudas</snm>
+                  <aff>
+                     <organization>Lake Erie College of Osteopathic Medicine (LECOM)</organization>
+                     <address>1858 West Grandview Blvd</address>
+                     <zipcode>16509</zipcode>
+                     <cty>Erie PA</cty>
+                     <cny>United States</cny>
+                     <tel>+1 814 866 8142</tel>
+                     <fax>+1 814 866 8411</fax>
+                     <ead>bdudas@lecom.edu</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00537</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>858</page-from>
+               <page-to>864</page-to>
+               <pdf-pages>7</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3347</aid>
+               <pii>S0020-1383(07)00285-9</pii>
+               <doi>10.1016/j.injury.2007.07.023</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Anterior versus Posterior Pin Placement of Pelvic C-clamp in Relationship to Anatomical Structures: A CADAVER STUDY</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="03" month="08" yr="2007"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Craig S.</fnm>
+                  <snm>Roberts</snm>
+                  <aff>
+                     <organization>University of Louisville School of Medicine</organization>
+                     <address>210 E. Gray Street, Suite 1003</address>
+                     <zipcode>40202</zipcode>
+                     <cty>Louisville, KY</cty>
+                     <cny>United States</cny>
+                     <tel>+1 502 852 6964</tel>
+                     <ead>craig.roberts@louisville.edu</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00314</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>865</page-from>
+               <page-to>868</page-to>
+               <pdf-pages>4</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3593</aid>
+               <pii>S0020-1383(08)00170-8</pii>
+               <doi>10.1016/j.injury.2008.03.024</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Closed Reduction and Iliosacral Percutaneous fixation of Unstable Pelvic Ring Fractures</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="27" month="03" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Alejandro D.</fnm>
+                  <snm>Zylberberg</snm>
+                  <aff>
+                     <organization>Hospital del Trabajador Santiago</organization>
+                     <institute>Department of Orthopedic Surgery</institute>
+                     <address>Ramon Carnicer 201</address>
+                     <cty>Providencia, Santiago</cty>
+                     <cny>Chile</cny>
+                     <tel>+56 2 6853343</tel>
+                     <ead>alezylber@gmail.com</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00959</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>869</page-from>
+               <page-to>874</page-to>
+               <pdf-pages>6</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3515</aid>
+               <pii>S0020-1383(08)00054-5</pii>
+               <doi>10.1016/j.injury.2008.01.049</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Is the lateral sacral fluoroscopic view essential for accurate percutaneous sacroiliac screw insertion? An experimental study</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="03" month="02" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>P.V.</fnm>
+                  <snm>Giannoudis</snm>
+                  <aff>
+                     <organization>LGI University Hospital</organization>
+                     <institute>Academic Department of Trauma and Orthopaedics</institute>
+                     <address>Great George St</address>
+                     <zipcode>LS1 3EX</zipcode>
+                     <cty>Leeds</cty>
+                     <cny>United Kingdom</cny>
+                     <tel>+44 0 113 3922611</tel>
+                     <fax>+44 0 113 3923290</fax>
+                     <ead>pgiannoudi@aol.com</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00587</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>875</page-from>
+               <page-to>880</page-to>
+               <pdf-pages>6</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3583</aid>
+               <pii>S0020-1383(08)00160-5</pii>
+               <doi>10.1016/j.injury.2008.03.012</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Pelvic fractures due to free falls of people with mental disordersPelvic fractures due to falls from a height in people with mental disorders</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="18" month="03" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Mr.</degree>
+                  <fnm>Jen-Feng</fnm>
+                  <snm>Fang</snm>
+                  <aff>
+                     <organization>Chang-Gung University</organization>
+                     <institute>Trauma and Critical Care Centre</institute>
+                     <zipcode>333</zipcode>
+                     <cty>Kweishan, Taoyuan</cty>
+                     <cny>Taiwan</cny>
+                     <tel>+886 3 328 1200x2158</tel>
+                     <fax>+886 3 328 9582</fax>
+                     <ead>jimfang@adm.cgmh.org.tw</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00874</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>881</page-from>
+               <page-to>888</page-to>
+               <pdf-pages>8</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3344</aid>
+               <pii>S0020-1383(07)00279-3</pii>
+               <doi>10.1016/j.injury.2007.07.027</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Perineal Hygiene in Patients with Pelvic Fractures</item-title>
+               <copyright-status>004</copyright-status>
+               <copyright-recd-date>
+                  <date day="18" month="07" yr="2007"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>M.A.</fnm>
+                  <snm>Hossain</snm>
+                  <aff>
+                     <organization>St Georges Hospital NHS Trust</organization>
+                     <institute>SHO Orthopaedic Surgery</institute>
+                     <zipcode>SW19 0QT</zipcode>
+                     <cty>London</cty>
+                     <cny>United Kingdom</cny>
+                     <ead>mhossain@doctors.org.uk</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00184</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>889</page-from>
+               <page-to>892</page-to>
+               <pdf-pages>4</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>100</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>100</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>1</no-colour-figs>
+               <colour-fig-nr-print>3</colour-fig-nr-print>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3414</aid>
+               <pii>S0020-1383(07)00405-6</pii>
+               <doi>10.1016/j.injury.2007.09.017</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Lateral compression fracture of the pelvis represents a heterogeneous group of complex 3D patterns of displacement</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="25" month="09" yr="2007"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>C.M.</fnm>
+                  <snm>Whyne</snm>
+                  <aff>
+                     <organization>Sunnybrook Health Sciences Centre</organization>
+                     <institute>Orthopaedic Biomechanics Laboratory</institute>
+                     <address>UB 19, 2075 Bayview Avenue</address>
+                     <zipcode>M4N 3M5</zipcode>
+                     <cty>Toronto, Ontario</cty>
+                     <cny>Canada</cny>
+                     <tel>+1 416 480 5056</tel>
+                     <fax>+1 416 480 5856</fax>
+                     <ead>cari.whyne@sunnybrook.ca</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-06-01000</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>893</page-from>
+               <page-to>902</page-to>
+               <pdf-pages>10</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3473</aid>
+               <pii>S0020-1383(07)00502-5</pii>
+               <doi>10.1016/j.injury.2007.12.008</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Use of the Trauma Pelvic Orthotic Device (T-POD) for Provisional Stabilization of Anterior-Posterior Compression Type Pelvic Fractures: A Cadaveric Study</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="19" month="12" yr="2007"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Mark S.</fnm>
+                  <snm>Eskander</snm>
+                  <aff>
+                     <organization>UMass Memorial Medical Center</organization>
+                     <institute>The Arthritis and Total Joint Replacement Center</institute>
+                     <address>119 Belmont St.</address>
+                     <zipcode>01605</zipcode>
+                     <cty>Worcester, MA</cty>
+                     <cny>United States</cny>
+                     <tel>+1 508 334 9757</tel>
+                     <fax>+1 508 334 9762</fax>
+                     <ead>eskanm01@ummhc.org</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00258</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>903</page-from>
+               <page-to>906</page-to>
+               <pdf-pages>4</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3477</aid>
+               <pii>S0020-1383(07)00506-2</pii>
+               <doi>10.1016/j.injury.2007.12.016</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>The use of trochanteric slide osteotomy in the treatment of displaced acetabular fractures</item-title>
+               <copyright-status>001</copyright-status>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Panayiotis T.</fnm>
+                  <snm>Hadjicostas</snm>
+                  <aff>
+                     <address>22 Chrisostomou Smirnis</address>
+                     <zipcode>151 27</zipcode>
+                     <cty>Melissia, Athens</cty>
+                     <cny>Greece</cny>
+                     <tel>+30 210 8032074</tel>
+                     <fax>+30 210 8032074</fax>
+                     <ead>phadjicostas@yahoo.com</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00376</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>907</page-from>
+               <page-to>913</page-to>
+               <pdf-pages>7</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>100</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>100</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>1</no-colour-figs>
+               <colour-fig-nr-print>1</colour-fig-nr-print>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3478</aid>
+               <pii>S0020-1383(07)00507-4</pii>
+               <doi>10.1016/j.injury.2007.12.004</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>TOTAL HIP REPLACEMENT FOR ACETABULAR FRACTURES. RESULTS IN 121 PATIENTS OPERATED BETWEEN 1983 AND 2003</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="07" month="12" yr="2007"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>A.</fnm>
+                  <snm>Sermon</snm>
+                  <aff>
+                     <organization>University Hospital Gasthuisberg</organization>
+                     <institute>Department of Traumatology</institute>
+                     <address>Herestraat 49</address>
+                     <zipcode>3000</zipcode>
+                     <cty>Leuven</cty>
+                     <cny>Belgium</cny>
+                     <tel>+32 16 344666</tel>
+                     <fax>+32 16 344677</fax>
+                     <ead>an.sermon@uz.kuleuven.ac.be</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00385</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>914</page-from>
+               <page-to>921</page-to>
+               <pdf-pages>8</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3480</aid>
+               <pii>S0020-1383(07)00509-8</pii>
+               <doi>10.1016/j.injury.2007.12.006</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Acetabular fracture displacement, roof arc angles and 2 years outcome.</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="09" month="12" yr="2007"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Stein</fnm>
+                  <snm>Ovre</snm>
+                  <aff>
+                     <organization>Ulleval University Hospital</organization>
+                     <institute>Orthopaedic Centre</institute>
+                     <zipcode>0407</zipcode>
+                     <cty>Oslo</cty>
+                     <cny>Norway</cny>
+                     <tel>+47 23027400</tel>
+                     <ead>SteinA.Ovre@ulleval.no</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00489</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>922</page-from>
+               <page-to>931</page-to>
+               <pdf-pages>10</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3547</aid>
+               <pii>S0020-1383(08)00103-4</pii>
+               <doi>10.1016/j.injury.2008.02.005</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>The new proximal femoral nail antirotation (PFNA) in daily practice; results of a multicentre clinical study</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="05" month="02" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>R.K.J.</fnm>
+                  <snm>Simmermacher</snm>
+                  <aff>
+                     <organization>University Medical Center Utrecht(Department of Surgery)</organization>
+                     <institute>Dept. of Surgery</institute>
+                     <address>Heidelberglaan 100</address>
+                     <address-contd>P.O. Box 85500, NL-3508 GA Utrecht,</address-contd>
+                     <zipcode>3584</zipcode>
+                     <cty>CX Utrecht</cty>
+                     <cny>Netherlands</cny>
+                     <tel>+ 31 88 7556968</tel>
+                     <fax>+ 31 88 7555459</fax>
+                     <ead>r.k.j.simmermacher@umcutrecht.nl</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00641</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>932</page-from>
+               <page-to>939</page-to>
+               <pdf-pages>8</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3512</aid>
+               <pii>S0020-1383(08)00051-X</pii>
+               <doi>10.1016/j.injury.2008.01.022</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>EXPANDABLE NAILING SYSTEM FOR TIBIAL SHAFT FRACTURES</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="25" month="01" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Andreas A.</fnm>
+                  <snm>Lamprakis</snm>
+                  <aff>
+                     <organization>Panarcadian General Hospital</organization>
+                     <institute>2nd Orthopaedic Department</institute>
+                     <address>Ionias 2 Street, Pefki</address>
+                     <zipcode>151 21</zipcode>
+                     <cty>Athens</cty>
+                     <cny>Greece</cny>
+                     <tel>+30 6973245125</tel>
+                     <fax>+30 2710238175</fax>
+                     <ead>andreaslamprakis@hotmail.com</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00734</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>940</page-from>
+               <page-to>946</page-to>
+               <pdf-pages>7</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3567</aid>
+               <pii>S0020-1383(08)00123-X</pii>
+               <doi>10.1016/j.injury.2008.02.027</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>MANAGEMENT OF LOWER LIMB FRACTURES IN POLYTRAUMA PATIENTS WITH DELAYED REFERRAL IN A MASS DISASTER The Role Of The Ilizarov Method in Conversion Osteosynthesis</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="13" month="02" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Shabir Ahmed</fnm>
+                  <snm>Dhar</snm>
+                  <aff>
+                     <organization>GMC Srinagar</organization>
+                     <institute>The Department of Orthopaedics</institute>
+                     <zipcode>190001</zipcode>
+                     <cty>Kashmir</cty>
+                     <cny>India</cny>
+                     <ead>shabirdhar@yahoo.co.in</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00951</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>947</page-from>
+               <page-to>951</page-to>
+               <pdf-pages>5</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3570</aid>
+               <pii>S0020-1383(08)00126-5</pii>
+               <doi>10.1016/j.injury.2008.02.024</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Treatment of Femoral and Tibial Diaphyseal Nonunions using Reamed Intramedullary Nailing without Bone graft</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="05" month="03" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Ji-Hoon</fnm>
+                  <snm>Bae</snm>
+                  <aff>
+                     <organization>Korea University School of Medicine</organization>
+                     <institute>Department of Orthopaedic Surgery</institute>
+                     <address>Guro hospital, 80 Guro 2-dong</address>
+                     <zipcode>152-703</zipcode>
+                     <cty>Guro-gu, Seoul</cty>
+                     <cny>Republic of Korea</cny>
+                     <tel>+82 2 2626 3089</tel>
+                     <fax>+82 2 2626 1164</fax>
+                     <ead>osman@korea.ac.kr</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00965</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>952</page-from>
+               <page-to>959</page-to>
+               <pdf-pages>8</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>25</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>25</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="h1">
+               <item-title>Correspondence</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H1</prefix>
+               <page-from>H1</page-from>
+               <page-to>H1</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3501</aid>
+               <pii>S0020-1383(08)00008-9</pii>
+               <doi>10.1016/j.injury.2008.01.007</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Trimodal temporal distribution of fatal trauma - fact or fiction?</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="12" month="01" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Kjetil</fnm>
+                  <snm>Soreide</snm>
+                  <aff>
+                     <organization>Stavanger University Hospital</organization>
+                     <institute>Department of Surgery</institute>
+                     <address>PO Box 8100</address>
+                     <address-contd>Armauer Hansens vei 20</address-contd>
+                     <zipcode>N-4068</zipcode>
+                     <cty>Stavanger</cty>
+                     <cny>Norway</cny>
+                     <tel>+47 51 51 8330</tel>
+                     <fax>+47 5151 9919</fax>
+                     <ead>ksoreide@mac.com</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00933</eo-item-nr>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>960</page-from>
+               <page-to>961</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3518</aid>
+               <pii>S0020-1383(08)00057-0</pii>
+               <doi>10.1016/j.injury.2008.01.018</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Trimodal temporal distribution of fatal trauma - fact or fiction?</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="04" month="02" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Silke</fnm>
+                  <snm>Aldrian</snm>
+                  <aff>
+                     <organization>University of Vienna Medical School</organization>
+                     <institute>Department of Trauma Surgery</institute>
+                     <address>Wahringer Guertel 18-20</address>
+                     <zipcode>1090</zipcode>
+                     <cty>Vienna</cty>
+                     <cny>Austria</cny>
+                     <tel>+43 1 40400 5940</tel>
+                     <fax>+43 1 40400 5939</fax>
+                     <ead>silke.aldrian@meduniwien.ac.at</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-08-00111</eo-item-nr>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>961</page-from>
+               <page-to>962</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3573</aid>
+               <pii>S0020-1383(08)00136-8</pii>
+               <doi>10.1016/j.injury.2008.02.033</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>What do we mean by the term polytrauma</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="22" month="02" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Medha</fnm>
+                  <snm>Mohta</snm>
+                  <aff>
+                     <organization>Royal London Hospital, Barts and the London NHS Trust</organization>
+                     <institute>Department of Anaesthesia and Trauma Service</institute>
+                     <cty>London</cty>
+                     <cny>United Kingdom</cny>
+                     <ead>medhamohta@hotmail.com</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-08-00192</eo-item-nr>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>962</page-from>
+               <page-to>963</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3584</aid>
+               <pii>S0020-1383(08)00161-7</pii>
+               <doi>10.1016/j.injury.2008.03.014</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Factors predicting patient satisfaction following major trauma</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="19" month="03" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Mr.</degree>
+                  <fnm>Saeed</fnm>
+                  <snm>Al-Naser</snm>
+                  <aff>
+                     <organization>Morriston Hospital - Swansea</organization>
+                     <institute>Trauma &amp; Orthopaedics</institute>
+                     <zipcode>SA6 6NL</zipcode>
+                     <cty>Swansea</cty>
+                     <cny>United Kingdom</cny>
+                     <tel>+44 7865286125</tel>
+                     <ead>alnasersaeed@yahoo.co.uk</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-07-00788</eo-item-nr>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>963</page-from>
+               <page-to>964</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3591</aid>
+               <pii>S0020-1383(08)00168-X</pii>
+               <doi>10.1016/j.injury.2008.03.020</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Comments on "Ballistics: a primer for the surgeon"</item-title>
+               <copyright-status>005</copyright-status>
+               <copyright-recd-date>
+                  <date day="21" month="03" yr="2008"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Mr.</degree>
+                  <fnm>Michael</fnm>
+                  <snm>Courtney</snm>
+                  <aff>
+                     <organization>Ballistics Testing Group</organization>
+                     <address>P.O. Box 24</address>
+                     <zipcode>10996</zipcode>
+                     <cty>West Point, NY</cty>
+                     <cny>United States</cny>
+                     <ead>Michael_Courtney@alum.mit.edu</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-08-00259</eo-item-nr>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>964</page-from>
+               <page-to>965</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>F300.1</version-no>
+               <aid>3592</aid>
+               <pii>S0020-1383(08)00169-1</pii>
+               <doi>10.1016/j.injury.2008.03.021</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Response to: Injury: 36/3 (2005), pp.373-379.</item-title>
+               <copyright-status>001</copyright-status>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>David</fnm>
+                  <snm>Volgas</snm>
+                  <aff>
+                     <organization>University of Alabama at Birmingham</organization>
+                     <institute>Department of Surgery</institute>
+                     <address>510 Twentieth Ave South</address>
+                     <address-contd>Faculty Office Tower #960</address-contd>
+                     <zipcode>35115</zipcode>
+                     <cty>Birmingham, AL</cty>
+                     <cny>United States</cny>
+                     <tel>+1 205 975 0502</tel>
+                     <fax>+1 205 934 6413</fax>
+                     <ead>david.volgas@ortho.uab.edu</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>JINJ-D-08-00279</eo-item-nr>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>965</page-from>
+               <page-to>966</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="he">
+               <item-title>End of Section</item-title>
+               <pit>ZZZ</pit>
+               <prefix>HE</prefix>
+               <page-from>HE</page-from>
+               <page-to>HE</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="non-ce">
+               <item-title>Calendar</item-title>
+               <pit>ZZZ</pit>
+               <prefix>BM</prefix>
+               <page-from>I</page-from>
+               <page-to>I</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <remark>Update from 39/7</remark>
+            </row>
+            <row type="advert">
+               <item-title>filler advert CORPORATEENDUSER</item-title>
+               <pit>ZZZ</pit>
+               <prefix>BM</prefix>
+               <page-from>II</page-from>
+               <page-to>II</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="advert">
+               <item-title>filler advert AAEN_</item-title>
+               <pit>ZZZ</pit>
+               <prefix>BM</prefix>
+               <page-from>III</page-from>
+               <page-to>III</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="advert">
+               <item-title>filler advert EES2007_INJURY</item-title>
+               <pit>ZZZ</pit>
+               <prefix>BM</prefix>
+               <page-from>IV</page-from>
+               <page-to>IV</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="non-ce">
+               <item-title>BTS Membership Form</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO3</page-from>
+               <page-to>CO3</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <remark>Repeat from 39/7</remark>
+            </row>
+            <row type="advert">
+               <item-title>OBC - paid/mbp advert AOUKEXCA_210x280.pdf</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO4</page-from>
+               <page-to>CO4</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <remark>Mono</remark>
+            </row>
+         </issue-content>
+         <issue-remarks>
+            <issue-remark>
+               <remark-type>Label Comments</remark-type>
+               <remark>This issue requires off-system despatch using ONE address list.</remark>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Problem</remark-type>
+               <diff><remark>This jounal is now printed by Polestar Wheatons Ltd.Kindly update the Printer information section to reflect this change.</remark></diff>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Problem</remark-type>
+               <remark>Change in pagination:3518:961-962, 3573:962-963, 3584:963-964, 3591:964-965, 3592:965-966.</remark>
+               <response>KPARTNER 15-JUL-2008 04:00
+Updated as requested
+</response>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Problem</remark-type>
+               <diff><remark>This jounal is now printed by Polestar Wheatons Ltd.Kindly update the Printer information section to reflect this change.</remark></diff>
+               <response>KPARTNER 18-JUL-2008 11:00
+Done
+</response>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Covers and prelims</remark-type>
+               <remark>Setter: Corrections on EWII</remark>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Setter</remark-type>
+               <remark>Setter: Update issue/cover date; Updates to Editorial Board and Calendar on EWII</remark>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Setter</remark-type>
+               <remark>Setter: Late corrections for Editorial (JINJ 3681) received and loaded with P0.  Please ensure that these are dealt with before finalising the issue.  Thank you.</remark>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Printer</remark-type>
+               <remark>Printer: Advance Copy to ESL, Exeter</remark>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Advert details</remark-type>
+               <remark>TYPESETTER: Paid/MBP + filler ads compiled at P100 by Michelle Kenyon, Adv. Prod. Dept., on the following pages: IFC, BM 2-4, OBC.  Please note that some adverts contain COLOUR.  Please see Print-Bind order/IPS for details of adverts.</remark>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Advert details</remark-type>
+               <remark>PRINTER: Please note that (some) ad pages must be printed in colour: see item remarks and print/bind order/ IPS.</remark>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Advert details</remark-type>
+               <remark>PRINTER:  Please send 4  voucher copies to Michelle Kenyon, Reed Elsevier, Adv. Prod. Dept., 10th Floor, Radarweg 29, 1043 NX Amsterdam, The Netherlands, immediately upon publication.</remark>
+               <response/>
+            </issue-remark>
+         </issue-remarks>
+      </issue-info>
+   </order>
+</orders>

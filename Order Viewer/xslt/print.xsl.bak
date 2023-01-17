@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<!-- <xsl:stylesheet xmlns:xsl="http://www.w3.org/TR/WD-xsl"> -->
+
+<!-- This file formats the print/ bind order sheet-->
+<!-- AGW CR 907 Change font and size of "Buffer Issue : do not..." message.  Added new element colour-fig-nr-print -->
+<!-- IMcG CR 813 Added buffer status -->
+<!-- BHW CR 1023 Added No. Author Copies 
+      Standardised Date formatting section to bring into line with other Stylesheets-->
+<!-- BHW 10 March 2004 CR 936 Rename Col Fig Nrs to Print Col Graph Nrs -->      
+<!-- BHW 06 May 2004 CR 1050 Make remarks and Adverts section same as that for Offprints order 
+      CR 801 Add bold remark if hold-until-date is not null -->
+
+  <!--################################################################################-->
+  <xsl:template match="/">
+    <xsl:apply-templates select="orders"/>
+  </xsl:template>
+
+  <!--################################################################################-->
+  <xsl:template match="orders">
+    <xsl:for-each select="order">
+      <html>
+        <head>PRINT/ BIND ORDER</head>
+      </html>
+      <p/>
+      <table width="100%">
+        <tr><th colspan="2"><xsl:value-of select="prod-site"/></th></tr>
+        <tr>
+          <td>
+            <table>
+              <tr><td>PURCHASE ORDER NUMBER</td><td>: <xsl:value-of select="po-number"/></td></tr>
+              <tr><td>ISSN</td><td>: <xsl:value-of select="//issn"/></td></tr>
+              <tr><td>Journal</td><td>: <xsl:value-of select="//jid"/></td></tr>
+              <tr><td>Title</td><td>: <xsl:value-of select="//journal-title"/></td></tr>              
+              <tr><td>Journal no.</td><td>: <xsl:value-of select="//journal-no"/></td></tr>
+              <tr>
+                <td>Volume/Issue</td>
+                <td>: 
+                  <xsl:value-of select="//vol-from"/>
+                  <xsl:apply-templates select="//vol-to"/>
+                  <xsl:apply-templates select="//iss-from"/>
+                  <xsl:apply-templates select="//iss-to"/>
+                  <xsl:value-of select="//supp"/>
+                </td>
+              </tr>
+              <tr><td>Production site</td><td>: <xsl:value-of select="prod-site"/></td></tr>
+              <tr><td><xsl:apply-templates select="executor[@type='ES']"/></td></tr>
+              <tr><td>Cover date</td><td>: <xsl:value-of select="//cover-date-printed"/></td></tr>
+            </table>
+          </td>
+          <td><xsl:apply-templates select="print-bind-info/print-details"/></td>
+          
+           <td valign="top">
+              <xsl:apply-templates select="executor[@type='PRINTER']"/>
+              <xsl:apply-templates select="executor[@type='BINDER']"/>
+              <table>
+                <tr><td><br/></td></tr>
+                <tr><td valign="bottom">Due date</td>
+                <td>: <xsl:for-each select="due-date"><xsl:apply-templates select="date"/></xsl:for-each></td>
+                </tr>
+              </table>
+          </td>
+
+          
+          
+        </tr>
+        <tr>
+          <td><xsl:apply-templates select="print-bind-info/general-info"/></td>
+        </tr>
+      </table>
+
+      <tr/>
+      
+<br/>          
+
+	<xsl:if test="//buffer-status/@status='yes'">
+      		<tr><td valign="top">
+      			<font size="4"><b>Buffer issue: do not despatch to the warehouse until instructed by the Production Site.</b></font><br></br>
+      		</td></tr>
+      	</xsl:if>
+
+        <xsl:if test="//hold-until-date/date/@month!=''">
+	     <tr> <td><font size="4"><b><xsl:for-each select="//hold-until-date">
+            Held Issue: DO NOT DESPATCH UNTIL <xsl:apply-templates select="date"/>
+            </xsl:for-each></b></font><br></br></td>
+           </tr>
+       </xsl:if>
+
+<br/>                
+
+      <xsl:apply-templates select="print-bind-info/issue-content"/>
+      <xsl:apply-templates select="print-bind-info/issue-remarks"/>
+
+    ADVERT DETAILS:<p/>
+    <xsl:for-each select="//issue-remarks/issue-remark[@type='ADV']">
+    <xsl:value-of select="remark"/><br/>
+    <p/></xsl:for-each>
+
+
+    </xsl:for-each>
+  </xsl:template>
+
+  <!--################################################################################-->
+  <!--This section is for formatting the Volume/ Issue field-->
+
+  <xsl:template match="//vol-to">
+    -<xsl:value-of select="//vol-to"/>
+  </xsl:template>
+
+  <xsl:template match="//iss-from">
+    /<xsl:value-of select="//iss-from"/>
+  </xsl:template>
+
+  <xsl:template match="//iss-to">
+    -<xsl:value-of select="//iss-to"/>
+  </xsl:template>
+
+  <!--################################################################################-->
+  <!--This section is for formatting any date element so it returns as (eg) 12-Dec-2003 -->
+
+  <xsl:template match="date">
+  <xsl:if test="@day!=''">
+    <xsl:value-of select="@day"/>-<xsl:if test="@month='01'">Jan-</xsl:if>
+    <xsl:if test="@month='02'">Feb-</xsl:if>
+    <xsl:if test="@month='03'">Mar-</xsl:if>
+    <xsl:if test="@month='04'">Apr-</xsl:if>
+    <xsl:if test="@month='05'">May-</xsl:if>
+    <xsl:if test="@month='06'">Jun-</xsl:if>
+    <xsl:if test="@month='07'">Jul-</xsl:if>
+    <xsl:if test="@month='08'">Aug-</xsl:if>
+    <xsl:if test="@month='09'">Sep-</xsl:if>
+    <xsl:if test="@month='10'">Oct-</xsl:if>
+    <xsl:if test="@month='11'">Nov-</xsl:if>
+    <xsl:if test="@month='12'">Dec-</xsl:if>
+    <xsl:value-of select="@yr"/>
+    </xsl:if>
+  </xsl:template>
+
+  <!--################################################################################-->
+  <!--This section is for the executor information -->
+
+  <xsl:template match="executor"/>
+  <xsl:template match="executor[@type='ES']">     
+       <tr>
+          <td>Contact person</td>
+           <td>: <xsl:value-of select="exec-name"/></td>
+       </tr>  
+       <tr>
+         <td>Phone no.</td>
+         <td>: <xsl:value-of select="aff/tel"/></td>
+       </tr>  
+  </xsl:template>
+  <xsl:template match="executor[@type='PRINTER']">
+       <table>
+         <tr>
+           <td valign="top">Printer</td><td valign="top">:</td>
+         </tr>
+         <tr><td valign="top"><xsl:value-of select="aff/organization"/></td></tr>         
+         <tr><td valign="top">attn. <xsl:value-of select="exec-name"/></td></tr>
+       </table>
+  </xsl:template>   
+  <xsl:template match="executor[@type='BINDER']">
+       <table>
+         <tr>
+           <td valign="top">Binder</td><td valign="top">:</td>
+         </tr>
+         <tr><td valign="top"><xsl:value-of select="aff/organization"/></td></tr>
+         <tr><td valign="top">attn. <xsl:value-of select="exec-name"/></td></tr>
+       </table>
+  </xsl:template>   
+  
+  <!--################################################################################-->
+  <xsl:template match="issue-remarks">
+    <table width="100%">
+      <tr>         <td>            REMARKS:<p/>               </td> </tr>
+         <xsl:for-each select="issue-remark[@type!='ADV']">
+            <tr valign="top"> <td width="5%">Remark:</td> <td width="95%"> <xsl:value-of select="remark"/></td> </tr>
+            <tr valign="top"> <td width="5%">Response:</td><td width="95%"><xsl:value-of select="response"/></td> </tr>
+         </xsl:for-each>
+      <tr><td colspan="2"><hr/></td></tr>
+    </table>
+  </xsl:template>
+  
+  <!--################################################################################-->
+  <xsl:template match="print-bind-info/print-details">
+    <table>
+      <tr><td>No. of copies</td><td>: <xsl:value-of select="no-copies"/></td></tr>
+      <tr><td>Author copies</td><td>: <xsl:value-of select="no-author-copies"/></td></tr>
+      <tr><td>Mark/Prom copies</td><td>: <xsl:value-of select="no-mark-prom-copies"/></td></tr>
+      <tr><td>Grace copies</td><td>: <xsl:value-of select="no-grace-copies"/></td></tr>
+      <tr><td>Total extra copies</td><td>: <xsl:value-of select="no-extra-copies"/></td></tr>
+      <tr><td>Total printrun</td><td>: <xsl:value-of select="total-print-run"/></td></tr>
+      <tr><td><br/></td><td></td></tr>
+      <tr><td>Paper type</td><td>: <xsl:value-of select="paper-type-interior"/></td></tr>
+      <tr><td>Trimmed size</td><td>: <xsl:value-of select="trimmed-size"/></td></tr>
+      <tr><td>Head margin</td><td>: <xsl:value-of select="head-margin"/></td></tr>
+      <tr><td>Back margin</td><td>: <xsl:value-of select="back-margin"/></td></tr>
+    </table>
+  </xsl:template>
+
+  <!--################################################################################-->
+  <xsl:template match="print-bind-info/general-info">
+    <table>
+      <tr><td>Budget pages</td></tr>
+      <tr><td><li/>prelim</td><td>: <xsl:value-of select="no-pages-prelims"/></td>
+          <td> ( <xsl:value-of select="page-ranges/page-range[@type='PRELIM']/page-from"/> - <xsl:value-of select="page-ranges/page-range[@type='PRELIM']/page-to"/> )</td>
+      </tr>
+      <tr><td><li/>interior</td><td>: <xsl:value-of select="no-pages-interior"/></td>
+          <td> ( <xsl:value-of select="page-ranges/page-range[@type='INTERIOR']/page-from"/> - <xsl:value-of select="page-ranges/page-range[@type='INTERIOR']/page-to"/> )</td>      
+      </tr>
+      <tr><td><li/>extra</td><td>: <xsl:value-of select="no-pages-extra"/></td></tr>
+      <tr><td><li/>insert</td><td>: <xsl:value-of select="no-pages-insert"/></td></tr>
+      <tr><td><li/>backmatter</td><td>: <xsl:value-of select="no-pages-bm"/></td>
+          <td> ( <xsl:value-of select="page-ranges/page-range[@type='BACKMATTER']/page-from"/> - <xsl:value-of select="page-ranges/page-range[@type='BACKMATTER']/page-to"/> )</td>      
+      </tr>
+      <tr><td><li/>total</td><td>: <xsl:value-of select="no-pages-total"/></td></tr>
+      <tr><td><li/>total no blanks</td><td>: <xsl:value-of select="no-pages-blank"/></td></tr>
+      <tr><td><br/></td></tr>
+      <tr><td>Cover</td><td>: <xsl:value-of select="//no-pages-cover"/></td></tr>
+      <tr><td>Advert</td><td>: <xsl:value-of select="//no-pages-adverts"/></td></tr>
+      <tr><td>Coated</td><td>: <xsl:value-of select="//no-pages-coated"/></td></tr>
+    </table>
+  </xsl:template>
+
+  <!--################################################################################-->
+  <!-- This section is for displaying all rows on the screen for the issue -->
+  <xsl:template match="issue-content">
+    ISSUE CONTENT DETAILS:<p/>
+    <table style="font-size:9pt" width="100%">
+        <tr>
+          <th valign="top" align="left">Manuscr. id</th>
+          <th valign="top" align="left" width="150">PII number</th>
+          <th valign="top" align="left">Title</th>
+          <th valign="top" align="left">Cop typ</th>
+          <th valign="top" align="left">Corr. author</th>
+          <th valign="top" align="left">Ed. office no.</th>
+          <th valign="top" align="left">PIT</th>
+          <th valign="top" align="left">Prd typ</th>
+          <th valign="top" align="left">Page from</th>
+          <th valign="top" align="left">Page to</th>
+          <th valign="top" align="left">#pgs</th>
+          <th valign="top" align="left">Clr</th>
+          <th valign="top" align="left">Print Col Graph Nrs</th>
+          <th valign="top" align="left">Remarks</th>
+        </tr>
+        <tr><td colspan="14"><hr/></td></tr>
+
+      <xsl:for-each select="row">      
+          <xsl:if test="@type='ce'">
+            <tr>
+              <td valign="top"><xsl:value-of select="aid"/></td>
+              <td valign="top" width="150"><xsl:value-of select="pii"/></td>
+              <td valign="top"><xsl:value-of select="item-title"/></td>
+              <td valign="top"><xsl:value-of select="copyright-status"/></td>
+              <td valign="top"><xsl:value-of select="corr-author/degree"/><xsl:value-of select="corr-author/fnm"/><xsl:value-of select="corr-author/snm"/></td>
+              <td valign="top"><xsl:value-of select="eo-item-nr"/></td>
+              <td valign="top"><xsl:value-of select="pit"/></td>
+              <td valign="top"><xsl:value-of select="prd-type"/></td>
+              <td valign="top"><xsl:value-of select="page-from"/></td>
+              <td valign="top"><xsl:value-of select="page-to"/></td>
+              <td valign="top"><xsl:value-of select="pdf-pages"/></td>
+              <td valign="top"><xsl:value-of select="no-colour-figs"/></td>
+              <td valign="top">
+              	<xsl:for-each select="colour-fig-nr-print">
+				<xsl:value-of select="."/>
+				<xsl:if test="position() !=last()">, </xsl:if>
+              	</xsl:for-each>
+              </td>
+              <td valign="top"><xsl:value-of select="remark"/></td>
+            </tr>
+          </xsl:if>
+          <xsl:if test="@type='non-ce'">
+            <tr>
+              <td colspan="2"></td>
+              <td valign="top"><xsl:value-of select="item-title"/></td>
+              <td valign="top"><xsl:value-of select="copyright-status"/></td>
+              <td valign="top"><xsl:value-of select="corr-author"/></td>
+              <td valign="top"><xsl:value-of select="eo-item-nr"/></td>
+              <td valign="top"><xsl:value-of select="pit"/></td>
+              <td valign="top"><xsl:value-of select="prd-type"/></td>
+              <td valign="top"><xsl:value-of select="page-from"/></td>
+              <td valign="top"><xsl:value-of select="page-to"/></td>
+              <td valign="top"><xsl:value-of select="pdf-pages"/></td>
+              <td valign="top"><xsl:value-of select="no-colour-figs"/></td>
+              <td valign="top"><xsl:value-of select="remark"/></td>
+            </tr>
+          </xsl:if>
+          <xsl:if test="@type='advert'">
+            <tr>
+              <td colspan="2"></td>
+              <td valign="top"><xsl:value-of select="item-title"/></td>
+              <td valign="top"><xsl:value-of select="copyright-status"/></td>
+              <td valign="top"><xsl:value-of select="corr-author"/></td>
+              <td valign="top"><xsl:value-of select="eo-item-nr"/></td>
+              <td valign="top"><xsl:value-of select="pit"/></td>
+              <td valign="top"><xsl:value-of select="prd-type"/></td>
+              <td valign="top"><xsl:value-of select="page-from"/></td>
+              <td valign="top"><xsl:value-of select="page-to"/></td>
+              <td valign="top"><xsl:value-of select="pdf-pages"/></td>
+              <td valign="top"><xsl:value-of select="no-colour-figs"/></td>
+              <td valign="top"><xsl:value-of select="remark"/></td>
+            </tr>
+          </xsl:if>
+          <xsl:if test="@type='blank'">
+            <tr>
+              <td></td>
+              <td valign="top">Blank page</td>
+              <td colspan="6"></td>
+              <td valign="top"><xsl:value-of select="page-from"/></td>
+              <td valign="top"><xsl:value-of select="page-to"/></td>
+              <td valign="top"><xsl:value-of select="pdf-pages"/></td>
+              <td colspan="2"></td>
+            </tr>
+          </xsl:if>
+          <xsl:if test="@type='remark'">
+            <tr>
+              <td colspan="2"></td>
+              <td valign="top"><i><xsl:value-of select="item-title"/></i></td>
+              <td colspan="3"></td>
+              <td valign="top"><i><xsl:value-of select="pit"/></i></td>
+              <td valign="top"><i><xsl:value-of select="prd-type"/></i></td>
+              <td colspan="2"></td>
+              <td valign="top"><i><xsl:value-of select="pdf-pages"/></i></td>
+              <td valign="top"><i><xsl:value-of select="no-colour-figs"/></i></td>
+              <td></td>
+            </tr>
+          </xsl:if>
+          <xsl:if test="@type='h1'">
+            <tr>
+              <td colspan="2"></td>
+              <td valign="top"><b><xsl:value-of select="item-title"/></b></td>
+              <td colspan="3"></td>
+              <td valign="top"><b><xsl:value-of select="pit"/></b></td>
+              <td valign="top"><b><xsl:value-of select="prd-type"/></b></td>
+              <td colspan="2"></td>
+              <td valign="top"><b><xsl:value-of select="pdf-pages"/></b></td>
+              <td valign="top"><b><xsl:value-of select="no-colour-figs"/></b></td>
+              <td></td>
+            </tr>
+          </xsl:if>
+          <xsl:if test="@type='h2'">
+            <tr>
+              <td colspan="2"></td>
+              <td valign="top"><u><xsl:value-of select="item-title"/></u></td>
+              <td colspan="3"></td>
+              <td valign="top"><u><xsl:value-of select="pit"/></u></td>
+              <td valign="top"><u><xsl:value-of select="prd-type"/></u></td>
+              <td colspan="2"></td>
+              <td valign="top"><u><xsl:value-of select="pdf-pages"/></u></td>
+              <td valign="top"><u><xsl:value-of select="no-colour-figs"/></u></td>
+              <td></td>
+            </tr>
+          </xsl:if>
+      </xsl:for-each>
+    </table>
+  </xsl:template>
+
+  <!--################################################################################-->
+</xsl:stylesheet>
