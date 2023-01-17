@@ -1,0 +1,8 @@
+D:\Deepak\move_jss\bin\Debug\move_jss.exe.config
+D:\Deepak\move_jss\bin\Debug\move_jss.exe
+D:\Deepak\move_jss\bin\Debug\move_jss.pdb
+D:\Deepak\move_jss\obj\Debug\move_jss.csproj.AssemblyReference.cache
+D:\Deepak\move_jss\obj\Debug\move_jss.csproj.SuggestedBindingRedirects.cache
+D:\Deepak\move_jss\obj\Debug\move_jss.csproj.CoreCompileInputs.cache
+D:\Deepak\move_jss\obj\Debug\move_jss.exe
+D:\Deepak\move_jss\obj\Debug\move_jss.pdb
