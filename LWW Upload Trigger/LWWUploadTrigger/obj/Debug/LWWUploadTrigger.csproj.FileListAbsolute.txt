@@ -1,0 +1,13 @@
+D:\Rohit\Workingcopy\LWWUploadTrigger\LWWUploadTrigger\bin\Debug\LWWUploadTrigger.exe.config
+D:\Rohit\Workingcopy\LWWUploadTrigger\LWWUploadTrigger\bin\Debug\LWWUploadTrigger.exe
+D:\Rohit\Workingcopy\LWWUploadTrigger\LWWUploadTrigger\bin\Debug\LWWUploadTrigger.pdb
+D:\Rohit\Workingcopy\LWWUploadTrigger\LWWUploadTrigger\obj\Debug\LWWUploadTrigger.csprojResolveAssemblyReference.cache
+D:\Rohit\Workingcopy\LWWUploadTrigger\LWWUploadTrigger\obj\Debug\LWWUploadTrigger.exe
+D:\Rohit\Workingcopy\LWWUploadTrigger\LWWUploadTrigger\obj\Debug\LWWUploadTrigger.pdb
+D:\Deepak\LWWUploadTrigger\LWWUploadTrigger\obj\Debug\LWWUploadTrigger.csproj.AssemblyReference.cache
+D:\Deepak\LWWUploadTrigger\LWWUploadTrigger\obj\Debug\LWWUploadTrigger.csproj.CoreCompileInputs.cache
+D:\Deepak\LWWUploadTrigger\LWWUploadTrigger\obj\Debug\LWWUploadTrigger.exe
+D:\Deepak\LWWUploadTrigger\LWWUploadTrigger\obj\Debug\LWWUploadTrigger.pdb
+D:\Deepak\LWWUploadTrigger\LWWUploadTrigger\bin\Debug\LWWUploadTrigger.exe.config
+D:\Deepak\LWWUploadTrigger\LWWUploadTrigger\bin\Debug\LWWUploadTrigger.exe
+D:\Deepak\LWWUploadTrigger\LWWUploadTrigger\bin\Debug\LWWUploadTrigger.pdb
