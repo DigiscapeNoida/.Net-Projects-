@@ -1,0 +1,181 @@
+journalCode	Journal code
+ptsReportDate	Last PTS report date
+dateModified	Non-PTS data last modified on
+modifiedBy	Modified by
+journalNumber	Journal number
+journalTitle	Journal title
+pmg	PMG
+pmc	PMC
+issn	ISSN
+epGroup	epGroup
+productionSite	Production site
+journalDOICode	Journal DOI code
+journalDOIContentType	Journal DOI content type
+eSubmissionContentType	eSubmission content type
+expiryDate	Expiry date
+copyrightRemExec	Copyright Rem Exec
+colourConfRemExec	Colour Conf Rem Exec
+missingItemsRemExec	Missing Items Rem Exec
+authorProofRemExec	Author Proof Rem Exec
+editorProofRemExec	Editor Proof Rem Exec
+typesetRedPTS	Typeset Red PTS
+typesetRedCalc	Typeset Red Calc
+averageItemPages	Average item pages
+typesetModel	Typeset model
+typesetter	Typesetter
+journalManager	Journal manager
+journalLSM	Journal LSM
+copyrightHolder	Copyright holder
+societyAffiliation	Society affiliation
+refStyle	Reference style
+opco	OPCO
+printer	Printer
+printRun	Print run
+paperTypeInside	Paper type inside
+paperTypeCover	Paper type cover
+printType	Print type
+coverFinishing	Cover finishing
+backMargin	Back margin
+headMargin	Head margin
+trimSize	Trim size
+scanS0Comment	Scan S0 comment
+mfIndicatorComment	mfIndicator Comment
+language	Language
+extLoginComment	ext Login Comment
+additionalOPPaidCol	Additional OP Paid Col
+journalOPPriceList	Journal OP Price List
+journalPageCharges	Journal page charges
+defaultItemPIT	Default item PIT
+defaultIssuePIT	Default issue PIT
+defaultItemProd	Default Item Prod
+defaultIssueProd	Default Issue Prod
+journalAdmin	Journal Admin
+intJournalAdmin	Int Journal Admin
+copyEditor	Copy editor
+journalTeamManager	Journal Team Manager
+printLSM	Print LSM
+binder	Binder
+issueSender	Issue sender
+offprintSender	Offprint sender
+backIssueStorage	Back issue storage
+offprintPrinter	Offprint printer
+offprintFinisher	Offprint finisher
+slaLocation	Location of SLA document
+slaComment	SLA Comment
+mastercopyingComment	Mastercopying comment
+approvedNonStandardComment	Approved non-standard comment
+quickBookComment	Quick book comment
+receivedEESComment	Received EES comment
+receivedOmegaComment	Received omega comment
+receivedEmailComment	Received Email comment
+receivedFTPComment	Received FTP comment
+specialIssuesComment	Special issues comment
+otherReceipt	Other item receipt instructions
+correspondenceAuthorComment	Correspondence author comment
+firstPageFOCComment	First Page free of charge comment
+costFirstColour	Cost for first colour unit
+costNextColour	Cost for next colour unit
+currencyCode	Currency Code
+colourArtworkExceptions	Colour artwork exceptions
+extraColourInstructions	Extra journal-specific colour instructions
+paperOffprints	No of paper offprints
+additionalFreePaper	Additional free paper offprints for paid colour
+extraOffprintInstructions	Extra journal specific offprint instructions
+freeIssues	Number of free copies of issue to author
+freeIssuesComment	Free Issues Comment
+section	Additional information about the selection of sections
+additionalLoginInstructions	Additional journal-specific login instructions
+docheadPIT	No
+docheadComments	Dochead Comments
+sectionCode	No
+sectionComments	Section Comments
+generalHistoryComment	General History Comment
+specialIssueHistoryComment	Special Issue History Comment
+journalSpecificHistoryText	Journal-specific article history text
+historyItemGroupComment	History Item Group Comment
+onlinePubDateComment	Online publication date comment
+journalSpecificAbstractComment	Journal-specific abstract requirements comment
+keywordsMin	Minimum number of keywords
+keywordsMax	Maximum number of keywords
+journalSpecificKeywordsComment	Journal specific keywords comment
+classificationSource	Classification source
+classificationMin	Minimum number of classification codes
+classificationMax	Maximum number of classification codes
+journalSpecificClassificationComment	Journal specific classification comment
+mottoComment	Motto comment
+caseReportComment	Case report comment
+noteinProofComment	Note added in proof comment
+materialsMethodsComment	Materials methods comment
+resultsComment	Results comment
+journalSpecificArtworkComment	Journal-specific artwork requirements comment
+latexComment	Latex Comment
+journalSpecificProofingComment	Proofs Send To Comment
+changesPDFProofTextComment	Text of PDF proof email comment
+additionalS100	Additional S100
+vipS200Comment	VIP S200 Comment
+additionalS200	Additional S200
+additionalP100	Additional P100
+journalSpecificCoverComment	Journal specific cover comment
+specialIssueCoverComment	Special issue cover comment
+runOnItemsComment	Run-on items Comment
+journalSpecificIndexComment	Journal Specific Index Comment
+additionalPrint	Additional print style information
+additionalE	Additional electronic style information
+additionalJournalSpecificTypesetting	Additional journal-specific typesetting points
+editorName	Editor: 
+editorName	Name of the editor
+editorEmail	Email address
+proofingComment	Comment
+multipleVersionComment	Multiple version comment
+tipOnsComment	Tip ons comment
+tipInsComment	Tip ins comment
+coverPerIssueComment	Cover printer per issue comment
+coverStockComment	Cover printer as stock comment
+advanceApprovalComment	Advance approval comment
+additionalPrinter	Other journal-specific printer instructions
+directPrinter	Direct from printer
+specialPackaging	Special packaging
+priority	Priority
+otherJournalSpecificDespatch	Other journal-specific despatch instructions
+p	Other instructions
+referenceStyleComment	Reference style comment
+pilot	PILOT
+regularIssue	Regular Issue
+CoIPITs	PIT List
+OA	Open Access
+abstractComment	Journal-specific abstract requirements comment
+abstractPITspecificRequirements	Is abstract required
+authorEnquiries	Author enquiries
+backgroundComment	Background comment
+classificationComment	Classification Comments
+classificationCount	Classification Count
+colourComment
+conclusionComment	Conclusion/Conclusions comment
+discussionComment	Discussion comment
+docSecInfo	Doc and Section Heads
+graphicalAbstract	Graphical Abstract
+introPITs	PIT List
+introSecComment	Introduction comment
+journalSpecificGATOCComment	Journal-specific GA TOC comment
+journalSpecificGATitlePageComment	Journal-specific GA Title Page comment
+journalSpecificHistoryComment	Journal specific history comments
+keywordComments	Journal-specific keywords requirements comment
+keywordCount	Keyword count requirement
+keywordPITspecificRequirements	Keyword PITs
+mc	Mastercopy
+specialIssue	Journal specific history comments
+onlinePubDate	Online publication date
+itemreceipt	Item receipt
+advertisingInformation	Advertising information
+dropshipment	USA mailing notice ('Dropshipment')
+enLanguageHelpService	Language (Usage and Editing services)
+fundBdyAgreePol	Funding body agreements and policies
+noPageCharges	No page charges
+ordersClaimsJournalEnquiries	Orders, claims and product enquiries
+paperQuality	Paper quality
+printersIndicia	Printers' indicia
+publicationInformation	Publication (Subscription) information
+refCompleteGfA	Reference to a complete Guide for Authors
+sciSDLogo	SciVerse ScienceDirect logo and text
+sponSuppComRepr	Sponsored supplements and/or commercial reprints
+journalSpecificCover	Journal-specific cover artwork requirements

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<righthandStart	atr = "0">No</righthandStart>
+	<righthandStart	atr = "1">Yes</righthandStart>
+	<endnote	atr = "0">No</endnote>
+	<endnote	atr = "1">Yes</endnote>
+	<timeBasedPublInd	atr = "0">No</timeBasedPublInd>
+	<timeBasedPublInd	atr = "1">Yes</timeBasedPublInd>
+	<earlyBasedPublInd	atr = "0">No</earlyBasedPublInd>
+	<earlyBasedPublInd	atr = "1">Yes</earlyBasedPublInd>
+	<fixedPlanInd	atr = "0">No</fixedPlanInd>
+	<fixedPlanInd	atr = "1">Yes</fixedPlanInd>
+	<scanS0	atr = "0">No</scanS0>
+	<scanS0	atr = "1">Yes</scanS0>
+	<capLightPlus	atr = "0">No</capLightPlus>
+	<capLightPlus	atr = "1">Yes</capLightPlus>
+	<mfIndicator	atr = "0">No</mfIndicator>
+	<mfIndicator	atr = "1">Yes</mfIndicator>
+	<advCopyInd	atr = "0">No</advCopyInd>
+	<advCopyInd	atr = "1">Yes</advCopyInd>
+	<s5Required	atr = "0">No</s5Required>
+	<s5Required	atr = "1">Yes</s5Required>
+	<s100Required	atr = "0">No</s100Required>
+	<s100Required	atr = "1">Yes</s100Required>
+	<s200Required	atr = "0">No</s200Required>
+	<s200Required	atr = "1">Yes</s200Required>
+	<s300Required	atr = "0">No</s300Required>
+	<s300Required	atr = "1">Yes</s300Required>
+	<authorProofRequired	atr = "0">No</authorProofRequired>
+	<authorProofRequired	atr = "1">Yes</authorProofRequired>
+	<editorProofRequired	atr = "0">No</editorProofRequired>
+	<editorProofRequired	atr = "1">Yes</editorProofRequired>
+	<trackOffSysLabelsReq	atr = "0">No</trackOffSysLabelsReq>
+	<trackOffSysLabelsReq	atr = "1">Yes</trackOffSysLabelsReq>
+	<deltaLabelRunInd	atr = "0">No</deltaLabelRunInd>
+	<deltaLabelRunInd	atr = "1">Yes</deltaLabelRunInd>
+	<eSuiteInd	atr = "0">No</eSuiteInd>
+	<eSuiteInd	atr = "1">Yes</eSuiteInd>
+	<extLogin	atr = "0">No</extLogin>
+	<extLogin	atr = "1">Yes</extLogin>
+	<journalPaidColPageInd	atr = "0">No</journalPaidColPageInd>
+	<journalPaidColPageInd	atr = "1">Yes</journalPaidColPageInd>
+	<copyrightTranInd	atr = "0">No</copyrightTranInd>
+	<copyrightTranInd	atr = "1">Yes</copyrightTranInd>
+	<copyrightTranOnlineInd	atr = "0">No</copyrightTranOnlineInd>
+	<copyrightTranOnlineInd	atr = "1">Yes</copyrightTranOnlineInd>
+	<alphaJournalInd	atr = "0">No</alphaJournalInd>
+	<alphaJournalInd	atr = "1">Yes</alphaJournalInd>
+	<sla	atr = "0">No</sla>
+	<sla	atr = "1">Yes</sla>
+	<mastercopying	atr = "0">N/A</mastercopying>
+	<mastercopying	atr = "1">elsevier internal</mastercopying>
+	<mastercopying	atr = "2">supplier/typesetter</mastercopying>
+	<mastercopying	atr = "3">other</mastercopying>
+	<approvedNonStandard	atr = "0">No</approvedNonStandard>
+	<approvedNonStandard	atr = "1">Yes</approvedNonStandard>
+	<quickBook	atr = "0">No</quickBook>
+	<quickBook	atr = "1">Yes</quickBook>
+	<receivedEES	atr = "0">No</receivedEES>
+	<receivedEES	atr = "1">Yes</receivedEES>
+	<receivedOmega	atr = "0">No</receivedOmega>
+	<receivedOmega	atr = "1">Yes</receivedOmega>
+	<receivedEmail	atr = "0">No</receivedEmail>
+	<receivedEmail	atr = "1">Yes</receivedEmail>
+	<receivedFTP	atr = "0">No</receivedFTP>
+	<receivedFTP	atr = "1">Yes</receivedFTP>
+	<specialIssues	atr = "0">No</specialIssues>
+	<specialIssues	atr = "1">Yes</specialIssues>
+	<correspondenceAuthor	atr = "0">No</correspondenceAuthor>
+	<correspondenceAuthor	atr = "1">Yes</correspondenceAuthor>
+	<missingItemCorrespondence	atr = "0">N/A</missingItemCorrespondence>
+	<missingItemCorrespondence	atr = "1">Send "missing item" letter to the author</missingItemCorrespondence>
+	<missingItemCorrespondence	atr = "2">Log a problem for the journal manager</missingItemCorrespondence>
+	<printedColour	atr = "0">No</printedColour>
+	<printedColour	atr = "1">Yes</printedColour>
+	<freePrintedColour	atr = "0">No</freePrintedColour>
+	<freePrintedColour	atr = "1">Yes</freePrintedColour>
+	<noFreeWebColour	atr = "0">No</noFreeWebColour>
+	<noFreeWebColour	atr = "1">Yes</noFreeWebColour>
+	<firstPageFOC	atr = "0">No</firstPageFOC>
+	<firstPageFOC	atr = "1">Yes</firstPageFOC>
+	<colourFiguresCorrespondence	atr = "0">N/A</colourFiguresCorrespondence>
+	<colourFiguresCorrespondence	atr = "1">Colour letter</colourFiguresCorrespondence>
+	<colourFiguresCorrespondence	atr = "2">Colour confirmation letter</colourFiguresCorrespondence>
+	<eOffprint	atr = "0">No</eOffprint>
+	<eOffprint	atr = "1">Yes</eOffprint>
+	<docheadExpired	atr = "0">No</docheadExpired>
+	<docheadExpired	atr = "1">Yes</docheadExpired>
+	<sectionExpired	atr = "0">No</sectionExpired>
+	<sectionExpired	atr = "1">Yes</sectionExpired>
+	<received	atr = "0">N/A</received>
+	<received	atr = "1">Do not use even if supplied</received>
+	<received	atr = "2">Use if supplied</received>
+	<received	atr = "3">Query JM if not supplied</received>
+	<received	atr = "4">Query JA if not supplied</received>
+	<received	atr = "5">Other, see comments</received>
+	<revised	atr = "0">N/A</revised>
+	<revised	atr = "1">Do not use even if supplied</revised>
+	<revised	atr = "2">Use if supplied</revised>
+	<revised	atr = "3">Query JM if not supplied</revised>
+	<revised	atr = "4">Query JA if not supplied</revised>
+	<revised	atr = "5">Other, see comments</revised>
+	<accepted	atr = "0">N/A</accepted>
+	<accepted	atr = "1">Do not use even if supplied</accepted>
+	<accepted	atr = "2">Use if supplied</accepted>
+	<accepted	atr = "3">Query JM if not supplied</accepted>
+	<accepted	atr = "4">Query JA if not supplied</accepted>
+	<accepted	atr = "5">Other, see comments</accepted>
+	<received_si	atr = "0">N/A</received_si>
+	<received_si	atr = "1">Do not use even if supplied</received_si>
+	<received_si	atr = "2">Use if supplied</received_si>
+	<received_si	atr = "3">Query JM if not supplied</received_si>
+	<received_si	atr = "4">Query JA if not supplied</received_si>
+	<received_si	atr = "5">Other, see comments</received_si>
+	<revised_si	atr = "0">N/A</revised_si>
+	<revised_si	atr = "1">Do not use even if supplied</revised_si>
+	<revised_si	atr = "2">Use if supplied</revised_si>
+	<revised_si	atr = "3">Query JM if not supplied</revised_si>
+	<revised_si	atr = "4">Query JA if not supplied</revised_si>
+	<revised_si	atr = "5">Other, see comments</revised_si>
+	<accepted_si	atr = "0">N/A</accepted_si>
+	<accepted_si	atr = "1">Do not use even if supplied</accepted_si>
+	<accepted_si	atr = "2">Use if supplied</accepted_si>
+	<accepted_si	atr = "3">Query JM if not supplied</accepted_si>
+	<accepted_si	atr = "4">Query JA if not supplied</accepted_si>
+	<accepted_si	atr = "5">Other, see comments</accepted_si>
+	<journalSpecificHistory	atr = "0">N/A</journalSpecificHistory>
+	<journalSpecificHistory	atr = "1">Do not use even if supplied</journalSpecificHistory>
+	<journalSpecificHistory	atr = "2">Use if supplied</journalSpecificHistory>
+	<journalSpecificHistory	atr = "3">Query JM if not supplied</journalSpecificHistory>
+	<journalSpecificHistory	atr = "4">Query JA if not supplied</journalSpecificHistory>
+	<journalSpecificHistory	atr = "5">Other, see comments</journalSpecificHistory>
+	<historyItemGroup	atr = "0">N/A</historyItemGroup>
+	<historyItemGroup	atr = "1">Do not use even if supplied</historyItemGroup>
+	<historyItemGroup	atr = "2">Use if supplied</historyItemGroup>
+	<historyItemGroup	atr = "3">Query JM if not supplied</historyItemGroup>
+	<historyItemGroup	atr = "4">Query JA if not supplied</historyItemGroup>
+	<historyItemGroup	atr = "5">Other, see comments</historyItemGroup>
+	<onlinePubDate	atr = "0">No</onlinePubDate>
+	<onlinePubDate	atr = "1">Yes</onlinePubDate>
+	<journalSpecificAbstract	atr = "0">No</journalSpecificAbstract>
+	<journalSpecificAbstract	atr = "1">Yes</journalSpecificAbstract>
+	<journalSpecificKeywords	atr = "0">N/A</journalSpecificKeywords>
+	<journalSpecificKeywords	atr = "1">Do not use even if supplied</journalSpecificKeywords>
+	<journalSpecificKeywords	atr = "2">Use if supplied</journalSpecificKeywords>
+	<journalSpecificKeywords	atr = "3">Query JM if not supplied</journalSpecificKeywords>
+	<journalSpecificKeywords	atr = "4">Send missing item letter if not supplied</journalSpecificKeywords>
+	<journalSpecificKeywords	atr = "5">Raise AQ if not supplied</journalSpecificKeywords>
+	<journalSpecificKeywords	atr = "6">Other, see comments</journalSpecificKeywords>
+	<keywordSource	atr = "0">N/A</keywordSource>
+	<keywordSource	atr = "1">Free text</keywordSource>
+	<keywordSource	atr = "2">Journal-specific list (add details to comments field)</keywordSource>
+	<journalSpecificClassification	atr = "0">N/A</journalSpecificClassification>
+	<journalSpecificClassification	atr = "1">Do not use even if supplied</journalSpecificClassification>
+	<journalSpecificClassification	atr = "2">Use if supplied</journalSpecificClassification>
+	<journalSpecificClassification	atr = "3">Query JM if not supplied</journalSpecificClassification>
+	<journalSpecificClassification	atr = "4">Send missing item letter if not supplied</journalSpecificClassification>
+	<journalSpecificClassification	atr = "5">Raise AQ if not supplied</journalSpecificClassification>
+	<journalSpecificClassification	atr = "6">Other, see comments</journalSpecificClassification>
+	<motto	atr = "0">No</motto>
+	<motto	atr = "1">Yes</motto>
+	<caseReport	atr = "0">No</caseReport>
+	<caseReport	atr = "1">Yes</caseReport>
+	<noteinProof	atr = "0">No</noteinProof>
+	<noteinProof	atr = "1">Yes</noteinProof>
+	<materialsMethods	atr = "0">No</materialsMethods>
+	<materialsMethods	atr = "1">Yes</materialsMethods>
+	<results	atr = "0">No</results>
+	<results	atr = "1">Yes</results>
+	<journalSpecificArtwork	atr = "0">No</journalSpecificArtwork>
+	<journalSpecificArtwork	atr = "1">Yes</journalSpecificArtwork>
+	<latex	atr = "0">No</latex>
+	<latex	atr = "1">Yes</latex>
+	<latexFrequency	atr = "0">N/A</latexFrequency>
+	<latexFrequency	atr = "1">Rarely (#$#lt;10%)</latexFrequency>
+	<latexFrequency	atr = "2">Some (#$#lt;=50%)</latexFrequency>
+	<latexFrequency	atr = "3">Most (#$#gt;50%)</latexFrequency>
+	<latexFrequency	atr = "4">Almost all (~100%)</latexFrequency>
+	<latexFrequency	atr = "5">Other, see comments</latexFrequency>
+	<journalSpecificProofing	atr = "0">No</journalSpecificProofing>
+	<journalSpecificProofing	atr = "1">Yes</journalSpecificProofing>
+	<proofsSentTo	atr = "0">N/A</proofsSentTo>
+	<proofsSentTo	atr = "1">Author only</proofsSentTo>
+	<proofsSentTo	atr = "2">Editor only</proofsSentTo>
+	<proofsSentTo	atr = "3">Author and Editor</proofsSentTo>
+	<proofsSentTo	atr = "4">Other, see comments</proofsSentTo>
+	<changesPDFProofText	atr = "0">N/A</changesPDFProofText>
+	<changesPDFProofText	atr = "1">Standard (English) text</changesPDFProofText>
+	<changesPDFProofText	atr = "2">Use standard letter in language of article</changesPDFProofText>
+	<changesPDFProofText	atr = "3">Standard text (French translation)</changesPDFProofText>
+	<changesPDFProofText	atr = "4">Standard text (German translation)</changesPDFProofText>
+	<changesPDFProofText	atr = "5">Standard text (Italian translation)</changesPDFProofText>
+	<changesPDFProofText	atr = "6">Standard text (Spanish translation)</changesPDFProofText>
+	<changesPDFProofText	atr = "7">Non-standard (see comments)</changesPDFProofText>
+	<vipS200	atr = "0">No</vipS200>
+	<vipS200	atr = "1">Yes</vipS200>
+	<deliveryRequirements	atr = "0">N/A</deliveryRequirements>
+	<deliveryRequirements	atr = "1">Cover and Prelims only</deliveryRequirements>
+	<deliveryRequirements	atr = "2">Everything</deliveryRequirements>
+	<deliveryRequirements	atr = "3">Other, see comments</deliveryRequirements>
+	<journalSpecificCover	atr = "0">N/A</journalSpecificCover>
+	<journalSpecificCover	atr = "1">Standard</journalSpecificCover>
+	<journalSpecificCover	atr = "2">Different cover image for each issue</journalSpecificCover>
+	<journalSpecificCover	atr = "3">Different cover image for each volume</journalSpecificCover>
+	<journalSpecificCover	atr = "4">Other (see comments)</journalSpecificCover>
+	<specialIssueCover	atr = "0">No</specialIssueCover>
+	<specialIssueCover	atr = "1">Yes</specialIssueCover>
+	<runOnItems	atr = "0">N/A</runOnItems>
+	<runOnItems	atr = "1">None</runOnItems>
+	<runOnItems	atr = "2">Book reviews</runOnItems>
+	<runOnItems	atr = "3">Correspondence</runOnItems>
+	<runOnItems	atr = "4">Book reviews and correspondence</runOnItems>
+	<runOnItems	atr = "5">Other (see comments)</runOnItems>
+	<journalSpecificIndex	atr = "0">No</journalSpecificIndex>
+	<journalSpecificIndex	atr = "1">Yes</journalSpecificIndex>
+	<printCapArticleTitle	atr = "0">N/A</printCapArticleTitle>
+	<printCapArticleTitle	atr = "1">sentence case</printCapArticleTitle>
+	<printCapArticleTitle	atr = "2">Title case</printCapArticleTitle>
+	<printCapArticleTitle	atr = "3">All caps</printCapArticleTitle>
+	<printCapArticleDochead	atr = "0">N/A</printCapArticleDochead>
+	<printCapArticleDochead	atr = "1">sentence case</printCapArticleDochead>
+	<printCapArticleDochead	atr = "2">Title case</printCapArticleDochead>
+	<printCapArticleDochead	atr = "3">All caps</printCapArticleDochead>
+	<printCapArticleSectionTitle	atr = "0">N/A</printCapArticleSectionTitle>
+	<printCapArticleSectionTitle	atr = "1">sentence case</printCapArticleSectionTitle>
+	<printCapArticleSectionTitle	atr = "2">Title case</printCapArticleSectionTitle>
+	<printCapArticleSectionTitle	atr = "3">All caps</printCapArticleSectionTitle>
+	<printCapIssueH1	atr = "0">N/A</printCapIssueH1>
+	<printCapIssueH1	atr = "1">sentence case</printCapIssueH1>
+	<printCapIssueH1	atr = "2">Title case</printCapIssueH1>
+	<printCapIssueH1	atr = "3">All caps</printCapIssueH1>
+	<printCapIssueH2	atr = "0">N/A</printCapIssueH2>
+	<printCapIssueH2	atr = "1">sentence case</printCapIssueH2>
+	<printCapIssueH2	atr = "2">Title case</printCapIssueH2>
+	<printCapIssueH2	atr = "3">All caps</printCapIssueH2>
+	<printCapSI	atr = "0">N/A</printCapSI>
+	<printCapSI	atr = "1">sentence case</printCapSI>
+	<printCapSI	atr = "2">Title case</printCapSI>
+	<printCapSI	atr = "3">All caps</printCapSI>
+	<eCapArticleTitle	atr = "0">N/A</eCapArticleTitle>
+	<eCapArticleTitle	atr = "1">sentence case</eCapArticleTitle>
+	<eCapArticleTitle	atr = "2">Title case</eCapArticleTitle>
+	<eCapArticleTitle	atr = "3">All caps</eCapArticleTitle>
+	<eCapArticleDochead	atr = "0">N/A</eCapArticleDochead>
+	<eCapArticleDochead	atr = "1">sentence case</eCapArticleDochead>
+	<eCapArticleDochead	atr = "2">Title case</eCapArticleDochead>
+	<eCapArticleDochead	atr = "3">All caps</eCapArticleDochead>
+	<eCapArticleSectionTitle	atr = "0">N/A</eCapArticleSectionTitle>
+	<eCapArticleSectionTitle	atr = "1">sentence case</eCapArticleSectionTitle>
+	<eCapArticleSectionTitle	atr = "2">Title case</eCapArticleSectionTitle>
+	<eCapArticleSectionTitle	atr = "3">All caps</eCapArticleSectionTitle>
+	<eCapIssueH1	atr = "0">N/A</eCapIssueH1>
+	<eCapIssueH1	atr = "1">sentence case</eCapIssueH1>
+	<eCapIssueH1	atr = "2">Title case</eCapIssueH1>
+	<eCapIssueH1	atr = "3">All caps</eCapIssueH1>
+	<eCapIssueH2	atr = "0">N/A</eCapIssueH2>
+	<eCapIssueH2	atr = "1">sentence case</eCapIssueH2>
+	<eCapIssueH2	atr = "2">Title case</eCapIssueH2>
+	<eCapIssueH2	atr = "3">All caps</eCapIssueH2>
+	<eCapSI	atr = "0">N/A</eCapSI>
+	<eCapSI	atr = "1">sentence case</eCapSI>
+	<eCapSI	atr = "2">Title case</eCapSI>
+	<eCapSI	atr = "3">All caps</eCapSI>
+	<emailProof	atr = "0">N/A</emailProof>
+	<emailProof	atr = "1">All proofs</emailProof>
+	<emailProof	atr = "2">Some proofs (see comments)</emailProof>
+	<emailProof	atr = "3">Never</emailProof>
+	<bccProof	atr = "0">No</bccProof>
+	<bccProof	atr = "1">Yes</bccProof>
+	<sendsCorrections	atr = "0">N/A</sendsCorrections>
+	<sendsCorrections	atr = "1">Always</sendsCorrections>
+	<sendsCorrections	atr = "2">Sometimes</sendsCorrections>
+	<sendsCorrections	atr = "3">Never</sendsCorrections>
+	<multipleVersion	atr = "0">No</multipleVersion>
+	<multipleVersion	atr = "1">Yes</multipleVersion>
+	<tipOns	atr = "0">No</tipOns>
+	<tipOns	atr = "1">Yes</tipOns>
+	<tipIns	atr = "0">No</tipIns>
+	<tipIns	atr = "1">Yes</tipIns>
+	<coverPerIssue	atr = "0">No</coverPerIssue>
+	<coverPerIssue	atr = "1">Yes</coverPerIssue>
+	<coverStock	atr = "0">No</coverStock>
+	<coverStock	atr = "1">Yes</coverStock>
+	<advanceApproval	atr = "0">No</advanceApproval>
+	<advanceApproval	atr = "1">Yes</advanceApproval>
+	<righthandStart>N/A</righthandStart>
+	<endnote>N/A</endnote>
+	<timeBasedPublInd>N/A</timeBasedPublInd>
+	<earlyBasedPublInd>N/A</earlyBasedPublInd>
+	<fixedPlanInd>N/A</fixedPlanInd>
+	<scanS0>N/A</scanS0>
+	<capLightPlus>N/A</capLightPlus>
+	<mfIndicator>N/A</mfIndicator>
+	<advCopyInd>N/A</advCopyInd>
+	<s5Required>N/A</s5Required>
+	<s100Required>N/A</s100Required>
+	<s200Required>N/A</s200Required>
+	<s300Required>N/A</s300Required>
+	<authorProofRequired>N/A</authorProofRequired>
+	<editorProofRequired>N/A</editorProofRequired>
+	<trackOffSysLabelsReq>N/A</trackOffSysLabelsReq>
+	<deltaLabelRunInd>N/A</deltaLabelRunInd>
+	<eSuiteInd>N/A</eSuiteInd>
+	<extLogin>N/A</extLogin>
+	<journalPaidColPageInd>N/A</journalPaidColPageInd>
+	<copyrightTranInd>N/A</copyrightTranInd>
+	<copyrightTranOnlineInd>N/A</copyrightTranOnlineInd>
+	<alphaJournalInd>N/A</alphaJournalInd>
+	<sla>N/A</sla>
+	<mastercopying>No such data</mastercopying>
+	<approvedNonStandard>N/A</approvedNonStandard>
+	<quickBook>N/A</quickBook>
+	<receivedEES>N/A</receivedEES>
+	<receivedOmega>N/A</receivedOmega>
+	<receivedEmail>N/A</receivedEmail>
+	<receivedFTP>N/A</receivedFTP>
+	<specialIssues>N/A</specialIssues>
+	<correspondenceAuthor>N/A</correspondenceAuthor>
+	<missingItemCorrespondence>No such data</missingItemCorrespondence>
+	<printedColour>N/A</printedColour>
+	<freePrintedColour>N/A</freePrintedColour>
+	<noFreeWebColour>N/A</noFreeWebColour>
+	<firstPageFOC>N/A</firstPageFOC>
+	<colourFiguresCorrespondence>No such data</colourFiguresCorrespondence>
+	<eOffprint>N/A</eOffprint>
+	<docheadExpired>N/A</docheadExpired>
+	<sectionExpired>N/A</sectionExpired>
+	<received>No such data</received>
+	<revised>No such data</revised>
+	<accepted>No such data</accepted>
+	<received_si>No such data</received_si>
+	<revised_si>No such data</revised_si>
+	<accepted_si>No such data</accepted_si>
+	<journalSpecificHistory>No such data</journalSpecificHistory>
+	<historyItemGroup>No such data</historyItemGroup>
+	<onlinePubDate>N/A</onlinePubDate>
+	<journalSpecificAbstract>N/A</journalSpecificAbstract>
+	<journalSpecificKeywords>No such data</journalSpecificKeywords>
+	<keywordSource>No such data</keywordSource>
+	<journalSpecificClassification>No such data</journalSpecificClassification>
+	<motto>N/A</motto>
+	<caseReport>N/A</caseReport>
+	<noteinProof>N/A</noteinProof>
+	<materialsMethods>N/A</materialsMethods>
+	<results>N/A</results>
+	<journalSpecificArtwork>N/A</journalSpecificArtwork>
+	<latex>N/A</latex>
+	<latexFrequency>No such data</latexFrequency>
+	<journalSpecificProofing>N/A</journalSpecificProofing>
+	<proofsSentTo>No such data</proofsSentTo>
+	<changesPDFProofText>No such data</changesPDFProofText>
+	<vipS200>N/A</vipS200>
+	<deliveryRequirements>No such data</deliveryRequirements>
+	<journalSpecificCover>No such data</journalSpecificCover>
+	<specialIssueCover>No such data</specialIssueCover>
+	<runOnItems>No such data</runOnItems>
+	<journalSpecificIndex>N/A</journalSpecificIndex>
+	<printCapArticleTitle>No such data</printCapArticleTitle>
+	<printCapArticleDochead>No such data</printCapArticleDochead>
+	<printCapArticleSectionTitle>No such data</printCapArticleSectionTitle>
+	<printCapIssueH1>No such data</printCapIssueH1>
+	<printCapIssueH2>No such data</printCapIssueH2>
+	<printCapSI>No such data</printCapSI>
+	<eCapArticleTitle>No such data</eCapArticleTitle>
+	<eCapArticleDochead>No such data</eCapArticleDochead>
+	<eCapArticleSectionTitle>No such data</eCapArticleSectionTitle>
+	<eCapIssueH1>No such data</eCapIssueH1>
+	<eCapIssueH2>No such data</eCapIssueH2>
+	<eCapSI>No such data</eCapSI>
+	<emailProof>No such data</emailProof>
+	<bccProof>N/A</bccProof>
+	<sendsCorrections>No such data</sendsCorrections>
+	<multipleVersion>N/A</multipleVersion>
+	<tipOns>N/A</tipOns>
+	<tipIns>N/A</tipIns>
+	<coverPerIssue>N/A</coverPerIssue>
+	<coverStock>N/A</coverStock>
+	<advanceApproval>N/A</advanceApproval>
+</root>

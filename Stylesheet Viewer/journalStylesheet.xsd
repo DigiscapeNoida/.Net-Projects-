@@ -1,0 +1,1986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--    
+        Elsevier schema for journal stylesheets in XML format
+        Version 2019.3 
+        
+        Copyright (c) 2009-2019 Elsevier Ltd        
+-->
+<!--    
+        Permission to copy and distribute verbatim copies of this document is granted, 
+        provided this notice is included in all copies, but changing it is not allowed. 
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:jss="http://www.elsevier.com/xml/schema/journalStylesheets"
+    targetNamespace="http://www.elsevier.com/xml/schema/journalStylesheets"
+    elementFormDefault="qualified" attributeFormDefault="unqualified">
+    <xs:element name="journalStylesheet" type="jss:journalStylesheetType"/>
+
+    <!-- Main sequence -->
+    <xs:complexType name="journalStylesheetType">
+        <xs:sequence>
+            <!-- Base Data -->
+            <xs:element name="baseData" type="jss:baseDataType"/>
+            <!-- CU -->
+            <xs:element name="cu" type="jss:CUType"/>
+            <!-- S0 -->
+            <xs:element name="s0" type="jss:s0Type"/>
+            <!-- S100 -->
+            <xs:element name="s100" type="jss:s100Type"/>
+            <!-- S200 -->
+            <xs:element name="s200" type="jss:s200Type"/>
+            <!-- P100 -->
+            <xs:element name="p100" type="jss:p100Type"/>
+            <!-- S300 -->
+            <xs:element name="s300" type="jss:s300Type"/>
+            <!-- Editor -->
+            <xs:element name="proofing" type="jss:proofType"/>
+            <!--  Print -->
+            <xs:element name="print" type="jss:printType"/>
+            <!--  Despatch -->
+            <xs:element name="despatch" type="jss:despatchType"/>
+            <!--  Standard Text -->
+            <xs:element name="standardText" type="jss:standardType"/>
+            <!--  Other -->
+            <!-- <xs:element name="otherInstructions" type="xs:string"/> -->
+            <xs:element name="otherInstructions">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="jss-version" type="xs:token" use="required" fixed="2019.3"/>
+    </xs:complexType>
+
+    <!-- Complex types and definitions -->
+
+    <!-- Base Data -->
+
+    <xs:complexType name="baseDataType">
+        <xs:sequence>
+            <xs:element name="ptsData" type="jss:ptsDataType"/>
+            <xs:element name="JM-EditData" type="jss:JM-EditDataType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ptsDataType">
+        <xs:sequence>
+            <xs:element name="journalCode" type="jss:journalCodeType"/>
+            <xs:element name="ptsReportDate" type="jss:DateTimeType"/>
+            <xs:element name="journalNumber" type="xs:integer"/>
+            <xs:element name="journalTitle" type="xs:string"/>
+            <xs:element name="pmg" type="xs:string"/>
+            <xs:element name="pmc" type="xs:integer"/>
+            <xs:element name="issn" type="jss:issnType"/>
+            <xs:element name="epGroup" type="xs:string"/>
+            <xs:element name="productionSite" type="jss:string4"/>
+            <xs:element name="journalDOICode" type="xs:string"/>
+            <xs:element name="journalDOIContentType" type="jss:string1"/>
+            <xs:element name="eSubmissionContentType" type="xs:string"/>
+            <xs:element name="expiryDate" type="xs:string"/>
+            <xs:element name="colourConfRemExec" type="xs:string"/>
+            <xs:element name="missingItemsRemExec" type="xs:string"/>
+            <xs:element name="authorProofRemExec" type="xs:string"/>
+            <xs:element name="editorProofRemExec" type="xs:string"/>
+            <xs:element name="typesetRedPTS" type="xs:decimal"/>
+            <xs:element name="typesetRedCalc" type="xs:decimal"/>
+            <xs:element name="averageItemPages" type="xs:decimal"/>
+            <xs:element name="typesetModel" type="xs:string"/>
+            <xs:element name="copyrightHolder" type="jss:string1"/>
+            <xs:element name="societyAffiliation" type="xs:string"/>
+            <xs:element name="copyrightStatement" type="xs:string"/>
+            <xs:element name="refStyle" type="xs:string"/>
+            <xs:element name="opco" type="jss:string4"/>
+            <xs:element name="printRun" type="xs:integer"/>
+            <xs:element name="paperTypeInside" type="xs:string"/>
+            <xs:element name="paperTypeCover" type="xs:string"/>
+            <xs:element name="printType" type="xs:string"/>
+            <xs:element name="coverFinishing" type="xs:string"/>
+            <xs:element name="bindType" type="xs:string"/>
+            <xs:element name="backMargin" type="xs:integer"/>
+            <xs:element name="headMargin" type="xs:integer"/>
+            <xs:element name="righthandStart" type="xs:boolean"/>
+            <xs:element name="trimSize" type="xs:string"/>
+            <xs:element name="timeBasedPublInd" type="xs:boolean"/>
+            <xs:element name="earlyBasedPublInd" type="xs:boolean"/>
+            <xs:element name="fixedPlanInd" type="xs:boolean"/>
+            <xs:element name="capLightPlus" type="xs:boolean"/>
+            <xs:element name="mfIndicator" type="xs:boolean"/>
+            <xs:element name="copyEditLevel" type="xs:string"/>
+            <xs:element name="advCopyInd" type="xs:boolean"/>
+            <xs:element name="cmS5Required" type="xs:boolean"/>
+            <xs:element name="cmS100Required" type="xs:boolean"/>
+            <xs:element name="cmS200Required" type="xs:boolean"/>
+            <xs:element name="cmS250Required" type="xs:boolean"/>
+            <xs:element name="cmS300Required" type="xs:boolean"/>
+            <xs:element name="trackOffSysLabelsReq" type="xs:boolean"/>
+            <xs:element name="deltaLabelRunInd" type="xs:boolean"/>
+            <xs:element name="language" type="xs:string"/>
+            <xs:element name="eSuiteInd" type="xs:boolean"/>
+            <xs:element name="additionalOPPaidCol" type="xs:integer"/>
+            <xs:element name="journalOPPriceList" type="xs:integer"/>
+            <xs:element name="journalPageCharges" type="xs:string"/>
+            <xs:element name="journalPaidColPageInd" type="xs:boolean"/>
+            <xs:element name="copyrightTranInd" type="xs:boolean"/>
+            <xs:element name="copyrightTranOnlineInd" type="xs:boolean"/>
+            <xs:element name="defaultItemPIT" type="jss:string3"/>
+            <xs:element name="defaultIssuePIT" type="jss:string3"/>
+            <xs:element name="defaultItemProd" type="jss:string3"/>
+            <xs:element name="defaultIssueProd" type="jss:string3"/>
+            <xs:element name="ABP" type="xs:boolean"/>
+            <xs:element name="journalPaymentOnline" type="xs:boolean"/>
+            <xs:element name="eSubAcr" type="xs:string"/>
+            <xs:element name="zeroWarehousing" type="xs:boolean"/>
+            <xs:element name="onlinePubDate" type="xs:boolean"/>
+            <xs:element name="inHouseMC" type="xs:boolean"/>
+            <xs:element name="paperOffprints" type="xs:integer"/>
+            <xs:element name="eOffprint" type="xs:boolean"/>
+            <xs:element name="additionalFreePaper" type="xs:integer"/>
+            <xs:element name="freeIssues" type="xs:integer"/>
+            <xs:element name="freeIssuesSI" type="xs:integer"/>
+            <xs:element name="primaryEditorialSystem" type="xs:string"/>
+            <xs:element name="docSecInfo" type="jss:DocSecInfoType"/>
+            <xs:element name="indUnsupportedJournal" type="xs:boolean"/>
+            <xs:element name="workflowDates" type="jss:workflowDate"/>
+            <xs:element name="usesArticleNumbers" type="xs:boolean"/>
+            <xs:element name="lemansOrConventional" type="xs:string"/>
+            <xs:element name="automaticIssueCompilation" type="xs:boolean"/>
+            <xs:element name="dataInBriefCoSubmissions" type="xs:boolean"/>
+            <xs:element name="methodsXCoSubmission" type="xs:boolean"/>
+            <xs:element name="autoLogin" type="xs:boolean"/>
+            <xs:element name="executors">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="executor" minOccurs="1" maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:simpleContent>
+                                    <xs:extension base="xs:string">
+                                        <xs:attribute name="role" use="required" type="xs:string"/>
+                                        <xs:attribute name="emailId" use="required" type="xs:string"/>
+                                        <xs:attribute name="description" use="required" type="xs:string"/>
+                                        <xs:attribute name="country" use="required" type="xs:string"/>
+                                    </xs:extension>
+                                </xs:simpleContent>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="JM-EditDataType">
+        <xs:sequence>
+            <xs:element name="dateModified" type="jss:DateTimeType"/>
+            <xs:element name="modifiedBy" type="xs:string"/>
+            <xs:element name="approvedNonStandard" type="xs:boolean"/>
+            <xs:element name="approvedNonStandardComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <!-- 2018.1 -->
+<!--
+            <xs:element name="changeReferenceStyle" type="xs:boolean"/>
+            <xs:element name="newReferenceStyle" type="jss:int07">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Numbered; 2=Numbered (without article
+                        and chapter titles); 3=Harvard; 4=Vancouver numbered; 5=Vancouver name/year;
+                        6=APA; 7=AMA</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+-->
+            <!--2016.1p1-->
+            <xs:element name="expandedOrAbbreviatedJournalTitles" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Expanded; 2=Abbreviated</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="freeReferenceStyle" type="xs:boolean"/>
+            <xs:element name="referenceStyleComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="docheadComments">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="sectionComments">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="specialIssues" type="xs:boolean"/>
+            <xs:element name="specialIssuesComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <!--v2016.1 update-->
+            <xs:element name="footnote">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="SI_footnote" type="xs:boolean"/>
+                        <xs:element name="SI_footnoteComment">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0"
+                                        maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="FLAs_FN" type="xs:boolean"/>
+                        <xs:element name="FLAs_FNComment">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0"
+                                        maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="SocietyMembers_FN" type="xs:boolean"/>
+                        <xs:element name="SocietyMembers_FNComment">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0"
+                                        maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="highlightsForToC" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=E-only; 2=Print-only; 3=Electronic and Print</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="pilot">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="pilotIncluded" type="xs:boolean"/>
+                        <xs:element name="pilotSpecificComment">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="typesettingInfo" type="jss:typesettingInfoType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- CU -->
+    <xs:complexType name="CUType">
+        <xs:sequence>
+            <xs:element name="history" type="jss:historyType"/>
+            <xs:element name="artwork_PA" type="jss:artwork_PA"/>
+            <!-- Ethics -->
+            <xs:element name="ethics" type="jss:ethics"/>
+            <xs:element name="transparencyDocument" type="jss:int04"/>
+            <xs:element name="abstract" type="jss:abstractType"/>
+            <xs:element name="graphicalAbstract" type="jss:graphicalAbstractType"/>
+            <xs:element name="teaserAbstract" type="jss:teaserAbstractType"/>
+            <xs:element name="keywords" type="jss:keywordsType"/>
+            <xs:element name="highlights" type="jss:highlightsType"/>
+            <xs:element name="classification" type="jss:classificationType"/>
+            <xs:element name="colour" type="jss:colourType"/>
+            <xs:element name="correspondence" type="jss:correspondenceType"/>
+            <xs:element name="offprints" type="jss:offprintsType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- CU / history -->
+    <xs:complexType name="historyType">
+        <xs:sequence>
+            <xs:element name="historyRequired" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation> 0=Option not selected; 1=Query JM if not supplied; 2=Do not use even if supplied; 3=Use if supplied</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+
+            <xs:element name="journalSpecificHistoryText">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="regularIssue">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="received" type="jss:int04">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=Do not use even if supplied; 2=Use if supplied; 3=Query JM if not supplied; 4=Other, see comments</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                        <xs:element name="revised" type="jss:int04">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=Do not use even if supplied; 2=Use if supplied; 3=Query JM if not supplied; 4=Other, see comments</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                        <xs:element name="accepted" type="jss:int04">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=Do not use even if supplied; 2=Use if supplied; 3=Query JM if not supplied; 4=Other, see comments</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                        <xs:element name="PITs_ri" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="PIT_ri" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="specialIssue">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="received_si" type="jss:int04">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=Do not use even if supplied; 2=Use if supplied; 3=Query JM if not supplied; 4=Other, see comments</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                        <xs:element name="revised_si" type="jss:int04">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=Do not use even if supplied; 2=Use if supplied; 3=Query JM if not supplied; 4=Other, see comments</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                        <xs:element name="accepted_si" type="jss:int04">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=Do not use even if supplied; 2=Use if supplied; 3=Query JM if not supplied; 4=Other, see comments</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                        <xs:element name="PITs_si" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="PIT_si" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="journalSpecificHistoryComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="historyItemGroup" type="jss:int04">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Do not use even if supplied; 2=Use if supplied; 3=Query JM if not supplied; 4=Other, see comments</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="historyItemGroupComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="onlinePubDateComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <!-- v2016.1 update-->
+            <xs:element name="editorInfo">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="editorName" type="xs:boolean"/>
+
+                        <xs:element name="editorAcknowledgementPosition" type="jss:int03">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=Below history dates; 2=Below article footnote; 3=End of acknowledgement</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                        <xs:element name="editorDisplayName" type="jss:int03">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=Full name; 2=Initial and surname; 3=Initials</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                        <xs:element name="displayText" type="xs:string"/>
+                        <xs:element name="editorNameComment">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!--v2016.1 update-->
+    <xs:complexType name="artwork_PA">
+        <xs:sequence>
+            <xs:element name="artworkForPatientAnonymity" type="xs:boolean" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ethics">
+        <xs:sequence>
+            <xs:element name="informedConsent" type="xs:boolean" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="transparencyDocument">
+        <xs:annotation>
+            <xs:documentation>0=Option not selected; 1=Use if supplied; 2=Do not use even if supplied; 3=Query author on AQF if not supplied; 4=Query JM if not supplied</xs:documentation>
+        </xs:annotation>
+    </xs:complexType>
+    <!-- CU / abstract -->
+    <xs:simpleType name="abstract_action">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="([1-4])"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="keyword_action">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="([1-5])"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="abstractType">
+        <xs:sequence>
+            <!-- <xs:element name="abstractRequirement" type="xs:boolean"/> -->
+            <xs:element name="abstractPITspecificRequirements" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="abstractPITspecificRequirement" minOccurs="0"
+                            maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="abstractPITS" minOccurs="0" maxOccurs="unbounded">
+                                        <xs:complexType>
+                                            <xs:sequence>
+                                                <xs:element name="abstractPIT" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                            </xs:sequence>
+                                        </xs:complexType>
+                                    </xs:element>
+                                    <xs:element name="PITspecificWordCount" type="xs:integer"/>
+                                    <xs:element name="abstractStructure" type="jss:int03">
+                                        <xs:annotation>
+                                            <xs:documentation>0= Option not selected; 1=Structured; 2=Unstructured; 3=Use as supplied</xs:documentation>
+                                        </xs:annotation>
+                                    </xs:element>
+                                </xs:sequence>
+                                <xs:attribute name="action" type="jss:abstract_action"/>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="abstractComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- CU / graphical abstract -->
+
+    <xs:complexType name="graphicalAbstractType">
+        <xs:sequence>
+            <xs:element name="journalSpecificGraphicalAbstract" type="jss:int02">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected 1=Do not use even if supplied; 2=Use if supplied</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="journalSpecificGraphicalAbstractComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="gaFormat" type="jss:int04">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=E-ONLY-COLOUR; 2=COLOUR-IN-PRINT billing No; 3=COLOUR</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="journalSpecificGATOC" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=E-only; 2=Print-only; 3=Electronic and Print</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="journalSpecificGATOCComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="journalSpecificGATitlePage" type="xs:boolean"/>
+            <xs:element name="journalSpecificGATitlePageComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- 2018.1 -->
+    <xs:complexType name="teaserAbstractType">
+        <xs:sequence>
+            <xs:element name="teaserAbstractOnTitlePagePDF" type="xs:boolean"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- CU / Keywords -->
+
+    <xs:complexType name="keywordsType">
+        <xs:sequence>
+            <!-- <xs:element name="keywordRequirement" type="xs:boolean"/> -->
+            <xs:element name="keywordPITspecificRequirements" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="keywordPITspecificRequirement" minOccurs="0"
+                            maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="keywordPITs" minOccurs="0"
+                                        maxOccurs="unbounded">
+                                        <xs:complexType>
+                                            <xs:sequence>
+                                                <xs:element name="keywordPIT" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                            </xs:sequence>
+                                        </xs:complexType>
+                                    </xs:element>
+                                </xs:sequence>
+                                <xs:attribute name="action" type="jss:keyword_action"/>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="keywordSource" type="jss:int02">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Free text; 2=Journal-specific list (add details to comments field)</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+
+            <xs:element name="keywordCount">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="keywordsMin" type="xs:integer"/>
+                        <xs:element name="keywordsMax" type="xs:integer"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="keywordComments" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- CU / highlights -->
+
+    <xs:complexType name="highlightsType">
+        <xs:sequence>
+            <xs:element name="journalSpecificHighlights" type="jss:int02">
+                <xs:annotation>
+                    <!-- To match with the webform/stylesheet, option 1 and 2 values below are interchanged in v2015.2 -->
+                    <xs:documentation>0=Option not selected; 1=Use if supplied; 2=Do not use even if supplied</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="journalSpecificHighlightsComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- CU / Classification -->
+
+    <xs:complexType name="classificationType">
+        <xs:sequence>
+            <xs:element name="classificationSectionHeading">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="CSHeading" type="xs:string" minOccurs="0"
+                            maxOccurs="unbounded">
+                            <xs:annotation>
+                                <xs:documentation>0=Option not selected; 1=abr; 2=astronomy; 3=cell; 4=cras-terre; 5=ctsnet; 6=emtree; 7=geo; 8=idt; 9=inchikey; 10=inspec-cc; 11=inspec-chi; 12=inspec-ct; 13=jel; 14=keyword; 15=mat; 16=mesh; 17=msc; 18=neurosci; 19=ocis; 20=pacs; 21=psychinfo; 22=pubchem; 23=src; 24=stma</xs:documentation>
+                            </xs:annotation>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="classificationRequirement" type="jss:int05">
+                <xs:annotation>
+                    <!-- To match with the webform/stylesheet, the order of the below options are reordered in v2015.2 -->
+                    <xs:documentation>0=Option not selected; 1=Do not use even if supplied 2=Use if supplied; 3=Query JM if not supplied; 4=Send missing item letter if not supplied; 4=Query author on AQF if not supplied; 5=Other, see comments</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="classificationSource" type="xs:string"/>
+            <xs:element name="classificationCount">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="classificationMin" type="xs:integer"/>
+                        <xs:element name="classificationMax" type="xs:integer"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="classificationComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- CU / colour -->
+
+    <xs:complexType name="colourType">
+        <xs:sequence>
+            <xs:element name="colourFiguresInPrint" type="jss:int04">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Free colour for all figures; 2=E-only journals; 3= Editor/Author/Society decision; 4=Others</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="printedColour" type="xs:boolean"/>
+            <xs:element name="freePrintedColour" type="xs:boolean"/>
+            <xs:element name="noFreeWebColour" type="xs:boolean"/>
+            <xs:element name="firstPageFOC" type="xs:boolean"/>
+            <!-- <xs:element name="firstPageFOCComment" type="xs:string"/> -->
+            <xs:element name="firstPageFOCComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="costFirstColour" type="xs:integer"/>
+            <xs:element name="costNextColour" type="xs:integer"/>
+            <xs:element name="currencyCode" type="jss:string3"/>
+            <!-- <xs:element name="colourArtworkExceptions" type="xs:string"/> -->
+            <xs:element name="colourArtworkExceptions">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="colourFiguresCorrespondence" type="jss:int02">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Colour letter; 2=Colour confirmation letter</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <!-- <xs:element name="extraColourInstructions" type="xs:string"/> -->
+            <xs:element name="colourComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- CU / offprints -->
+
+    <xs:complexType name="offprintsType">
+        <xs:sequence>
+            <!-- <xs:element name="extraOffprintInstructions" type="xs:string"/> -->
+            <xs:element name="extraOffprintInstructions">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <!-- <xs:element name="freeIssuesComment" type="xs:string"/> -->
+            <xs:element name="freeIssuesComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="freeIssuesSIComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S0 -->
+
+    <xs:complexType name="s0Type">
+        <xs:sequence>
+            <xs:element name="itemreceipt" type="jss:itemreceiptType"/>
+            <!-- S0 / extra fields -->
+            <xs:element name="section" type="xs:string"/>
+            <xs:element name="additionalLoginInstructions">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S0 / item receipt -->
+
+    <xs:complexType name="itemreceiptType">
+        <xs:sequence>
+            <!-- 2019.1 scanS0 section removed -->
+            <xs:element name="extLogin" type="xs:boolean"/>
+            <xs:element name="extLoginComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="quickBook" type="xs:boolean"/>
+            <!-- <xs:element name="quickBookComment" type="xs:string"> -->
+            <xs:element name="quickBookComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="otherReceipt">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S0 / correspondence -->
+
+    <xs:complexType name="correspondenceType">
+        <xs:sequence>
+            <xs:element name="contactAuthor" type="jss:int07">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Yes, contact author for Forms; 2=Yes, contact author for Missing Item; 3=Yes, contact author for Others; 4=Yes, contact author for Forms and Missing Item; 5=Yes, contact author for Forms and Others; 6=Yes, contact author for Missing Item and Others; 7=No, contact JM</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <!-- <xs:element name="correspondenceAuthorComment" type="xs:string"/> -->
+            <xs:element name="correspondenceAuthorComment" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 -->
+    <xs:complexType name="s100Type">
+        <xs:sequence>
+            <xs:element name="abbreviatedJournalTitle" type="xs:string"/>
+            <xs:element name="heading" type="jss:headingType"/>
+            <xs:element name="degreesAndTitles" type="jss:degreesAndTitlesType"/>
+            <xs:element name="logoPlacement" type="jss:logoPlacementType"/>
+            <xs:element name="authorInfo" type="jss:authorInfoType"/>
+            <xs:element name="acknowledgements" type="jss:acknowledgementsType"/>
+            <xs:element name="ethicsInfo" type="jss:ethicsDetailsType"/>
+            <xs:element name="roles" type="jss:rolesType"/>
+            <xs:element name="intro" type="jss:introductionType"/>
+            <xs:element name="CoI" type="jss:CoIType"/>
+            <xs:element name="bioInfo" type="jss:bioInfoType"/>
+            <xs:element name="floatLabel" type="jss:floatLabelType"/>
+            <xs:element name="artwork" type="jss:artworkType"/>
+            <xs:element name="latexInfo" type="jss:latexType"/>
+            <xs:element name="copyright" type="jss:copyright"/>
+            <xs:element name="footnote" type="jss:footnote"/>
+            <!-- <xs:element name="additionalS100" type="xs:string"/> -->
+            <xs:element name="additionalS100">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="reviewContents" type="xs:boolean"/>
+                        <xs:element name="additionalS100Comment">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <!-- S100 / Typesetting -->
+    <xs:complexType name="typesettingInfoType">
+        <xs:sequence>
+            <xs:element name="nonStandardTypesetModel">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="masthead" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="articleHeadBodyLayout" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="nonStandardReferenceStyleInfo">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Heading -->
+    <xs:complexType name="headingType">
+        <xs:sequence>
+            <xs:element name="numberingStyle" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Numbered; 2=UnNumbered; 3=Non-Standard, see comment</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="NSComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <!-- S100 Degrees and Titles -->
+    <xs:complexType name="degreesAndTitlesType">
+        <xs:sequence>
+            <xs:element name="journalSpecificDegreesTitles" type="jss:int13">
+                <xs:annotation>
+                    <xs:documentation>1=Do not use even if supplied; 2=Use only for specific PITs; 3=Use if supplied</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="degreeTitlePITs" type="jss:degreeTitlePITType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="degreeTitlePITType">
+        <xs:sequence>
+            <xs:element name="degreeTitlePIT" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Loco Placement-->
+
+    <xs:complexType name="logoPlacementType">
+        <xs:sequence>
+            <xs:element name="right" type="jss:int02">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Society; 2=Elsevier</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="left" type="jss:int02">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Society; 2=Elsevier</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="authorInfoType">
+        <xs:sequence>
+            <xs:element name="multipleCorrespondingAuthors" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="authorLinks" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Include e-mail addresses only; 2=Include all social media links; 3=Include specific social media links (see comments)</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="specificSocialMediaLinksComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="acknowledgementsType">
+        <xs:sequence>
+            <xs:element name="fundingSubsection" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="fundingComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="contributingSubsection" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="contributingComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="supportingSubsection" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="supportingComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="facilitiesSubsection" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="facilitiesComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="suppliesSubsection" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="suppliesComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="CoISubsection" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="CoISubsectionComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="sponsorRoleSubsection" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="sponsorRoleComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="acknowledgementsPITs" type="jss:acknowledgementsPITsType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="acknowledgementsPITsType">
+        <xs:sequence>
+            <xs:element name="ackPIT" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ethicsDetailsType">
+        <xs:sequence>
+            <xs:element name="ethicsDetails" type="jss:int04">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Use if supplied; 2=Do not use even if supplied; 3=Query author on AQF if not supplied; 4=Query JM if not supplied</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="ethicsPITs" type="jss:ethicsPITsType"/>
+            <xs:element name="ethicsComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ethicsPITsType">
+        <xs:sequence>
+            <xs:element name="ethicsPIT" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Roles -->
+    <xs:complexType name="rolesType">
+        <xs:sequence>
+            <xs:element name="motto" type="xs:boolean"/>
+            <!-- <xs:element name="mottoComment" type="xs:string"/> -->
+            <xs:element name="mottoComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="caseReport" type="xs:boolean"/>
+            <!-- <xs:element name="caseReportComment" type="xs:string"/> -->
+            <xs:element name="caseReportComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="noteinProof" type="xs:boolean"/>
+            <!-- <xs:element name="noteinProofComment" type="xs:string"/> -->
+            <xs:element name="noteinProofComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="materialsMethods" type="xs:boolean"/>
+            <!-- <xs:element name="materialsMethodsComment" type="xs:string"/> -->
+            <xs:element name="materialsMethodsComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="results" type="xs:boolean"/>
+            <!-- <xs:element name="resultsComment" type="xs:string"/> -->
+            <xs:element name="resultsComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="introSec" type="xs:boolean"/>
+            <xs:element name="introSecComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="background" type="xs:boolean"/>
+            <xs:element name="backgroundComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="conclusion" type="xs:boolean"/>
+            <xs:element name="conclusionComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="discussion" type="xs:boolean"/>
+            <xs:element name="discussionComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Introduction -->
+
+    <xs:complexType name="introductionType">
+        <xs:sequence>
+            <xs:element name="introduction" type="xs:boolean"/>
+            <xs:element name="titlereq" type="jss:int05">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Use as supplied; 2=Rename as Background; 3=Rename as Summary; 4=rename as Introduction; 5=rename as Method details</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="introPITs" type="jss:introPITType"/>
+            <xs:element name="introductionComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="introPITType">
+        <xs:sequence>
+            <xs:element name="introPIT" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Conflict of Interest -->
+
+    <xs:complexType name="CoIType">
+        <xs:sequence>
+            <xs:element name="ConflictInterest" type="jss:int04">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Use if supplied; 2=Do not use even if supplied; 3=Query author on AQF if not supplied; 4=Query JM if not supplied</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="CoIPITs" type="jss:CoIPITType"/>
+            <xs:element name="CoIComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CoIPITType">
+        <xs:sequence>
+            <xs:element name="CoIPIT" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Biographical Information -->
+
+    <xs:complexType name="bioInfoType">
+        <xs:sequence>
+            <xs:element name="authorDetails" type="jss:int06">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Author biography only; 2=Author photograph only; 3=Author biography and photograph; 4=Use if supplied; 5=Do not use even if supplied; 6=Other, see comments</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="ADComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Non-standard Fig./Table/Textbox label requirements -->
+
+    <xs:complexType name="floatLabelType">
+        <xs:sequence>
+            <xs:element name="NSFloatLabel">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Artwork -->
+
+    <xs:complexType name="artworkType">
+        <xs:sequence>
+            <xs:element name="journalSpecificArtwork" type="xs:boolean"/>
+            <!-- <xs:element name="journalSpecificArtworkComment" type="xs:string"/> -->
+            <xs:element name="journalSpecificArtworkComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / LaTeX -->
+
+    <xs:complexType name="latexType">
+        <xs:sequence>
+            <xs:element name="latex" type="xs:boolean"/>
+            <xs:element name="latexFrequency" type="xs:string"/>
+            <!-- <xs:element name="latexComment" type="xs:string"/> -->
+            <xs:element name="latexComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100/copyright -->
+    <xs:complexType name="copyright">
+        <xs:sequence>
+            <xs:element name="copyrightLines">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <!-- S100/footnote -->
+    <xs:complexType name="footnote">
+        <xs:sequence>
+            <xs:element name="articleFootnote">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S200 -->
+
+    <xs:complexType name="s200Type">
+        <xs:sequence>
+            <xs:element name="mc" type="jss:mcType"/>
+            <!-- <xs:element name="additionalS200" type="xs:string"/> -->
+            <xs:element name="additionalS200">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S200 / Mastercopy -->
+    <xs:complexType name="mcType">
+        <xs:sequence>
+            <xs:element name="mastercopyingComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- P100 -->
+
+    <xs:complexType name="p100Type">
+        <xs:sequence>
+            <xs:element name="deliveryRequirements" type="jss:int04">
+                <xs:annotation>
+                    <!-- To match with the webform/stylesheet, 'option 2' below is changed from 'Everything' to 'Cover to Cover' in v2015.2 -->
+                    <xs:documentation>0=Option not selected; 1=Cover and Prelims only; 2=Cover to Cover; 3=Other, see comments; 4=None</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <!-- <xs:element name="additionalP100" type="xs:string"/> -->
+            <xs:element name="additionalP100">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <!-- 2016.3 -->
+            <xs:element name="barcode" type="xs:boolean"/>
+            <xs:element name="barcodePlacement" type="jss:int07">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Outside front cover; 2=Inside front cover; 3=Outside back cover; 4=Inside back cover; 5=Front matter; 6=Back matter; 7=TOC</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+
+            <!-- 2019.1 -->
+            <xs:element name="projectCompact">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="compactJournal" type="xs:boolean"/>
+                        <xs:element name="compactJournalComment">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S300 -->
+
+    <xs:complexType name="s300Type">
+        <xs:sequence>
+
+            <xs:element name="journalSpecificCover" type="jss:int04">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Standard; 2=Different cover image for each issue; 3=Different cover image for each volume; 4=Other (see comments)</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="journalSpecificCoverComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="specialIssueCover" type="xs:string"/>
+            <xs:element name="specialIssueCoverComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="runOnItems" type="jss:int05">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=None; 2=Book reviews; 3=Correspondence; 4=Book reviews and correspondence; 5=Other (see comments)</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="runOnItemsComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="journalSpecificIndex" type="xs:boolean"/>
+            <xs:element name="journalSpecificIndexComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="stylePrintedIssue" type="jss:stylePrintedIssueType"/>
+            <xs:element name="style-e-issue" type="jss:style-e-issueType"/>
+            <!-- <xs:element name="additionalJournalSpecificTypesetting" type="xs:string"/> -->
+            <xs:element name="additionalJournalSpecificTypesetting">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S300 / Style printed issue -->
+
+    <xs:complexType name="stylePrintedIssueType">
+        <xs:sequence>
+            <xs:element name="printCapArticleTitle" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="printCapArticleDochead" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="printCapArticleSectionTitle" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="printCapIssueH1" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="printCapIssueH2" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="printCapSI" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <!-- <xs:element name="additionalPrint" type="xs:string"/> -->
+            <xs:element name="additionalPrint">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S300 / Style e-issue -->
+
+    <xs:complexType name="style-e-issueType">
+        <xs:sequence>
+            <xs:element name="eCapArticleTitle" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="eCapArticleDochead" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="eCapArticleSectionTitle" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="eCapIssueH1" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="eCapIssueH2" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="eCapSI" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=sentence case; 2=Title case; 3=All caps</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <!-- <xs:element name="additionalE" type="xs:string"/> -->
+            <xs:element name="additionalE">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Despatch -->
+
+    <xs:complexType name="despatchType">
+        <xs:sequence>
+            <xs:element name="directPrinter" type="xs:string"/>
+            <xs:element name="specialPackaging" type="xs:string"/>
+            <xs:element name="priority" type="xs:string"/>
+            <xs:element name="otherJournalSpecificDespatch">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Print -->
+
+    <xs:complexType name="printType">
+        <xs:sequence>
+            <xs:element name="multipleVersion" type="xs:boolean"/>
+            <xs:element name="multipleVersionComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="tipOns" type="xs:boolean"/>
+            <xs:element name="tipOnsComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="tipIns" type="xs:boolean"/>
+            <xs:element name="tipInsComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="coverPerIssue" type="xs:boolean"/>
+            <xs:element name="coverPerIssueComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="coverStock" type="xs:boolean"/>
+            <xs:element name="coverStockComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="advanceApproval" type="xs:boolean"/>
+            <xs:element name="advanceApprovalComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="additionalPrinter">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Doc and Section head -->
+
+    <xs:complexType name="DocSecInfoType">
+        <xs:sequence>
+            <xs:element name="docHeads" type="jss:docHeadsType"/>
+            <xs:element name="sectionHeads" type="jss:sectionHeadsType"/>
+            <xs:element name="crossMark" type="jss:crossMarkType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="docHeadsType">
+        <xs:sequence>
+            <xs:element name="docHead" minOccurs="0" maxOccurs="unbounded" type="jss:docHeadType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="sectionHeadsType">
+        <xs:sequence>
+            <xs:element name="sectionHead" minOccurs="0" maxOccurs="unbounded" type="jss:sectionHeadType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="crossMarkType">
+        <xs:sequence>
+            <xs:element name="cmPIT" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="docHeadType">
+        <xs:sequence>
+            <xs:element name="docheadPIT" type="xs:string"/>
+            <xs:element name="docheadDescription" type="xs:string"/>
+            <xs:element name="docheadExpired" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="sectionHeadType">
+        <xs:sequence>
+            <xs:element name="sectionCode" type="xs:string"/>
+            <xs:element name="sectionDescription" type="xs:string"/>
+            <xs:element name="sectionExpired" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!--Le Mans Dates-->
+
+    <xs:complexType name="workflowDate">
+        <xs:sequence>
+            <xs:element name="workflow" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="startDate" minOccurs="1" maxOccurs="1">
+                            <xs:complexType>
+                                <xs:attribute name="day" type="jss:day"/>
+                                <xs:attribute name="month" type="jss:month"/>
+                                <xs:attribute name="year" type="xs:gYear"/>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="endDate" minOccurs="0" maxOccurs="1">
+                            <xs:complexType>
+                                <xs:attribute name="day" type="jss:day"/>
+                                <xs:attribute name="month" type="jss:month"/>
+                                <xs:attribute name="year" type="xs:gYear"/>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                    <xs:attribute name="name" type="xs:string"/>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Editor/Proofing -->
+
+    <xs:complexType name="proofType">
+        <xs:sequence>
+            <xs:element name="proofingGeneric" type="jss:proofingType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="proofingSystems">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="proofingSystem" type="jss:proofingSystem" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="editors" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="editor" type="jss:editorType" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <!-- 2019.1 Proofing System   -->
+    <xs:complexType name="proofingSystem">
+        <xs:sequence>
+            
+            <xs:element name="referenceStyle" minOccurs="0" type="xs:string"/>
+            <xs:element name="typesetModel" minOccurs="1" type="xs:string"/>
+            <xs:element name="name" minOccurs="1" type="xs:string"/>
+            <xs:element name="dates" minOccurs="1">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="startDate" minOccurs="1" maxOccurs="1">
+                            <xs:complexType>
+                                <xs:attribute name="day" type="jss:day"/>
+                                <xs:attribute name="month" type="jss:month"/>
+                                <xs:attribute name="year" type="xs:gYear"/>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name="endDate" minOccurs="0" maxOccurs="1">
+                            <xs:complexType>
+                                <xs:attribute name="day" type="jss:day"/>
+                                <xs:attribute name="month" type="jss:month"/>
+                                <xs:attribute name="year" type="xs:gYear"/>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="version" minOccurs="0" type="xs:string"/>
+            <xs:element name="workflow" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="AU-ED-MC"/>
+                        <xs:enumeration value="AU-MC"/>
+                        <xs:enumeration value="ED-MC"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="viewMode" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="contentType" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="standard"/>
+                    <xs:enumeration value="complex"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+
+    <xs:complexType name="editorType">
+        <xs:sequence>
+            <xs:element name="editorName" type="xs:string"/>
+            <xs:element name="editorEmail" type="xs:string"/>
+            <xs:element name="emailProof" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=All proofs; 2=Some proofs (see comments); 3=Never</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="bccProof" type="xs:boolean"/>
+            <xs:element name="sendsCorrections" type="jss:int03">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Always; 2=Sometimes; 3=Never</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="proofingComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- S100 / Proofing -->
+
+    <xs:complexType name="proofingType">
+        <xs:sequence>
+            <xs:element name="journalSpecificProofing" type="xs:boolean"/>
+            <xs:element name="proofsSentTo" type="xs:string"/>
+            <!-- <xs:element name="journalSpecificProofingComment" type="xs:string"/> -->
+            <xs:element name="journalSpecificProofingComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="changesPDFProofText" type="jss:int07">
+                <xs:annotation>
+                    <xs:documentation>0=Option not selected; 1=Standard (English) text; 2=Use standard letter in language of article; 3=Standard text (French translation); 4=Standard text (German translation); 5=Standard text (Italian translation); 6=Standard text (Spanish translation); 7=Non-standard (see comments)</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element name="changesPDFProofTextComment">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="p" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="webHostedProofing" type="xs:boolean"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Standard Text -->
+    <xs:complexType name="standardType">
+        <xs:sequence>
+            <xs:element name="authorEnquiries" type="jss:standardTextType"/>
+            <xs:element name="enLanguageHelpService" type="jss:standardTextType"/>
+            <xs:element name="refCompleteGfA" type="jss:standardTextType"/>
+            <xs:element name="noPageCharges" type="jss:standardTextType"/>
+            <xs:element name="fundBdyAgreePol" type="jss:standardTextType"/>
+            <xs:element name="advertisingInformation" type="jss:standardTextType"/>
+            <xs:element name="printersIndicia" type="jss:standardTextType"/>
+            <xs:element name="sponSuppComRepr" type="jss:standardTextType"/>
+            <xs:element name="dropshipment" type="jss:standardTextType"/>
+            <xs:element name="sciSDLogo">
+                <xs:complexType>
+                    <xs:attribute name="presence" type="xs:boolean"/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="paperQuality" type="jss:standardTextType"/>
+            <xs:element name="ordersClaimsJournalEnquiries" type="jss:standardTextType"/>
+            <xs:element name="publicationInformation" type="jss:standardTextType"/>
+            <xs:element name="copyPermDiscls">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="copyPermDiscl" type="jss:standardTextType" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="elsevierGmbHCopyrights">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="elsevierGmbHCopyright" type="jss:standardTextType" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="illustrationServices" type="jss:standardTextType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="standardTextType">
+        <xs:sequence>
+            <xs:element name="sectiontitle" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="p" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType mixed="true">
+                    <xs:all>
+                        <xs:element name="b" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                        <xs:element name="i" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                    </xs:all>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Simple types and patterns -->
+    <xs:simpleType name="journalCodeType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[A-Z][A-Z\d]{1,5}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="DateTimeType">
+        <xs:restriction base="xs:string">
+            <!-- <xs:pattern value="\d{2}/\d{2}/d{4} \d{2}:\d{2}:\d{2}"/> -->
+            <xs:pattern value="[0-9]{2}\/[0-9]{2}\/[0-9]{4} [0-9]{2}\:[0-9]{2}\:[0-9]{2}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="day">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="(01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|
+                17|18|19|20|21|22|23|24|25|26|27|28|29|30|31)"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="month">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="(01|02|03|04|05|06|07|08|09|10|11|12)"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="issnType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{4}-\d{3}[\dX]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="string1">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="1"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="string3">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="3"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="string4">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="4"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int01">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[0-1]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int02">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[0-2]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int03">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[0-3]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int13">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[1-3]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int04">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[0-4]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int05">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[0-5]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int12">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[1-2]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int06">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[0-6]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int16">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[1-6]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int07">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[0-7]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="int23">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[0-23]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="pitList">
+        <xs:restriction base="jss:string3">
+            <xs:enumeration value="ABS"/>
+            <xs:enumeration value="ADD"/>
+            <xs:enumeration value="ANN"/>
+            <xs:enumeration value="BRV"/>
+            <xs:enumeration value="CAL"/>
+            <xs:enumeration value="CNF"/>
+            <xs:enumeration value="CON"/>
+            <xs:enumeration value="COR"/>
+            <xs:enumeration value="DIS"/>
+            <xs:enumeration value="EDI"/>
+            <xs:enumeration value="ERR"/>
+            <xs:enumeration value="EXM"/>
+            <xs:enumeration value="FLA"/>
+            <xs:enumeration value="IND"/>
+            <xs:enumeration value="LIT"/>
+            <xs:enumeration value="MIS"/>
+            <xs:enumeration value="NWS"/>
+            <xs:enumeration value="OCN"/>
+            <xs:enumeration value="PNT"/>
+            <xs:enumeration value="PRP"/>
+            <xs:enumeration value="PRV"/>
+            <xs:enumeration value="PUB"/>
+            <xs:enumeration value="REQ"/>
+            <xs:enumeration value="REV"/>
+            <xs:enumeration value="SCO"/>
+            <xs:enumeration value="SSU"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

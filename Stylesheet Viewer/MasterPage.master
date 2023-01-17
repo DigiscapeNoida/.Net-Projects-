@@ -1,0 +1,117 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Stylesheet Viewer</title>
+         <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+      <script type="text/javascript" >
+         var ViewDD   = "";
+         var NormalDD   = "";
+         var AdvanceDD  = "";
+         history.forward(1);
+         function ResetDD()
+         {
+             if (document.getElementById("ctl00_ContentPlaceHolder1_NormalViewDropDownList")!=null)
+                 NormalDD  = document.getElementById("ctl00_ContentPlaceHolder1_NormalViewDropDownList").value;
+                 
+             if (document.getElementById("ctl00_ContentPlaceHolder1_DropDownList1"))
+                 AdvanceDD = document.getElementById("ctl00_ContentPlaceHolder1_DropDownList1").value;
+                 
+             if (document.getElementById("ctl00_ContentPlaceHolder1_ViewDropDownList"))
+                 ViewDD = document.getElementById("ctl00_ContentPlaceHolder1_ViewDropDownList").value;
+         }
+
+         function ErrMsg()
+         {
+            if (document.getElementById("ctl00_ContentPlaceHolder1_FileUpload1").value =="")
+            {
+                alert("Zip file path  must be filled.");
+                return false;
+            }
+            else if (document.getElementById("ctl00_ContentPlaceHolder1_FileUpload1").value.indexOf("jss.zip", 0) ==-1)
+            {
+                alert("Zip file name must be jss.zip.");
+                return false;
+            }
+            return true;
+         }
+         function CheckJID()
+         {
+                var select = document.getElementById('ctl00_ContentPlaceHolder1_NormalViewDropDownList');
+                if (select.options[select.selectedIndex].value == "-Select-") 
+                {
+                    alert('Please select another list item!');
+                    select.value = NormalDD; 
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+
+           function CheckAdvanceViewJID()
+           { 
+                var select = document.getElementById('ctl00_ContentPlaceHolder1_DropDownList1');
+                if (select.options[select.selectedIndex].value == "-Select-") 
+                {
+                    alert('Please select another list item!');
+                    select.value = AdvanceDD; 
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+           }
+           
+           function CheckViewList()
+           { 
+                var select = document.getElementById('ctl00_ContentPlaceHolder1_ViewDropDownList');
+                if (select.options[select.selectedIndex].value == "-Select-") 
+                {
+                    alert('Please select another list item!');
+                    select.value = ViewDD; 
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+           }
+           
+           function CheckConfirm()
+           {
+             var result= confirm("Do you want to update production site?");
+             if (result)
+                return true;
+             else
+                return false;
+           }
+      </script>
+</head>
+<body bgcolor= "white" style="margin: 0px; padding: 0px" margin-right="0" bottommargin="0" topmargin="0">
+   <form id="form1" runat="server">
+   <table cellspacing="0" cellpadding="0" align="center" width="1000px">
+    <tr>
+        <td  align="right"style="height: 112px; width: 900px;" valign="bottom">
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/image/banner.jpg" 
+                Width="1000px" />
+        </td>
+    </tr>
+    <tr>
+            <td colspan="2" align=center valign=middle style="width: 100%; height: 238px;">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+           </td>
+    </tr>
+     <tr>
+            <td  colspan="2" align="center" valign="bottom" style="color:#FFFFFF; font-size:12px; font-family: Arial; background-image:url('image/bg-footer.gif'); height:20px; width: 100%;">
+                  Copyright (&copy; ) 2010 Thomson Digital Maintained by: Software Development Team&nbsp;
+            </td>
+    </tr>
+    </table>
+     </form>
+
+</body>
+</html>

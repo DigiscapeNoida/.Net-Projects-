@@ -1,0 +1,15 @@
+﻿.heading {text-align:center;font-weight:bold; color: #B8860B; font-size:200%;}
+.head2 {color: Red ;}
+.head3 {font-variant:small-caps; color: #8B4513; text-align:left;}
+.lhs-head {color: #A52A2A; font-variant:small-caps; font-weight:bold;}
+.lhs-thead {color: #008B8B; font-variant:small-caps;}
+.lhs {color: #2F4F4F;}
+.rhs {color: #A52A2A;}
+.lhsb {color:#A52A2A; font-weight:bold;}
+.rhsb {color:#A52A2A; font-weight:bold;}
+.tbl1 {color: #808080;}
+.rhs-wd {color: red; font-weight:bold;}
+.rhs-nd {color: red; font-style:italic;}
+.tdText {text-align:left; font-weight:normal; color: brown;font-size:10px;font-family:Verdana}
+.tdLHead {font-family:Arial; font-size:25px; font-weight:bold; font-variant:small-caps; color:#800000;vertical-align:middle; text-align:center;}
+.gridHeader{background-image:url('image/menu.png');Color:#333; font-weight:bold; font-size:14px;font-family:Tahoma,Verdana,Segoe,sans-serif; }

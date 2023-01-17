@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="TDJSS.xsl"?>
+<journalStylesheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.elsevier.com/xml/schema/journalStylesheets"
+    xsi:schemaLocation="http://www.elsevier.com/xml/schema/journalStylesheets 
+http://www.elsevier.com/xml/schema/journalStylesheets/journalStylesheet.xsd" jss-version="2013.1">
+<baseData>
+<ptsData>
+<journalCode>AASPRO</journalCode>
+<ptsReportDate>24/08/2013 04:25:07</ptsReportDate>
+<journalNumber>8729</journalNumber>
+<journalTitle>Agriculture and Agricultural Science Procedia</journalTitle>
+<pmg>601</pmg>
+<pmc>982</pmc>
+<issn>2210-7843</issn>
+<epGroup>STM</epGroup>
+<productionSite>ESCH</productionSite>
+<journalDOICode>aaspro</journalDOICode>
+<journalDOIContentType>j</journalDOIContentType>
+<eSubmissionContentType></eSubmissionContentType>
+<expiryDate></expiryDate>
+<copyrightRemExec></copyrightRemExec>
+<colourConfRemExec></colourConfRemExec>
+<missingItemsRemExec></missingItemsRemExec>
+<authorProofRemExec></authorProofRemExec>
+<editorProofRemExec></editorProofRemExec>
+<typesetRedPTS>100</typesetRedPTS>
+<typesetRedCalc>100</typesetRedCalc>
+<averageItemPages>9.6</averageItemPages>
+<typesetModel>EU3sc+</typesetModel>
+<typesetter>Thomson Digital</typesetter>
+<journalManager>Alwyn, Jefeery</journalManager>
+<journalLSM>Moorthy, Sathiya</journalLSM>
+<copyrightHolder>E</copyrightHolder>
+<societyAffiliation></societyAffiliation>
+<copyrightStatement></copyrightStatement>
+<refStyle></refStyle>
+<opco>OCNL</opco>
+<printer>Henry Ling Ltd</printer>
+<printRun>0</printRun>
+<paperTypeInside>TEP50</paperTypeInside>
+<paperTypeCover>HEG200</paperTypeCover>
+<printType>E-Only</printType>
+<coverFinishing>Gloss Lamination</coverFinishing>
+<bindType>none</bindType>
+<backMargin>13</backMargin>
+<headMargin>16</headMargin>
+<righthandStart>0</righthandStart>
+<trimSize>192x262mm</trimSize>
+<timeBasedPublInd>0</timeBasedPublInd>
+<earlyBasedPublInd>0</earlyBasedPublInd>
+<fixedPlanInd>0</fixedPlanInd>
+<scanS0>0</scanS0>
+<capLightPlus>1</capLightPlus>
+<mfIndicator>0</mfIndicator>
+<copyEditLevel></copyEditLevel>
+<advCopyInd>0</advCopyInd>
+<s5Required>0</s5Required>
+<s100Required>0</s100Required>
+<s200Required>0</s200Required>
+<s300Required>1</s300Required>
+<cmS5Required>0</cmS5Required>
+<cmS100Required>0</cmS100Required>
+<cmS200Required>0</cmS200Required>
+<cmS250Required>0</cmS250Required>
+<cmS300Required>0</cmS300Required>
+<trackOffSysLabelsReq>0</trackOffSysLabelsReq>
+<deltaLabelRunInd>0</deltaLabelRunInd>
+<language>English</language>
+<eSuiteInd>1</eSuiteInd>
+<extLogin>1</extLogin>
+<additionalOPPaidCol>0</additionalOPPaidCol>
+<journalOPPriceList>0</journalOPPriceList>
+<journalPageCharges>-</journalPageCharges>
+<journalPaidColPageInd>0</journalPaidColPageInd>
+<copyrightTranInd>0</copyrightTranInd>
+<copyrightTranOnlineInd>1</copyrightTranOnlineInd>
+<defaultItemPIT>FLA</defaultItemPIT>
+<defaultIssuePIT>JRL</defaultIssuePIT>
+<defaultItemProd>CRC</defaultItemProd>
+<defaultIssueProd>ERC</defaultIssueProd>
+<journalAdmin>Debnath, Pinku</journalAdmin>
+<intJournalAdmin>Jaya Pavithra Bhaskaran</intJournalAdmin>
+<copyEditor></copyEditor>
+<journalTeamManager>Charles, Primal</journalTeamManager>
+<printLSM>Moorthy, Sathiya</printLSM>
+<binder>Henry Ling Ltd</binder>
+<issueSender>Henry Ling Ltd</issueSender>
+<offprintSender>No warehouse</offprintSender>
+<backIssueStorage></backIssueStorage>
+<offprintPrinter>No printer</offprintPrinter>
+<offprintFinisher></offprintFinisher>
+<ABP>0</ABP>
+<journalPaymentOnline>0</journalPaymentOnline>
+<eSubAcr></eSubAcr>
+<inHouseMC>0</inHouseMC>
+<zeroWarehousing>0</zeroWarehousing>
+</ptsData>
+<JM-EditData>
+<dateModified>10/06/2013 11:17:36</dateModified>
+<modifiedBy>SCIENCE\ALWYNJ</modifiedBy>
+<slaLocation></slaLocation>
+<slaComment></slaComment>
+<sla>0</sla>
+<mastercopying>0</mastercopying>
+<mastercopyingComment></mastercopyingComment>
+<approvedNonStandard>0</approvedNonStandard>
+<approvedNonStandardComment></approvedNonStandardComment>
+<scanS0Comment></scanS0Comment>
+<mfIndicatorComment></mfIndicatorComment>
+<extLoginComment><p>See section: Additional journal-specific login instructions</p></extLoginComment>
+<referenceStyleComment><p>For missing citations and/or uncited references, Do not problem; query author on the AQF</p></referenceStyleComment>
+</JM-EditData>
+</baseData>
+<cu>
+<history>
+<received>0</received>
+<revised>0</revised>
+<accepted>0</accepted>
+<generalHistoryComment></generalHistoryComment>
+<received_si>0</received_si>
+<revised_si>0</revised_si>
+<accepted_si>0</accepted_si>
+<specialIssueHistoryComment></specialIssueHistoryComment>
+<journalSpecificHistory>0</journalSpecificHistory>
+<journalSpecificHistoryText></journalSpecificHistoryText>
+<historyItemGroup>0</historyItemGroup>
+<historyItemGroupComment></historyItemGroupComment>
+<onlinePubDate>0</onlinePubDate>
+<onlinePubDateComment></onlinePubDateComment>
+</history>
+<abstract>
+<journalSpecificAbstract>0</journalSpecificAbstract>
+<journalSpecificAbstractComment></journalSpecificAbstractComment>
+</abstract>
+<graphicalAbstract>
+<journalSpecificGraphicalAbstract>1</journalSpecificGraphicalAbstract>
+<journalSpecificGraphicalAbstractComment></journalSpecificGraphicalAbstractComment>
+<gaFormat>0</gaFormat>
+<journalSpecificGATOC>0</journalSpecificGATOC>
+<journalSpecificGATOCComment></journalSpecificGATOCComment>
+<journalSpecificGATitlePage>0</journalSpecificGATitlePage>
+<journalSpecificGATitlePageComment></journalSpecificGATitlePageComment>
+</graphicalAbstract>
+<keywords>
+<journalSpecificKeywords>0</journalSpecificKeywords>
+<keywordSource>0</keywordSource>
+<keywordsMin></keywordsMin>
+<keywordsMax></keywordsMax>
+<journalSpecificKeywordsComment></journalSpecificKeywordsComment>
+</keywords>
+<highlights>
+<journalSpecificHighlights>1</journalSpecificHighlights>
+<journalSpecificHighlightsComment></journalSpecificHighlightsComment>
+</highlights>
+<classification>
+<journalSpecificClassification>0</journalSpecificClassification>
+<classificationSource></classificationSource>
+<classificationMin></classificationMin>
+<classificationMax></classificationMax>
+<journalSpecificClassificationComment></journalSpecificClassificationComment>
+</classification>
+<colour>
+<printedColour>0</printedColour>
+<freePrintedColour>0</freePrintedColour>
+<noFreeWebColour>0</noFreeWebColour>
+<firstPageFOC>0</firstPageFOC>
+<firstPageFOCComment></firstPageFOCComment>
+<costFirstColour>0</costFirstColour>
+<costNextColour>0</costNextColour>
+<currencyCode>EUR</currencyCode>
+<colourArtworkExceptions><p></p></colourArtworkExceptions>
+<colourFiguresCorrespondence>0</colourFiguresCorrespondence>
+<extraColourInstructions></extraColourInstructions>
+</colour>
+</cu>
+<s0>
+<itemreceipt>
+<quickBook>0</quickBook>
+<quickBookComment></quickBookComment>
+<receivedEES>0</receivedEES>
+<receivedEESComment></receivedEESComment>
+<receivedOmega>0</receivedOmega>
+<receivedOmegaComment></receivedOmegaComment>
+<receivedEmail>0</receivedEmail>
+<receivedEmailComment></receivedEmailComment>
+<receivedFTP>1</receivedFTP>
+<receivedFTPComment><p>All files placed on the supplier Login drive: ptsiiipa on 'elsoxfdatp25va'.</p><p>All files arrive as a complete issue together with the tracking sheet for the order of the items.</p></receivedFTPComment>
+<specialIssues>1</specialIssues>
+<specialIssuesComment><p>Each issue is a Special Issue.</p></specialIssuesComment>
+<otherReceipt></otherReceipt>
+</itemreceipt>
+<correspondence>
+<correspondenceAuthor>0</correspondenceAuthor>
+<correspondenceAuthorComment><p>For missing citations and/or uncited references, Do not problem; query author on the AQF.</p></correspondenceAuthorComment>
+<missingItemCorrespondence>2</missingItemCorrespondence>
+</correspondence>
+<offprints>
+<paperOffprints>0</paperOffprints>
+<eOffprint>0</eOffprint>
+<additionalFreePaper>0</additionalFreePaper>
+<extraOffprintInstructions><p>Don't send offprint form</p></extraOffprintInstructions>
+<freeIssues>0</freeIssues>
+<freeIssuesComment></freeIssuesComment>
+<freeIssuesSI>0</freeIssuesSI>
+<freeIssuesSIComment></freeIssuesSIComment>
+</offprints>
+<section></section>
+<additionalLoginInstructions></additionalLoginInstructions>
+</s0>
+<pit>
+<docHeads>
+<docheadComments><p>Dochead: No</p></docheadComments>
+</docHeads>
+<sectionHeads>
+<sectionHead>
+<sectionCode>CME</sectionCode>
+<sectionDescription>CME article</sectionDescription>
+<sectionExpired>0</sectionExpired>
+</sectionHead>
+<sectionComments><p>Section: No</p></sectionComments>
+</sectionHeads>
+<crossMark>
+<cmPIT></cmPIT>
+</crossMark>
+</pit>
+<s100>
+<heading>
+<numberingStyle>0</numberingStyle>
+<NSComment></NSComment>
+</heading>
+<roles>
+<motto>0</motto>
+<mottoComment></mottoComment>
+<caseReport>0</caseReport>
+<caseReportComment></caseReportComment>
+<noteinProof>0</noteinProof>
+<noteinProofComment></noteinProofComment>
+<materialsMethods>0</materialsMethods>
+<materialsMethodsComment></materialsMethodsComment>
+<results>0</results>
+<resultsComment></resultsComment>
+</roles>
+<intro>
+<introduction>1</introduction>
+<introductionComment></introductionComment>
+</intro>
+<CoI>
+<ConflictInterest>0</ConflictInterest>
+<CoIComment></CoIComment>
+</CoI>
+<bioInfo>
+<authorDetails>0</authorDetails>
+<ADComment></ADComment>
+</bioInfo>
+<floatLabel>
+<NSFloatLabel></NSFloatLabel>
+</floatLabel>
+<artwork>
+<journalSpecificArtwork>0</journalSpecificArtwork>
+<journalSpecificArtworkComment></journalSpecificArtworkComment>
+</artwork>
+<latexInfo>
+<latex>0</latex>
+<latexFrequency>0</latexFrequency>
+<latexComment></latexComment>
+</latexInfo>
+<proofing>
+<journalSpecificProofing>0</journalSpecificProofing>
+<proofsSentTo>N/A</proofsSentTo>
+<journalSpecificProofingComment></journalSpecificProofingComment>
+<changesPDFProofText>0</changesPDFProofText>
+<changesPDFProofTextComment></changesPDFProofTextComment>
+<webHostedProofing>1</webHostedProofing>
+</proofing>
+<additionalS100></additionalS100>
+</s100>
+<s200>
+<vip>
+<vipS200>0</vipS200>
+<vipS200Comment></vipS200Comment>
+</vip>
+<additionalS200><p>Workflow deviations: </p><p>S200s are never delivered as all items are CRC items.</p></additionalS200>
+</s200>
+<p100>
+<deliveryRequirements>2</deliveryRequirements>
+<additionalP100><p>1. DOI, updated banners, volume and page range should be included in every items. </p><p>2. every item needs to be delivered in P100 dataset.</p><p>3. In case of print, the contents has to be supplied.</p></additionalP100>
+</p100>
+<s300>
+<journalSpecificCover>4</journalSpecificCover>
+<journalSpecificCoverComment><p>Mostly standard, but specific cover artwork can be supplied in case of print.</p></journalSpecificCoverComment>
+<specialIssueCover>0</specialIssueCover>
+<specialIssueCoverComment></specialIssueCoverComment>
+<runOnItems>1</runOnItems>
+<runOnItemsComment></runOnItemsComment>
+<journalSpecificIndex>0</journalSpecificIndex>
+<journalSpecificIndexComment></journalSpecificIndexComment>
+<stylePrintedIssue>
+<printCapArticleTitle>0</printCapArticleTitle>
+<printCapArticleDochead>0</printCapArticleDochead>
+<printCapArticleSectionTitle>0</printCapArticleSectionTitle>
+<printCapIssueH1>0</printCapIssueH1>
+<printCapIssueH2>0</printCapIssueH2>
+<printCapSI>0</printCapSI>
+<additionalPrint><p>ERC - so print as is supplied</p></additionalPrint>
+</stylePrintedIssue>
+<style-e-issue>
+<eCapArticleTitle>0</eCapArticleTitle>
+<eCapArticleDochead>0</eCapArticleDochead>
+<eCapArticleSectionTitle>0</eCapArticleSectionTitle>
+<eCapIssueH1>0</eCapIssueH1>
+<eCapIssueH2>0</eCapIssueH2>
+<eCapSI>0</eCapSI>
+<additionalE><p>Make sure to deliver electronic content in the same way as supplied in source files! DO NOT change due to default instructions.</p></additionalE>
+</style-e-issue>
+<additionalJournalSpecificTypesetting></additionalJournalSpecificTypesetting>
+</s300>
+<editors>
+</editors>
+<print>
+<multipleVersion>0</multipleVersion>
+<multipleVersionComment></multipleVersionComment>
+<tipOns>0</tipOns>
+<tipOnsComment></tipOnsComment>
+<tipIns>0</tipIns>
+<tipInsComment></tipInsComment>
+<coverPerIssue>1</coverPerIssue>
+<coverPerIssueComment><p>Most issues are not printed. If they are, sometimes a specific cover will be supplied.</p></coverPerIssueComment>
+<coverStock>0</coverStock>
+<coverStockComment></coverStockComment>
+<advanceApproval>0</advanceApproval>
+<advanceApprovalComment></advanceApprovalComment>
+<additionalPrinter><p>There is no default printer. Per issue, it will be decided which printer to use.</p></additionalPrinter>
+</print>
+<despatch>
+<directPrinter>Always</directPrinter>
+<specialPackaging></specialPackaging>
+<priority></priority>
+<otherJournalSpecificDespatch><p>Labels are always off-system.</p><p>Either 1  delivery address will supplied in comments in the order; or Journal Manager will provide individual addresses per email.</p></otherJournalSpecificDespatch>
+</despatch>
+<standardText>
+<authorEnquiries>
+<sectiontitle>Implementation</sectiontitle><p>Details to be implemented separately.</p>
+</authorEnquiries>
+<enLanguageHelpService>
+<sectiontitle>Implementation</sectiontitle><p>Details to be implemented separately.</p>
+</enLanguageHelpService>
+<refCompleteGfA></refCompleteGfA>
+<noPageCharges></noPageCharges>
+<fundBdyAgreePol></fundBdyAgreePol>
+<advertisingInformation>
+<sectiontitle>Implementation</sectiontitle><p>Details to be implemented separately.</p>
+</advertisingInformation>
+<printersIndicia></printersIndicia>
+<sponSuppComRepr></sponSuppComRepr>
+<dropshipment>
+<sectiontitle>Implementation</sectiontitle><p>Details to be implemented separately.</p>
+</dropshipment>
+<sciSDLogo presence="0"/>
+<paperQuality></paperQuality>
+<ordersClaimsJournalEnquiries>
+<sectiontitle>Implementation</sectiontitle><p>Details to be implemented separately.</p>
+</ordersClaimsJournalEnquiries>
+<publicationInformation>
+<sectiontitle>Implementation</sectiontitle><p>Details to be implemented separately.</p>
+</publicationInformation>
+<copyPermDiscls>
+<copyPermDiscl>
+<sectiontitle>Implementation</sectiontitle><p>Details to be implemented separately.</p>
+</copyPermDiscl>
+</copyPermDiscls>
+</standardText>
+<otherInstructions></otherInstructions>
+</journalStylesheet>
