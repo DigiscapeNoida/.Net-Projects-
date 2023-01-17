@@ -1,0 +1,1072 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="ptsiiiorder.xsl" ?><!DOCTYPE orders SYSTEM "ptsiiiorder137.dtd">
+<orders>
+   <order>
+      <time day="31" month="10" yr="2012" hr="12" min="12" sec="03"/>
+      <po-number>T00235823</po-number>
+      <due-date>
+         <time day="06" month="11" yr="2012" hr="12" min="12" sec="03"/>
+      </due-date>
+      <prod-site>ESES - Elsevier España</prod-site>
+      <opco>OCES - Operating Company Elsevier España</opco>
+      <stage step="P100"/>
+      <executor type="PSP" addressee="no">
+         <exec-code>5TGAG</exec-code>
+         <exec-name>Gago</exec-name>
+         <aff>
+            <organization>Elsevier Doyma</organization>
+            <address>Travessera de Gràcia, 17-21</address>
+            <zipcode zipcode-pos="BEFORECTY">08021</zipcode>
+            <cty>Barcelona</cty>
+            <cny>Spain</cny>
+            <tel>+34 933665714</tel>
+         </aff>
+      </executor>
+      <executor type="ES" addressee="no">
+         <exec-code>5MVAL</exec-code>
+         <exec-name>Valero</exec-name>
+         <aff>
+            <organization>Elsevier Doyma</organization>
+            <inst-contd>Editorial-Revistas</inst-contd>
+            <address>Travessera de Gràcia, 17-21</address>
+            <zipcode zipcode-pos="BEFORECTY">08021</zipcode>
+            <cty>Barcelona</cty>
+            <cny>Spain</cny>
+            <tel>+ 34 933 665 730</tel>
+         </aff>
+      </executor>
+      <executor type="TYPESETTER" addressee="yes">
+         <exec-code>THOM</exec-code>
+         <exec-name>Thomson Digital</exec-name>
+         <aff>
+            <address>B/10-12</address>
+            <address-contd>Noida Special Economic Zone</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">201 305</zipcode>
+            <cty>Noida</cty>
+            <cny>India</cny>
+            <tel>+91-120-256 2499</tel>
+            <fax>+91-120-256 2299</fax>
+         </aff>
+      </executor>
+      <executor type="WAREHOUSE" addressee="no">
+         <exec-code>NOWAR</exec-code>
+         <exec-name>No warehouse</exec-name>
+         <aff>
+            <organization>Elsevier</organization>
+            <cny>Netherlands</cny>
+         </aff>
+      </executor>
+      <executor type="PRINTER" addressee="no">
+         <exec-code>NOPRI</exec-code>
+         <exec-name>No printer</exec-name>
+         <aff>
+            <organization>Elsevier</organization>
+            <cny>Netherlands</cny>
+         </aff>
+      </executor>
+      <executor type="BINDER" addressee="no">
+         <exec-code>NOBIN</exec-code>
+         <exec-name>No binder</exec-name>
+         <aff>
+            <organization>Elsevier</organization>
+            <cny>Netherlands</cny>
+         </aff>
+      </executor>
+      <issue-info>
+         <general-info>
+            <version-no>P100.1</version-no>
+            <pii>S1885-5857(12)X0011-2</pii>
+            <issue-production-type>ELE</issue-production-type>
+            <buffer-status status="no"/>
+            <jid>REC</jid>
+            <journal-no>15702</journal-no>
+            <issn>1885-5857</issn>
+            <journal-title>Revista Española de Cardiología (English Edition)</journal-title>
+            <vol-from>65</vol-from>
+            <iss-from>12</iss-from>
+            <paper-type-interior>1NONE</paper-type-interior>
+            <paper-type-cover>1NONE</paper-type-cover>
+            <cover-finishing>No cover finish</cover-finishing>
+            <print-type>E-Only</print-type>
+            <binding-type>none</binding-type>
+            <trimmed-size>NONE</trimmed-size>
+            <head-margin>0</head-margin>
+            <back-margin>0</back-margin>
+            <typeset-model>Non-standard</typeset-model>
+            <righthand-start>N</righthand-start>
+            <issue-weight>0</issue-weight>
+            <spine-width>0</spine-width>
+            <effect-cover-date>201212</effect-cover-date>
+            <cover-date>
+               <date-range>
+                  <start-date>201212</start-date>
+               </date-range>
+            </cover-date>
+            <cover-date-printed>December 2012</cover-date-printed>
+            <no-pages-prelims>0</no-pages-prelims>
+            <no-pages-interior>78</no-pages-interior>
+            <no-pages-extra>0</no-pages-extra>
+            <no-pages-insert>0</no-pages-insert>
+            <no-pages-bm>0</no-pages-bm>
+            <no-pages-print>78</no-pages-print>
+            <no-pages-web>0</no-pages-web>
+            <no-pages-total>78</no-pages-total>
+            <no-pages-blank>2</no-pages-blank>
+            <no-pages-adverts>0</no-pages-adverts>
+            <page-ranges>
+               <page-range type="INTERIOR">
+                  <first-page>1069</first-page>
+                  <last-page>1146</last-page>
+               </page-range>
+            </page-ranges>
+         </general-info>
+         <issue-content>
+            <row type="non-ce">
+               <item-title>CO1</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO1</page-from>
+               <page-to>CO1</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="blank">
+               <item-title>Blank</item-title>
+               <prefix>CO</prefix>
+               <page-from>CO2</page-from>
+               <page-to>CO2</page-to>
+               <online-version type="print"/>
+               <e-suite>no</e-suite>
+            </row>
+            <row type="h1">
+               <item-title>Editorials</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H1</prefix>
+               <page-from>H1</page-from>
+               <page-to>H1</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>688</aid>
+               <pii>S1885-5857(12)00262-9</pii>
+               <doi>10.1016/j.rec.2012.06.007</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Trends in Myocardial Infarction Mortality in Spain and the United States: a Downhill or Uphill Race in the Twenty-First Century?</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="03" month="06" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>A.</fnm>
+                  <snm>Moran</snm>
+                  <aff>
+                     <ead>aem35@columbia.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>SCO</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1069</page-from>
+               <page-to>1071</page-to>
+               <pdf-pages>3</pdf-pages>
+               <online-publ-date>
+                  <date day="28" month="08" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S1885-5857(12)00167-3</pii>
+                  <doi>10.1016/j.rec.2012.02.025</doi>
+                  <jid>REC</jid>
+                  <aid>581</aid>
+                  <pit>FLA</pit>
+               </refers-to-document>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00425-3</pii>
+                  <doi>10.1016/j.recesp.2012.06.017</doi>
+                  <jid>RECESP</jid>
+                  <aid>688</aid>
+                  <pit>SCO</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>694</aid>
+               <pii>S1885-5857(12)00268-X</pii>
+               <doi>10.1016/j.rec.2012.06.010</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Prevention of Infective Endocarditis: Between  Progress in Scientific Knowledge and the Lack of Randomized Trials</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="03" month="06" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>SCO</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1072</page-from>
+               <page-to>1074</page-to>
+               <pdf-pages>3</pdf-pages>
+               <online-publ-date>
+                  <date day="05" month="10" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00431-9</pii>
+                  <doi>10.1016/j.recesp.2012.06.020</doi>
+                  <jid>RECESP</jid>
+                  <aid>694</aid>
+                  <pit>SCO</pit>
+               </refers-to-document>
+               <refers-to-document>
+                  <pii>S1885-5857(12)00201-0</pii>
+                  <doi>10.1016/j.rec.2012.04.007</doi>
+                  <jid>REC</jid>
+                  <aid>621</aid>
+                  <pit>COR</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>713</aid>
+               <pii>S1885-5857(12)00280-0</pii>
+               <doi>10.1016/j.rec.2012.06.017</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Effects of High-Altitude Exposure on the Pulmonary Circulation</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="25" month="06" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>REC-12-374</eo-item-nr>
+               <pit>SCO</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1075</page-from>
+               <page-to>1078</page-to>
+               <pdf-pages>4</pdf-pages>
+               <online-publ-date>
+                  <date day="12" month="10" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00460-5</pii>
+                  <doi>10.1016/j.recesp.2012.06.027</doi>
+                  <jid>RECESP</jid>
+                  <aid>713</aid>
+                  <pit>SCO</pit>
+               </refers-to-document>
+            </row>
+            <row type="h1">
+               <item-title>Original articles</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H1</prefix>
+               <page-from>H1</page-from>
+               <page-to>H1</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="h2">
+               <item-title>Epidemiology, risk factors and prevention</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H2</prefix>
+               <page-from>H2</page-from>
+               <page-to>H2</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>581</aid>
+               <pii>S1885-5857(12)00167-3</pii>
+               <doi>10.1016/j.rec.2012.02.025</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Trends in Mortality From Myocardial Infarction. A Comparative Study Between Spain and the United States: 1990-2006</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="16" month="02" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>V.</fnm>
+                  <snm>Bertomeu-González</snm>
+                  <aff>
+                     <ead>vbertog@gmail.com</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1079</page-from>
+               <page-to>1085</page-to>
+               <pdf-pages>7</pdf-pages>
+               <online-publ-date>
+                  <date day="23" month="06" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00232-1</pii>
+                  <doi>10.1016/j.recesp.2012.02.026</doi>
+                  <jid>RECESP</jid>
+                  <aid>581</aid>
+                  <pit>FLA</pit>
+               </refers-to-document>
+               <refers-to-document>
+                  <pii>S1885-5857(12)00262-9</pii>
+                  <doi>10.1016/j.rec.2012.06.007</doi>
+                  <jid>REC</jid>
+                  <aid>688</aid>
+                  <pit>SCO</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>710</aid>
+               <pii>S1885-5857(12)00277-0</pii>
+               <doi>10.1016/j.rec.2012.04.019</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Carotid Intima-Media Thickness in the Spanish Population: Reference Ranges and Association With Cardiovascular Risk Factors</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="18" month="04" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Maria</fnm>
+                  <snm>Grau</snm>
+                  <aff>
+                     <ead>mgrau@imim.es</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>REC-12-126</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1086</page-from>
+               <page-to>1093</page-to>
+               <pdf-pages>8</pdf-pages>
+               <online-publ-date>
+                  <date day="28" month="09" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <no-e-components>1</no-e-components>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00457-5</pii>
+                  <doi>10.1016/j.recesp.2012.04.026</doi>
+                  <jid>RECESP</jid>
+                  <aid>710</aid>
+                  <pit>FLA</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>664</aid>
+               <pii>S1885-5857(12)00230-7</pii>
+               <doi>10.1016/j.rec.2012.05.005</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Relationship of Central and Peripheral Blood Pressure to Left Ventricular Mass in Hypertensive Patients</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="11" month="05" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1094</page-from>
+               <page-to>1100</page-to>
+               <pdf-pages>7</pdf-pages>
+               <online-publ-date>
+                  <date day="25" month="08" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00374-0</pii>
+                  <doi>10.1016/j.recesp.2012.05.008</doi>
+                  <jid>RECESP</jid>
+                  <aid>664</aid>
+                  <pit>FLA</pit>
+               </refers-to-document>
+            </row>
+            <row type="h2">
+               <item-title>Ischemic heart disease</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H2</prefix>
+               <page-from>H2</page-from>
+               <page-to>H2</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>709</aid>
+               <pii>S1885-5857(12)00276-9</pii>
+               <doi>10.1016/j.rec.2012.05.015</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>A Prominent R Wave in V1 but not in V2 Is a Specific Sign of a Large Lateral Transmural Infarction</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="28" month="05" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Daniele</fnm>
+                  <snm>Rovai</snm>
+                  <aff>
+                     <ead>drovai@ifc.cnr.it</ead>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>12-155</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1101</page-from>
+               <page-to>1105</page-to>
+               <pdf-pages>5</pdf-pages>
+               <online-publ-date>
+                  <date day="24" month="09" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00456-3</pii>
+                  <doi>10.1016/j.recesp.2012.05.018</doi>
+                  <jid>RECESP</jid>
+                  <aid>709</aid>
+                  <pit>FLA</pit>
+               </refers-to-document>
+            </row>
+            <row type="h1">
+               <item-title>Special articles</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H1</prefix>
+               <page-from>H1</page-from>
+               <page-to>H1</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>731</aid>
+               <pii>S1885-5857(12)00314-3</pii>
+               <doi>10.1016/j.rec.2012.07.013</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Spanish Cardiac Catheterization and Coronary Intervention Registry. 21st Official Report of the Spanish Society of Cardiology Working Group on Cardiac Catheterization and Interventional Cardiology (1990-2011)</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="30" month="07" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>12-467</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1106</page-from>
+               <page-to>1116</page-to>
+               <pdf-pages>11</pdf-pages>
+               <online-publ-date>
+                  <date day="12" month="10" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00507-6</pii>
+                  <doi>10.1016/j.recesp.2012.07.021</doi>
+                  <jid>RECESP</jid>
+                  <aid>731</aid>
+                  <pit>FLA</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>732</aid>
+               <pii>S1885-5857(12)00315-5</pii>
+               <doi>10.1016/j.rec.2012.09.001</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Spanish Pacemaker Registry. Ninth Official Report of the Spanish Society of Cardiology Working Group on Cardiac Pacing (2011)</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="04" month="09" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>12-478</eo-item-nr>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1117</page-from>
+               <page-to>1132</page-to>
+               <pdf-pages>16</pdf-pages>
+               <online-publ-date>
+                  <date day="22" month="10" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00508-8</pii>
+                  <doi>10.1016/j.recesp.2012.09.002</doi>
+                  <jid>RECESP</jid>
+                  <aid>732</aid>
+                  <pit>FLA</pit>
+               </refers-to-document>
+            </row>
+            <row type="h1">
+               <item-title>Image in cardiology</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H1</prefix>
+               <page-from>H1</page-from>
+               <page-to>H1</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>138</aid>
+               <pii>S1885-5857(11)00200-3</pii>
+               <doi>10.1016/j.rec.2011.01.002</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Leriche’s Syndrome and Thoracic Aortic Mural Thrombus</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="20" month="01" yr="2011"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <eo-item-nr>10-794 st12</eo-item-nr>
+               <pit>SCO</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1133</page-from>
+               <page-to>1133</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-publ-date>
+                  <date day="08" month="06" yr="2011"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(11)00252-1</pii>
+                  <doi>10.1016/j.recesp.2011.01.002</doi>
+                  <jid>RECESP</jid>
+                  <aid>138</aid>
+                  <pit>SCO</pit>
+               </refers-to-document>
+            </row>
+            <row type="h1">
+               <item-title>Scientific letters</item-title>
+               <pit>ZZZ</pit>
+               <prefix>H1</prefix>
+               <page-from>H1</page-from>
+               <page-to>H1</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>621</aid>
+               <pii>S1885-5857(12)00201-0</pii>
+               <doi>10.1016/j.rec.2012.04.007</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Knowledge of Infective Endocarditis and Prophylaxis Among Spanish Dentists</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="14" month="04" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1134</page-from>
+               <page-to>1135</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-publ-date>
+                  <date day="21" month="07" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00306-5</pii>
+                  <doi>10.1016/j.recesp.2012.04.008</doi>
+                  <jid>RECESP</jid>
+                  <aid>621</aid>
+                  <pit>COR</pit>
+               </refers-to-document>
+               <refers-to-document>
+                  <pii>S1885-5857(12)00268-X</pii>
+                  <doi>10.1016/j.rec.2012.06.010</doi>
+                  <jid>REC</jid>
+                  <aid>694</aid>
+                  <pit>SCO</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>620</aid>
+               <pii>S1885-5857(12)00200-9</pii>
+               <doi>10.1016/j.rec.2012.03.021</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>A Heart Sound Simulator as an Effective Aid in Teaching Cardiac Auscultation to Medical Students and Internal Medicine Residents</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="25" month="03" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1136</page-from>
+               <page-to>1137</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-publ-date>
+                  <date day="13" month="07" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00305-3</pii>
+                  <doi>10.1016/j.recesp.2012.03.022</doi>
+                  <jid>RECESP</jid>
+                  <aid>620</aid>
+                  <pit>COR</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>622</aid>
+               <pii>S1885-5857(12)00202-2</pii>
+               <doi>10.1016/j.rec.2012.04.008</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Malignant Ventricular Arrhythmias During Surgical Procedures for Pacemaker Generator Replacement: Description of Two Cases</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="14" month="04" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1138</page-from>
+               <page-to>1139</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-publ-date>
+                  <date day="17" month="07" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00307-7</pii>
+                  <doi>10.1016/j.recesp.2012.04.009</doi>
+                  <jid>RECESP</jid>
+                  <aid>622</aid>
+                  <pit>COR</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>646</aid>
+               <pii>S1885-5857(12)00207-1</pii>
+               <doi>10.1016/j.rec.2012.04.011</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Cardiogenic Shock Secondary to Metamizole-Induced Type II Kounis Syndrome</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="14" month="04" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1140</page-from>
+               <page-to>1141</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-publ-date>
+                  <date day="19" month="07" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00331-4</pii>
+                  <doi>10.1016/j.recesp.2012.04.017</doi>
+                  <jid>RECESP</jid>
+                  <aid>646</aid>
+                  <pit>COR</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>648</aid>
+               <pii>S1885-5857(12)00209-5</pii>
+               <doi>10.1016/j.rec.2012.04.013</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Late Arterial Switch, Without Previous Preparation or Extracorporeal Membrane Oxygenation Back-Up</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="22" month="04" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1142</page-from>
+               <page-to>1143</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-publ-date>
+                  <date day="27" month="07" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00333-8</pii>
+                  <doi>10.1016/j.recesp.2012.04.019</doi>
+                  <jid>RECESP</jid>
+                  <aid>648</aid>
+                  <pit>COR</pit>
+               </refers-to-document>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>no</crossmark>
+               <aid>651</aid>
+               <pii>S1885-5857(12)00212-5</pii>
+               <doi>10.1016/j.rec.2012.04.015</doi>
+               <embargo-until-stage>NONE</embargo-until-stage>
+               <item-title>Direct Transaortic Access for Transcatheter Aortic Valve Implantations With the Self-Expanding CoreValve® Prosthesis: a Series of 2 Cases</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="22" month="04" yr="2012"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>COR</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>1144</page-from>
+               <page-to>1145</page-to>
+               <pdf-pages>2</pdf-pages>
+               <online-publ-date>
+                  <date day="28" month="07" yr="2012"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+               <refers-to-document>
+                  <pii>S0300-8932(12)00342-9</pii>
+                  <doi>10.1016/j.recesp.2012.04.021</doi>
+                  <jid>RECESP</jid>
+                  <aid>651</aid>
+                  <pit>COR</pit>
+               </refers-to-document>
+            </row>
+            <row type="blank">
+               <item-title>Blank</item-title>
+               <prefix/>
+               <page-from>1146</page-from>
+               <page-to>1146</page-to>
+               <online-version type="print"/>
+               <e-suite>no</e-suite>
+            </row>
+            <row type="he">
+               <item-title>-</item-title>
+               <pit>ZZZ</pit>
+               <prefix>HE</prefix>
+               <page-from>HE</page-from>
+               <page-to>HE</page-to>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+         </issue-content>
+         <issue-remarks>
+            <issue-remark>
+               <remark-type>Compile issue</remark-type>
+               <remark>VALEROM 31-OCT-12
+        I upload to EWII:
+____A jpg file with the figure for the cover (COVER-IMAGE) and instructions (cover image_instructions. Pdf).
+____ A word document with the titles cover (COVER-TITLE-ENGLISH.doc)
+___ I upload corrections in some items.
+_____  I have included the page-range in SCIENTIFIC LETTERS and LETTERS TO THE EDITOR . Please, check and send problem if it is incorrect.
+____ Please, send all items for approval at P100 stage
+
+        </remark>
+               <response/>
+            </issue-remark>
+         </issue-remarks>
+      </issue-info>
+   </order>
+</orders>

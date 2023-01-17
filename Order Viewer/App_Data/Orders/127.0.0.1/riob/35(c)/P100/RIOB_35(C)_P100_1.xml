@@ -1,0 +1,738 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="ptsiiiorder.xsl" ?><!DOCTYPE orders SYSTEM "ptsiiiorder144.dtd">
+<orders>
+   <order>
+      <time day="02" month="12" yr="2015" hr="12" min="36" sec="06"/>
+      <po-number>T00303364</po-number>
+      <due-date>
+         <time day="26" month="11" yr="2015" hr="00" min="01" sec="36"/>
+      </due-date>
+      <prod-site>ESCH - Elsevier India Pvt Ltd.</prod-site>
+      <opco>OCUK - Operating Company Elsevier Ltd</opco>
+      <stage step="P100"/>
+      <executor type="PSP" addressee="no">
+         <exec-code>CHNEE</exec-code>
+         <exec-name>Neeraja</exec-name>
+         <aff>
+            <inst-contd>EPD</inst-contd>
+            <address>Ascendas International Tech Park</address>
+            <address-contd>12th floor, 2nd phase, Taramani</address-contd>
+            <cty>Chennai</cty>
+            <cny>India</cny>
+            <tel>+91 44 42994422</tel>
+         </aff>
+      </executor>
+      <executor type="ES" addressee="no">
+         <exec-code>CSANR</exec-code>
+         <exec-name>Rao</exec-name>
+         <aff>
+            <address>International Tech Park</address>
+            <address-contd>Crest - 12th Floor Unit 3</address-contd>
+            <zipcode>600113</zipcode>
+            <cty>Chennai</cty>
+         </aff>
+      </executor>
+      <executor type="TYPESETTER" addressee="yes">
+         <exec-code>THOM</exec-code>
+         <exec-name>Thomson Digital</exec-name>
+         <aff>
+            <address>B/10-12</address>
+            <address-contd>Noida Special Economic Zone</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">201 305</zipcode>
+            <cty>Noida</cty>
+            <cny>India</cny>
+            <tel>+91-120-256 2499</tel>
+            <fax>+91-120-256 2299</fax>
+         </aff>
+      </executor>
+      <executor type="WAREHOUSE" addressee="no">
+         <exec-code>LING1</exec-code>
+         <exec-name>Henry Ling Ltd</exec-name>
+         <aff>
+            <address>The Dorset Press</address>
+            <address-contd>23 High East Street</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">DT1 1HD</zipcode>
+            <cty>Dorchester</cty>
+            <cny>United Kingdom</cny>
+            <tel>+44 1305 251066</tel>
+            <fax>+44 1305 251908</fax>
+         </aff>
+      </executor>
+      <executor type="PRINTER" addressee="no">
+         <exec-code>LING1</exec-code>
+         <exec-name>Henry Ling Ltd</exec-name>
+         <aff>
+            <address>The Dorset Press</address>
+            <address-contd>23 High East Street</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">DT1 1HD</zipcode>
+            <cty>Dorchester</cty>
+            <cny>United Kingdom</cny>
+            <tel>+44 1305 251066</tel>
+            <fax>+44 1305 251908</fax>
+         </aff>
+      </executor>
+      <executor type="BINDER" addressee="no">
+         <exec-code>LING1</exec-code>
+         <exec-name>Henry Ling Ltd</exec-name>
+         <aff>
+            <address>The Dorset Press</address>
+            <address-contd>23 High East Street</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">DT1 1HD</zipcode>
+            <cty>Dorchester</cty>
+            <cny>United Kingdom</cny>
+            <tel>+44 1305 251066</tel>
+            <fax>+44 1305 251908</fax>
+         </aff>
+      </executor>
+      <issue-info>
+         <general-info>
+            <version-no>P100.1</version-no>
+            <pii>S0191-3085(15)X0002-5</pii>
+            <issue-production-type>ABO</issue-production-type>
+            <buffer-status status="no"/>
+            <jid>RIOB</jid>
+            <journal-no>12702</journal-no>
+            <issn>0191-3085</issn>
+            <journal-title>Research in Organizational Behavior</journal-title>
+            <vol-from>35</vol-from>
+            <supp>C</supp>
+            <paper-type-interior>CLS70</paper-type-interior>
+            <paper-type-cover>QUG200</paper-type-cover>
+            <cover-finishing>Gloss Lamination</cover-finishing>
+            <cover-print-type>Digital</cover-print-type>
+            <print-type>Inkjet</print-type>
+            <binding-type>perfect</binding-type>
+            <offprint-type>High Quality</offprint-type>
+            <trimmed-size>192x262mm</trimmed-size>
+            <head-margin>12.4</head-margin>
+            <back-margin>13</back-margin>
+            <typeset-model>EU3Gdc</typeset-model>
+            <righthand-start>Y</righthand-start>
+            <issue-weight>409.11</issue-weight>
+            <spine-width>8.14</spine-width>
+            <effect-cover-date>2015</effect-cover-date>
+            <cover-date>
+               <date-range>
+                  <start-date>2015</start-date>
+               </date-range>
+            </cover-date>
+            <cover-date-printed>2015</cover-date-printed>
+            <no-pages-prelims>4</no-pages-prelims>
+            <no-pages-interior>208</no-pages-interior>
+            <no-pages-extra>0</no-pages-extra>
+            <no-pages-insert>0</no-pages-insert>
+            <no-pages-bm>0</no-pages-bm>
+            <no-pages-print>212</no-pages-print>
+            <no-pages-web>0</no-pages-web>
+            <no-pages-total>212</no-pages-total>
+            <no-pages-blank>6</no-pages-blank>
+            <no-pages-adverts>0</no-pages-adverts>
+            <page-ranges>
+               <page-range type="PRELIM">
+                  <first-page>i</first-page>
+                  <last-page>iv</last-page>
+               </page-range>
+               <page-range type="INTERIOR">
+                  <first-page>1</first-page>
+                  <last-page>208</last-page>
+               </page-range>
+            </page-ranges>
+            <paid-ads paid-ads="no"/>
+         </general-info>
+         <issue-content>
+            <row type="non-ce">
+               <item-title>Outside Front Cover</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO1</page-from>
+               <page-to>CO1</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="non-ce">
+               <item-title>Copyright/Publication Information</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO2</page-from>
+               <page-to>CO2</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="non-ce">
+               <item-title>Title Page</item-title>
+               <pit>ZZZ</pit>
+               <prefix>FM</prefix>
+               <page-from>i</page-from>
+               <page-to>i</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <aid>80000079</aid>
+               <pii>S0191-3085(15)00015-5</pii>
+               <doi>10.1016/S0191-3085(15)00015-5</doi>
+               <item-title>List of Contributors</item-title>
+               <pit>IND</pit>
+               <prefix>FM</prefix>
+               <page-from>ii</page-from>
+               <page-to>ii</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="non-ce">
+               <item-title>Contents</item-title>
+               <pit>ZZZ</pit>
+               <prefix>FM</prefix>
+               <page-from>iii</page-from>
+               <page-to>iii</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="blank">
+               <item-title>Blank</item-title>
+               <prefix>FM</prefix>
+               <page-from>iv</page-from>
+               <page-to>iv</page-to>
+               <online-version type="print"/>
+               <e-suite>no</e-suite>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>87</aid>
+               <pii>S0191-3085(15)00011-8</pii>
+               <doi>10.1016/j.riob.2015.11.001</doi>
+               <item-title>Preface</item-title>
+               <copyright-status>001</copyright-status>
+               <corr-author>
+                  <snm>No Author</snm>
+                  <aff>
+                     <organization>USE THIS AUTHOR FOR ARTICLES WITH NO AUTHOR!!!</organization>
+                     <address>DO NOT OVERWRITE THIS AUTHOR !!!</address>
+                     <cty>DO NOT OVERWRITE THIS AUTHOR !!!</cty>
+                  </aff>
+               </corr-author>
+               <pit>EDI</pit>
+               <prefix/>
+               <page-from>1</page-from>
+               <page-to>2</page-to>
+               <pdf-pages>0</pdf-pages>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>Y</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>82</aid>
+               <pii>S0191-3085(15)00006-4</pii>
+               <doi>10.1016/j.riob.2015.09.002</doi>
+               <item-title>A Pawn in Someone Else’s Game?: The Cognitive, Motivational, and Paradigmatic Barriers to Women’s Excelling in Negotiation</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="10" month="10" yr="2015"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Jessica A.</fnm>
+                  <snm>Kennedy</snm>
+                  <aff>
+                     <organization>Vanderbilt University</organization>
+                     <institute>Owen Graduate School of Management</institute>
+                     <address>401 21st Avenue South</address>
+                     <zipcode>37203</zipcode>
+                     <cty>Nashville, TN</cty>
+                     <cny>United States</cny>
+                     <tel>415-640-5404</tel>
+                     <ead>jessica.kennedy@owen.vanderbilt.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>3</page-from>
+               <page-to>28</page-to>
+               <pdf-pages>26</pdf-pages>
+               <online-publ-date>
+                  <date day="23" month="10" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>86</aid>
+               <pii>S0191-3085(15)00010-6</pii>
+               <doi>10.1016/j.riob.2015.10.004</doi>
+               <item-title>When, why, and how do powerholders “feel the power”? Examining the links between structural and psychological power and reviving the connection between power and responsibility</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="12" month="10" yr="2015"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Leigh Plunkett</fnm>
+                  <snm>Tost</snm>
+                  <aff>
+                     <organization>University of Michigan</organization>
+                     <institute>Ross School of Business</institute>
+                     <address>701 Tappan Street</address>
+                     <zipcode>48109</zipcode>
+                     <cty>Ann Arbor, MI</cty>
+                     <tel>48109</tel>
+                     <ead>lptost@umich.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>29</page-from>
+               <page-to>56</page-to>
+               <pdf-pages>28</pdf-pages>
+               <online-publ-date>
+                  <date day="14" month="11" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>83</aid>
+               <pii>S0191-3085(15)00007-6</pii>
+               <doi>10.1016/j.riob.2015.10.001</doi>
+               <item-title>RACISM AND DISCRIMINATION VERSUS ADVANTAGE AND FAVORITISM: BIAS FOR VERSUS BIAS AGAINST</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="07" month="10" yr="2015"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Nancy</fnm>
+                  <snm>DiTomaso</snm>
+                  <aff>
+                     <organization>Rutgers Business School—Newark and New Brunswick</organization>
+                     <institute>Department of Management and Organizations</institute>
+                     <ead>ditomaso@business.rutgers.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>57</page-from>
+               <page-to>77</page-to>
+               <pdf-pages>21</pdf-pages>
+               <online-publ-date>
+                  <date day="21" month="10" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>Y</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="blank">
+               <item-title>Blank</item-title>
+               <prefix/>
+               <page-from>78</page-from>
+               <page-to>78</page-to>
+               <online-version type="print"/>
+               <e-suite>yes</e-suite>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>80</aid>
+               <pii>S0191-3085(15)00004-0</pii>
+               <doi>10.1016/j.riob.2015.07.003</doi>
+               <item-title>The Promise and Perversity of Perspective-Taking in Organizations</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="29" month="07" yr="2015"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Gillian</fnm>
+                  <snm>Ku</snm>
+                  <aff>
+                     <organization>London Business School</organization>
+                     <ead>gku@london.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>79</page-from>
+               <page-to>102</page-to>
+               <pdf-pages>24</pdf-pages>
+               <online-publ-date>
+                  <date day="14" month="08" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>Y</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>79</aid>
+               <pii>S0191-3085(15)00003-9</pii>
+               <doi>10.1016/j.riob.2015.07.002</doi>
+               <item-title>Riding the Fifth Wave: Organizational Justice as Dependent Variable</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="13" month="08" yr="2015"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Joel</fnm>
+                  <snm>Brockner</snm>
+                  <aff>
+                     <organization>Columbia University</organization>
+                     <ead>jb54@gsb.columbia.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>103</page-from>
+               <page-to>121</page-to>
+               <pdf-pages>19</pdf-pages>
+               <online-publ-date>
+                  <date day="25" month="08" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>N</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="blank">
+               <item-title>Blank</item-title>
+               <prefix/>
+               <page-from>122</page-from>
+               <page-to>122</page-to>
+               <online-version type="print"/>
+               <e-suite>yes</e-suite>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>81</aid>
+               <pii>S0191-3085(15)00005-2</pii>
+               <doi>10.1016/j.riob.2015.09.001</doi>
+               <item-title>How to Motivate Yourself and Others? Intended and Unintended Consequences</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="15" month="10" yr="2015"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Juliana</fnm>
+                  <snm>Schroeder</snm>
+                  <aff>
+                     <organization>University of California</organization>
+                     <institute>Haas School of Business</institute>
+                     <address>Haas School of Business</address>
+                     <zipcode>94720</zipcode>
+                     <cty>Berkeley, CA</cty>
+                     <cny>United States</cny>
+                     <ead>jschroeder@haas.berkeley.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>123</page-from>
+               <page-to>141</page-to>
+               <pdf-pages>19</pdf-pages>
+               <online-publ-date>
+                  <date day="19" month="10" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>Y</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="blank">
+               <item-title>Blank</item-title>
+               <prefix/>
+               <page-from>142</page-from>
+               <page-to>142</page-to>
+               <online-version type="print"/>
+               <e-suite>yes</e-suite>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>78</aid>
+               <pii>S0191-3085(15)00002-7</pii>
+               <doi>10.1016/j.riob.2015.07.001</doi>
+               <item-title>The High Cost of Low Wages: Economic Scarcity Effects in Organizations</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="29" month="07" yr="2015"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Jirs</fnm>
+                  <snm>Meuris</snm>
+                  <aff>
+                     <organization>University of Pittsburgh</organization>
+                     <ead>JIM30@pitt.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>143</page-from>
+               <page-to>158</page-to>
+               <pdf-pages>16</pdf-pages>
+               <online-publ-date>
+                  <date day="24" month="08" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>Y</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>85</aid>
+               <pii>S0191-3085(15)00009-X</pii>
+               <doi>10.1016/j.riob.2015.10.003</doi>
+               <item-title>Intergenerational Resource Tensions in the Workplace and Beyond: Individual, Interpersonal, Institutional, International</item-title>
+               <copyright-status>002</copyright-status>
+               <copyright-recd-date>
+                  <date day="09" month="10" yr="2015"/>
+               </copyright-recd-date>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Michael S.</fnm>
+                  <snm>North</snm>
+                  <aff>
+                     <organization>New York University</organization>
+                     <institute>Stern School of Business</institute>
+                     <ead>mnorth@stern.nyu.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>159</page-from>
+               <page-to>179</page-to>
+               <pdf-pages>21</pdf-pages>
+               <online-publ-date>
+                  <date day="23" month="10" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>Y</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="blank">
+               <item-title>Blank</item-title>
+               <prefix/>
+               <page-from>180</page-from>
+               <page-to>180</page-to>
+               <online-version type="print"/>
+               <e-suite>yes</e-suite>
+            </row>
+            <row type="ce">
+               <version-no>P100.1</version-no>
+               <crossmark>yes</crossmark>
+               <aid>84</aid>
+               <pii>S0191-3085(15)00008-8</pii>
+               <doi>10.1016/j.riob.2015.10.002</doi>
+               <item-title>Toward a Theory of Business</item-title>
+               <copyright-status>008</copyright-status>
+               <license>CC BY 4.0</license>
+               <corr-author>
+                  <degree>Dr.</degree>
+                  <fnm>Thomas</fnm>
+                  <snm>Donaldson</snm>
+                  <aff>
+                     <organization>University of Pennsylvania</organization>
+                     <institute>The Wharton School</institute>
+                     <zipcode>19104</zipcode>
+                     <cty>Philadelphia, PA</cty>
+                     <cny>United States</cny>
+                     <ead>donaldst@wharton.upenn.edu</ead>
+                  </aff>
+               </corr-author>
+               <pit>FLA</pit>
+               <prd-type>COM</prd-type>
+               <prefix/>
+               <page-from>181</page-from>
+               <page-to>207</page-to>
+               <pdf-pages>27</pdf-pages>
+               <online-publ-date>
+                  <date day="21" month="11" yr="2015"/>
+               </online-publ-date>
+               <online-version type="print"/>
+               <no-issues-free>0</no-issues-free>
+               <no-issues-paid>0</no-issues-paid>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <page-charge>0</page-charge>
+               <covers>Y</covers>
+               <e-suite>yes</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="blank">
+               <item-title>Blank</item-title>
+               <prefix/>
+               <page-from>208</page-from>
+               <page-to>208</page-to>
+               <online-version type="print"/>
+               <e-suite>no</e-suite>
+            </row>
+            <row type="non-ce">
+               <item-title>Inside Back Cover</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO3</page-from>
+               <page-to>CO3</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+            <row type="non-ce">
+               <item-title>Outside Back Cover</item-title>
+               <pit>ZZZ</pit>
+               <prefix>CO</prefix>
+               <page-from>CO4</page-from>
+               <page-to>CO4</page-to>
+               <pdf-pages>1</pdf-pages>
+               <online-version type="print"/>
+               <no-offprints-tot>0</no-offprints-tot>
+               <no-offprints-paid>0</no-offprints-paid>
+               <no-offprints-free>0</no-offprints-free>
+               <covers>N</covers>
+               <e-suite>no</e-suite>
+               <no-colour-figs>0</no-colour-figs>
+            </row>
+         </issue-content>
+         <issue-remarks>
+            <issue-remark>
+               <remark-type>Updated Order</remark-type>
+               <remark>CRIDHIMA 02-DEC-2015 12:36:05
+        IPS updated
+        </remark>
+               <response/>
+            </issue-remark>
+            <issue-remark>
+               <remark-type>Compile issue</remark-type>
+               <remark>RAOS 21-NOV-2015 10:20:37
+                                  1. I have included one Press-set item “RIOB_87” to this issue. Please send the item for approval along with P100.
+2. For Publication Information, Change Year as “2015” and Volume as “35”. Also, change the copyright year as “2015”.
+3. Please Change the Editor’s order in covers and FM as follows “Barry M. Staw and Arthur P. Brief”
+4. Please auto generate List of Contributors, follow 34C for style.
+5. Update the contents page using the current articles/items
+6. Please ensure to make all the above mentioned corrections 
+7. Please make standard updates to the covers and prelims.
+8. Send P100 Proof for approval along with the Press-set item “RIOB_87”
+        </remark>
+               <response/>
+            </issue-remark>
+         </issue-remarks>
+      </issue-info>
+   </order>
+</orders>

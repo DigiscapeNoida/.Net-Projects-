@@ -1,0 +1,15 @@
+<?xml version="1.0"?><xd:xmldiff version="1.0" srcDocHash="2757055038579919028" options="IgnoreChildOrder IgnoreNamespaces IgnorePrefixes " fragments="no" xmlns:xd="http://schemas.microsoft.com/xmltools/2002/xmldiff"><xd:node match="4"><xd:node match="1"><xd:node match="3"><xd:node match="1"><xd:change match="@sec">22</xd:change><xd:change match="@min">23</xd:change><xd:change match="@hr">14</xd:change><xd:change match="@day">15</xd:change></xd:node></xd:node><xd:node match="13"><xd:node match="3"><xd:node match="1"><xd:node match="2"><xd:change match="1">THOM 06-NOV-2012 18:28:19
+        Kindly update IPS as:620:1135-1136; 622:1136-1138; 646:1138-1139; 648:1139-1140; 651:1141-1142.
+        </xd:change></xd:node></xd:node><xd:add><issue-remark><remark>THOM 14-NOV-2012 21:23:23
+        E-proof has been uploaded on the FTP site for approval.
+        </remark><remark-type>Problem</remark-type><response>VALEROM 15-NOV-2012 11:24
+Validated. Please make the corrections I marked in the pdf I uploaded to EW: "REC-621_corr.pdf" and " REC-713-corr.pdf". Thank you.
+</response></issue-remark></xd:add><xd:node match="2"><xd:node match="2"><xd:change match="1">VALEROM 31-OCT-2012 11:28:31
+        I upload to EWII:
+____A jpg file with the figure for the cover (COVER-IMAGE) and instructions (cover image_instructions. Pdf).
+____ A word document with the titles cover (COVER-TITLE-ENGLISH.doc)
+___ I upload corrections in some items.
+_____  I have included the page-range in SCIENTIFIC LETTERS and LETTERS TO THE EDITOR . Please, check and send problem if it is incorrect.
+____ Please, send all items for approval at P100 stage
+
+        </xd:change></xd:node></xd:node></xd:node></xd:node><xd:node match="1"><xd:change match="@sec">22</xd:change><xd:change match="@min">22</xd:change><xd:change match="@hr">14</xd:change><xd:change match="@day">15</xd:change></xd:node></xd:node></xd:node></xd:xmldiff>

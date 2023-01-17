@@ -1,0 +1,176 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="ptsiiiorder.xsl" ?><!DOCTYPE orders SYSTEM "ptsiiiorder152.dtd">
+<orders>
+   <order>
+      <time day="21" month="10" yr="2021" hr="06" min="35" sec="56"/>
+      <po-number>T08884051</po-number>
+      <due-date>
+         <time day="25" month="10" yr="2021" hr="00" min="00" sec="00"/>
+      </due-date>
+      <prod-site>ESME - Elsevier Masson SAS</prod-site>
+      <opco>OCFR - Operating Company Elsevier Masson SAS</opco>
+      <stage step="S100"/>
+      <executor type="TYPESETTER" addressee="yes">
+         <exec-code>THOM2</exec-code>
+         <exec-name>Thomson Digital (Gangtok)</exec-name>
+         <aff>
+            <address>Tseyang Dzong Building, Amdo Golai</address>
+            <address-contd>Indira Bye pass, NH-31A</address-contd>
+            <zipcode zipcode-pos="AFTERCTY">737102</zipcode>
+            <cty>Tadong, Gangtok, Sikkim</cty>
+            <cny>India</cny>
+            <tel>+91-3592-281138</tel>
+         </aff>
+      </executor>
+      <executor type="WAREHOUSE" addressee="no">
+         <exec-code>JOUV1</exec-code>
+         <exec-name>Jouve 2 (Printer)</exec-name>
+         <aff>
+            <address>Jouve2 Quai 2</address>
+            <address-contd>733, rue St. Leonard</address-contd>
+            <zipcode zipcode-pos="BEFORECTY">F-53100</zipcode>
+            <cty>Mayenne</cty>
+            <cny>France</cny>
+            <tel>+33 2 43 082 683</tel>
+            <fax>+33 2 43 082 639</fax>
+         </aff>
+      </executor>
+      <item-info>
+         <version-no>S100.1</version-no>
+         <language>French</language>
+         <crossmark>no</crossmark>
+         <jid>JFO</jid>
+         <issn>0181-5512</issn>
+         <aid>3276</aid>
+         <pii>S0181-5512(21)00506-4</pii>
+         <doi>10.1016/j.jfo.2021.10.001</doi>
+         <item-title>Choriorétinopathie séreuse centrale bilatérale post COVID-19</item-title>
+         <dochead>Article original</dochead>
+         <eo-item-nr>JFO-D-21-00549</eo-item-nr>
+         <e-submission-item-nr>JFO_JFO-D-21-00549</e-submission-item-nr>
+         <editor>Pr C. Baudouin</editor>
+         <received-date>
+            <date day="31" month="07" yr="2021"/>
+         </received-date>
+         <revised-date>
+            <date day="29" month="09" yr="2021"/>
+         </revised-date>
+         <accept-date>
+            <date day="05" month="10" yr="2021"/>
+         </accept-date>
+         <cpc>N</cpc>
+         <in-scope-cpc type="N"/>
+         <prd-type-as-sent>FTF</prd-type-as-sent>
+         <online-version type="print"/>
+         <pit>FLA</pit>
+         <copy-edit-content required="no"/>
+         <no-mns-pages>10</no-mns-pages>
+         <no-phys-figs>4</no-phys-figs>
+         <no-bw-figs>1</no-bw-figs>
+         <no-web-colour-figs>0</no-web-colour-figs>
+         <no-colour-figs>3</no-colour-figs>
+         <no-e-components>0</no-e-components>
+         <physical-figures>
+            <figure>
+               <figure-nr>1</figure-nr>
+               <figure-type>COLOUR-IN-PRINT</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>2</figure-nr>
+               <figure-type>BW</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>3</figure-nr>
+               <figure-type>COLOUR-IN-PRINT</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+            <figure>
+               <figure-nr>4</figure-nr>
+               <figure-type>COLOUR-IN-PRINT</figure-type>
+               <graphical-abstract grabs="no"/>
+            </figure>
+         </physical-figures>
+         <righthand-start>N</righthand-start>
+         <copyright-status>002</copyright-status>
+         <copyright-recd-date>
+            <date day="15" month="10" yr="2021"/>
+         </copyright-recd-date>
+         <first-author>
+            <degree>Dr.</degree>
+            <fnm>Ahmed</fnm>
+            <snm>Mahjoub.</snm>
+         </first-author>
+         <corr-author>
+            <degree>Dr</degree>
+            <fnm>Aryj</fnm>
+            <snm>Dlensi</snm>
+            <aff>
+               <cny>Tunisia</cny>
+               <ead>aryjdlensi@gmail.com</ead>
+            </aff>
+         </corr-author>
+         <item-remarks>
+            <item-remark>
+               <remark-type>COVID-19 Prio</remark-type>
+               <remark>KRISHNAND 21-OCT-21
+        COVID-19 : Please prioritize production at all stages
+        </remark>
+               <response/>
+            </item-remark>
+            <item-remark>
+               <remark-type>Updated Order</remark-type>
+               <remark>VISHNUA 18-OCT-21
+         order corrigé.
+        </remark>
+               <response/>
+            </item-remark>
+            <item-remark>
+               <remark-type>Updated Order</remark-type>
+               <remark>VISHNUA 18-OCT-21
+         order corrigé.
+        </remark>
+               <response/>
+            </item-remark>
+            <item-remark>
+               <remark-type>Problem</remark-type>
+               <remark>THOM2 18-OCT-21
+          [order update] Le premier auteur sur la coversheet ne correspond pas à celui du manuscrit, soit Ahmed Mahjoub. Merci de mettre l'order à jour. Cdt.
+        </remark>
+               <response/>
+            </item-remark>
+            <item-remark>
+               <remark-type>Updated Order</remark-type>
+               <remark>VISHNUA 15-OCT-21
+         order corrigé.
+        </remark>
+               <response/>
+            </item-remark>
+            <item-remark>
+               <remark-type>Updated Order</remark-type>
+               <remark>VISHNUA 15-OCT-21
+         order corrigé.
+        </remark>
+               <response/>
+            </item-remark>
+            <item-remark>
+               <remark-type>Quick Transmittal</remark-type>
+               <remark>MBS_IFACE 13-OCT-21
+        Dochead unknown in PTS for PIT COR
+        </remark>
+               <response/>
+            </item-remark>
+            <item-remark>
+               <remark-type>Editorial</remark-type>
+               <remark>MBS_IFACE 13-OCT-21
+          - A loguer en FTF- Mise en ligne du S56 pages + 5 figures + complément électronique
+        </remark>
+               <response/>
+            </item-remark>
+         </item-remarks>
+         <revised-proof>N</revised-proof>
+         <offprint-payment payment="no"/>
+      </item-info>
+   </order>
+</orders>
