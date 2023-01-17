@@ -1,0 +1,138 @@
+25-11-2022 16:08:29 ===================================================================
+25-11-2022 16:08:29 Processing file WIP_ELS_Books_2022_Oct.xlsx
+25-11-2022 16:08:51 Stage "1 Proofs" not defined.
+25-11-2022 16:08:52 Stage "1sr Proofs" not defined.
+25-11-2022 16:08:53 Error found in cell G31 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error found in cell G32 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error in page/rate (cell E32/cell K32) : Input string was not in a correct format.
+25-11-2022 16:08:53 Error found in cell G33 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error in page/rate (cell E33/cell K33) : Input string was not in a correct format.
+25-11-2022 16:08:53 Error found in cell G34 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error in page/rate (cell E34/cell K34) : Input string was not in a correct format.
+25-11-2022 16:08:53 Error found in cell G35 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error in page/rate (cell E35/cell K35) : Input string was not in a correct format.
+25-11-2022 16:08:53 Error found in cell G36 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error found in cell G37 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error found in cell G38 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error found in cell G39 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error found in cell G40 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error found in cell G41 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Error in page/rate (cell E41/cell K41) : Input string was not in a correct format.
+25-11-2022 16:08:53 Error found in cell G42 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Stage "NA" not defined.
+25-11-2022 16:08:53 Error found in cell G43 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:53 Stage "NA" not defined.
+25-11-2022 16:08:54 Error found in cell G44 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:54 Stage "NA" not defined.
+25-11-2022 16:08:54 Error found in cell G45 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:54 Stage "NA" not defined.
+25-11-2022 16:08:55 Error found in cell G46 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:55 Stage "NA" not defined.
+25-11-2022 16:08:55 Error found in cell G47 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:55 Stage "NA" not defined.
+25-11-2022 16:08:55 Error found in cell G48 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:55 Stage "NA" not defined.
+25-11-2022 16:08:56 Error found in cell G49 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:56 Stage "NA" not defined.
+25-11-2022 16:08:56 Error found in cell G50 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:56 Stage "NA" not defined.
+25-11-2022 16:08:56 Error found in cell G51 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:56 Stage "NA" not defined.
+25-11-2022 16:08:57 Error found in cell G52 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:57 Stage "NA" not defined.
+25-11-2022 16:08:57 Error found in cell G53 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:57 Stage "NA" not defined.
+25-11-2022 16:08:57 Error found in cell G54 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:57 Stage "NA" not defined.
+25-11-2022 16:08:58 Error found in cell G55 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:58 Stage "NA" not defined.
+25-11-2022 16:08:58 Error found in cell G56 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:58 Stage "NA" not defined.
+25-11-2022 16:08:58 Error found in cell G57 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:58 Stage "NA" not defined.
+25-11-2022 16:08:59 Error found in cell G58 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:59 Stage "NA" not defined.
+25-11-2022 16:08:59 Error found in cell G59 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:59 Stage "NA" not defined.
+25-11-2022 16:08:59 Error found in cell G60 : String was not recognized as a valid DateTime.
+25-11-2022 16:08:59 Stage "NA" not defined.
+25-11-2022 16:09:00 Error in page/rate (cell E60/cell K60) : Input string was not in a correct format.
+25-11-2022 16:09:00 Error found in cell G61 : String was not recognized as a valid DateTime.
+25-11-2022 16:09:00 Stage "NA" not defined.
+25-11-2022 16:09:00 Error in page/rate (cell E61/cell K61) : Input string was not in a correct format.
+25-11-2022 16:09:00 Error found in cell G62 : String was not recognized as a valid DateTime.
+25-11-2022 16:09:00 Stage "NA" not defined.
+25-11-2022 16:09:01 Error in page/rate (cell E62/cell K62) : Input string was not in a correct format.
+25-11-2022 16:09:01 Error found in cell G63 : String was not recognized as a valid DateTime.
+25-11-2022 16:09:01 Stage "29-Mar" not defined.
+25-11-2022 16:09:01 File WIP_ELS_Books_2022_Oct.xlsx moved in fail directory.
+25-11-2022 16:09:01 Output file WIP_ELS_Books_2022_Oct_error.xlsx created with error(s).
+25-11-2022 16:19:49 ===================================================================
+25-11-2022 16:19:49 Processing file WIP_ELS_Books_2022_Oct.xlsx
+25-11-2022 16:20:07 Error found in cell F14. Stage "1 Proofs" not defined.
+25-11-2022 16:20:08 Error found in cell F29. Stage "1sr Proofs" not defined.
+25-11-2022 16:20:08 Error found in cell G31 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:08 Error found in cell G32 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:08 Error in page/rate (cell E32/cell K32) : Input string was not in a correct format.
+25-11-2022 16:20:08 Error found in cell G33 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:08 Error in page/rate (cell E33/cell K33) : Input string was not in a correct format.
+25-11-2022 16:20:08 Error found in cell G34 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:08 Error in page/rate (cell E34/cell K34) : Input string was not in a correct format.
+25-11-2022 16:20:08 Error found in cell G35 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:08 Error in page/rate (cell E35/cell K35) : Input string was not in a correct format.
+25-11-2022 16:20:08 Error found in cell G36 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:08 Error found in cell G37 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:08 Error found in cell G38 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:09 Error found in cell G39 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:09 Error found in cell G40 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:09 Error found in cell G41 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:09 Error in page/rate (cell E41/cell K41) : Input string was not in a correct format.
+25-11-2022 16:20:09 Error found in cell G42 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:09 Error found in cell F42. Stage "NA" not defined.
+25-11-2022 16:20:09 Error found in cell G43 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:09 Error found in cell F43. Stage "NA" not defined.
+25-11-2022 16:20:09 Error found in cell G44 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:09 Error found in cell F44. Stage "NA" not defined.
+25-11-2022 16:20:10 Error found in cell G45 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:10 Error found in cell F45. Stage "NA" not defined.
+25-11-2022 16:20:10 Error found in cell G46 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:10 Error found in cell F46. Stage "NA" not defined.
+25-11-2022 16:20:10 Error found in cell G47 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:10 Error found in cell F47. Stage "NA" not defined.
+25-11-2022 16:20:11 Error found in cell G48 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:11 Error found in cell F48. Stage "NA" not defined.
+25-11-2022 16:20:11 Error found in cell G49 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:11 Error found in cell F49. Stage "NA" not defined.
+25-11-2022 16:20:12 Error found in cell G50 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:12 Error found in cell F50. Stage "NA" not defined.
+25-11-2022 16:20:12 Error found in cell G51 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:12 Error found in cell F51. Stage "NA" not defined.
+25-11-2022 16:20:12 Error found in cell G52 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:12 Error found in cell F52. Stage "NA" not defined.
+25-11-2022 16:20:13 Error found in cell G53 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:13 Error found in cell F53. Stage "NA" not defined.
+25-11-2022 16:20:13 Error found in cell G54 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:13 Error found in cell F54. Stage "NA" not defined.
+25-11-2022 16:20:13 Error found in cell G55 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:13 Error found in cell F55. Stage "NA" not defined.
+25-11-2022 16:20:14 Error found in cell G56 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:14 Error found in cell F56. Stage "NA" not defined.
+25-11-2022 16:20:14 Error found in cell G57 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:14 Error found in cell F57. Stage "NA" not defined.
+25-11-2022 16:20:14 Error found in cell G58 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:14 Error found in cell F58. Stage "NA" not defined.
+25-11-2022 16:20:15 Error found in cell G59 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:15 Error found in cell F59. Stage "NA" not defined.
+25-11-2022 16:20:15 Error found in cell G60 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:15 Error found in cell F60. Stage "NA" not defined.
+25-11-2022 16:20:15 Error in page/rate (cell E60/cell K60) : Input string was not in a correct format.
+25-11-2022 16:20:16 Error found in cell G61 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:16 Error found in cell F61. Stage "NA" not defined.
+25-11-2022 16:20:16 Error in page/rate (cell E61/cell K61) : Input string was not in a correct format.
+25-11-2022 16:20:16 Error found in cell G62 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:16 Error found in cell F62. Stage "NA" not defined.
+25-11-2022 16:20:16 Error in page/rate (cell E62/cell K62) : Input string was not in a correct format.
+25-11-2022 16:20:16 Error found in cell G63 : String was not recognized as a valid DateTime.
+25-11-2022 16:20:16 Error found in cell F63. Stage "29-Mar" not defined.
+25-11-2022 16:20:17 File WIP_ELS_Books_2022_Oct.xlsx moved in fail directory.
+25-11-2022 16:20:17 Output file WIP_ELS_Books_2022_Oct_error.xlsx created with error(s).
