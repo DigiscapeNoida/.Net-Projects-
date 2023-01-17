@@ -1,0 +1,9 @@
+D:\Deepak\Read_mail\bin\Debug\Read_mail.exe.config
+D:\Deepak\Read_mail\bin\Debug\Read_mail.exe
+D:\Deepak\Read_mail\bin\Debug\Read_mail.pdb
+D:\Deepak\Read_mail\obj\Debug\Read_mail.csproj.AssemblyReference.cache
+D:\Deepak\Read_mail\obj\Debug\Read_mail.csproj.SuggestedBindingRedirects.cache
+D:\Deepak\Read_mail\obj\Debug\Read_mail.csproj.CoreCompileInputs.cache
+D:\Deepak\Read_mail\obj\Debug\Read_mail.exe
+D:\Deepak\Read_mail\obj\Debug\Read_mail.pdb
+D:\Deepak\Read_mail\obj\Debug\Read_mail.csproj.ResolveComReference.cache
