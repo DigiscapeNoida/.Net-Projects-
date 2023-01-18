@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  
+  <siteMapNode url="" title="Home" description="Home">
+    <siteMapNode title="OPS Manager" url="" description="">
+      <siteMapNode url="~/Default.aspx" title="Fresh" description="S100" />
+      <siteMapNode url="~/Revised.aspx" title="Revised"  description="Revised" />
+      <siteMapNode url="~/Authordetails.aspx" title="CorAuthorDetails"  description="AuthorDetails" />
+      <siteMapNode url="~/DeleteReviewDetails.aspx" title="Delete Review History"  description="ReviewDetails" />
+      <siteMapNode url="~/DeleteAEPSDetails.aspx" title="Delete AEPS History"  description="AEPSDetails" />
+    </siteMapNode>
+  </siteMapNode>
+
+</siteMap>

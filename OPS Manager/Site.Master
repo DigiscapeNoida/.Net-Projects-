@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="OPSManager.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - OPSManager</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <asp:PlaceHolder runat="server">
+        <script src="<%: ResolveUrl("~/Scripts/modernizr-2.5.3.js") %>"></script>
+    </asp:PlaceHolder>
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+
+    <!-- link rel="stylesheet" href="//code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="Scripts/JavaScriptMain.js" > </script>
+  <link rel="stylesheet" href="Content/StyleTabs.css" -->
+
+    <style type="text/css">
+        .auto-style2 {
+            height: 133px;
+        }
+
+        .auto-style3 {
+            height: 29px;
+        }
+
+        .auto-style9 {
+            width: 4%;
+        }
+
+        .auto-style10 {
+            width: 4%;
+            height: 148px;
+        }
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server" style="width: 100%; height: 700px;">
+
+        <table align="center" style="border: thin solid black; font-size: 10pt; font-family: Arial; width: 100%; height: 100%;">
+            <tr>
+                <td align="center" colspan="2" style="width:100%;vertical-align:top" >
+                    <img src="Images/header_english.jpg" alt="" />
+                    <span style="vertical-align: bottom; text-align: right"></span>
+                </td>
+            </tr>
+            <tr style="width: 100%;">
+                <td style="background-color: white;" align="center" colspan="2" valign="middle" class="auto-style3">
+                    <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+                </td>
+            </tr>
+            <tr style="width: 100%;">
+                <td style="background-color: White; text-align:left; width:3%; vertical-align:top; " >
+                    <div id="navigation">
+                        <ul>
+                            <li>
+                                <asp:HyperLink runat="server" ID="lnkHome" NavigateUrl="~/Default.aspx">Home</asp:HyperLink></li>
+                            <asp:Repeater runat="server" ID="menu" DataSourceID="SiteMapDataSource1" EnableViewState="False">
+                                <ItemTemplate>
+                                    <li>
+                                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl='<%# Eval("Url") %>'><%# Eval("Title") %></asp:HyperLink>
+
+                                        <asp:Repeater ID="Repeater1" runat="server" DataSource='<%# ((SiteMapNode) Container.DataItem).ChildNodes %>'>
+                                            <HeaderTemplate>
+                                                <ul>
+                                            </HeaderTemplate>
+                                            <ItemTemplate>
+                                                <li>
+                                                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl='<%# Eval("Url") %>'><%# Eval("Title") %></asp:HyperLink>
+                                                </li>
+                                            </ItemTemplate>
+
+                                            <FooterTemplate>
+                                                </ul>
+                                            </FooterTemplate>
+                                        </asp:Repeater>
+                                    </li>
+                                </ItemTemplate>
+                            </asp:Repeater>
+                        </ul>
+                        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="false" />
+                    </div>
+                </td>
+                <td colspan="2" style="width:97%;">
+                    <asp:ContentPlaceHolder runat="server" ID="MainContent"   />
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <footer>
+        <div style="background-color:lightblue; font-size: medium; color: #CC3399">
+            <center><p> Copyright © 2011 Thomson Digital. All right reserved.</p></center>
+        </div>
+    </footer>
+</body>
+</html>
