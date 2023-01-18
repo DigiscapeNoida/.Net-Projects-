@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+	<order>
+		<time/>
+		<due-date>
+			<date/>
+		</due-date>
+		<prod-site>Thieme Journals</prod-site>
+		<stage/>
+		<executor type="TYPESETTER" addressee="yes">
+			<exec-code>THOM</exec-code>
+			<exec-name>Thomson Digital</exec-name>
+			<aff>
+				<address>B/10-12</address>
+				<address-contd>Noida Special Economic Zone</address-contd>
+				<zipcode zipcode-pos="AFTERCTY">201 305</zipcode>
+				<cty>Noida</cty>
+				<cny>India</cny>
+				<tel>+91-120-256 2499</tel>
+				<fax>+91-120-256 2299</fax>
+			</aff>
+		</executor>
+		<item-info>
+			<jid/>
+			<jname/>
+			<aid/>
+			<doi/>
+			<vol/>
+			<issue/>
+			<item-title/>
+			<suppmat value="no"/>
+			<nih value="no"/>
+			<artcat/>
+			<arttype/>
+			<workflowdesc/>
+			<editor-info>
+				<editor/>
+				<designation/>
+				<aff>
+					<organization/>
+					<institute/>
+					<address/>
+					<zipcode zipcode-pos="AFTERCTY"/>
+					<cty/>
+					<cny/>
+					<tel/>
+					<fax/>
+				</aff>
+			</editor-info>
+			<received-date>
+				<date day="29" month="10" yr="2011"/>
+			</received-date>
+			<revised-date>
+				<date day="05" month="05" yr="2014" />
+			</revised-date>
+			<accept-date>
+				<date day="03" month="06" yr="2014" />
+			</accept-date>
+			<prd-type-as-sent>FTP</prd-type-as-sent>
+			<online-version type="print"/>
+			<pit/>
+			<typesetting-required required="yes"/>
+			<copy-editing-required required="yes"/>
+			<no-mns-pages/>
+			<no-phys-figs/>
+			<no-bw-figs>0</no-bw-figs>
+			<no-web-colour-figs>0</no-web-colour-figs>
+			<no-colour-figs>0</no-colour-figs>
+			<no-e-components/>
+			<righthand-start>N</righthand-start>
+			<first-author>
+				<degree/>
+				<fnm/>
+				<snm/>
+			</first-author>
+			<corr-author>
+				<degree/>
+				<fnm/>
+				<snm/>
+				<aff>
+					<organization/>
+					<institute/>
+					<address/>
+					<zipcode/>
+					<cty/>
+					<cny/>
+					<tel/>
+					<fax/>
+				</aff>
+			</corr-author>
+			<eproofing-info>
+				<to-mail/>
+				<cc-mail/>
+				<cta/>
+				<cid/>
+				<offprint/>
+				<additional-attachments/>
+			</eproofing-info>
+			<item-remarks>
+				<item-remark>
+					<remark/>
+				</item-remark>
+			</item-remarks>
+		</item-info>
+	</order>
+</orders>

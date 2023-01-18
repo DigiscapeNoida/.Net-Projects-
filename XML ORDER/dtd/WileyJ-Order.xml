@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE orders SYSTEM "WileyJ-Order.dtd">
+<?xml-stylesheet type="text/xsl" href="WileyJ-Order.xsl" ?>
+<orders>
+  <order>
+    <time day="18" month="04" yr="2008" hr="13" min="57" sec="49"/>
+    <due-date><date day="02" month="05" yr="2008"/></due-date>
+    <prod-site>Wiley-Blackwell Journals - US</prod-site>
+    <stage step="S100"/>
+    <executor type="TYPESETTER" addressee="yes">
+      <exec-code>THOM</exec-code>
+      <exec-name>Thomson Digital</exec-name>
+      <aff>
+        <address>B/10-12</address>
+        <address-contd>Noida Special Economic Zone</address-contd>
+        <zipcode zipcode-pos="AFTERCTY">201 305</zipcode>
+        <cty>Noida</cty>
+        <cny>India</cny>
+        <tel>+91-120-256 2499</tel>
+        <fax>+91-120-256 2299</fax>
+      </aff>
+    </executor>
+    <item-info>
+      <jid>BIT</jid>
+	  <jname>Biotechnology and Bioengineering</jname>
+      <aid>10569</aid>
+      <pii>S0378-7753(08)00624-1</pii>
+      <doi>10.1016/j.jpowsour.2008.03.060</doi>
+      <item-title>Catalytic Activity of Cobalt Deposited on Nanostructured Poly(p-xylylene) Films
+</item-title>
+	  <editor-info>
+		<editor>Dr. C.K. Dyer</editor>
+		<designation></designation>
+        <aff>
+          <organization>Pennsylvania State University</organization>
+          <institute>Catalytic Activity of Cobalt Deposited on Nanostructured</institute>
+          <address>212 EES Bldg</address>
+          <zipcode zipcode-pos="AFTERCTY">16802</zipcode>
+          <cty>University Park, PA</cty>
+          <cny>United States</cny>
+          <tel>+1 8148632270</tel>
+          <fax>+1 8148659974</fax>
+          <ead>mdemirel@engr.psu.edu</ead>
+        </aff>
+	  </editor-info>
+      <received-date><date day="01" month="02" yr="2008"/></received-date>
+      <revised-date><date day="23" month="03" yr="2008"/></revised-date>
+      <accept-date><date day="25" month="03" yr="2008"/></accept-date>
+      <prd-type-as-sent>FTP</prd-type-as-sent>
+      <online-version type="print"></online-version>
+      <pit>SCO</pit>
+      <no-mns-pages>14</no-mns-pages>
+      <no-phys-figs>4</no-phys-figs>
+      <no-bw-figs>2</no-bw-figs>
+      <no-web-colour-figs>2</no-web-colour-figs>
+      <no-colour-figs>0</no-colour-figs>
+      <no-e-components>0</no-e-components>
+      <physical-figures>
+        <figure>
+          <figure-nr>1</figure-nr>
+          <figure-type>BW</figure-type>
+        </figure>
+        <figure>
+          <figure-nr>2</figure-nr>
+          <figure-type>BW</figure-type>
+        </figure>
+        <figure>
+          <figure-nr>3</figure-nr>
+          <figure-type>COLOUR</figure-type>
+        </figure>
+        <figure>
+          <figure-nr>4</figure-nr>
+          <figure-type>COLOUR</figure-type>
+        </figure>
+      </physical-figures>
+      <righthand-start>N</righthand-start>
+      <copyright-status>002</copyright-status>
+          <copyright-recd-date><date day="26" month="03" yr="2008"/></copyright-recd-date>
+      <first-author>
+        <degree>Dr.</degree>
+        <fnm>Niranjan</fnm>
+        <snm>Malvadkar</snm>
+      </first-author>
+      <corr-author>
+        <degree>Dr.</degree>
+        <fnm>Melik C.</fnm>
+        <snm>Demirel</snm>
+        <aff>
+          <organization>Pennsylvania State University</organization>
+          <institute>Catalytic Activity of Cobalt Deposited on Nanostructured</institute>
+          <address>212 EES Bldg</address>
+          <zipcode zipcode-pos="AFTERCTY">16802</zipcode>
+          <cty>University Park, PA</cty>
+          <cny>United States</cny>
+          <tel>+1 8148632270</tel>
+          <fax>+1 8148659974</fax>
+          <ead>mdemirel@engr.psu.edu</ead>
+        </aff>
+      </corr-author>
+	  <eproofing-info>
+		<to-mail>abcname@abc.com</to-mail>
+		<cc-mail>xyzname@xyz.com</cc-mail>
+		<cta>False</cta>
+		<cid>False</cid>
+		<offprint>False</offprint>
+		<additional-attachments>None</additional-attachments>
+	  </eproofing-info>
+  <item-remarks>
+    <item-remark>
+        <remark-type>General</remark-type>
+        <remark>Login : Colour Figs. 3,4</remark>
+        <response></response>
+    </item-remark>
+  </item-remarks>
+      <corrections type="MASTERFTP"/>
+    </item-info>
+  </order>
+</orders>

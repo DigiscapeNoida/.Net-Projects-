@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<orders>
+	<order customer="EMC" category="JOURNAL">
+		<time day="11" month="11" yr="2011" hr="08" min="53" sec="45"/>
+		<due-date>
+			<date day="16" month="11" yr="2011"/>
+		</due-date>
+		<prod-site>EMC-SITE</prod-site>
+		<stage step="S100"/>
+		<executor type="TYPESETTER">
+			<exec-code>THOM</exec-code>
+			<exec-name>Thomson Digital</exec-name>
+			<aff>
+				<address>B/10-12</address>
+				<address-contd>Noida Special Economic Zone</address-contd>
+				<zipcode zipcode-pos="AFTERCTY">201 305</zipcode>
+				<cty>Noida</cty>
+				<cny>India</cny>
+				<tel>+91-120-256 2499</tel>
+				<fax>+91-120-256 2299</fax>
+			</aff>
+		</executor>
+		<copyright>
+			<copyright-info/>
+			<copyright-code/>
+		</copyright>
+		<item-info>
+			<tra-root></tra-root>
+			<tracode></tracode>
+			<fasnumero></fasnumero>
+			<trajid></trajid>
+			<aid></aid>
+			<pii/>
+			<doi/>
+			<item-title></item-title>
+			<item-subtitle/>
+			<traite-title></traite-title>
+			<color-model></color-model>
+			<issn></issn>
+			<isbn></isbn>
+			<typesetting-model-format></typesetting-model-format>
+			<article-type></article-type>
+			<maj-info>
+				<maj-no></maj-no>
+				<maj-cote></maj-cote>
+				<maj-anne></maj-anne>
+			</maj-info>
+			<vol></vol>
+			<chaptre></chaptre>
+			<subchaptre></subchaptre>
+			<nb-pages-commande></nb-pages-commande>
+			<nb-pages-estimate></nb-pages-estimate>
+			<nb-tableau></nb-tableau>
+			<nb-fig></nb-fig>
+			<nb-photo></nb-photo>
+			<nb-dessin></nb-dessin>
+			<nb-arbre-papier></nb-arbre-papier>
+			<nb-encadre-t1></nb-encadre-t1>
+			<nb-encadre-t2/>
+			<nb-biblio></nb-biblio>
+			<nb-biblio-ss/>
+			<nb-savoir-plus/>
+			<resume-en/>
+			<resume-fr></resume-fr>
+			<mc-en/>
+			<mc-fr></mc-fr>
+			<titre-en/>
+			<multimedia>
+				<nb-arbre-intractif/>
+				<nb-icono-sup></nb-icono-sup>
+				<nb-video/>
+				<nb-doc-legaux/>
+				<nb-fiche-patient/>
+				<nb-fiche-tech/>
+				<nb-autoeval></nb-autoeval>
+				<nb-clinique/>
+				<nb-quotidien/>
+				<autre-nb>
+					<lblvide/>
+					<nbvide/>
+				</autre-nb>
+				<appel-icono></appel-icono>
+				<appel-biblio></appel-biblio>
+				<icono-ok>O</icono-ok>
+				<arbre-deci/>
+			</multimedia>
+			<author>
+				<princ-author>
+					<nom></nom>
+					<pnom></pnom>
+					<aff/>
+				</princ-author>
+				<second-author>
+					<nom>Aucun</nom>
+					<pnom/>
+					<aff/>
+				</second-author>
+				<corr-author>
+					<phone/>
+					<fax/>
+					<email></email>
+				</corr-author>
+			</author>
+		</item-info>
+	</order>
+</orders>
