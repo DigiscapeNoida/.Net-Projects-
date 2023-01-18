@@ -1,0 +1,12 @@
+Ärticle ID: ARRBMM0094
+FolderNOTFound: ARRBMM0094
+Ärticle ID: AR06PM0423
+FolderNOTFound: AR06PM0423
+Ärticle ID: ARRSPM0108
+FolderNOTFound: ARRSPM0108
+Ärticle ID: ARRSIM0130
+FolderNOTFound: ARRSIM0130
+Output Ärticle ID: ARSJSM0826
+Ärticle ID: ARRSPM0006
+Ärticle ID: ARSJSM0826
+FileFound: ARSJSM0826

@@ -1,0 +1,5 @@
+Ärticle ID: ARRSIM0041
+FileFound: ARRSIM0041
+FileNOTFound: ARRSIM0041
+Ärticle ID: ARRSIM0044
+FileFound: ARRSIM0044

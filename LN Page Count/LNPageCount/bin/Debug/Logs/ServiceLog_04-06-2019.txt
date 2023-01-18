@@ -1,0 +1,1146 @@
+Ärticle ID: ARRFNM0232
+FileFound: ARRFNM0232
+Ärticle ID: AREEIM0359
+FileFound: AREEIM0359
+Ärticle ID: ARSJAM0904
+FileFound: ARSJAM0904
+Ärticle ID: ARSJAM0905
+FileFound: ARSJAM0905
+Ärticle ID: ARSJEM0426
+FileFound: ARSJEM0426
+Ärticle ID: AREEIM0360
+FileFound: AREEIM0360
+Ärticle ID: ARSJSM0833
+FileFound: ARSJSM0833
+Ärticle ID: AR06RM0286
+FileFound: AR06RM0286
+Ärticle ID: ARSJAM0907
+FileFound: ARSJAM0907
+Ärticle ID: ARSJEM0427
+FileFound: ARSJEM0427
+Ärticle ID: ARSJAM0908
+FileFound: ARSJAM0908
+Ärticle ID: ARSJAM0909
+FileFound: ARSJAM0909
+Ärticle ID: ARSJAM0906
+FileFound: ARSJAM0906
+Ärticle ID: ARSJGM0418
+FileFound: ARSJGM0418
+Ärticle ID: AR06PM0483
+FileFound: AR06PM0483
+Ärticle ID: ARSJSM0830
+FileFound: ARSJSM0830
+Ärticle ID: ARSJSM0831
+FileFound: ARSJSM0831
+Ärticle ID: ARSJSM0832
+FileFound: ARSJSM0832
+Ärticle ID: AR15MM0315
+FileFound: AR15MM0315
+Ärticle ID: AR15MM0316
+FileFound: AR15MM0316
+Ärticle ID: AR15MM0317
+FileFound: AR15MM0317
+Ärticle ID: ARRAPM0063
+FileFound: ARRAPM0063
+Ärticle ID: ARSJGM0419
+FileFound: ARSJGM0419
+Ärticle ID: AR15MM0318
+FileFound: AR15MM0318
+Ärticle ID: AR15MM0319
+FileFound: AR15MM0319
+Ärticle ID: AR15MM0320
+FileFound: AR15MM0320
+Ärticle ID: AR15MM0321
+FileFound: AR15MM0321
+Ärticle ID: AR15MM0322
+FileFound: AR15MM0322
+Ärticle ID: AR15MM0323
+FileFound: AR15MM0323
+Ärticle ID: AR15MM0324
+FileFound: AR15MM0324
+Ärticle ID: AR15MM0325
+FileFound: AR15MM0325
+Ärticle ID: AR15MM0326
+FileFound: AR15MM0326
+Ärticle ID: AR15MM0327
+FileFound: AR15MM0327
+Ärticle ID: AR15MM0328
+FileFound: AR15MM0328
+Ärticle ID: AR06RM0285
+FileFound: AR06RM0285
+Ärticle ID: ARRMPM0470
+FileFound: ARRMPM0470
+Ärticle ID: ARRMPM0471
+FileFound: ARRMPM0471
+Ärticle ID: ARRMPM0472
+FileFound: ARRMPM0472
+Ärticle ID: AREEIM0361
+FileFound: AREEIM0361
+Ärticle ID: ARRMPM0473
+FileFound: ARRMPM0473
+Ärticle ID: ARRMPM0474
+FileFound: ARRMPM0474
+Ärticle ID: ARRMPM0475
+FileFound: ARRMPM0475
+Ärticle ID: ARRSIM0132
+FileFound: ARRSIM0132
+Ärticle ID: ARSJGM0420
+FileFound: ARSJGM0420
+Ärticle ID: ARSJSM0834
+FileFound: ARSJSM0834
+Ärticle ID: AR15MM0329
+FileFound: AR15MM0329
+Ärticle ID: AR15MM0330
+FileFound: AR15MM0330
+Ärticle ID: AR15MM0331
+FileFound: AR15MM0331
+Ärticle ID: ARRSIM0131
+FileFound: ARRSIM0131
+Output Ärticle ID: ARRFNM0232
+Output File Found: ARRFNM0232
+Output Ärticle ID: AREEIM0359
+Output File Found: AREEIM0359
+Output Ärticle ID: ARSJAM0904
+Output File Found: ARSJAM0904
+Output Ärticle ID: AREEIM0357
+Output File Found: AREEIM0357
+Output Ärticle ID: ARRMPM0467
+Output File Found: ARRMPM0467
+Output Ärticle ID: ARRAPM0056
+Output File Found: ARRAPM0056
+Output Ärticle ID: AREEIM0357
+Output File Found: AREEIM0357
+Output Ärticle ID: ARRMPM0467
+Output File Found: ARRMPM0467
+Output Ärticle ID: ARRAPM0056
+Output File Found: ARRAPM0056
+Output Ärticle ID: AREEIM0357
+Output File Found: AREEIM0357
+Output Ärticle ID: ARRMPM0467
+Output File Found: ARRMPM0467
+Output Ärticle ID: ARRAPM0056
+Output File Found: ARRAPM0056
+Output Ärticle ID: ARRFNM0219
+Output File Found: ARRFNM0219
+Output Ärticle ID: AREEIM0327
+Output Folder NOT Found: AREEIM0327
+Output Ärticle ID: ARSJAM0836
+Output Folder NOT Found: ARSJAM0836
+Output Ärticle ID: ARRFNM0221
+Output File Found: ARRFNM0221
+Output Ärticle ID: ARPPIM0060
+Output File Found: ARPPIM0060
+Output Ärticle ID: AR22CM0342
+Output Folder NOT Found: AR22CM0342
+Output Ärticle ID: AR22CM0355
+Output Folder NOT Found: AR22CM0355
+Output Ärticle ID: ARSJNM0469
+Output Folder NOT Found: ARSJNM0469
+Output Ärticle ID: ARCD1M0207
+Output Folder NOT Found: ARCD1M0207
+Output Ärticle ID: AR15MM0298
+Output Folder NOT Found: AR15MM0298
+Output Ärticle ID: AR15MM0299
+Output Folder NOT Found: AR15MM0299
+Output Ärticle ID: AR15MM0300
+Output Folder NOT Found: AR15MM0300
+Output Ärticle ID: AR15MM0301
+Output Folder NOT Found: AR15MM0301
+Output Ärticle ID: ARRMPM0449
+Output File Found: ARRMPM0449
+Output Ärticle ID: AR15MM0308
+Output File Found: AR15MM0308
+Output Ärticle ID: AR15MM0309
+Output File Found: AR15MM0309
+Output Ärticle ID: AR06PM0463
+Output Folder NOT Found: AR06PM0463
+Output Ärticle ID: ARSJNM0475
+Output File Found: ARSJNM0475
+Output Ärticle ID: ARRDRM0288
+Output File Found: ARRDRM0288
+Output Ärticle ID: ARRDRM0289
+Output File Found: ARRDRM0289
+Output Ärticle ID: ARRDRM0290
+Output File Found: ARRDRM0290
+Output Ärticle ID: ARSJGM0407
+Output File Found: ARSJGM0407
+Output Ärticle ID: ARSJGM0408
+Output File Found: ARSJGM0408
+Output Ärticle ID: ARRMPM0450
+Output File Found: ARRMPM0450
+Output Ärticle ID: ARRMPM0451
+Output File Found: ARRMPM0451
+Output Ärticle ID: AR22CM0361
+Output File Found: AR22CM0361
+Output Ärticle ID: ARCD1M0215
+Output File Found: ARCD1M0215
+Output Ärticle ID: AR22CM0362
+Output File Found: AR22CM0362
+Output Ärticle ID: ARSJGM0406
+Output File Found: ARSJGM0406
+Output Ärticle ID: AR22CM0363
+Output File Found: AR22CM0363
+Output Ärticle ID: AR09AM0195
+Output File Found: AR09AM0195
+Output Ärticle ID: AR09AM0196
+Output File Found: AR09AM0196
+Output Ärticle ID: AR09AM0198
+Output File Found: AR09AM0198
+Output Ärticle ID: ARRMPM0454
+Output File Found: ARRMPM0454
+Output Ärticle ID: AR09AM0199
+Output File Found: AR09AM0199
+Output Ärticle ID: ARSJAM0865
+Output File Found: ARSJAM0865
+Output Ärticle ID: ARSJAM0866
+Output File Found: ARSJAM0866
+Output Ärticle ID: AR02SM0327
+Output File Found: AR02SM0327
+Output Ärticle ID: ARRMPM0455
+Output File Found: ARRMPM0455
+Output Ärticle ID: ARSJSM0815
+Output File Found: ARSJSM0815
+Output Ärticle ID: ARRMPM0459
+Output File Found: ARRMPM0459
+Output Ärticle ID: AR15MM0310
+Output File Found: AR15MM0310
+Output Ärticle ID: AR15MM0311
+Output File Found: AR15MM0311
+Output Ärticle ID: ARSJNM0472
+Output File Found: ARSJNM0472
+Output Ärticle ID: ARRDRM0287
+Output File Found: ARRDRM0287
+Output Ärticle ID: ARSJAM0859
+Output File Found: ARSJAM0859
+Output Ärticle ID: AR02SM0326
+Output File Found: AR02SM0326
+Output Ärticle ID: ARSJAM0860
+Output File Found: ARSJAM0860
+Output Ärticle ID: ARSJAM0861
+Output File Found: ARSJAM0861
+Output Ärticle ID: ARSJAM0862
+Output File Found: ARSJAM0862
+Output Ärticle ID: ARSJAM0863
+Output File Found: ARSJAM0863
+Output Ärticle ID: ARSJAM0864
+Output File Found: ARSJAM0864
+Output Ärticle ID: AR09AM0200
+Output File Found: AR09AM0200
+Output Ärticle ID: AR06PM0464
+Output File Found: AR06PM0464
+Output Ärticle ID: AR06PM0465
+Output File Found: AR06PM0465
+Output Ärticle ID: AR02SM0328
+Output File Found: AR02SM0328
+Output Ärticle ID: AR15MM0312
+Output File Found: AR15MM0312
+Output Ärticle ID: AR15MM0313
+Output File Found: AR15MM0313
+Output Ärticle ID: AR20CM0191
+Output File Found: AR20CM0191
+Output Ärticle ID: ARRDRM0291
+Output File Found: ARRDRM0291
+Output Ärticle ID: AR09AM0194
+Output File Found: AR09AM0194
+Output Ärticle ID: ARSJGM0409
+Output File Found: ARSJGM0409
+Output Ärticle ID: ARRDRM0292
+Output File Found: ARRDRM0292
+Output Ärticle ID: ARRMPM0456
+Output File Found: ARRMPM0456
+Output Ärticle ID: ARRMPM0457
+Output File Found: ARRMPM0457
+Output Ärticle ID: ARSJSM0816
+Output File Found: ARSJSM0816
+Output Ärticle ID: ARRDRM0293
+Output File Found: ARRDRM0293
+Output Ärticle ID: ARSJGM0412
+Output File Found: ARSJGM0412
+Output Ärticle ID: ARRMPM0458
+Output File Found: ARRMPM0458
+Output Ärticle ID: ARSJNM0477
+Output File Found: ARSJNM0477
+Output Ärticle ID: AR05AM0300
+Output File Found: AR05AM0300
+Output Ärticle ID: AR05AM0301
+Output File Found: AR05AM0301
+Output Ärticle ID: AR02SM0329
+Output File Found: AR02SM0329
+Output Ärticle ID: ARRDBM0407
+Output File Found: ARRDBM0407
+Output Ärticle ID: AR05AM0303
+Output File Found: AR05AM0303
+Output Ärticle ID: ARRDBM0414
+Output File Found: ARRDBM0414
+Output Ärticle ID: ARRMPM0452
+Output File Found: ARRMPM0452
+Output Ärticle ID: ARRMPM0453
+Output File Found: ARRMPM0453
+Output Ärticle ID: ARSJGM0410
+Output File Found: ARSJGM0410
+Output Ärticle ID: ARSJGM0411
+Output File Found: ARSJGM0411
+Output Ärticle ID: AR15MM0314
+Output File Found: AR15MM0314
+Output Ärticle ID: AR09AM0201
+Output File Found: AR09AM0201
+Output Ärticle ID: ARSJEM0409
+Output File Found: ARSJEM0409
+Output Ärticle ID: ARSJNM0483
+Output File Found: ARSJNM0483
+Output Ärticle ID: AR06RM0273
+Output File Found: AR06RM0273
+Output Ärticle ID: AR06RM0274
+Output File Found: AR06RM0274
+Output Ärticle ID: ARSJEM0410
+Output File Found: ARSJEM0410
+Output Ärticle ID: ARRDBM0408
+Output File Found: ARRDBM0408
+Output Ärticle ID: ARRDBM0409
+Output File Found: ARRDBM0409
+Output Ärticle ID: AR22CM0364
+Output File Found: AR22CM0364
+Output Ärticle ID: ARRDBM0411
+Output File Found: ARRDBM0411
+Output Ärticle ID: ARRDBM0412
+Output File Found: ARRDBM0412
+Output Ärticle ID: ARSJEM0411
+Output File Found: ARSJEM0411
+Output Ärticle ID: AR06PM0469
+Output File Found: AR06PM0469
+Output Ärticle ID: AR09AM0197
+Output File Found: AR09AM0197
+Output Ärticle ID: ARRFNM0225
+Output File Found: ARRFNM0225
+Output Ärticle ID: ARRDBM0413
+Output File Found: ARRDBM0413
+Output Ärticle ID: AR06PM0466
+Output File Found: AR06PM0466
+Output Ärticle ID: ARRMPM0461
+Output File Found: ARRMPM0461
+Output Ärticle ID: ARRMPM0462
+Output File Found: ARRMPM0462
+Output Ärticle ID: AREEIM0346
+Output File Found: AREEIM0346
+Output Ärticle ID: AREEIM0347
+Output File Found: AREEIM0347
+Output Ärticle ID: AR22CM0365
+Output File Found: AR22CM0365
+Output Ärticle ID: AREEIM0348
+Output File Found: AREEIM0348
+Output Ärticle ID: AREEIM0349
+Output File Found: AREEIM0349
+Output Ärticle ID: AR06PM0467
+Output File Found: AR06PM0467
+Output Ärticle ID: AR06PM0468
+Output File Found: AR06PM0468
+Output Ärticle ID: ARRMPM0463
+Output File Found: ARRMPM0463
+Output Ärticle ID: ARRMPM0464
+Output File Found: ARRMPM0464
+Output Ärticle ID: ARSJAM0873
+Output File Found: ARSJAM0873
+Output Ärticle ID: ARRAPM0062
+Output File Found: ARRAPM0062
+Output Ärticle ID: AREEIM0350
+Output File Found: AREEIM0350
+Output Ärticle ID: AR05AM0302
+Output File Found: AR05AM0302
+Output Ärticle ID: ARSJNM0478
+Output File Found: ARSJNM0478
+Output Ärticle ID: ARSJNM0479
+Output File Found: ARSJNM0479
+Output Ärticle ID: ARSJNM0480
+Output File Found: ARSJNM0480
+Output Ärticle ID: ARSJNM0481
+Output File Found: ARSJNM0481
+Output Ärticle ID: ARSJNM0482
+Output File Found: ARSJNM0482
+Output Ärticle ID: AREEIM0343
+Output File Found: AREEIM0343
+Output Ärticle ID: AREEIM0344
+Output File Found: AREEIM0344
+Output Ärticle ID: AREEIM0345
+Output File Found: AREEIM0345
+Output Ärticle ID: ARSJAM0867
+Output File Found: ARSJAM0867
+Output Ärticle ID: ARSJAM0868
+Output File Found: ARSJAM0868
+Output Ärticle ID: ARSJAM0869
+Output File Found: ARSJAM0869
+Output Ärticle ID: AR06RM0275
+Output File Found: AR06RM0275
+Output Ärticle ID: AR05AM0304
+Output File Found: AR05AM0304
+Output Ärticle ID: ARRFNM0227
+Output File Found: ARRFNM0227
+Output Ärticle ID: AR02SM0331
+Output File Found: AR02SM0331
+Output Ärticle ID: AR06PM0471
+Output File Found: AR06PM0471
+Output Ärticle ID: ARRFNM0226
+Output File Found: ARRFNM0226
+Output Ärticle ID: AR06RM0276
+Output File Found: AR06RM0276
+Output Ärticle ID: ARRDBM0410
+Output File Found: ARRDBM0410
+Output Ärticle ID: ARSJAM0871
+Output File Found: ARSJAM0871
+Output Ärticle ID: AR09AM0204
+Output File Found: AR09AM0204
+Output Ärticle ID: AR09AM0205
+Output File Found: AR09AM0205
+Output Ärticle ID: ARSJAM0872
+Output File Found: ARSJAM0872
+Output Ärticle ID: AR22CM0367
+Output File Found: AR22CM0367
+Output Ärticle ID: AREEIM0351
+Output File Found: AREEIM0351
+Output Ärticle ID: ARRSIM0125
+Output File Found: ARRSIM0125
+Output Ärticle ID: ARRSIM0126
+Output File Found: ARRSIM0126
+Output Ärticle ID: ARRSIM0127
+Output File Found: ARRSIM0127
+Output Ärticle ID: ARRSIM0128
+Output File Found: ARRSIM0128
+Output Ärticle ID: AREEIM0352
+Output File Found: AREEIM0352
+Output Ärticle ID: AR09AM0206
+Output File Found: AR09AM0206
+Output Ärticle ID: AREEIM0353
+Output File Found: AREEIM0353
+Output Ärticle ID: AR06RM0277
+Output File Found: AR06RM0277
+Output Ärticle ID: ARRMPM0460
+Output File Found: ARRMPM0460
+Output Ärticle ID: ARSJAM0870
+Output File Found: ARSJAM0870
+Output Ärticle ID: ARSJSM0817
+Output File Found: ARSJSM0817
+Output Ärticle ID: ARSJAM0874
+Output File Found: ARSJAM0874
+Output Ärticle ID: ARSJAM0875
+Output File Found: ARSJAM0875
+Output Ärticle ID: ARSJSM0823
+Output File Found: ARSJSM0823
+Output Ärticle ID: ARRDRM0295
+Output File Found: ARRDRM0295
+Output Ärticle ID: ARRDRM0296
+Output File Found: ARRDRM0296
+Output Ärticle ID: ARRMPM0465
+Output File Found: ARRMPM0465
+Output Ärticle ID: AR06PM0470
+Output File Found: AR06PM0470
+Output Ärticle ID: AR06PM0472
+Output File Found: AR06PM0472
+Output Ärticle ID: AR06PM0473
+Output File Found: AR06PM0473
+Output Ärticle ID: ARSJAM0877
+Output File Found: ARSJAM0877
+Output Ärticle ID: AREEIM0354
+Output File Found: AREEIM0354
+Output Ärticle ID: AR06RM0281
+Output Folder NOT Found: AR06RM0281
+Output Ärticle ID: ARRFNM0228
+Output File Found: ARRFNM0228
+Output Ärticle ID: AR09AM0202
+Output File Found: AR09AM0202
+Output Ärticle ID: AR09AM0203
+Output File Found: AR09AM0203
+Output Ärticle ID: AR02SM0330
+Output File Found: AR02SM0330
+Output Ärticle ID: ARSJSM0821
+Output File Found: ARSJSM0821
+Output Ärticle ID: ARSJSM0822
+Output File Found: ARSJSM0822
+Output Ärticle ID: ARSJSM0824
+Output File Found: ARSJSM0824
+Output Ärticle ID: ARSJSM0825
+Output File Found: ARSJSM0825
+Output Ärticle ID: ARSJNM0484
+Output File Found: ARSJNM0484
+Output Ärticle ID: ARSJEM0412
+Output File Found: ARSJEM0412
+Output Ärticle ID: ARSJAM0878
+Output File Found: ARSJAM0878
+Output Ärticle ID: AR05AM0306
+Output File Found: AR05AM0306
+Output Ärticle ID: AR02YM0179
+Output File Found: AR02YM0179
+Output Ärticle ID: AR06RM0278
+Output Folder NOT Found: AR06RM0278
+Output Ärticle ID: AR06RM0279
+Output Folder NOT Found: AR06RM0279
+Output Ärticle ID: AR06RM0280
+Output Folder NOT Found: AR06RM0280
+Output Ärticle ID: AR05AM0309
+Output File Found: AR05AM0309
+Output Ärticle ID: AREEIM0356
+Output File Found: AREEIM0356
+Output Ärticle ID: ARRBMM0290
+Output File Found: ARRBMM0290
+Output Ärticle ID: ARSJSM0818
+Output File Found: ARSJSM0818
+Output Ärticle ID: ARSJSM0819
+Output File Found: ARSJSM0819
+Output Ärticle ID: ARRMPM0466
+Output File Found: ARRMPM0466
+Output Ärticle ID: AR06PM0474
+Output File Found: AR06PM0474
+Output Ärticle ID: AR02YM0178
+Output File Found: AR02YM0178
+Output Ärticle ID: AR06RM0282
+Output Folder NOT Found: AR06RM0282
+Output Ärticle ID: AR06RM0284
+Output Folder NOT Found: AR06RM0284
+Output Ärticle ID: ARRFNM0229
+Output File Found: ARRFNM0229
+Output Ärticle ID: ARRPCM0217
+Output File Found: ARRPCM0217
+Output Ärticle ID: ARRPCM0218
+Output File Found: ARRPCM0218
+Output Ärticle ID: ARRPCM0219
+Output File Found: ARRPCM0219
+Output Ärticle ID: ARRPCM0220
+Output File Found: ARRPCM0220
+Output Ärticle ID: ARRFNM0230
+Output File Found: ARRFNM0230
+Output Ärticle ID: AR18CM0208
+Output File Found: AR18CM0208
+Output Ärticle ID: AR06PM0478
+Output File Found: AR06PM0478
+Output Ärticle ID: ARCCEM0320
+Output File Found: ARCCEM0320
+Output Ärticle ID: ARCCEM0321
+Output File Found: ARCCEM0321
+Output Ärticle ID: ARCCEM0323
+Output File Found: ARCCEM0323
+Output Ärticle ID: AR05AM0305
+Output File Found: AR05AM0305
+Output Ärticle ID: AR22CM0366
+Output File Found: AR22CM0366
+Output Ärticle ID: ARSJSM0820
+Output File Found: ARSJSM0820
+Output Ärticle ID: AR22CM0368
+Output File Found: AR22CM0368
+Output Ärticle ID: AR22CM0369
+Output File Found: AR22CM0369
+Output Ärticle ID: ARRDRM0294
+Output File Found: ARRDRM0294
+Output Ärticle ID: ARSJAM0876
+Output File Found: ARSJAM0876
+Output Ärticle ID: AR06PM0475
+Output File Found: AR06PM0475
+Output Ärticle ID: AR05AM0308
+Output File Found: AR05AM0308
+Output Ärticle ID: ARRFNM0231
+Output File Found: ARRFNM0231
+Output Ärticle ID: ARRPCM0221
+Output File Found: ARRPCM0221
+Output Ärticle ID: ARSJEM0414
+Output File Found: ARSJEM0414
+Output Ärticle ID: ARRPCM0223
+Output File Found: ARRPCM0223
+Output Ärticle ID: ARRBMM0293
+Output File Found: ARRBMM0293
+Output Ärticle ID: AR20CM0193
+Output File Found: AR20CM0193
+Output Ärticle ID: AR02SM0334
+Output Folder NOT Found: AR02SM0334
+Output Ärticle ID: ARRBMM0289
+Output File Found: ARRBMM0289
+Output Ärticle ID: AR06PM0477
+Output File Found: AR06PM0477
+Output Ärticle ID: ARSJEM0413
+Output File Found: ARSJEM0413
+Output Ärticle ID: AREEIM0355
+Output File Found: AREEIM0355
+Output Ärticle ID: ARCD1M0216
+Output File Found: ARCD1M0216
+Output Ärticle ID: ARCD1M0217
+Output File Found: ARCD1M0217
+Output Ärticle ID: ARRBMM0291
+Output File Found: ARRBMM0291
+Output Ärticle ID: ARRPCM0225
+Output File Found: ARRPCM0225
+Output Ärticle ID: ARCD1M0218
+Output File Found: ARCD1M0218
+Output Ärticle ID: ARRPCM0227
+Output File Found: ARRPCM0227
+Output Ärticle ID: AR02SM0333
+Output File Found: AR02SM0333
+Output Ärticle ID: ARRPCM0228
+Output File Found: ARRPCM0228
+Output Ärticle ID: ARRPCM0229
+Output File Found: ARRPCM0229
+Output Ärticle ID: ARCD1M0219
+Output File Found: ARCD1M0219
+Output Ärticle ID: ARSJEM0415
+Output File Found: ARSJEM0415
+Output Ärticle ID: AR06PM0482
+Output File Found: AR06PM0482
+Output Ärticle ID: AR02YM0177
+Output File Found: AR02YM0177
+Output Ärticle ID: AR02SM0332
+Output File Found: AR02SM0332
+Output Ärticle ID: AR06RM0283
+Output Folder NOT Found: AR06RM0283
+Output Ärticle ID: AR06PM0476
+Output File Found: AR06PM0476
+Output Ärticle ID: AR05AM0307
+Output File Found: AR05AM0307
+Output Ärticle ID: ARRPCM0222
+Output File Found: ARRPCM0222
+Output Ärticle ID: AR06PM0479
+Output File Found: AR06PM0479
+Output Ärticle ID: ARSJAM0882
+Output File Found: ARSJAM0882
+Output Ärticle ID: AR02SM0335
+Output Folder NOT Found: AR02SM0335
+Output Ärticle ID: AR02SM0336
+Output File Found: AR02SM0336
+Output Ärticle ID: ARCCEM0328
+Output File Found: ARCCEM0328
+Output Ärticle ID: ARSJEM0418
+Output Folder NOT Found: ARSJEM0418
+Output Ärticle ID: ARRPCM0224
+Output File Found: ARRPCM0224
+Output Ärticle ID: ARCCEM0319
+Output File Found: ARCCEM0319
+Output Ärticle ID: ARSJGM0414
+Output File Found: ARSJGM0414
+Output Ärticle ID: ARSJAM0884
+Output File Found: ARSJAM0884
+Output Ärticle ID: ARSJAM0885
+Output File Found: ARSJAM0885
+Output Ärticle ID: ARSJEM0419
+Output File Found: ARSJEM0419
+Output Ärticle ID: ARCD1M0220
+Output File Found: ARCD1M0220
+Output Ärticle ID: ARSJEM0420
+Output File Found: ARSJEM0420
+Output Ärticle ID: ARSJEM0421
+Output File Found: ARSJEM0421
+Output Ärticle ID: ARRPCM0226
+Output File Found: ARRPCM0226
+Output Ärticle ID: ARRPCM0234
+Output File Found: ARRPCM0234
+Output Ärticle ID: ARSJAM0883
+Output File Found: ARSJAM0883
+Output Ärticle ID: AR20CM0192
+Output File Found: AR20CM0192
+Output Ärticle ID: ARCD1M0221
+Output File Found: ARCD1M0221
+Output Ärticle ID: ARRPCM0236
+Output File Found: ARRPCM0236
+Output Ärticle ID: AR20CM0196
+Output File Found: AR20CM0196
+Output Ärticle ID: AR20CM0197
+Output File Found: AR20CM0197
+Output Ärticle ID: AR20CM0198
+Output File Found: AR20CM0198
+Output Ärticle ID: AR06PM0480
+Output File Found: AR06PM0480
+Output Ärticle ID: AR02SM0337
+Output Folder NOT Found: AR02SM0337
+Output Ärticle ID: ARRPCM0237
+Output File Found: ARRPCM0237
+Output Ärticle ID: ARSJNM0486
+Output File Found: ARSJNM0486
+Output Ärticle ID: ARSJAM0886
+Output File Found: ARSJAM0886
+Output Ärticle ID: ARRPCM0241
+Output File Found: ARRPCM0241
+Output Ärticle ID: ARRPCM0242
+Output File Found: ARRPCM0242
+Output Ärticle ID: ARSJAM0890
+Output File Found: ARSJAM0890
+Output Ärticle ID: ARSJAM0894
+Output File Found: ARSJAM0894
+Output Ärticle ID: AR02SM0338
+Output File Found: AR02SM0338
+Output Ärticle ID: ARSJEM0417
+Output File Found: ARSJEM0417
+Output Ärticle ID: ARRPCM0235
+Output Folder NOT Found: ARRPCM0235
+Output Ärticle ID: ARRDBM0415
+Output File Found: ARRDBM0415
+Output Ärticle ID: ARRPCM0240
+Output File Found: ARRPCM0240
+Output Ärticle ID: ARSJAM0888
+Output File Found: ARSJAM0888
+Output Ärticle ID: ARSJNM0488
+Output File Found: ARSJNM0488
+Output Ärticle ID: ARSJAM0891
+Output File Found: ARSJAM0891
+Output Ärticle ID: ARSJAM0892
+Output File Found: ARSJAM0892
+Output Ärticle ID: ARSJAM0893
+Output File Found: ARSJAM0893
+Output Ärticle ID: ARSJAM0901
+Output File Found: ARSJAM0901
+Output Ärticle ID: ARRMPM0468
+Output File Found: ARRMPM0468
+Output Ärticle ID: ARSJAM0904
+Output File Found: ARSJAM0904
+Output Ärticle ID: ARSJAM0905
+Output File Found: ARSJAM0905
+Output Ärticle ID: ARSJEM0426
+Output File Found: ARSJEM0426
+Output Ärticle ID: AREEIM0360
+Output File Found: AREEIM0360
+Output Ärticle ID: ARSJSM0833
+Output File Found: ARSJSM0833
+Output Ärticle ID: AR06RM0286
+Output Folder NOT Found: AR06RM0286
+Output Ärticle ID: ARSJAM0907
+Output Folder NOT Found: ARSJAM0907
+Output Ärticle ID: ARSJEM0427
+Output Folder NOT Found: ARSJEM0427
+Output Ärticle ID: ARSJAM0908
+Output Folder NOT Found: ARSJAM0908
+Output Ärticle ID: ARSJAM0909
+Output Folder NOT Found: ARSJAM0909
+Output Ärticle ID: ARSJAM0898
+Output File Found: ARSJAM0898
+Output Ärticle ID: ARSJEM0424
+Output File Found: ARSJEM0424
+Output Ärticle ID: ARSJSM0827
+Output File Found: ARSJSM0827
+Output Ärticle ID: ARSJNM0491
+Output File Found: ARSJNM0491
+Output Ärticle ID: ARSJAM0906
+Output File Found: ARSJAM0906
+Output Ärticle ID: ARSJGM0418
+Output File Found: ARSJGM0418
+Output Ärticle ID: AR06PM0483
+Output File Found: AR06PM0483
+Output Ärticle ID: ARSJSM0830
+Output File Found: ARSJSM0830
+Output Ärticle ID: ARSJSM0831
+Output Folder NOT Found: ARSJSM0831
+Output Ärticle ID: ARSJSM0832
+Output File Found: ARSJSM0832
+Output Ärticle ID: AR15MM0315
+Output File Found: AR15MM0315
+Output Ärticle ID: AR15MM0316
+Output Folder NOT Found: AR15MM0316
+Output Ärticle ID: AR15MM0317
+Output File Found: AR15MM0317
+Output Ärticle ID: ARRAPM0063
+Output File Found: ARRAPM0063
+Output Ärticle ID: ARSJGM0419
+Output File Found: ARSJGM0419
+Output Ärticle ID: AR15MM0318
+Output File Found: AR15MM0318
+Output Ärticle ID: AR15MM0319
+Output File Found: AR15MM0319
+Output Ärticle ID: AR15MM0320
+Output File Found: AR15MM0320
+Output Ärticle ID: AR15MM0321
+Output File Found: AR15MM0321
+Output Ärticle ID: AR15MM0322
+Output File Found: AR15MM0322
+Output Ärticle ID: AR15MM0323
+Output File Found: AR15MM0323
+Output Ärticle ID: AR15MM0324
+Output Folder NOT Found: AR15MM0324
+Output Ärticle ID: AR15MM0325
+Output Folder NOT Found: AR15MM0325
+Output Ärticle ID: AR15MM0326
+Output Folder NOT Found: AR15MM0326
+Output Ärticle ID: AR15MM0327
+Output Folder NOT Found: AR15MM0327
+Output Ärticle ID: AR15MM0328
+Output Folder NOT Found: AR15MM0328
+Output Ärticle ID: AR06RM0285
+Output Folder NOT Found: AR06RM0285
+Output Ärticle ID: ARRMPM0470
+Output Folder NOT Found: ARRMPM0470
+Output Ärticle ID: ARRMPM0471
+Output Folder NOT Found: ARRMPM0471
+Output Ärticle ID: ARRMPM0472
+Output Folder NOT Found: ARRMPM0472
+Output Ärticle ID: AREEIM0361
+Output Folder NOT Found: AREEIM0361
+Output Ärticle ID: ARRMPM0473
+Output Folder NOT Found: ARRMPM0473
+Output Ärticle ID: ARRMPM0474
+Output Folder NOT Found: ARRMPM0474
+Output Ärticle ID: ARRMPM0475
+Output Folder NOT Found: ARRMPM0475
+Output Ärticle ID: ARRSIM0132
+Output Folder NOT Found: ARRSIM0132
+Output Ärticle ID: ARSJGM0420
+Output Folder NOT Found: ARSJGM0420
+Output Ärticle ID: ARSJSM0834
+Output Folder NOT Found: ARSJSM0834
+Output Ärticle ID: AR15MM0329
+Output Folder NOT Found: AR15MM0329
+Output Ärticle ID: AR15MM0330
+Output Folder NOT Found: AR15MM0330
+Output Ärticle ID: AR15MM0331
+Output Folder NOT Found: AR15MM0331
+Output Ärticle ID: ARRSIM0131
+Output Folder NOT Found: ARRSIM0131
+Ärticle ID: AR06RM0286
+FileFound: AR06RM0286
+Ärticle ID: ARSJAM0907
+FileFound: ARSJAM0907
+Ärticle ID: ARSJEM0427
+FileFound: ARSJEM0427
+Ärticle ID: ARSJAM0908
+FileFound: ARSJAM0908
+Ärticle ID: ARSJAM0909
+FileFound: ARSJAM0909
+Ärticle ID: AR06RM0287
+FileFound: AR06RM0287
+Ärticle ID: ARSJAM0910
+FileFound: ARSJAM0910
+Ärticle ID: ARSJSM0831
+FileFound: ARSJSM0831
+Ärticle ID: AR15MM0316
+FileFound: AR15MM0316
+Ärticle ID: AR15MM0324
+FileFound: AR15MM0324
+Ärticle ID: AR15MM0325
+FileFound: AR15MM0325
+Ärticle ID: AR15MM0326
+FileFound: AR15MM0326
+Ärticle ID: AR15MM0327
+FileFound: AR15MM0327
+Ärticle ID: AR15MM0328
+FileFound: AR15MM0328
+Ärticle ID: AR06RM0285
+FileFound: AR06RM0285
+Ärticle ID: ARRMPM0470
+FileFound: ARRMPM0470
+Ärticle ID: ARRMPM0471
+FileFound: ARRMPM0471
+Ärticle ID: ARRMPM0472
+FileFound: ARRMPM0472
+Ärticle ID: AREEIM0361
+FileFound: AREEIM0361
+Ärticle ID: ARRMPM0473
+FileFound: ARRMPM0473
+Ärticle ID: ARRMPM0474
+FileFound: ARRMPM0474
+Ärticle ID: ARRMPM0475
+FileFound: ARRMPM0475
+Ärticle ID: ARRSIM0132
+FileFound: ARRSIM0132
+Ärticle ID: ARSJGM0420
+FileFound: ARSJGM0420
+Ärticle ID: AR06RM0288
+FileFound: AR06RM0288
+Ärticle ID: ARSJSM0834
+FileFound: ARSJSM0834
+Ärticle ID: AR15MM0329
+FileFound: AR15MM0329
+Ärticle ID: AR15MM0330
+FileFound: AR15MM0330
+Ärticle ID: AR15MM0331
+FileFound: AR15MM0331
+Ärticle ID: ARRSIM0131
+FileFound: ARRSIM0131
+Output Ärticle ID: AR06RM0286
+Output Folder NOT Found: AR06RM0286
+Output Ärticle ID: ARSJAM0907
+Output Folder NOT Found: ARSJAM0907
+Output Ärticle ID: ARSJEM0427
+Output Folder NOT Found: ARSJEM0427
+Output Ärticle ID: ARSJAM0908
+Output Folder NOT Found: ARSJAM0908
+Output Ärticle ID: ARSJAM0909
+Output Folder NOT Found: ARSJAM0909
+Output Ärticle ID: AR06RM0287
+Output Folder NOT Found: AR06RM0287
+Output Ärticle ID: ARSJAM0910
+Output Folder NOT Found: ARSJAM0910
+Output Ärticle ID: ARSJSM0831
+Output Folder NOT Found: ARSJSM0831
+Output Ärticle ID: AR15MM0316
+Output Folder NOT Found: AR15MM0316
+Output Ärticle ID: AR15MM0324
+Output Folder NOT Found: AR15MM0324
+Output Ärticle ID: AR15MM0325
+Output Folder NOT Found: AR15MM0325
+Output Ärticle ID: AR15MM0326
+Output Folder NOT Found: AR15MM0326
+Output Ärticle ID: AR15MM0327
+Output Folder NOT Found: AR15MM0327
+Output Ärticle ID: AR15MM0328
+Output Folder NOT Found: AR15MM0328
+Output Ärticle ID: AR06RM0285
+Output Folder NOT Found: AR06RM0285
+Output Ärticle ID: ARRMPM0470
+Output Folder NOT Found: ARRMPM0470
+Output Ärticle ID: ARRMPM0471
+Output Folder NOT Found: ARRMPM0471
+Output Ärticle ID: ARRMPM0472
+Output Folder NOT Found: ARRMPM0472
+Output Ärticle ID: AREEIM0361
+Output Folder NOT Found: AREEIM0361
+Output Ärticle ID: ARRMPM0473
+Output Folder NOT Found: ARRMPM0473
+Output Ärticle ID: ARRMPM0474
+Output Folder NOT Found: ARRMPM0474
+Output Ärticle ID: ARRMPM0475
+Output Folder NOT Found: ARRMPM0475
+Output Ärticle ID: ARRSIM0132
+Output Folder NOT Found: ARRSIM0132
+Output Ärticle ID: ARSJGM0420
+Output Folder NOT Found: ARSJGM0420
+Output Ärticle ID: AR06RM0288
+Output Folder NOT Found: AR06RM0288
+Output Ärticle ID: ARSJSM0834
+Output Folder NOT Found: ARSJSM0834
+Output Ärticle ID: AR15MM0329
+Output Folder NOT Found: AR15MM0329
+Output Ärticle ID: AR15MM0330
+Output Folder NOT Found: AR15MM0330
+Output Ärticle ID: AR15MM0331
+Output Folder NOT Found: AR15MM0331
+Output Ärticle ID: ARRSIM0131
+Output Folder NOT Found: ARRSIM0131
+Ärticle ID: AR06RM0286
+FileFound: AR06RM0286
+Ärticle ID: ARSJAM0907
+FileFound: ARSJAM0907
+Ärticle ID: ARSJEM0427
+FileFound: ARSJEM0427
+Ärticle ID: ARSJAM0908
+FileFound: ARSJAM0908
+Ärticle ID: ARSJAM0909
+FileFound: ARSJAM0909
+Ärticle ID: AR06RM0287
+FileFound: AR06RM0287
+Ärticle ID: ARSJAM0910
+FileFound: ARSJAM0910
+Ärticle ID: ARSJSM0831
+FileFound: ARSJSM0831
+Ärticle ID: AR15MM0316
+FileFound: AR15MM0316
+Ärticle ID: AR15MM0324
+FileFound: AR15MM0324
+Ärticle ID: AR15MM0325
+FileFound: AR15MM0325
+Ärticle ID: AR15MM0326
+FileFound: AR15MM0326
+Ärticle ID: AR15MM0327
+FileFound: AR15MM0327
+Ärticle ID: AR15MM0328
+FileFound: AR15MM0328
+Ärticle ID: AR06RM0285
+FileFound: AR06RM0285
+Ärticle ID: ARRMPM0470
+FileFound: ARRMPM0470
+Ärticle ID: ARRMPM0471
+FileFound: ARRMPM0471
+Ärticle ID: ARRMPM0472
+FileFound: ARRMPM0472
+Ärticle ID: AREEIM0361
+FileFound: AREEIM0361
+Ärticle ID: ARRMPM0473
+FileFound: ARRMPM0473
+Ärticle ID: ARRMPM0474
+FileFound: ARRMPM0474
+Ärticle ID: ARRMPM0475
+FileFound: ARRMPM0475
+Ärticle ID: ARRSIM0132
+FileFound: ARRSIM0132
+Ärticle ID: ARSJGM0420
+FileFound: ARSJGM0420
+Ärticle ID: AR06RM0288
+FileFound: AR06RM0288
+Ärticle ID: ARSJSM0834
+FileFound: ARSJSM0834
+Ärticle ID: AR15MM0329
+FileFound: AR15MM0329
+Ärticle ID: AR15MM0330
+FileFound: AR15MM0330
+Ärticle ID: AR15MM0331
+FileFound: AR15MM0331
+Ärticle ID: ARRSIM0131
+FileFound: ARRSIM0131
+Output Ärticle ID: AR06RM0286
+Output Folder NOT Found: AR06RM0286
+Output Ärticle ID: ARSJAM0907
+Output Folder NOT Found: ARSJAM0907
+Output Ärticle ID: ARSJEM0427
+Output Folder NOT Found: ARSJEM0427
+Output Ärticle ID: ARSJAM0908
+Output Folder NOT Found: ARSJAM0908
+Output Ärticle ID: ARSJAM0909
+Output Folder NOT Found: ARSJAM0909
+Output Ärticle ID: AR06RM0287
+Output Folder NOT Found: AR06RM0287
+Output Ärticle ID: ARSJAM0910
+Output Folder NOT Found: ARSJAM0910
+Output Ärticle ID: ARSJSM0831
+Output Folder NOT Found: ARSJSM0831
+Output Ärticle ID: AR15MM0316
+Output Folder NOT Found: AR15MM0316
+Output Ärticle ID: AR15MM0324
+Output Folder NOT Found: AR15MM0324
+Output Ärticle ID: AR15MM0325
+Output Folder NOT Found: AR15MM0325
+Output Ärticle ID: AR15MM0326
+Output Folder NOT Found: AR15MM0326
+Output Ärticle ID: AR15MM0327
+Output Folder NOT Found: AR15MM0327
+Output Ärticle ID: AR15MM0328
+Output Folder NOT Found: AR15MM0328
+Output Ärticle ID: AR06RM0285
+Output Folder NOT Found: AR06RM0285
+Output Ärticle ID: ARRMPM0470
+Output Folder NOT Found: ARRMPM0470
+Output Ärticle ID: ARRMPM0471
+Output Folder NOT Found: ARRMPM0471
+Output Ärticle ID: ARRMPM0472
+Output Folder NOT Found: ARRMPM0472
+Output Ärticle ID: AREEIM0361
+Output Folder NOT Found: AREEIM0361
+Output Ärticle ID: ARRMPM0473
+Output Folder NOT Found: ARRMPM0473
+Output Ärticle ID: ARRMPM0474
+Output Folder NOT Found: ARRMPM0474
+Output Ärticle ID: ARRMPM0475
+Output Folder NOT Found: ARRMPM0475
+Output Ärticle ID: ARRSIM0132
+Output Folder NOT Found: ARRSIM0132
+Output Ärticle ID: ARSJGM0420
+Output Folder NOT Found: ARSJGM0420
+Output Ärticle ID: AR06RM0288
+Output Folder NOT Found: AR06RM0288
+Output Ärticle ID: ARSJSM0834
+Output Folder NOT Found: ARSJSM0834
+Output Ärticle ID: AR15MM0329
+Output Folder NOT Found: AR15MM0329
+Output Ärticle ID: AR15MM0330
+Output Folder NOT Found: AR15MM0330
+Output Ärticle ID: AR15MM0331
+Output Folder NOT Found: AR15MM0331
+Output Ärticle ID: ARRSIM0131
+Output Folder NOT Found: ARRSIM0131
+Ärticle ID: AR06RM0286
+FileFound: AR06RM0286
+Ärticle ID: ARSJAM0907
+FileFound: ARSJAM0907
+Ärticle ID: ARSJEM0427
+FileFound: ARSJEM0427
+Ärticle ID: ARSJAM0908
+FileFound: ARSJAM0908
+Ärticle ID: ARSJAM0909
+FileFound: ARSJAM0909
+Ärticle ID: AR06RM0287
+FileFound: AR06RM0287
+Ärticle ID: ARSJAM0910
+FileFound: ARSJAM0910
+Ärticle ID: ARSJSM0831
+FileFound: ARSJSM0831
+Ärticle ID: AR15MM0316
+FileFound: AR15MM0316
+Ärticle ID: AR15MM0324
+FileFound: AR15MM0324
+Ärticle ID: AR15MM0325
+FileFound: AR15MM0325
+Ärticle ID: AR15MM0326
+FileFound: AR15MM0326
+Ärticle ID: AR15MM0327
+FileFound: AR15MM0327
+Ärticle ID: AR15MM0328
+FileFound: AR15MM0328
+Ärticle ID: AR06RM0285
+FileFound: AR06RM0285
+Ärticle ID: ARRMPM0470
+FileFound: ARRMPM0470
+Ärticle ID: ARRMPM0471
+FileFound: ARRMPM0471
+Ärticle ID: ARRMPM0472
+FileFound: ARRMPM0472
+Ärticle ID: AREEIM0361
+FileFound: AREEIM0361
+Ärticle ID: ARRMPM0473
+FileFound: ARRMPM0473
+Ärticle ID: ARRMPM0474
+FileFound: ARRMPM0474
+Ärticle ID: ARRMPM0475
+FileFound: ARRMPM0475
+Ärticle ID: ARRSIM0132
+FileFound: ARRSIM0132
+Ärticle ID: ARSJGM0420
+FileFound: ARSJGM0420
+Ärticle ID: AR06RM0288
+FileFound: AR06RM0288
+Ärticle ID: ARSJSM0834
+FileFound: ARSJSM0834
+Ärticle ID: AR15MM0329
+FileFound: AR15MM0329
+Ärticle ID: AR15MM0330
+FileFound: AR15MM0330
+Ärticle ID: AR15MM0331
+FileFound: AR15MM0331
+Ärticle ID: ARRSIM0131
+FileFound: ARRSIM0131
+Output Ärticle ID: AR06RM0286
+Output Folder NOT Found: AR06RM0286
+Output Ärticle ID: ARSJAM0907
+Output Folder NOT Found: ARSJAM0907
+Output Ärticle ID: ARSJEM0427
+Output Folder NOT Found: ARSJEM0427
+Output Ärticle ID: ARSJAM0908
+Output Folder NOT Found: ARSJAM0908
+Output Ärticle ID: ARSJAM0909
+Output Folder NOT Found: ARSJAM0909
+Output Ärticle ID: AR06RM0287
+Output Folder NOT Found: AR06RM0287
+Output Ärticle ID: ARSJAM0910
+Output Folder NOT Found: ARSJAM0910
+Output Ärticle ID: ARSJSM0831
+Output Folder NOT Found: ARSJSM0831
+Output Ärticle ID: AR15MM0316
+Output Folder NOT Found: AR15MM0316
+Output Ärticle ID: AR15MM0324
+Output Folder NOT Found: AR15MM0324
+Output Ärticle ID: AR15MM0325
+Output Folder NOT Found: AR15MM0325
+Output Ärticle ID: AR15MM0326
+Output Folder NOT Found: AR15MM0326
+Output Ärticle ID: AR15MM0327
+Output Folder NOT Found: AR15MM0327
+Output Ärticle ID: AR15MM0328
+Output Folder NOT Found: AR15MM0328
+Output Ärticle ID: AR06RM0285
+Output Folder NOT Found: AR06RM0285
+Output Ärticle ID: ARRMPM0470
+Output Folder NOT Found: ARRMPM0470
+Output Ärticle ID: ARRMPM0471
+Output Folder NOT Found: ARRMPM0471
+Output Ärticle ID: ARRMPM0472
+Output Folder NOT Found: ARRMPM0472
+Output Ärticle ID: AREEIM0361
+Output Folder NOT Found: AREEIM0361
+Output Ärticle ID: ARRMPM0473
+Output Folder NOT Found: ARRMPM0473
+Output Ärticle ID: ARRMPM0474
+Output Folder NOT Found: ARRMPM0474
+Output Ärticle ID: ARRMPM0475
+Output Folder NOT Found: ARRMPM0475
+Output Ärticle ID: ARRSIM0132
+Output Folder NOT Found: ARRSIM0132
+Output Ärticle ID: ARSJGM0420
+Output Folder NOT Found: ARSJGM0420
+Output Ärticle ID: AR06RM0288
+Output Folder NOT Found: AR06RM0288
+Output Ärticle ID: ARSJSM0834
+Output Folder NOT Found: ARSJSM0834
+Output Ärticle ID: AR15MM0329
+Output Folder NOT Found: AR15MM0329
+Output Ärticle ID: AR15MM0330
+Output Folder NOT Found: AR15MM0330
+Output Ärticle ID: AR15MM0331
+Output Folder NOT Found: AR15MM0331
+Output Ärticle ID: ARRSIM0131
+Output Folder NOT Found: ARRSIM0131
