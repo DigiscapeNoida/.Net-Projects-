@@ -1,0 +1,5 @@
+G:\Projects\JLEDataSet\JLEDATASET\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\JLEDataSet\JLEDATASET\bin\Debug\JLEDATASET.exe
+G:\Projects\JLEDataSet\JLEDATASET\bin\Debug\JLEDATASET.pdb
+G:\Projects\JLEDataSet\JLEDATASET\obj\Debug\JLEDATASET.exe
+G:\Projects\JLEDataSet\JLEDATASET\obj\Debug\JLEDATASET.pdb
