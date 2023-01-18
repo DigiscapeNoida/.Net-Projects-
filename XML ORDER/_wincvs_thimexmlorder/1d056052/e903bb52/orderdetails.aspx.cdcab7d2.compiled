@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/WinCVS/ThimeXMLORDER/OrderDetails.aspx" hash="4f9fc7d9f" filehash="bec9af12a77f4636" flags="110000" assembly="App_Web_us1vyvhi" type="ASP.orderdetails_aspx">
+    <filedeps>
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/OrderDetails.aspx" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/OrderDetails.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/WinCVS/ThimeXMLORDER/Login.aspx" hash="4f9fc7d9f" filehash="3728083e131bd8fc" flags="110000" assembly="App_Web_cao5bcy3" type="ASP.login_aspx">
+    <filedeps>
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/FullMaster.master" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/FullMaster.master.cs" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/Login.aspx" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/Login.aspx.cs" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/MasterPage.master" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/MasterPage.master.cs" />
+    </filedeps>
+</preserve>

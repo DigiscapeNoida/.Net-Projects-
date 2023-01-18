@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/WinCVS/ThimeXMLORDER/UpdateOrder.aspx" hash="4f9fc7d9f" filehash="6e09edc50251486b" flags="110000" assembly="App_Web_us1vyvhi" type="ASP.updateorder_aspx">
+    <filedeps>
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/UpdateOrder.aspx" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/UpdateOrder.aspx.cs" />
+    </filedeps>
+</preserve>
