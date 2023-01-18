@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/WinCVS/ThimeXMLORDER/ItemReport.aspx" hash="9dbb248ad" filehash="41f90a0be7e9d74d" flags="110000" assembly="App_Web_prvssh3q" type="ASP.itemreport_aspx">
+    <filedeps>
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/FullMaster.master" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/FullMaster.master.cs" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/ItemReport.aspx" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/ItemReport.aspx.cs" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/MasterPage.master" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/MasterPage.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/WinCVS/ThimeXMLORDER/OrderCreator.aspx" hash="9dbb248ad" filehash="b5889d750bd86e3d" flags="110000" assembly="App_Web_vo5ncuit" type="ASP.ordercreator_aspx">
+    <filedeps>
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/MasterPage.master" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/MasterPage.master.cs" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/OrderCreator.aspx" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/OrderCreator.aspx.cs" />
+    </filedeps>
+</preserve>

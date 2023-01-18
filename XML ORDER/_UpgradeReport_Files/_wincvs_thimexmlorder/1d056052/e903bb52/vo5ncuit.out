@@ -1,0 +1,52 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE> "C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe" /t:library /utf8output /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\System.Runtime.Serialization.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Web.Mobile.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.ServiceModel.Web.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\System.IdentityModel.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.EnterpriseServices.dll" /R:"D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_4a5ivd3b.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll" /R:"D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Code.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Web.Services.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.WorkflowServices.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Web.Extensions.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Configuration.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Web.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\System.ServiceModel.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" /R:"D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_global.asax.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.DataSetExtensions.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll" /out:"D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.dll" /D:DEBUG /debug+ /optimize- /win32res:"D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\vo5ncuit.res" /w:4 /define:CODE_ANALYSIS /nowarn:1659;1699;1701 /warnaserror-  "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.5.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.4.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.8.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.3.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.2.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.1.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.0.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.7.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Web_vo5ncuit.6.cs"
+
+
+Microsoft (R) Visual C# 2008 Compiler version 3.5.30729.5420
+for Microsoft (R) .NET Framework version 3.5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(55,13): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(73,13): warning CS0618: 'System.Xml.Xsl.XslTransform' is obsolete: 'This class has been deprecated. Please use System.Xml.Xsl.XslCompiledTransform instead. http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(73,43): warning CS0618: 'System.Xml.Xsl.XslTransform' is obsolete: 'This class has been deprecated. Please use System.Xml.Xsl.XslCompiledTransform instead. http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(91,13): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(133,25): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(145,13): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(153,17): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(160,13): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(247,33): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(255,29): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderViewer.aspx.cs(273,13): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(244,17): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(352,17): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(444,13): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(637,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(642,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(647,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(652,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(657,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(662,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(667,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(672,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(677,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(682,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(687,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(692,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(697,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(702,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(707,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(712,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(717,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(722,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(727,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(732,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(737,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(742,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(747,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(752,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(757,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(762,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(767,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(772,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(777,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\OrderCreator.aspx.cs(782,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\EMCOrder.aspx.cs(185,17): warning CS0618: 'System.Web.UI.Page.RegisterClientScriptBlock(string, string)' is obsolete: 'The recommended alternative is ClientScript.RegisterClientScriptBlock(Type type, string key, string script). http://go.microsoft.com/fwlink/?linkid=14202'

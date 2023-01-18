@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/WinCVS/ThimeXMLORDER/App_Themes/MyTheme/" hash="9dbb248ad" filehash="a52e7283547db10" flags="110000" assembly="App_Theme_MyTheme" type="ASP.MyTheme">
+    <filedeps>
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/App_Themes/MyTheme/" />
+    </filedeps>
+</preserve>

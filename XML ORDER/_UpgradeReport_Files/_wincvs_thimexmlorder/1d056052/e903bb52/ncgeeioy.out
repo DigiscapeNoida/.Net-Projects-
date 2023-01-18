@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE> "C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe" /t:library /utf8output /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\System.Runtime.Serialization.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Web.Mobile.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.ServiceModel.Web.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\System.IdentityModel.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.EnterpriseServices.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Web.Services.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.WorkflowServices.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Web.Extensions.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Configuration.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Web.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.0\System.ServiceModel.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll" /R:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.DataSetExtensions.dll" /R:"C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll" /out:"D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Code.dll" /D:DEBUG /debug+ /optimize- /w:4 /define:CODE_ANALYSIS /nowarn:1659;1699;1701 /warnaserror-  "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Code.0.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Code.1.cs" "D:\WinCVS\ThimeXMLORDER\_wincvs_thimexmlorder\1d056052\e903bb52\App_Code.2.cs"
+
+
+Microsoft (R) Visual C# 2008 Compiler version 3.5.30729.5420
+for Microsoft (R) .NET Framework version 3.5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(853,21): warning CS0162: Unreachable code detected
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(910,33): warning CS0168: The variable 'err' is declared but never used
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(979,33): warning CS0168: The variable 'err' is declared but never used
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(1012,33): warning CS0168: The variable 'err' is declared but never used
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(1045,33): warning CS0168: The variable 'err' is declared but never used
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(1084,33): warning CS0168: The variable 'err' is declared but never used
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(1125,33): warning CS0168: The variable 'err' is declared but never used
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(1166,33): warning CS0168: The variable 'err' is declared but never used
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(1201,33): warning CS0168: The variable 'err' is declared but never used
+d:\WinCVS\ThimeXMLORDER\App_Code\XmlOrder.cs(1243,33): warning CS0168: The variable 'err' is declared but never used

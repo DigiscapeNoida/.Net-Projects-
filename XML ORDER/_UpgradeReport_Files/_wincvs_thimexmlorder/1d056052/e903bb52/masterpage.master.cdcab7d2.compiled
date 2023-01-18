@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/D:/WinCVS/ThimeXMLORDER/MasterPage.master" hash="9dbb248ad" filehash="df96a79ad7ea145" flags="110000" assembly="App_Web_4a5ivd3b" type="ASP.masterpage_master">
+    <filedeps>
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/MasterPage.master" />
+        <filedep name="/D:/WinCVS/ThimeXMLORDER/MasterPage.master.cs" />
+    </filedeps>
+</preserve>
