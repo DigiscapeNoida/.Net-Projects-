@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE JobSheet PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "A++V2.4JobSheetV2.4.1.dtd">
+<JobSheet JobSheetDate="2013-12-12 12:00:00" Supplier="ExternalPublisher" Version="2.4.1">
+	<IssueJobSheet>
+		<PublisherInfo>
+			<PublisherName>Springer-Verlag</PublisherName>
+			<PublisherLocation>Paris</PublisherLocation>
+		</PublisherInfo>
+		<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+			<JournalID>13315</JournalID>
+			<JournalPrintISSN>1294-9361</JournalPrintISSN>
+			<JournalElectronicISSN>1950-6945</JournalElectronicISSN>
+			<JournalSPIN>13315</JournalSPIN>
+			<JournalTitle>Epileptic Disorders</JournalTitle>
+			<JournalAbbreviatedTitle>Epileptic Disord.</JournalAbbreviatedTitle>
+			<JournalSubjectGroup>
+				<JournalSubject Type="Primary">M&#xe9;decine</JournalSubject>
+			</JournalSubjectGroup>
+		</JournalInfo>
+		<VolumeInfo OutputMedium="Online" TocLevels="0" VolumeType="Regular">
+			<VolumeIDStart>15</VolumeIDStart>
+			<VolumeIDEnd>15</VolumeIDEnd>
+			<VolumeIssueCount>4</VolumeIssueCount>
+		</VolumeInfo>
+		<IssueInfo IssueType="Regular" OutputMedium="Online" TocLevels="0">
+			<IssueIDStart>4</IssueIDStart>
+			<IssueIDEnd>4</IssueIDEnd>
+			<IssueArticleCount>18</IssueArticleCount>
+			<IssueHistory>
+				<CoverDate>
+					<Year>2013</Year>
+					<Month>12</Month>
+				</CoverDate>
+			</IssueHistory>
+			<IssueCopyright>
+				<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+				<CopyrightYear>2013</CopyrightYear>
+			</IssueCopyright>
+		</IssueInfo>
+		<ProductionInfo>
+			<DiscreteIssueObjectInfo ID="Cover">
+				<CoverInfo>
+					<CoverFirstPage>A1</CoverFirstPage>
+					<CoverLastPage>A4</CoverLastPage>
+				</CoverInfo>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_1">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>619</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0619</ArticleDOI>
+					<ArticleSequenceNumber>1</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Neonatal epilepsy and underlying aetiology: to what extent do seizures and EEG abnormalities influence outcome?</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>365</ArticleFirstPage>
+					<ArticleLastPage>375</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="AFF1_619">
+						<AuthorName>
+							<GivenName>Georgia</GivenName>
+							<FamilyName>Ramantani</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>georgia.ramantani@uniklinik-freiburg.de</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF1_619">
+						<OrgDivision>Epilepsy Centre</OrgDivision>
+						<OrgName>University Hospital Freiburg</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country>Germany</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_2">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>624</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0624</ArticleDOI>
+					<ArticleSequenceNumber>2</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Ictal swearing: a case series and review</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>377</ArticleFirstPage>
+					<ArticleLastPage>381</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author>
+						<AuthorName>
+							<GivenName>Veronica</GivenName>
+							<FamilyName>Birca</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Tania</GivenName>
+							<FamilyName>Tayah</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Jean-Marc</GivenName>
+							<FamilyName>Saint-Hilaire</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Dang Khoa</GivenName>
+							<FamilyName>Nguyen</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>d.nguyen@umontreal.ca</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF1_624">
+						<OrgDivision>Division of Neurology</OrgDivision>
+						<OrgName>Centre Hospitalier Universit&#x000E9; de Montr&#x000E9;al, Montr&#x000E9;al</OrgName>
+						<OrgAddress>
+							<City>Quebec</City>
+							<Country>Canada</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_3">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>621</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0621</ArticleDOI>
+					<ArticleSequenceNumber>3</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Predictive factors of ictal SPECT findings in paediatric patients with focal cortical dysplasia</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>383</ArticleFirstPage>
+					<ArticleLastPage>391</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_621">
+						<AuthorName>
+							<GivenName>Martin</GivenName>
+							<FamilyName>Kudr</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_621">
+						<AuthorName>
+							<GivenName>Pavel</GivenName>
+							<FamilyName>Krsek</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_621">
+						<AuthorName>
+							<GivenName>Bruno</GivenName>
+							<FamilyName>Maton</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_621">
+						<AuthorName>
+							<GivenName>Stephen</GivenName>
+							<FamilyName>Malone</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_621">
+						<AuthorName>
+							<GivenName>Alena</GivenName>
+							<FamilyName>Jahodova</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_621">
+						<AuthorName>
+							<GivenName>Petr</GivenName>
+							<FamilyName>Jezdik</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_621">
+						<AuthorName>
+							<GivenName>Vladimir</GivenName>
+							<FamilyName>Komarek</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_621">
+						<AuthorName>
+							<GivenName>Ian</GivenName>
+							<FamilyName>Miller</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_621">
+						<AuthorName>
+							<GivenName>Prasanna</GivenName>
+							<FamilyName>Jayakar</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_621 aff3_621">
+						<AuthorName>
+							<GivenName>Trevor</GivenName>
+							<FamilyName>Resnick</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_621 aff3_621">
+						<AuthorName>
+							<GivenName>Michael</GivenName>
+							<FamilyName>Duchowny</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>michael.duchowny@mch.com</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_621">
+						<OrgDivision>Department of Paediatric Neurology</OrgDivision>
+						<OrgName>Charles University, 2&#60;td:sup xmlns:td="http://www.thomsondigital.com/xml/common/dtd"&#x0003E;nd&#60;/td:sup&#x0003E; Faculty of Medicine, University Hospital Motol</OrgName>
+						<OrgAddress>
+							<City>Prague</City>
+							<Country>Czech Republic</Country>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_621">
+						<OrgDivision>Department of Neurology and Comprehensive Epilepsy Program</OrgDivision>
+						<OrgName>Brain Institute, Miami Children&#x00027;s Hospital</OrgName>
+						<OrgAddress>
+							<City>Miami</City>
+							<Country>United States</Country>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff3_621">
+						<OrgDivision>Department of Neurology</OrgDivision>
+						<OrgName>University of Miami Miller School of Medicine</OrgName>
+						<OrgAddress>
+							<City>Miami</City>
+							<Country>United States</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_4">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>615</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0615</ArticleDOI>
+					<ArticleSequenceNumber>4</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Ictal EEG modifications in temporal lobe epilepsy</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>392</ArticleFirstPage>
+					<ArticleLastPage>399</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_615 aff2_615">
+						<AuthorName>
+							<GivenName>Veronica</GivenName>
+							<FamilyName>Pelliccia</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_615">
+						<AuthorName>
+							<GivenName>Roberto</GivenName>
+							<FamilyName>Mai</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_615">
+						<AuthorName>
+							<GivenName>Stefano</GivenName>
+							<FamilyName>Francione</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_615">
+						<AuthorName>
+							<GivenName>Francesca</GivenName>
+							<FamilyName>Gozzo</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_615">
+						<AuthorName>
+							<GivenName>Ivana</GivenName>
+							<FamilyName>Sartori</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_615">
+						<AuthorName>
+							<GivenName>Lino</GivenName>
+							<FamilyName>Nobili</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_615">
+						<AuthorName>
+							<GivenName>Giorgio</GivenName>
+							<FamilyName>Lo Russo</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_615">
+						<AuthorName>
+							<GivenName>Chiara</GivenName>
+							<FamilyName>Pizzanelli</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_615">
+						<AuthorName>
+							<GivenName>Laura</GivenName>
+							<FamilyName>Tassi</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>laura.tassi@ospedaleniguarda.it</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_615">
+						<OrgDivision>&#x0201C;Claudio Munari&#x0201D; Epilepsy Surgery Centre</OrgDivision>
+						<OrgName>Niguarda Hospital</OrgName>
+						<OrgAddress>
+							<City>Milan</City>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_615">
+						<OrgDivision>Neurology Unit</OrgDivision>
+						<OrgName>Department of Neuroscience, University of Pisa</OrgName>
+						<OrgAddress>
+							<City>Pisa</City>
+							<Country>Italy</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_5">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>610</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0610</ArticleDOI>
+					<ArticleSequenceNumber>5</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Pyridoxine-dependent epilepsy due to antiquitin deficiency: achieving a favourable outcome</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>400</ArticleFirstPage>
+					<ArticleLastPage>406</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_610">
+						<AuthorName>
+							<GivenName>Renata</GivenName>
+							<FamilyName>Oliveira</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_610">
+						<AuthorName>
+							<GivenName>Cristina</GivenName>
+							<FamilyName>Pereira</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_610">
+						<AuthorName>
+							<GivenName>Fidjy</GivenName>
+							<FamilyName>Rodrigues</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_610">
+						<AuthorName>
+							<GivenName>Claudia</GivenName>
+							<FamilyName>Alfaite</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_610 aff3_610">
+						<AuthorName>
+							<GivenName>Paula</GivenName>
+							<FamilyName>Garcia</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_610">
+						<AuthorName>
+							<GivenName>Concei&#x000E7;&#x000E3;o</GivenName>
+							<FamilyName>Robalo</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_610">
+						<AuthorName>
+							<GivenName>Isabel</GivenName>
+							<FamilyName>Fineza</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_610">
+						<AuthorName>
+							<GivenName>Olavo</GivenName>
+							<FamilyName>Gon&#x000E7;alves</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff3_610">
+						<AuthorName>
+							<GivenName>Eduard</GivenName>
+							<FamilyName>Struys</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff3_610">
+						<AuthorName>
+							<GivenName>Gajja</GivenName>
+							<FamilyName>Salomons</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff3_610">
+						<AuthorName>
+							<GivenName>Cornelis</GivenName>
+							<FamilyName>Jakobs</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_610 aff3_610">
+						<AuthorName>
+							<GivenName>Lu&#x000ED;sa</GivenName>
+							<FamilyName>Diogo</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>renata.ro@chc.min-saude.pt</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_610">
+						<OrgDivision>Servi&#x000E7;o de Gen&#x000E9;tica M&#x000E9;dica</OrgDivision>
+						<OrgName/>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_610">
+						<OrgDivision>Centro de Desenvolvimento Lu&#x000ED;s Borges</OrgDivision>
+						<OrgName>Hospital Pedi&#x000E1;trico - Centro Hospitalar Universit&#x000E1;rio de Coimbra</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country>Portugal</Country>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff3_610">
+						<OrgDivision>Metabolic Unit</OrgDivision>
+						<OrgName>Department of Clinical Chemistry, VU University Medical Center Amsterdam, The</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country>Netherlands</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_6">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>609</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0609</ArticleDOI>
+					<ArticleSequenceNumber>6</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Epileptic and electroencephalographic manifestations of guanidinoacetate-methyltransferase deficiency</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>407</ArticleFirstPage>
+					<ArticleLastPage>416</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_609">
+						<AuthorName>
+							<GivenName>Abdul G.</GivenName>
+							<FamilyName>Mikati</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff1_609">
+						<AuthorName>
+							<GivenName>Ibrahim</GivenName>
+							<FamilyName>Abu Gheida</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_609">
+						<AuthorName>
+							<GivenName>Alhan</GivenName>
+							<FamilyName>Shamseddine</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_609 aff3_609">
+						<AuthorName>
+							<GivenName>Mohamad A</GivenName>
+							<FamilyName>Mikati</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author AffiliationIDS="aff2_609">
+						<AuthorName>
+							<GivenName>Pascale E</GivenName>
+							<FamilyName>Karam</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>pk06@aub.edu.lb</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_609">
+						<OrgDivision>Faculty of Medicine</OrgDivision>
+						<OrgName/>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_609">
+						<OrgDivision>Department of Pediatrics and Adolescent Medicine</OrgDivision>
+						<OrgName>American University of Beirut Medical Center</OrgName>
+						<OrgAddress>
+							<City>Beirut</City>
+							<Country>Lebanon</Country>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff3_609">
+						<OrgDivision>Duke University Medical Center</OrgDivision>
+						<OrgName>T0913J Children Health Center, Division of Pediatric Neurology</OrgName>
+						<OrgAddress>
+							<City>Durham</City>
+							<Country>USA</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_7">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>612</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0612</ArticleDOI>
+					<ArticleSequenceNumber>7</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Congenital hemiparesis, unilateral polymicrogyria and epilepsy with or without status epilepticus during sleep: a study of 66 patients with long-term follow-up</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>417</ArticleFirstPage>
+					<ArticleLastPage>427</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author>
+						<AuthorName>
+							<GivenName>Roberto Horacio</GivenName>
+							<FamilyName>Caraballo</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>rhcaraballo@arnet.com.ar</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Ricardo Oscar</GivenName>
+							<FamilyName>Cers&#x000F3;simo</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>rhcaraballo@arnet.com.ar</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Pablo Sebasti&#x000E1;n</GivenName>
+							<FamilyName>Fortini</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>rhcaraballo@arnet.com.ar</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Lorena</GivenName>
+							<FamilyName>Ornella</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>rhcaraballo@arnet.com.ar</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Mar&#x000ED;a Celeste</GivenName>
+							<FamilyName>Buompadre</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>rhcaraballo@arnet.com.ar</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Carolina</GivenName>
+							<FamilyName>Vilte</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>rhcaraballo@arnet.com.ar</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Juan Pablo</GivenName>
+							<FamilyName>Princich</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>rhcaraballo@arnet.com.ar</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Natalio</GivenName>
+							<FamilyName>Fejerman</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>rhcaraballo@arnet.com.ar</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF2_612">
+						<OrgDivision>Department of Neurology</OrgDivision>
+						<OrgName>Hospital Nacional de Pediatr&#x000ED;a Juan P Garrahan</OrgName>
+						<OrgAddress>
+							<City>Buenos Aires</City>
+							<Country>Argentina</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_8">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>608</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0608</ArticleDOI>
+					<ArticleSequenceNumber>8</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Increased clinical anticipation with maternal transmission in benign adult familial myoclonus epilepsy in Japan</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>428</ArticleFirstPage>
+					<ArticleLastPage>432</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_608">
+						<AuthorName>
+							<GivenName>Takefumi</GivenName>
+							<FamilyName>Hitomi</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_608">
+						<AuthorName>
+							<GivenName>Katsuya</GivenName>
+							<FamilyName>Kobayashi</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_608">
+						<AuthorName>
+							<GivenName>Naoto</GivenName>
+							<FamilyName>Jingami</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff3_608">
+						<AuthorName>
+							<GivenName>Tomokazu</GivenName>
+							<FamilyName>Nakagawa</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_608">
+						<AuthorName>
+							<GivenName>Hisaji</GivenName>
+							<FamilyName>Imamura</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff4_608">
+						<AuthorName>
+							<GivenName>Riki</GivenName>
+							<FamilyName>Matsumoto</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_608">
+						<AuthorName>
+							<GivenName>Takayuki</GivenName>
+							<FamilyName>Kondo</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_608">
+						<AuthorName>
+							<GivenName>Kazuo</GivenName>
+							<FamilyName>Chin</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_608">
+						<AuthorName>
+							<GivenName>Ryosuke</GivenName>
+							<FamilyName>Takahashi</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff4_608">
+						<AuthorName>
+							<GivenName>Akio</GivenName>
+							<FamilyName>Ikeda</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>akio@kuhp.kyoto-u.ac.jp</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_608">
+						<OrgDivision>Department of Neurology</OrgDivision>
+						<OrgName>Kyoto University Graduate School of medicine</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_608">
+						<OrgDivision>Department of Respiratory Care and Sleep Control Medicine</OrgDivision>
+						<OrgName>Kyoto University Graduate School of medicine</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff3_608">
+						<OrgDivision>Department of Neurology</OrgDivision>
+						<OrgName>Takeda General Hospital, Kyoto</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff4_608">
+						<OrgDivision>Department of Epilepsy</OrgDivision>
+						<OrgName>Movement disorders and Physiology, Kyoto University Graduate School of medicine</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_9">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>623</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0623</ArticleDOI>
+					<ArticleSequenceNumber>9</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Auditory hallucinations as ictal phenomena in a patient with voltage-gated potassium channel antibody-associated limbic encephalitis</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>433</ArticleFirstPage>
+					<ArticleLastPage>436</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author>
+						<AuthorName>
+							<GivenName>Michael</GivenName>
+							<FamilyName>Boyd</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Hrayr</GivenName>
+							<FamilyName>Attarian</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Jeffrey</GivenName>
+							<FamilyName>Raizer</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Priya</GivenName>
+							<FamilyName>Kumthekar</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Micheal P</GivenName>
+							<FamilyName>Macken</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Stephan U</GivenName>
+							<FamilyName>Schuele</FamilyName>
+						</AuthorName>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Elizabeth</GivenName>
+							<FamilyName>Gerard</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>e-gerard@northwestern.edu</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF3_623">
+						<OrgDivision>Northwestern University</OrgDivision>
+						<OrgName>Feinberg School of Medicine, Chicago, IL, USA</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_10">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>611</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0611</ArticleDOI>
+					<ArticleSequenceNumber>10</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Torsional nystagmus in hypothalamic hamartoma</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>437</ArticleFirstPage>
+					<ArticleLastPage>439</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="AFF1_611">
+						<AuthorName>
+							<GivenName>Aasef G.</GivenName>
+							<FamilyName>Shaikh</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>aasefshaikh@gmail.com</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF1_611">
+						<OrgDivision>Department of Neurology</OrgDivision>
+						<OrgName>Case Western Reserve University, Cleveland, OH, USA</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_11">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>616</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0616</ArticleDOI>
+					<ArticleSequenceNumber>11</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Early-onset absence epilepsy aggravated by valproic acid: a video-EEG report</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>440</ArticleFirstPage>
+					<ArticleLastPage>443</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_616">
+						<AuthorName>
+							<GivenName>Vincenzo</GivenName>
+							<FamilyName>Belcastro</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>vincenzobelcastro@libero.it</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_616">
+						<AuthorName>
+							<GivenName>Roberto Horacio</GivenName>
+							<FamilyName>Caraballo</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>vincenzobelcastro@libero.it</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff3_616">
+						<AuthorName>
+							<GivenName>Antonino</GivenName>
+							<FamilyName>Romeo</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>vincenzobelcastro@libero.it</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff4_616">
+						<AuthorName>
+							<GivenName>Pasquale</GivenName>
+							<FamilyName>Striano</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>vincenzobelcastro@libero.it</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_616">
+						<OrgDivision>Neurology Unit</OrgDivision>
+						<OrgName>Department of Neuroscience, Sant&#x02019;Anna Hospital</OrgName>
+						<OrgAddress>
+							<City>Como</City>
+							<Country>Italy</Country>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_616">
+						<OrgDivision>Department of Neurology</OrgDivision>
+						<OrgName>Hospital Nacional de Pediatria &#x0201C;Prof Dr Juan P Garrahan&#x0201D;</OrgName>
+						<OrgAddress>
+							<City>Buenos Aires</City>
+							<Country>Argentina</Country>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff3_616">
+						<OrgDivision>Department of Neurosciences</OrgDivision>
+						<OrgName>Fatebenefratelli e Oftalmico Hospital</OrgName>
+						<OrgAddress>
+							<City>Milan</City>
+							<Country>Argentina</Country>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff4_616">
+						<OrgDivision>Pediatric Neurology and Muscular Diseases Unit</OrgDivision>
+						<OrgName>Department of Neurosciences, Rehabilitation, Ophtalmology, Genetics, Maternal and Child Health, University of Genoa, &#x0201C;G Gaslini&#x0201D; Institute</OrgName>
+						<OrgAddress>
+							<City>Genova</City>
+							<Country>Italy</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_12">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>614</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0614</ArticleDOI>
+					<ArticleSequenceNumber>12</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Usefulness of bilateral bispectral index (BIS) monitoring in a comatose patient with myoclonic status epilepticus secondary to cefepime</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>444</ArticleFirstPage>
+					<ArticleLastPage>450</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_614 aff2_614 aff3_614">
+						<AuthorName>
+							<GivenName>Jos&#x000E9; L</GivenName>
+							<FamilyName>Fern&#x000E1;ndez-Torre</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>ftorrenfc@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff3_614 aff4_614">
+						<AuthorName>
+							<GivenName>Miguel A</GivenName>
+							<FamilyName>Hern&#x000E1;ndez-Hern&#x000E1;ndez</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>ftorrenfc@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff4_614">
+						<AuthorName>
+							<GivenName>Juan C</GivenName>
+							<FamilyName>Rodr&#x000ED;guez-Borreg&#x000E1;n</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>ftorrenfc@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff3_614 aff5_614">
+						<AuthorName>
+							<GivenName>Vicente</GivenName>
+							<FamilyName>Gonz&#x000E1;lez-Quintanilla</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>ftorrenfc@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_614">
+						<OrgDivision>Department of Clinical Neurophysiology</OrgDivision>
+						<OrgName>Marqu&#x000E9;s de Valdecilla University Hospital</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_614">
+						<OrgDivision>Department of Physiology and Pharmacology</OrgDivision>
+						<OrgName>University of Cantabria (UNICAN)</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff3_614">
+						<OrgDivision>Instituto de Formaci&#x000F3;n e Investigaci&#x000F3;n Marqu&#x000E9;s de Valdecilla (IFIMAV)</OrgDivision>
+						<OrgName>University of Cantabria (UNICAN)</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff4_614">
+						<OrgDivision>Department of Intensive Medicine</OrgDivision>
+						<OrgName>Marqu&#x000E9;s de Valdecilla University Hospital</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff5_614">
+						<OrgDivision>Department of Neurology</OrgDivision>
+						<OrgName>Marqu&#x000E9;s de Valdecilla University Hospital, Santander</OrgName>
+						<OrgAddress>
+							<City>Cantabria</City>
+							<Country>Spain</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_13">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>617</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0617</ArticleDOI>
+					<ArticleSequenceNumber>13</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Hippocampal sclerosis and chronic epilepsy following posterior reversible encephalopathy syndrome</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>451</ArticleFirstPage>
+					<ArticleLastPage>454</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_617">
+						<AuthorName>
+							<GivenName>Viktoria</GivenName>
+							<FamilyName>Kapina</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>viktoria.kapina@hcuge.ch</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_617">
+						<AuthorName>
+							<GivenName>Maria-Isabel</GivenName>
+							<FamilyName>Vargas</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>viktoria.kapina@hcuge.ch</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff3_617">
+						<AuthorName>
+							<GivenName>Gabriele</GivenName>
+							<FamilyName>Wohlrab</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>viktoria.kapina@hcuge.ch</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_617">
+						<AuthorName>
+							<GivenName>Serge</GivenName>
+							<FamilyName>Vulliemoz</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>viktoria.kapina@hcuge.ch</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff4_617">
+						<AuthorName>
+							<GivenName>Joel</GivenName>
+							<FamilyName>Fluss</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>viktoria.kapina@hcuge.ch</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_617">
+						<AuthorName>
+							<GivenName>Margitta</GivenName>
+							<FamilyName>Seeck</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>viktoria.kapina@hcuge.ch</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_617">
+						<OrgDivision>Department of Neurology</OrgDivision>
+						<OrgName/>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_617">
+						<OrgDivision>Department of Radiology</OrgDivision>
+						<OrgName>University Hospital and Medical School of Geneva</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff3_617">
+						<OrgDivision>Pediatric Neurology and Neurophysiology</OrgDivision>
+						<OrgName>University Children&#x00027;s Hospital, Zurich</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff4_617">
+						<OrgDivision>Pediatric Neurology</OrgDivision>
+						<OrgName>Pediatric Subspecialty Service, Children&#x00027;s Hospital, University Hospital and Medical School of Geneva</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country>Switzerland</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_14">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>607</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0607</ArticleDOI>
+					<ArticleSequenceNumber>14</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Acute amnesia and seizures in a young female</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>455</ArticleFirstPage>
+					<ArticleLastPage>460</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author>
+						<AuthorName>
+							<GivenName>Mar&#x000ED;a Eugenia</GivenName>
+							<FamilyName>Garc&#x000ED;a Garc&#x000ED;a</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>mariugarciagarcia@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Sergio Mu&#x000F1;iz</GivenName>
+							<FamilyName>Castrillo</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>mariugarciagarcia@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Irene Garcia</GivenName>
+							<FamilyName>Morales</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>mariugarciagarcia@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Daniela Di Capua</GivenName>
+							<FamilyName>Sacoto</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>mariugarciagarcia@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Alberto Marcos</GivenName>
+							<FamilyName>Dolado</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>mariugarciagarcia@hotmail.com</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF4_607">
+						<OrgDivision>Neurology Department</OrgDivision>
+						<OrgName>Hospital Cl&#x000ED;nico San Carlos</OrgName>
+						<OrgAddress>
+							<City>Madrid</City>
+							<Country>Spain</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_15">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>622</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0622</ArticleDOI>
+					<ArticleSequenceNumber>15</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Extreme delta brush in a patient with anti-NMDAR encephalitis</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>461</ArticleFirstPage>
+					<ArticleLastPage>464</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="aff1_622">
+						<AuthorName>
+							<GivenName>Daniela</GivenName>
+							<FamilyName>Di Capua</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>danidicapua@gmail.com</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_622 aff3_622">
+						<AuthorName>
+							<GivenName>Sara</GivenName>
+							<FamilyName>Garc&#x000ED;a-Ptacek</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>danidicapua@gmail.com</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_622">
+						<AuthorName>
+							<GivenName>Maria Eugenia</GivenName>
+							<FamilyName>Garc&#x000ED;a-Garc&#x000ED;a</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>danidicapua@gmail.com</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_622">
+						<AuthorName>
+							<GivenName>Belen</GivenName>
+							<FamilyName>Abarrategui</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>danidicapua@gmail.com</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff2_622">
+						<AuthorName>
+							<GivenName>Jes&#x000FA;s</GivenName>
+							<FamilyName>Porta-Etessam</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>danidicapua@gmail.com</Email>
+						</Contact>
+					</Author>
+					<Author AffiliationIDS="aff1_622">
+						<AuthorName>
+							<GivenName>Irene</GivenName>
+							<FamilyName>Garc&#x000ED;a-Morales</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>danidicapua@gmail.com</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="aff1_622">
+						<OrgDivision>Epilepsy Unit</OrgDivision>
+						<OrgName>Hospital Universitario Clinico San Carlos</OrgName>
+						<OrgAddress>
+							<City/>
+							<Country/>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff2_622">
+						<OrgDivision>Hospital Universitario Clinico San Carlos</OrgDivision>
+						<OrgName/>
+						<OrgAddress>
+							<City>Madrid</City>
+							<Country>Spain</Country>
+						</OrgAddress>
+					</Affiliation>
+					<Affiliation ID="aff3_622">
+						<OrgDivision>Division of Clinical Geriatrics</OrgDivision>
+						<OrgName>Department of Neurobiology, Care Sciences and Society, Karolinska Institutet</OrgName>
+						<OrgAddress>
+							<City>Stockholm</City>
+							<Country>Sweden</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_16">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>613</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0613</ArticleDOI>
+					<ArticleSequenceNumber>16</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Epileptic headache: closing Pandora&#x00027;s box</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>465</ArticleFirstPage>
+					<ArticleLastPage>465</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author>
+						<AuthorName>
+							<GivenName>Carlo</GivenName>
+							<FamilyName>Cianchetti</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>cianchet@unica.it</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Dario</GivenName>
+							<FamilyName>Pruna</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>cianchet@unica.it</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Maria Giuseppina</GivenName>
+							<FamilyName>Ledda</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>cianchet@unica.it</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF5_613">
+						<OrgDivision>Child &#38; Adolescent Neuropsychiatry</OrgDivision>
+						<OrgName>University, Azienda Ospedaliero-Universitaria, via Ospedale 119, 09124</OrgName>
+						<OrgAddress>
+							<City>Cagliari</City>
+							<Country>Italy</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_17">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>618</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0618</ArticleDOI>
+					<ArticleSequenceNumber>17</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Pallister-Killian syndrome: a common yet under-recognised cause of epileptic spasms</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>466</ArticleFirstPage>
+					<ArticleLastPage>467</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author AffiliationIDS="AFF1_618">
+						<AuthorName>
+							<GivenName>Shailendra</GivenName>
+							<FamilyName>Kapoor</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>shailendrakapoor@yahoo</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF1_618">
+						<OrgDivision>23111 </OrgDivision>
+						<OrgName/>
+						<OrgAddress>
+							<City>Mechanicsville</City>
+							<Country>USA</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<DiscreteIssueObjectInfo ID="Art_18">
+				<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+					<ArticleID>620</ArticleID>
+					<ArticleDOI>10.1684/epd.2013.0620</ArticleDOI>
+					<ArticleSequenceNumber>18</ArticleSequenceNumber>
+					<ArticleTitle Language="En">Antiepileptic treatment for anti-NMDA receptor encephalitis: the need for video-EEG monitoring</ArticleTitle>
+					<ArticleCategory>Original article</ArticleCategory>
+					<ArticleFirstPage>468</ArticleFirstPage>
+					<ArticleLastPage>468</ArticleLastPage>
+					<ArticleCopyright>
+						<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+						<CopyrightYear>2013</CopyrightYear>
+					</ArticleCopyright>
+					<ArticleContext>
+						<JournalID>13315</JournalID>
+						<VolumeIDStart>15</VolumeIDStart>
+						<VolumeIDEnd>15</VolumeIDEnd>
+						<IssueIDStart>4</IssueIDStart>
+						<IssueIDEnd>4</IssueIDEnd>
+					</ArticleContext>
+				</ArticleInfo>
+				<AuthorGroup>
+					<Author>
+						<AuthorName>
+							<GivenName>Yee-Leng</GivenName>
+							<FamilyName>Tan</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>yee-leng_tan@nni.com.sg</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Kevin</GivenName>
+							<FamilyName>Tan</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>yee-leng_tan@nni.com.sg</Email>
+						</Contact>
+					</Author>
+					<Author>
+						<AuthorName>
+							<GivenName>Nigel CK</GivenName>
+							<FamilyName>Tan</FamilyName>
+						</AuthorName>
+						<Contact>
+							<Email>yee-leng_tan@nni.com.sg</Email>
+						</Contact>
+					</Author>
+					<Affiliation ID="AFF6_620">
+						<OrgDivision>Department of Neurology&#x0000A;National Neuroscience Institute</OrgDivision>
+						<OrgName/>
+						<OrgAddress>
+							<City/>
+							<Country>Singapore</Country>
+						</OrgAddress>
+					</Affiliation>
+				</AuthorGroup>
+			</DiscreteIssueObjectInfo>
+			<WorkflowInfo TaskType="DeliverCompoundObject">
+				<Priority Level="Standard"/>
+				<Supplier>
+					<ExternalPublisher>
+						<CompanyName>Jouve</CompanyName>
+						<Contact>
+							<Street>561, rue du Saint Leonard, BP 3</Street>
+							<City>Mayenne</City>
+							<Postcode>53101</Postcode>
+							<Country>France</Country>
+							<Phone>+33243082571</Phone>
+							<Fax>+33243082639</Fax>
+						</Contact>
+						<ContactPerson>
+							<ContactPersonName>
+								<GivenName>J&#38;#xe9;r&#38;#xf4;me</GivenName>
+								<FamilyName>Cailliaux</FamilyName>
+							</ContactPersonName>
+							<Contact>
+								<Phone>+33243083909</Phone>
+								<Fax>+33243082630</Fax>
+								<Email>jcailliaux@jouve.fr</Email>
+							</Contact>
+						</ContactPerson>
+						<Deliverables>
+							<DeliverablesForCompoundObjects AdvertisementPrintPDF="No" BackmatterPrintPDF="No" CoverFigure="Yes" CoverPrintPDF="No" DiscreteContentObjectOnlineMediaObjects="No" DiscreteContentObjectOnlinePDF="Yes" DiscreteContentObjectPrintPDF="No" DiscreteContentObjectXMLWithBody="No" DiscreteContentObjectXMLWithBodyRefsOnly="No" FrontmatterPrintPDF="No" Pit-Stop-Reports="No"/>
+						</Deliverables>
+						<FilesToPublisher>
+							<ContentFiles>
+								<File DiscreteObjectID="Cover">
+									<Cover>
+										<CoverInfo>
+											<CoverFirstPage/>
+											<CoverLastPage/>
+										</CoverInfo>
+										<CoverFigure>
+											<MediaObject>
+												<ImageObject Color="Color" FileRef="13315_12_4_Cover/13315_12_4_CoverFigure_Print.tif" Format="TIFF" Rendition="Print" Type="Halftone"> </ImageObject>
+											</MediaObject>
+										</CoverFigure>
+									</Cover>
+								</File>
+								<File DiscreteObjectID="Art_1">
+									<RenditionItem FileRef="1331501504.1v1/13315619.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_2">
+									<RenditionItem FileRef="1331501504.1v1/13315624.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_3">
+									<RenditionItem FileRef="1331501504.1v1/13315621.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_4">
+									<RenditionItem FileRef="1331501504.1v1/13315615.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_5">
+									<RenditionItem FileRef="1331501504.1v1/13315610.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_6">
+									<RenditionItem FileRef="1331501504.1v1/13315609.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_7">
+									<RenditionItem FileRef="1331501504.1v1/13315612.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_8">
+									<RenditionItem FileRef="1331501504.1v1/13315608.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_9">
+									<RenditionItem FileRef="1331501504.1v1/13315623.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_10">
+									<RenditionItem FileRef="1331501504.1v1/13315611.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_11">
+									<RenditionItem FileRef="1331501504.1v1/13315616.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_12">
+									<RenditionItem FileRef="1331501504.1v1/13315614.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_13">
+									<RenditionItem FileRef="1331501504.1v1/13315617.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_14">
+									<RenditionItem FileRef="1331501504.1v1/13315607.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_15">
+									<RenditionItem FileRef="1331501504.1v1/13315622.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_16">
+									<RenditionItem FileRef="1331501504.1v1/13315613.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_17">
+									<RenditionItem FileRef="1331501504.1v1/13315618.pdf" TargetType="OnlinePDF"/>
+								</File>
+								<File DiscreteObjectID="Art_18">
+									<RenditionItem FileRef="1331501504.1v1/13315620.pdf" TargetType="OnlinePDF"/>
+								</File>
+							</ContentFiles>
+						</FilesToPublisher>
+					</ExternalPublisher>
+				</Supplier>
+			</WorkflowInfo>
+		</ProductionInfo>
+	</IssueJobSheet>
+</JobSheet>
