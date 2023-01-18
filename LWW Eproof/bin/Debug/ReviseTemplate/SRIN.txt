@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>VCH Revised</title>
+</head>
+<body style="font-family: Calibri;text-align: justify;">
+<p>Dear <PENAME>,</p>
+<p>This is to confirm that the author corrections and final proof for SRIN.<AID> have been placed on the FTP server in corrected_proofs_from_thomson.</p>
+
+<p>Kind Regards,<BR>
+   Deepak</p>
+ </body>
+</html>

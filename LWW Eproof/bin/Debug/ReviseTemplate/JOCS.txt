@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>SINGAPORE Revise</title>
+</head>
+<body style="font-family: Calibri;text-align: justify;">
+<p>Dear <CorName>,</p>
+<p>We have uploaded the revise proof of <b><JID> <AID></b> to SPi FTP site for your kind review and approval.</p>
+<p>You may collect the file from: /202.14.85.180//To_Wiley/</p>
+<p><b>File name:</b> <FILENAME></p>
+
+<p>Best Regards,<BR>
+    Arjun</p>
+ </body>
+</html>
