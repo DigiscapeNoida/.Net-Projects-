@@ -1,0 +1,247 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage"  %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+
+<HTML xmlns="http://www.w3.org/1999/xhtml"> 
+<HEAD id=ctl00_ctl00_Head1 runat ="server">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<TITLE>XML Order Creation and Integration</TITLE>
+<LINK href="ImagesAndStyleSheet/qsstyle.css" rel=stylesheet>
+<STYLE type=text/css>.ctl00_ctl00_Nav_TreeView1_0
+{
+	TEXT-DECORATION: none
+}
+.ctl00_ctl00_Nav_TreeView1_1 {
+	FONT-SIZE: 1em
+}
+.ctl00_ctl00_Nav_TreeView1_2 {
+	
+}
+.ctl00_ctl00_Nav_TreeView1_3 {
+	FONT-WEIGHT: bold; FONT-SIZE: small
+}
+.ctl00_ctl00_Nav_TreeView1_4 {
+	
+}
+.ctl00_ctl00_Nav_TreeView1_5 {
+	FONT-WEIGHT: bold
+}
+.ctl00_ctl00_Nav_TreeView1_6 {
+	
+}
+.ctl00_ctl00_Nav_TreeView1_7 {
+	
+}
+.ctl00_ctl00_Nav_TreeView1_8 {
+	
+}
+.ctl00_ctl00_Nav_TreeView1_9 {
+	
+}
+.ctl00_ctl00_Nav_TreeView1_10 {
+	
+}
+</STYLE>
+    <script id="clientEventHandlersJS" language="javascript" type="text/javascript">
+        function ErrMsg() {
+
+            var stage   = document.getElementById('ctl00_PageBody_cmbStage');
+            var client  = document.getElementById('ctl00_PageBody_cmbAccount');
+            var JID     = document.getElementById('ctl00_PageBody_cmbJID').value;
+            var PDFName = document.getElementById("ctl00_PageBody_txtPDFName").value
+
+            
+            if (stage.value == "FRESH" && client.value == "THIEME") {
+                if (document.getElementById("ctl00_PageBody_txtCorAuthName").value == "") {
+                    alert('Please enter correspondence author name.');
+                    return false;
+                }
+                else if (document.getElementById("ctl00_PageBody_txtPDFName").value == "" && client.value == "THIEME") {
+                    alert('Please enter eproof pdf name.');
+                    return false;
+                }
+                else {
+                    var CorEmail = document.getElementById("ctl00_PageBody_txtCorAuthEmail").value;
+                    var CorCCEmail = document.getElementById("ctl00_PageBody_txtCorCCEmail").value.replace(';',',');
+
+                    if (CorEmail == "") {
+                        alert('Please enter correspondence author email.');
+                        return false;
+                    }
+                    else {
+                        try {
+                            var reg = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/
+                            if (reg.test(CorEmail) == false) {
+                                alert("Aouthor's mail address is invalid");
+                                return false;
+                            }
+                        }
+                        catch (err) {
+                            alert(err.message);
+                        }
+                    }
+
+                    CorCCEmail.split(/\s*,\s*/).forEach(function (myString) {
+                        var reg1 = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/
+                        if (myString != "")
+                            {
+                            if (reg1.test(myString) == false) {
+                                alert(myString + " email id is invalid");
+                                return false;
+                            }
+                        }
+                        if (CorEmail == myString) {
+                            alert('Cor author email id should not be include in CC Mail id list');
+                            return false;
+                        }
+                        
+                    });
+                }
+                if (true)//(PDFName.toUpperCase().indexOf(JID)!=0)
+                {
+                    try
+                    {
+                        var RmngPdfName = PDFName.toUpperCase().replace(JID, "");
+                        var ChkStr = RmngPdfName.substr(0, 1)
+                        var patt = new RegExp("[0-9-]");
+                        if (patt.test(ChkStr) == false)
+                        {
+                            alert('pdf name must be start with JID.');
+                            return false;
+                        }
+                    }
+                    catch (err)
+                    {
+                        alert(err.message);
+                        return false;
+                    }
+                    
+                }
+            }
+            else if (stage.value == "-Select-") {
+                alert("Please select the stage.");
+                return false;
+            }
+            
+            if (document.getElementById("ctl00_PageBody_txtAID").value == "") {
+                alert("Article AID must be filled.");
+                return false;
+            }
+            else if (document.getElementById("ctl00_PageBody_txtPages").value == "") {
+                alert("MSS pages must be filled.");
+                return false;
+            }
+            else if (document.getElementById("ctl00_PageBody_flUpload").value == "") {
+                alert("Uploaded file path  must be filled.");
+                return false;
+            }
+            else if (document.getElementById("ctl00_PageBody_flUpload").value.indexOf(".zip", 0) == -1) {
+                alert("Uploded file must be zip.");
+                return false;
+            }
+            else if (document.getElementById("ctl00_PageBody_txtCorCCEmail").value == "") {
+
+                if (confirm('Please check Mailing instruction.')) {
+                    return true;
+                }
+                else {
+                    return false;
+                }
+            }
+            return true;
+        }
+     </script>
+</HEAD>
+<BODY bottomMargin="0" leftMargin="0" topMargin="0" rightMargin="0">
+<!-- Start of Toolbar -->
+<DIV>
+
+<TABLE id=ctl00_ctl00_Table1 
+style="WIDTH: 100%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: none" 
+cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR id=ctl00_ctl00_TableRow2>
+    <TD id=ctl00_ctl00_TableCell1 vAlign=top rowSpan=2><IMG 
+      id=ctl00_ctl00_Image1 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      src="ImagesAndStyleSheet/xmlBan.jpg">
+      </TD>
+    <TD id=ctl00_ctl00_TableCell2 vAlign=top><IMG id=ctl00_ctl00_Image2 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      src="ImagesAndStyleSheet/banner_curve.gif"></TD>
+    <TD id=ctl00_ctl00_TableCell3 style="BACKGROUND-COLOR: white"></TD></TR>
+  <TR id=ctl00_ctl00_TableRow3>
+    <TD id=ctl00_ctl00_TableCell4 vAlign=top><IMG id=ctl00_ctl00_BannerFade 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      src="ImagesAndStyleSheet/banner_fade.gif"></TD>
+    <TD class=bannerbg id=ctl00_ctl00_TableCell5 vAlign=top colSpan=5></TD></TR>
+  <TR id=ctl00_ctl00_TableRow4>
+    <TD class=toolbar id=ctl00_ctl00_TableCell6 
+    style="WHITE-SPACE: nowrap; HEIGHT: 25px" vAlign=middle colSpan=2>
+      <TABLE id=ctl00_ctl00_Table3 
+      style="WIDTH: 100%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: none" 
+      cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+        <TR id=ctl00_ctl00_TableRow5>
+          <TD id=ctl00_ctl00_TableCell8 
+            style="WHITE-SPACE: nowrap">&nbsp;&nbsp; <A class=toolbar 
+            id=ctl00_ctl00_HyperLink1 
+            href="GenerateOrder.aspx">Home</A> 
+            &nbsp;&nbsp;|&nbsp;&nbsp; 
+            <asp:HyperLink  class="toolbar" runat="server" id="OrderCreatorAnchor"  NavigateUrl="OrderCreator.aspx">Create Order</asp:hyperlink> 
+            &nbsp;&nbsp;|&nbsp;&nbsp; 
+            <A class=toolbar id=ctl00_ctl00_HyperLink4 href="IssueXML.aspx">Create Issue Order</A> 
+            &nbsp;&nbsp;|&nbsp;&nbsp; 
+            <A class=toolbar id=ctl00_ctl00_HyperLink3 href="LogData.aspx">Order Logs</A> 
+            &nbsp;&nbsp;|&nbsp;&nbsp; 
+            <A class=toolbar id=ctl00_ctl00_HyperLink5 href=ItemReport.aspx>Item Status</A> 
+            &nbsp;&nbsp;|&nbsp;&nbsp; 
+            <A class=toolbar id=ctl00_ctl00_HyperLink6 href="OrderViewer.aspx">XML Browser</A>
+            
+            </TD></TR>
+            </TBODY>
+            </TABLE>
+            </TD>
+    <TD class=toolbar id=ctl00_ctl00_TableCell9 
+    style="WIDTH: 100%; WHITE-SPACE: nowrap" vAlign=middle
+      align=right>&nbsp;&nbsp;|&nbsp;&nbsp; Welcome&nbsp;&nbsp;|&nbsp;&nbsp;</TD>
+    <TD class=toolbar id=ctl00_ctl00_TableCell10 
+    style="WIDTH: 100%; WHITE-SPACE: nowrap" vAlign=middle align=right><asp:ContentPlaceHolder ID="UserMaster" runat="server"></asp:ContentPlaceHolder> &nbsp;&nbsp; </TD></TR></TBODY></TABLE>
+<TABLE class=sectiontitle id=ctl00_ctl00_Table7 
+style="WIDTH: 100%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: none" 
+cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR id=ctl00_ctl00_TableRow7>
+    <TD id=ctl00_ctl00_TableCell7 style="HEIGHT: 100%">
+      <H1><SPAN id=ctl00_ctl00_BannerTitle><asp:ContentPlaceHolder ID="PageTitle" runat="server"></asp:ContentPlaceHolder>   </SPAN><SPAN id=ctl00_ctl00_BannerSubTitle></SPAN></H1></TD>
+    <TD class=headerLinkBackground id=ctl00_ctl00_TableCell22 
+    style="HEIGHT: 100%" vAlign=middle align=right>
+    <a href="Default.aspx" onclick=""><font color=white><b>Logout...</b></font></a></TD></TR></TBODY></TABLE><!-- End of Toolbar -->
+</DIV>
+        <asp:contentplaceholder id="PageBody" runat="server"/>
+
+<TABLE id=ctl00_ctl00_Table21 
+style="BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; WIDTH: 100%; BORDER-BOTTOM: 1px solid; BORDER-COLLAPSE: collapse" 
+cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR id=ctl00_ctl00_TableRow1 vAlign=top align=left>
+    <TD id=ctl00_ctl00_NavCell1 vAlign=top align=left>
+
+
+      <TABLE cellSpacing=0 cellPadding=1 width="100%" bgColor=#ffffff 
+        border=0><TBODY>
+        <TR>
+          <TD align=center colSpan=12>
+
+          </TD></TR></TBODY>
+
+      </TABLE>
+
+      <TABLE class=footerBG1 cellSpacing=0 cellPadding=1 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD align=center bgColor=#0066cc colSpan=13><A class=footerLinks 
+            href="http://www.thomsondigital.com"><marquee behavior=alternate><font color=white>Hosted by Software Development Department, Thomson Digital (A Division of Thomson Press India Ltd.)</font></marquee></A></TD></TR>
+        <tr><td></td></tr>
+     </TBODY></TABLE>
+</body>
+</html>

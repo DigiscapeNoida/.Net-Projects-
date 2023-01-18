@@ -1,0 +1,31 @@
+td {
+	text-align: left;
+	vertical-align: top;
+	font-family:Tahoma;
+	font-size:11px;
+	color: #000000;
+}
+
+a {
+	text-decoration: underline;
+	color:black;
+}
+
+A:Hover  {
+	color : yellow;
+	text-decoration : underline;
+}
+
+H3 {
+	color: Black;
+	font-weight: bold;
+	font-size : 17px;
+	font-family:Tahoma;
+}
+
+
+p {
+	color: black;
+	font-size : 11px;
+	font-family:Tahoma;
+}
