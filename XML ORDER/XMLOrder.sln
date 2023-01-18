@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "XMLORDERNEW", ".", "{F703BC09-887F-456F-81BC-44BB99AC1C79}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		Debug.AspNetCompiler.VirtualPath = "/NEWXMLORDER"
+		Debug.AspNetCompiler.PhysicalPath = "..\XMLORDERNEW\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\NEWXMLORDER\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/NEWXMLORDER"
+		Release.AspNetCompiler.PhysicalPath = "..\XMLORDERNEW\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\NEWXMLORDER\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51364"
+		SlnRelativePath = "..\XMLORDERNEW\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F703BC09-887F-456F-81BC-44BB99AC1C79}.Debug|.NET.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1117C50-0FB7-4B91-9C62-BB55860EC386}
+	EndGlobalSection
+EndGlobal

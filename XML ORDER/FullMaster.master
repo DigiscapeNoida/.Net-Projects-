@@ -1,0 +1,178 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="FullMaster.master.cs" Inherits="FullMaster" MasterPageFile="MasterPage.master"%>
+
+<asp:Content ID="Title" ContentPlaceHolderID=PageTitle runat="server"><asp:ContentPlaceHolder ID="TitleThis" runat="server">Default Title</asp:ContentPlaceHolder></asp:Content>
+<asp:Content ID="User" ContentPlaceHolderID=UserMaster runat="server"><asp:ContentPlaceHolder ID="UserThis" runat="server">Default User</asp:ContentPlaceHolder></asp:Content>
+
+<asp:Content ID="FullContent" ContentPlaceHolderID=PageBody runat="server">
+
+
+<TABLE id=ctl00_ctl00_Table2 
+style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-COLLAPSE: collapse; HEIGHT: 100%; BORDER-BOTTOM-STYLE: none" 
+cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR vAlign=top align=left>
+    <TD class=nav id=ctl00_ctl00_NavCell style="HEIGHT: 100%" vAlign=top 
+    align=left><A 
+      href="/howto/doc/Xml/XmlSchemaObjectModel.aspx#ctl00_ctl00_Nav_TreeView1_SkipLink"><IMG 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      height=0 alt="Skip Navigation Links." 
+      src="ImagesAndStyleSheet/WebResource.gif" 
+      width=0></A>
+      <DIV id=ctl00_ctl00_Nav_TreeView1>
+      <TABLE 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD class="ctl00_ctl00_Nav_TreeView1_2 ctl00_ctl00_Nav_TreeView1_4" 
+          style="WHITE-SPACE: nowrap"><B>Features...</B></TD></TR></TBODY></TABLE>
+      <DIV id=ctl00_ctl00_Nav_TreeView1n0Nodes style="DISPLAY: block">
+      <TABLE height=10>
+        <TBODY>
+        <TR>
+          <TD></TD></TR></TBODY></TABLE>
+      <TABLE 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV style="WIDTH: 10px; HEIGHT: 1px"></DIV></TD>
+          <TD><A id=ctl00_ctl00_Nav_TreeView1n1i tabIndex=-1 
+            href="/howto/doc/Xml/BinaryDataInXml.aspx"><IMG 
+            style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+            alt="" 
+            src="ImagesAndStyleSheet/Bullet_Nav_Big.gif"></A></TD>
+          <TD class="ctl00_ctl00_Nav_TreeView1_2 ctl00_ctl00_Nav_TreeView1_6" 
+          style="WHITE-SPACE: nowrap"><A 
+            class="ctl00_ctl00_Nav_TreeView1_0 ctl00_ctl00_Nav_TreeView1_1 ctl00_ctl00_Nav_TreeView1_5" 
+            id=ctl00_ctl00_Nav_TreeView1n1 
+            href="Login.aspx">Login</A></TD></TR></TBODY></TABLE>
+      <TABLE 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV style="WIDTH: 10px; HEIGHT: 1px"></DIV></TD>
+          <TD><A id=ctl00_ctl00_Nav_TreeView1n2i tabIndex=-1 
+            href=""><IMG 
+            style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+            alt="" 
+            src="ImagesAndStyleSheet/Bullet_Nav_Big.gif"></A></TD>
+          <TD class="ctl00_ctl00_Nav_TreeView1_2 ctl00_ctl00_Nav_TreeView1_6" 
+          style="WHITE-SPACE: nowrap"><A 
+            class="ctl00_ctl00_Nav_TreeView1_0 ctl00_ctl00_Nav_TreeView1_1 ctl00_ctl00_Nav_TreeView1_5" 
+            id=ctl00_ctl00_Nav_TreeView1n2 
+            href=ChangePassword.aspx>Change Password</A></TD></TR></TBODY></TABLE>
+      <TABLE 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV style="WIDTH: 10px; HEIGHT: 1px"></DIV></TD>
+          <TD><A id=ctl00_ctl00_Nav_TreeView1n3i tabIndex=-1 
+            href=""><IMG 
+            style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+            alt="" 
+            src="ImagesAndStyleSheet/Bullet_Nav_Big.gif"></A></TD>
+          <TD class="ctl00_ctl00_Nav_TreeView1_2 ctl00_ctl00_Nav_TreeView1_6" 
+          style="WHITE-SPACE: nowrap"><A 
+            class="ctl00_ctl00_Nav_TreeView1_0 ctl00_ctl00_Nav_TreeView1_1 ctl00_ctl00_Nav_TreeView1_5" 
+            id=ctl00_ctl00_Nav_TreeView1n3 
+            href=underdev.aspx>Save Order to Local Disk</A></TD></TR></TBODY></TABLE>
+      <TABLE 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV style="WIDTH: 10px; HEIGHT: 1px"></DIV></TD>
+          <TD><A id=ctl00_ctl00_Nav_TreeView1n4i tabIndex=-1 
+            href=""            ><IMG 
+            style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+            alt="" 
+            src="ImagesAndStyleSheet/Bullet_Nav_Big.gif"></A></TD>
+          <TD class="ctl00_ctl00_Nav_TreeView1_2 ctl00_ctl00_Nav_TreeView1_6" 
+          style="WHITE-SPACE: nowrap"><A 
+            class="ctl00_ctl00_Nav_TreeView1_0 ctl00_ctl00_Nav_TreeView1_1 ctl00_ctl00_Nav_TreeView1_5" 
+            id=ctl00_ctl00_Nav_TreeView1n4 
+            href=underdev.aspx>Validation of XML Order</A></TD></TR></TBODY></TABLE>
+      <TABLE 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV style="WIDTH: 10px; HEIGHT: 1px"></DIV></TD>
+          <TD><A id=ctl00_ctl00_Nav_TreeView1n5i tabIndex=-1 
+            href=""><IMG 
+            style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+            alt="" 
+            src="ImagesAndStyleSheet/Bullet_Nav_Big.gif"></A></TD>
+          <TD class="ctl00_ctl00_Nav_TreeView1_2 ctl00_ctl00_Nav_TreeView1_6" 
+          style="WHITE-SPACE: nowrap"><A 
+            class="ctl00_ctl00_Nav_TreeView1_0 ctl00_ctl00_Nav_TreeView1_1 ctl00_ctl00_Nav_TreeView1_5" 
+            id=ctl00_ctl00_Nav_TreeView1n5 
+            href="OrderViewer.aspx">Browsing of XML Order</A></TD></TR></TBODY></TABLE>
+      <TABLE 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV style="WIDTH: 10px; HEIGHT: 1px"></DIV></TD>
+          <TD><A id=ctl00_ctl00_Nav_TreeView1n19i tabIndex=-1 
+            href=""><IMG 
+            style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+            alt="" 
+            src="ImagesAndStyleSheet/Bullet_Nav_Big.gif"></A></TD>
+          <TD class="ctl00_ctl00_Nav_TreeView1_2 ctl00_ctl00_Nav_TreeView1_6" 
+          style="WHITE-SPACE: nowrap"><A 
+            class="ctl00_ctl00_Nav_TreeView1_0 ctl00_ctl00_Nav_TreeView1_1 ctl00_ctl00_Nav_TreeView1_5" 
+            id=ctl00_ctl00_Nav_TreeView1n19 
+            href=underdev.aspx>XML Order Version Control</A></TD></TR></TBODY></TABLE>
+      <TABLE 
+      style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+      cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV style="WIDTH: 10px; HEIGHT: 1px"></DIV></TD>
+          <TD><A id=ctl00_ctl00_Nav_TreeView1n20i tabIndex=-1 
+            href=""><IMG 
+            style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" 
+            alt="" 
+            src="ImagesAndStyleSheet/Bullet_Nav_Big.gif"></A></TD>
+          <TD class="ctl00_ctl00_Nav_TreeView1_2 ctl00_ctl00_Nav_TreeView1_6" 
+          style="WHITE-SPACE: nowrap"><A 
+            class="ctl00_ctl00_Nav_TreeView1_0 ctl00_ctl00_Nav_TreeView1_1 ctl00_ctl00_Nav_TreeView1_5" 
+            id=ctl00_ctl00_Nav_TreeView1n20 
+            href=underdev.aspx>About Us</A></TD></TR></TBODY></TABLE></DIV></DIV>
+            
+            <A 
+      id=ctl00_ctl00_Nav_TreeView1_SkipLink></A></TD>
+    <TD class=mainbody style="HEIGHT: 100%" vAlign=top align=left>
+
+<asp:contentplaceholder id="ContentBody" runat="server">
+        </asp:contentplaceholder>
+      <SCRIPT language=JavaScript>
+		    function doClick(index, numTabs, id) {
+		        document.all("tab" + id, index).className = "tab";
+		        for (var i=1; i < numTabs; i++) {
+		            document.all("tab" + id, (index + i) % numTabs).className = "backtab";
+		        }
+		        document.all("code" + id, index).style.display = "";
+		        for (var j=1; j < numTabs; j++) {
+		          document.all("code" + id, (index + j) % numTabs).style.display = "none";
+		        }
+		    }
+		  </SCRIPT>
+
+
+
+      
+
+</TD></TR></TBODY></TABLE>
+</asp:Content>
