@@ -1,0 +1,1289 @@
+<?xml version="1.0"?><!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd"><ArticleSet>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25961852</Replaces>
+		<ArticleTitle>Congenital generalized hypertrichosis terminalis: a proposed classification and a plea to avoid the ambiguous term &#x0201C;Ambras syndrome&#x0201D;</ArticleTitle>
+		<FirstPage>223</FirstPage>
+		<LastPage>227</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">WenChieh</FirstName>
+				<LastName>Chen</LastName>
+				<Affiliation>Department of Dermatology and Allergy, Technische Universit&#x000E4;t M&#x000FC;nchen, Biedersteinerstr. 29, 80802 Munich, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Johannes</FirstName>
+				<LastName>Ring</LastName>
+				<Affiliation>Department of Dermatology and Allergy, Technische Universit&#x000E4;t M&#x000FC;nchen, Biedersteinerstr. 29, 80802 Munich, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Rudolf</FirstName>
+				<LastName>Happle</LastName>
+				<Affiliation>Department of Dermatology, Freiburg University Medical Center, Hauptstr. 7, 79104 Freiburg, Germany</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2529</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2529</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Congenital generalized hypertrichosis terminalis (CGHT) is a heterogenous group of diseases with continuing excessive growth of terminal hair. &#x0201C;Ambras syndrome&#x0201D; was first coined by Baumeister in 1993 to describe a case of nonsyndromic CGHT which was erroneously analogized to the portrait paintings of Petrus Gonzales and his children, exhibited in Ambras Castle near Innsbruck, Austria. This family probably, a syndromic type with abnormal dentition, inherited as an autosomal dominant trait. CGHT associated with gingival hyperplasia is probably a particular entity typified by the historical cases of Julia Pastrana and her son. An X-linked type of CGHT has likewise been categorized as &#x0201C;Ambras syndrome&#x0201D;. Moreover, some reports have mistakenly classified &#x0201C;Ambras syndrome&#x0201D; as an example of hypertrichosis lanuginosa. Potential gene loci identified so far may include 8q22, 17q24.2-q24.3 and Xq24-q27.1. The designation &#x0201C;Ambras syndrome&#x0201D; has thus been applied to various types of congenital hypertrichosis that differ to such degree that the name &#x0201C;Ambras&#x0201D; has no specific meaning, neither in the past nor in the future. Hence, this misleading term should now be jettisoned.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">Ambras syndrome</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">congenital hypertrichosis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">hypertrichosis lanuginosa</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">terminal hair</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Contact allergy caused by methylisothiazolinone: the Belgian-French experience</ArticleTitle>
+		<FirstPage>228</FirstPage>
+		<LastPage>233</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Olivier</FirstName>
+				<LastName>Aerts</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;University Hospital Antwerp,&#x0000A;B-2650 Antwerp, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">An</FirstName>
+				<LastName>Goossens</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;University Hospitals K.U.Leuven,&#x0000A;B-3000, Leuven, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fran&#x000E7;oise</FirstName>
+				<LastName>Giordano-Labadie</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Larrey University Hospital,&#x0000A;CHU Toulouse, 31059 Toulouse France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2015.2608</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2015.2608</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>The chemical Kathon CG<sup>&#x000AE;</sup>, a mixture of the preservatives methylchloroisothiazolinone (MCI) and methylisothiazolinone (MI), was the leading cause of a worldwide epidemic of contact-allergic reactions in the eighties. From 2000 on, MI alone became allowed in industrial products and in 2005 authorities gave a green light for its use in leave-on and rinse-off cosmetics up to a maximum concentration of 100 ppm (0.01%). Following initial occupational cases, a continuously increasing number of consumers sensitized to MI have been reported and both Belgian and French allergy groups decided to routinely test MI in their baseline series from 2010 onwards. Two multicenter studies, comprising 8,680 and 7,874 patients in Belgium and France respectively, both clearly show the rise in contact allergy caused by MI, with a spectacular sensitization rate of &#x0223C; 6.0% in 2012, even increasing to 7.0% in 2013. Mostly middle-aged women, presenting with facial-and/or hand dermatitis, were affected, although very young children were reported as well. Furthermore, the data confirmed that sensitization is primarily caused by cosmetics (mostly leave-on, but also rinse-off), household detergents and water-based paint. This unprecedented outbreak of contact sensitization to a preservative agent in Europe, and beyond, should have alerted the authorities much sooner and meanwhile the need for safer use concentrations of MI in cosmetics, detergents and industrial products is becoming more urgent every day.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">methylisothiazolinone</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">contact dermatitis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">preservative</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">France</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Belgium</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Europe</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Vitamin D in Norwegian renal transplant recipients: A longitudinal study with repeated measurements in winter and summer</ArticleTitle>
+		<FirstPage>234</FirstPage>
+		<LastPage>239</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Syed Mohammad Husain</FirstName>
+				<LastName>Rizvi</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Oslo University Hospital, Rikshospitalet,&#x0000A;0027 Oslo, Norway, Department of Dermatology,&#x0000A;Oslo University Hospital, Rikshospitalet and Institute of Clinical Medicine,&#x0000A;University of Oslo,&#x0000A;Oslo, Norway</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marit B</FirstName>
+				<LastName>Veier&#x000F8;d</LastName>
+				<Affiliation>Department of Biostatistics,, Department of Nutrition,&#x0000A;Institute of Basic Medical Sciences,&#x0000A;University of Oslo, Oslo, Norway</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Per Medb&#x000F8;e</FirstName>
+				<LastName>Thorsby</LastName>
+				<Affiliation>Hormone Laboratory,&#x0000A;Department of Biochemistry,&#x0000A;Oslo University Hospital,&#x0000A;Aker Hospital, Norway</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Per</FirstName>
+				<LastName>Helsing</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Oslo University Hospital, Rikshospitalet,&#x0000A;0027 Oslo, Norway</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2015.2524</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2015.2524</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Organ transplant recipients (OTR) have an increased risk of non-melanoma skin cancer (NMSC) and are advised to avoid direct sunlight. OTR living in the Nordic countries are especially vulnerable to hypovitaminosis D as vitamin D production in the skin is restricted to the summer months. Objectives: To investigate constitutional and external factors predicting hypovitaminosis and seasonal variation of vitamin D in renal transplant recipients (RTR) living in the vicinity of Oslo (59<sup>o </sup>N). Methods: Ninety-four RTR were included. Interviews covering dietary intake of vitamin D and sun exposure were performed and blood samples were collected in February and August 2013. Results Mean age of patients was 56.8 years and mean graft age 14.5 years. The mean daily total vitamin D intake was 11.8 &#x003BC;g, and the prevalence of hypovitaminosis D (&#60;75&#x000A0;nmol/L) was 67.0% in winter and 56.4% in summer. Sunscreen users had significantly higher 25(OH)D than non-users (p&#x000A0;=&#x000A0;0.03). Excluding patients having travelled to southern latitudes during the last three months before blood sampling, no statistical difference was found between winter and summer values of vitamin D (p&#x000A0;=&#x000A0;0.60). Being male or having red/light blond hair colour increased vitamin D values significantly from winter to summer. Conclusions: Hypovitaminosis D is relatively frequent in Norwegian RTR but not as frequent as earlier reported in studies of RTR from lower latitudes. Lack of seasonal variation in vitamin D may be explained by sun protective behaviour and high dietary intake of vitamin D among patients in this study.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">Non-melanoma skin cancer</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">organ transplant recipients</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">renal transplant recipients</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">seasonal variation vitamin D</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">skin cancer</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Vitamin D</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26066761</Replaces>
+		<ArticleTitle>Effects of Curcuma extract and visible light on adults with plaque psoriasis</ArticleTitle>
+		<FirstPage>240</FirstPage>
+		<LastPage>246</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Miguel</FirstName>
+				<LastName>Carrion-Gutierrez</LastName>
+				<Affiliation>Clinical Research Unit,&#x0000A;Especialidades Farmac&#x000E9;uticas Centrum,&#x0000A;C/Sagitario, 14, 03006 Alicante, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ana</FirstName>
+				<LastName>Ramirez-Bosca</LastName>
+				<Affiliation>Department of Dermatology and Clinical Research Units,&#x0000A;Centro Dermatol&#x000F3;gico Est&#x000E9;tico,&#x0000A;Alicante, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Vicente</FirstName>
+				<LastName>Navarro-Lopez</LastName>
+				<Affiliation>Department of Dermatology and Clinical Research Units,&#x0000A;Centro Dermatol&#x000F3;gico Est&#x000E9;tico,&#x0000A;Alicante, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Asunci&#x000F3;n</FirstName>
+				<LastName>Martinez-Andres</LastName>
+				<Affiliation>Department of Dermatology and Clinical Research Units,&#x0000A;Centro Dermatol&#x000F3;gico Est&#x000E9;tico,&#x0000A;Alicante, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Manuel</FirstName>
+				<LastName>As&#x000ED;n-Llorca</LastName>
+				<Affiliation>Department of Dermatology and Clinical Research Units,&#x0000A;Centro Dermatol&#x000F3;gico Est&#x000E9;tico,&#x0000A;Alicante, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">August</FirstName>
+				<LastName>Bernd</LastName>
+				<Affiliation>Department of Dermatology and Venerology,&#x0000A;J.W. Goethe-University,&#x0000A;Medical School, Frankfurt/Main,&#x0000A;Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jos&#x000E9; Francisco</FirstName>
+				<LastName>Horga de la Parte</LastName>
+				<Affiliation>Department of Pharmacology,&#x0000A;Pediatrics and Organic Chemistry,&#x0000A;Miguel Hern&#x000E1;ndez University, Elche,&#x0000A;Alicante, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2584</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2584</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Introduction: We conducted a phase IV randomized, double-blind, placebo-controlled, pilot clinical trial to investigate the safety and efficacy of oral curcumin together with local phototherapy in patients with plaque psoriasis. Materials and methods: Patients with moderate to severe psoriasis received Curcuma extract orally with real visible light phototherapy (VLRT) or simulated visible light phototherapy (VLST) in the experimental area, while the rest of the body surface was treated with ultraviolet A (UVA) radiation. The endpoints were the number of responders and the temporal course of the response. The secondary outcomes were related to safety and adverse events. Results: Twenty-one patients were included in the study. In the intention-to-treat analysis, no patients included in the VLRT group showed &#x0201C;moderate&#x0201D; or &#x0201C;severe&#x0201D; plaques after the treatment, in contrast to the patients included in the VSLT group (p&#60;0.01). Parallelisms in the evolution of PGA, BSA, and PASI scores were observed in the two groups following the treatment. At the end of the study period, 76% of all patients showed a response in the BSA exposed to UVA. Lesions on the experimental area showed a response in 81% of the patients in the VLRT group and 30% of the patients in the VLST group. There were no study-related adverse events that necessitated participant withdrawal. Conclusion: The results suggested that moderate to severe plaque psoriasis should&#x000A0;show a therapeutic response to orally administered Curcuma if activated with visible light phototherapy, a new therapeutic method that would be safer for patients than existing treatments.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">psoriasis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Curcuma longa extract</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">visible light</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">phototherapy</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25961331</Replaces>
+		<ArticleTitle>Survival advantage of women in localized melanoma mainly relies on clinical-pathological differences by sex. A retrospective study of 1,607 patients in Valencia, Spain</ArticleTitle>
+		<FirstPage>247</FirstPage>
+		<LastPage>254</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Sabrina</FirstName>
+				<LastName>Kindem</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Instituto Valenciano de Oncolog&#x000ED;a,&#x0000A;C. Profesor Beltran Baguena, 8; 46009 Valencia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Joan</FirstName>
+				<LastName>Garc&#x000ED;as-Ladaria</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Consorcio Hospital General Universitari,&#x0000A;Avda. Tres Cruces, s/n; 46014 Valencia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Celia</FirstName>
+				<LastName>Requena</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Instituto Valenciano de Oncolog&#x000ED;a,&#x0000A;C. Profesor Beltran Baguena, 8; 46009 Valencia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Carlos</FirstName>
+				<LastName>Guill&#x000E9;n</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Instituto Valenciano de Oncolog&#x000ED;a,&#x0000A;C. Profesor Beltran Baguena, 8; 46009 Valencia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Vicente</FirstName>
+				<LastName>Oliver</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Consorcio Hospital General Universitari,&#x0000A;Avda. Tres Cruces, s/n; 46014 Valencia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Eduardo</FirstName>
+				<LastName>Nagore</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Instituto Valenciano de Oncolog&#x000ED;a,&#x0000A;C. Profesor Beltran Baguena, 8; 46009 Valencia, Spain, Universidad Cat&#x000F3;lica de Valencia,&#x0000A;c/ Quevedo, 2; 46001 Valencia, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2557</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2557</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Background: Among melanoma patients, women have a better prognosis than men but the differences might be due to a different presentation of melanoma. Objectives: The aim of this study was to identify differences in clinical presentation and survival in cutaneous melanoma between men and women in a Spanish population stratified by age. Materials &#38; Methods: In total, 1,607 consecutive patients with localized cutaneous melanoma and complete clinical and pathological information were evaluated. Average follow-up was 5 years. Patients were stratified by age into three groups: &#x02264;45 years, 46-60 years, and &#x0003E;60 years. Disease-free survival, overall-survival and disease-specific survival were generated using the Kaplan-Meier method. Multivariate survival analyses were evaluated using Cox modelling. Results: Melanoma presented more frequently in the trunk in male patients and in the lower extremities and acral location in female patients. Men presented thicker tumors than women. However, for histological type, mitotic rate and ulceration there were no significant differences between the sexes. In the univariate survival analyses, women showed better disease-free, overall and disease-specific survival in the younger age group, compared with males of the same group. After adjusting for anatomical site, Breslow thickness, mitotic rate and presence of ulceration, there were no differences between males and females in any of the three age groups. Conclusion: The superior survival for women over men did not persist after adjusting for multiple prognostic variables such as anatomical site, Breslow thickness, mitotic rate and ulceration.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">melanoma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">gender</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">prognosis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">survival</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786537</Replaces>
+		<ArticleTitle>Restless legs syndrome in psoriasis: an unexpected comorbidity</ArticleTitle>
+		<FirstPage>255</FirstPage>
+		<LastPage>260</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Caroline</FirstName>
+				<LastName>Schell</LastName>
+				<Affiliation>Department of Neurology and Epileptology,&#x0000A;Hertie Institute for Clinical Brain Research</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ramona</FirstName>
+				<LastName>Schleich</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Florian</FirstName>
+				<LastName>Walker</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Amir S.</FirstName>
+				<LastName>Yazdi</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Holger</FirstName>
+				<LastName>Lerche</LastName>
+				<Affiliation>Department of Neurology and Epileptology,&#x0000A;Hertie Institute for Clinical Brain Research</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Martin</FirstName>
+				<LastName>R&#x000F6;cken</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Detlef</FirstName>
+				<LastName>Axmann</LastName>
+				<Affiliation>Center of Dentistry,&#x0000A;Oral Medicine and Maxillofacial Surgery,&#x0000A;Eberhard Karls University T&#x000FC;bingen,&#x0000A;Liebermeisterstr. 25, 72076 T&#x000FC;bingen,&#x0000A;Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Kamran</FirstName>
+				<LastName>Ghoreschi</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Franziska C.</FirstName>
+				<LastName>Eberle</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2525</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2525</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Background: Restless legs syndrome (RLS) is characterized by unpleasant sensations in the legs and an uncontrollable urge to move them in order to gain relief. Higher frequencies of RLS have been reported in systemic lupus, multiple sclerosis, rheumatoid arthritis and atopic dermatitis. Objectives: Since the disease-related stress present in psoriasis is similar to the stress of those diseases, we aimed to study the frequency of RLS in a German cohort of patients with psoriasis. Methods: 300 patients with psoriasis and 300 healthy controls were evaluated for RLS symptoms in this study. Results: While 17% (n&#x000A0;=&#x000A0;51) of patients with psoriasis reported symptoms of RLS, only 4% (n&#x000A0;=&#x000A0;12) of individuals without psoriasis suffered from RLS symptoms (95% confidence interval: 0.08 &#x02013; 0.18, p&#60;0.01). In patients with psoriasis and RLS the average RLS score was 16.0&#x000A0;&#x000B1;&#x000A0;9.2 whereas individuals with RLS in the control group had an average RLS score of 13.5&#x000A0;&#x000B1;&#x000A0;7.1. Conclusions: Our findings indicate an increased frequency of RLS in patients with psoriasis, suggesting screening patients with psoriasis for the presence of RLS as a well-treatable co-morbidity.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">psoriasis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">quality of life</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">restless legs syndrome</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786488</Replaces>
+		<ArticleTitle>Insight into the number of pre-malignancies and malignancies of the skin in a hospital population in the Netherlands</ArticleTitle>
+		<FirstPage>261</FirstPage>
+		<LastPage>265</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Margit</FirstName>
+				<LastName>van Rijsingen</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Radboud university medical center,&#x0000A;PO Box 9101,&#x0000A;6500 HB Nijmegen,&#x0000A;the Netherlands</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Inge</FirstName>
+				<LastName>Seubring</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Radboud university medical center,&#x0000A;PO Box 9101,&#x0000A;6500 HB Nijmegen,&#x0000A;the Netherlands</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Birgitte</FirstName>
+				<LastName>Maessen-Visch</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Rijnstate Hospital, Arnhem,&#x0000A;The Netherlands</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sjan</FirstName>
+				<LastName>Lavrijsen</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Leiden University Medical Center,&#x0000A;Leiden, The Netherlands</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Bert</FirstName>
+				<LastName>van Bergen</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Canisius Wilhelmina Hospital,&#x0000A;Nijmegen, The Netherlands</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Johannes</FirstName>
+				<LastName>Groenewoud</LastName>
+				<Affiliation>Department for Health Evidence,&#x0000A;Radboud university medical center,&#x0000A;Nijmegen, the Netherlands</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marie-Jeanne</FirstName>
+				<LastName>Gerritsen</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Radboud university medical center,&#x0000A;PO Box 9101,&#x0000A;6500 HB Nijmegen,&#x0000A;the Netherlands</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2523</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2523</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Background: Skin cancer incidence is rising, placing a burden on healthcare systems worldwide. This problem may even be more extensive than expected, since registration of (pre)malignancies of the skin is poor. Objective: To provide insight into the numbers of (pre)malignancies in patients with actinic keratosis (AK) or basal cell carcinoma (BCC) in 2 university and 2 general hospitals. Methods: The types and numbers of previous tumours and of tumours during a two-year follow-up were collected from 574 patients. Results: Mean time between the first diagnosed (pre)malignancy and time of inclusion was 6.6 years. Overall, 60% had multiple types of (pre)malignancies. In BCC patients, 61% had multiple BCCs, in patients with squamous cell carcinoma (SCC), 40% had multiple SCCs. The combination &#x02018;BCC and SCC&#x02019; occurred in 10%, &#x02018;BCC and AK&#x02019; in 47%, &#x02018;SCC and AK&#x02019; in 14%. Conclusion: High numbers of patients with multiple (pre)malignancies were found in this patient population in university and general hospitals, which may well reflect the Dutch hospital population. We conclude that skin cancer patients are more extensively affected than was expected up till now. Consequently, the management of skin cancer may be in need of adaptation in near future and the question arises whether dermatologists have the capacity for providing care for all these patients.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">skin cancer</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">pre-malignancies</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">burden</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">management</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">registration</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25652808</Replaces>
+		<ArticleTitle>Acquired localized cutis laxa occurring on the face after delivery</ArticleTitle>
+		<FirstPage>266</FirstPage>
+		<LastPage>267</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Toshiyuki</FirstName>
+				<LastName>Yamamoto</LastName>
+				<Affiliation>Department of Dermatology, Fukushima Medical University</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Takaya</FirstName>
+				<LastName>Hasegawa</LastName>
+				<Affiliation>Hasegawa Dermatology Clinic</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Hajime</FirstName>
+				<LastName>Nakano</LastName>
+				<Affiliation>Hirosaki University,&#x0000A;Hikarigaoka 1, Fukushima 960-1295, Japan</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2520</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2520</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26055208</Replaces>
+		<ArticleTitle>Diaminodiphenyl sulfone-induced eosinophilic pneumonia in a patient with pemphigus foliaceus</ArticleTitle>
+		<FirstPage>267</FirstPage>
+		<LastPage>268</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Hiromi</FirstName>
+				<LastName>Endo</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Hidetsugu</FirstName>
+				<LastName>Fukuda</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Yuki</FirstName>
+				<LastName>Yokouchi</LastName>
+				<Affiliation>Department of Pathology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Chihiro</FirstName>
+				<LastName>Nakano</LastName>
+				<Affiliation>Department of Respiratory Medicine,&#x0000A;Toho University Ohashi Medical Center,&#x0000A;2-17-6,&#x0000A;Ohashi,&#x0000A;Meguro-ku,&#x0000A;Tokyo 153-8515,&#x0000A;Japan</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Hideki</FirstName>
+				<LastName>Mukai</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2517</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2517</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Cutaneous epithelioid angiomatous nodule in a patient with a history of multiple pyogenic granulomas</ArticleTitle>
+		<FirstPage>268</FirstPage>
+		<LastPage>269</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Shinji</FirstName>
+				<LastName>Okano</LastName>
+				<Affiliation>Department of Innovative Applied Oncology,, Division of Diagnostic Pathology, Kyushu University Hospital</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Masakazu</FirstName>
+				<LastName>Takahara</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Maya</FirstName>
+				<LastName>Tanaka</LastName>
+				<Affiliation>Division of Dermatology,&#x0000A;Haradoi Hospital,&#x0000A;Fukuoka 812-8582, Japan</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Takeshi</FirstName>
+				<LastName>Nakahara</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Hanako</FirstName>
+				<LastName>Suzuki</LastName>
+				<Affiliation>Department of Pathophysiological and Experimental Pathology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Hiroshi</FirstName>
+				<LastName>Fujii</LastName>
+				<Affiliation>Department of Pathophysiological and Experimental Pathology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ken</FirstName>
+				<LastName>Shirabe</LastName>
+				<Affiliation>Department of Surgery and Science</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Yoshinao</FirstName>
+				<LastName>Oda</LastName>
+				<Affiliation>Department of Anatomic Pathology,&#x0000A;Graduate School of Medical Sciences,&#x0000A;Kyushu University, Maidashi 3-1-1,&#x0000A;Higashi-ku, Fukuoka 812-8582, Japan</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Yoshihiko</FirstName>
+				<LastName>Maehara</LastName>
+				<Affiliation>Department of Surgery and Science</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Masutaka</FirstName>
+				<LastName>Furue</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2015.2527</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2015.2527</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786713</Replaces>
+		<ArticleTitle>Erosive pustular dermatosis of the scalp and thigh associated with skin graft recipient and donor sites</ArticleTitle>
+		<FirstPage>269</FirstPage>
+		<LastPage>271</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Blandine</FirstName>
+				<LastName>Roche-Kubler</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;CHU Besan&#x000E7;on and University of Franche Comt&#x000E9;,&#x0000A;3 Bd Fleming, 25030 Besan&#x000E7;on,&#x0000A;France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Christine</FirstName>
+				<LastName>Monnin</LastName>
+				<Affiliation>Department of Pathology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fran&#x000E7;ois</FirstName>
+				<LastName>Aubin</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;CHU Besan&#x000E7;on and University of Franche Comt&#x000E9;,&#x0000A;3 Bd Fleming, 25030 Besan&#x000E7;on,&#x0000A;France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Anne Sophie</FirstName>
+				<LastName>Dupond</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Belfort-Montb&#x000E9;liard Hospital,&#x0000A;France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2528</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2528</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26055291</Replaces>
+		<ArticleTitle>Complete regression of melanoma skin metastases after electrochemotherapy plus ipilimumab treatment: an unusual clinical presentation</ArticleTitle>
+		<FirstPage>271</FirstPage>
+		<LastPage>272</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Matteo</FirstName>
+				<LastName>Brizio</LastName>
+				<Affiliation>Department of Medical Sciences,&#x0000A;University of Turin&#x0000A;v. Cherasco 23, 10126,&#x0000A;Torino, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Paolo</FirstName>
+				<LastName>Fava</LastName>
+				<Affiliation>Department of Medical Sciences,&#x0000A;University of Turin&#x0000A;v. Cherasco 23, 10126,&#x0000A;Torino, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Chiara</FirstName>
+				<LastName>Astrua</LastName>
+				<Affiliation>Department of Medical Sciences,&#x0000A;University of Turin&#x0000A;v. Cherasco 23, 10126,&#x0000A;Torino, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Giovanni</FirstName>
+				<LastName>Cavaliere</LastName>
+				<Affiliation>Department of Medical Sciences,&#x0000A;University of Turin&#x0000A;v. Cherasco 23, 10126,&#x0000A;Torino, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Paola</FirstName>
+				<LastName>Savoia</LastName>
+				<Affiliation>Department of Medical Sciences,&#x0000A;University of Turin&#x0000A;v. Cherasco 23, 10126,&#x0000A;Torino, Italy</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2522</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2522</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786592</Replaces>
+		<ArticleTitle>Late paradoxical development of pyoderma gangrenosum in a psoriasis patient treated with infliximab</ArticleTitle>
+		<FirstPage>272</FirstPage>
+		<LastPage>273</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Michelangelo</FirstName>
+				<LastName>Vestita</LastName>
+				<Affiliation>Section of Dermatology,&#x0000A;Department of Biomedical Science and Human Oncology,&#x0000A;University of Bari,&#x0000A;11, Piazza Giulio Cesare, Bari, 70124, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Stefania</FirstName>
+				<LastName>Guida</LastName>
+				<Affiliation>Section of Dermatology,&#x0000A;Department of Biomedical Science and Human Oncology,&#x0000A;University of Bari,&#x0000A;11, Piazza Giulio Cesare, Bari, 70124, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Stella</FirstName>
+				<LastName>Mazzoccoli</LastName>
+				<Affiliation>Section of Dermatology,&#x0000A;Department of Biomedical Science and Human Oncology,&#x0000A;University of Bari,&#x0000A;11, Piazza Giulio Cesare, Bari, 70124, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Francesco</FirstName>
+				<LastName>Loconsole</LastName>
+				<Affiliation>Section of Dermatology,&#x0000A;Department of Biomedical Science and Human Oncology,&#x0000A;University of Bari,&#x0000A;11, Piazza Giulio Cesare, Bari, 70124, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Caterina</FirstName>
+				<LastName>Foti</LastName>
+				<Affiliation>Section of Dermatology,&#x0000A;Department of Biomedical Science and Human Oncology,&#x0000A;University of Bari,&#x0000A;11, Piazza Giulio Cesare, Bari, 70124, Italy</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2526</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2526</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25906197</Replaces>
+		<ArticleTitle>Pityriasis rubra pilaris and transitional meningioma: a fortuitous association?</ArticleTitle>
+		<FirstPage>273</FirstPage>
+		<LastPage>274</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Sandrine</FirstName>
+				<LastName>Quenan</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Gurkan</FirstName>
+				<LastName>Kaya</LastName>
+				<Affiliation>Department of Dermatopathology,&#x0000A;University Hospital of Geneva,&#x0000A;4 Rue Gabrielle-Perret-Gentil,&#x0000A;1211 Geneva, Switzerland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Emmanuel</FirstName>
+				<LastName>Laffitte</LastName>
+				<Affiliation>Department of Dermatology</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2532</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2532</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26066414</Replaces>
+		<ArticleTitle>Chromoblastomycosis caused by Phialophora verrucosa on the hand</ArticleTitle>
+		<FirstPage>274</FirstPage>
+		<LastPage>275</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Akiko</FirstName>
+				<LastName>Takeuchi</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Faculty of Medicine,&#x0000A;Kanazawa University,&#x0000A;13-1 Takaramachi, Kanazawa,&#x0000A;Ishikawa 920-8641, Japan, Department of Dermatology,&#x0000A;Nanto Municipal Hospital,&#x0000A;Toyama, Japan</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Kazufumi</FirstName>
+				<LastName>Anzawa</LastName>
+				<Affiliation>Department of Dermatology,, Division of Dermatomycology (Novartis Pharma),&#x0000A;Research Institute of Medical Science,&#x0000A;Kanazawa Medical University,&#x0000A;Ishikawa, Japan</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Takashi</FirstName>
+				<LastName>Mochizuki</LastName>
+				<Affiliation>Department of Dermatology,, Division of Dermatomycology (Novartis Pharma),&#x0000A;Research Institute of Medical Science,&#x0000A;Kanazawa Medical University,&#x0000A;Ishikawa, Japan</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Kazuhiko</FirstName>
+				<LastName>Takehara</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Faculty of Medicine,&#x0000A;Kanazawa University,&#x0000A;13-1 Takaramachi, Kanazawa,&#x0000A;Ishikawa 920-8641, Japan</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Yasuhito</FirstName>
+				<LastName>Hamaguchi</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Faculty of Medicine,&#x0000A;Kanazawa University,&#x0000A;13-1 Takaramachi, Kanazawa,&#x0000A;Ishikawa 920-8641, Japan</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2581</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2581</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26055411</Replaces>
+		<ArticleTitle>M&#x000FC;nchausen syndrome mimicking baboon syndrome</ArticleTitle>
+		<FirstPage>276</FirstPage>
+		<LastPage>277</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Denise</FirstName>
+				<LastName>Peeters</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Cliniques Universitaires Saint-Luc,&#x0000A;Avenue Hippocrate,&#x0000A;10, B-1200 Brussels, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alexia</FirstName>
+				<LastName>Vanden Daelen</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Cliniques Universitaires Saint-Luc,&#x0000A;Avenue Hippocrate,&#x0000A;10, B-1200 Brussels, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marie</FirstName>
+				<LastName>Baeck</LastName>
+				<Affiliation>Department of Dermatology,&#x0000A;Cliniques Universitaires Saint-Luc,&#x0000A;Avenue Hippocrate,&#x0000A;10, B-1200 Brussels, Belgium</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2533</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2533</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26069095</Replaces>
+		<ArticleTitle>Allergic hypersensitivity to red meat induced by tick bites: a French case report</ArticleTitle>
+		<FirstPage>277</FirstPage>
+		<LastPage>277</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Audrey</FirstName>
+				<LastName>Guillier</LastName>
+				<Affiliation>Service de dermatologie,&#x0000A;CHU Haut-L&#x000E9;v&#x000EA;que,&#x0000A;Avenue de Magellan,&#x0000A;33604 Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Antoine</FirstName>
+				<LastName>Fauconneau</LastName>
+				<Affiliation>Service de dermatologie,&#x0000A;CHU Haut-L&#x000E9;v&#x000EA;que,&#x0000A;Avenue de Magellan,&#x0000A;33604 Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fran&#x000E7;oise</FirstName>
+				<LastName>De Barruel</LastName>
+				<Affiliation>Service de dermatologie,&#x0000A;CHU Haut-L&#x000E9;v&#x000EA;que,&#x0000A;Avenue de Magellan,&#x0000A;33604 Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">St&#x000E9;phane</FirstName>
+				<LastName>Guez</LastName>
+				<Affiliation>Service de m&#x000E9;decine Interne,&#x0000A;H&#x000F4;pital Pellegrin,&#x0000A;CHU Bordeaux,&#x0000A;Bordeaux, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marie-Sylvie</FirstName>
+				<LastName>Doutre</LastName>
+				<Affiliation>Service de dermatologie,&#x0000A;CHU Haut-L&#x000E9;v&#x000EA;que,&#x0000A;Avenue de Magellan,&#x0000A;33604 Pessac, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2531</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2531</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25906406</Replaces>
+		<ArticleTitle>Unusual cutaneous manifestations of late Lyme borreliosis</ArticleTitle>
+		<FirstPage>277</FirstPage>
+		<LastPage>279</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Emilie</FirstName>
+				<LastName>Rigot</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Valerie Doffoel</FirstName>
+				<LastName>Hantz</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fran&#x000E7;ois</FirstName>
+				<LastName>Labrousse</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Christian</FirstName>
+				<LastName>Martin</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Maria</FirstName>
+				<LastName>Dubos</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Safae</FirstName>
+				<LastName>Assikar</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Agn&#x000E8;s</FirstName>
+				<LastName>Sparsa</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Marie</FirstName>
+				<LastName>Bonnetblanc</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Christophe</FirstName>
+				<LastName>Bedane</LastName>
+				<Affiliation>CHU Dupuytren,&#x0000A;2 Avenue Martin Luther King,&#x0000A;87042 Limoges, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2536</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2536</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25906325</Replaces>
+		<ArticleTitle>Multiple pigmented trichoblastomas, sebaceous carcinoma and syringocystadenoma papilliferum arising within a nevus sebaceous</ArticleTitle>
+		<FirstPage>279</FirstPage>
+		<LastPage>280</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Hao</FirstName>
+				<LastName>Song</LastName>
+				<Affiliation>Institute of Dermatology,&#x0000A;Chinese Academy of Medical Sciences,&#x0000A;Nanjing 210042, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Qiang</FirstName>
+				<LastName>Wang</LastName>
+				<Affiliation>Institute of Dermatology,&#x0000A;Chinese Academy of Medical Sciences,&#x0000A;Nanjing 210042, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ying</FirstName>
+				<LastName>Guo</LastName>
+				<Affiliation>Ackerman Academy of Dermatopathology,&#x0000A;New York,&#x0000A;NY 10016, USA</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Xiu-Lian</FirstName>
+				<LastName>Xu</LastName>
+				<Affiliation>Institute of Dermatology,&#x0000A;Chinese Academy of Medical Sciences,&#x0000A;Nanjing 210042, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jian-Fang</FirstName>
+				<LastName>Sun</LastName>
+				<Affiliation>Institute of Dermatology,&#x0000A;Chinese Academy of Medical Sciences,&#x0000A;Nanjing 210042, China</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">ejd.2015.2535</ArticleId><ArticleId IdType="doi">10.1684/ejd.2015.2535</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Residents&#x02019;corner June 2015. Editorial: What&#x00027;s new this month?</ArticleTitle>
+		<FirstPage>281</FirstPage>
+		<LastPage>287</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Joana</FirstName>
+				<LastName>Cabete</LastName>
+				<Affiliation>Dermatology Department. Hospital de Santo Ant&#x000F3;nio dos Capuchos - Centro Hospitalar de Lisboa Central. Alameda Santo Ant&#x000F3;nio dos Capuchos 1169-050, Lisbon, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Valeria</FirstName>
+				<LastName>Behle</LastName>
+				<Affiliation>Department of Dermatology, Venerology and Allergology, University Hospital Wuerzburg, Joseph-Schneider-Str. 2, 97080 Wuerzburg, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Axel-Patrice</FirstName>
+				<LastName>Villani</LastName>
+				<Affiliation>Dermatology Department, H&#x000F4;pital Edouard Herriot, Lyon, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alana</FirstName>
+				<LastName>Durack</LastName>
+				<Affiliation>Dermatology department, Box 46, Addenbrooke&#x00027;s Hospital, Hills road, Cambridge, CB2 0QQ, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fran&#x000E7;ois</FirstName>
+				<LastName>Kuonen</LastName>
+				<Affiliation>Department of Dermatology and Venereology, H&#x000F4;pital de Beaumont, Lausanne University Hospital Center, Av. de Beaumont 29, CH-1011 Lausanne, Switzerland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alejandro</FirstName>
+				<LastName>Martin-Gorgojo</LastName>
+				<Affiliation>Dermatology Department. General University Hospital Gregorio Mara&#x000F1;on. C/ Doctor Esquerdo 46, 28007 Madrid, Spain. Dermatology Department. Clinica Dermatologica Internacional and Clinica Ruber. Madrid, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2015.2610</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2015.2610</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Residents&#x02019;corner June 2015. DeRmpath &#38; Clinic - Immunobullous Disease</ArticleTitle>
+		<FirstPage>282</FirstPage>
+		<LastPage>283</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">JM</FirstName>
+				<LastName>Thomas</LastName>
+				<Affiliation>Dermatology Department, Box 46, Addenbrooke&#x00027;s Hospital, Hills road, Cambridge, CB2 0QQ, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">MP</FirstName>
+				<LastName>Wallace</LastName>
+				<Affiliation>Dermatology Department, Box 46, Addenbrooke&#x00027;s Hospital, Hills road, Cambridge, CB2 0QQ, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">A</FirstName>
+				<LastName>Durack</LastName>
+				<Affiliation>Dermatology Department, Box 46, Addenbrooke&#x00027;s Hospital, Hills road, Cambridge, CB2 0QQ, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">F</FirstName>
+				<LastName>Kuonen</LastName>
+				<Affiliation>Department of Dermatology and Venereology, H&#x000F4;pital de Beaumont, Lausanne University Hospital Center, Av. de Beaumont 29, CH-1011 Lausanne, Switzerland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">G</FirstName>
+				<LastName>Meligonis</LastName>
+				<Affiliation>Histopathology department,&#x000A0;Addenbrooke&#x00027;s Hospital, Hills road, Cambridge, CB2 0QQ, UK</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2015.2611</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2015.2611</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Residents&#x02019;corner June 2015. And next&#x02026; Adnexa: Superficial Acral Fibromyxoma</ArticleTitle>
+		<FirstPage>283</FirstPage>
+		<LastPage>285</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Joana</FirstName>
+				<LastName>Cabete</LastName>
+				<Affiliation>Dermatology Department. Hospital de Santo Ant&#x000F3;nio dos Capuchos - Centro Hospitalar de Lisboa Central. Alameda Santo Ant&#x000F3;nio dos Capuchos 1169-050, Lisbon, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sara</FirstName>
+				<LastName>Campos</LastName>
+				<Affiliation>Dermatology Department. Hospital de Santo Ant&#x000F3;nio dos Capuchos - Centro Hospitalar de Lisboa Central. Alameda Santo Ant&#x000F3;nio dos Capuchos 1169-050, Lisbon, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Andr&#x000E9;</FirstName>
+				<LastName>Lencastre</LastName>
+				<Affiliation>Dermatology Department. Hospital de Santo Ant&#x000F3;nio dos Capuchos - Centro Hospitalar de Lisboa Central. Alameda Santo Ant&#x000F3;nio dos Capuchos 1169-050, Lisbon, Portugal</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2015.2612</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2015.2612</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Residents&#x02019;corner June 2015. sQUIZ your knowledge!: Papulonecrotic febrile rash in a young man</ArticleTitle>
+		<FirstPage>285</FirstPage>
+		<LastPage>286</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Lidia</FirstName>
+				<LastName>Maro&#x000F1;as-Jim&#x000E9;nez</LastName>
+				<Affiliation>Department of Dermatology, Hospital Universitario 12 de Octubre, Avenida de C&#x000F3;rdoba, s/n 28041, Madrid, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ramon</FirstName>
+				<LastName>Pigem</LastName>
+				<Affiliation>Department of Dermatology, Hospital Cl&#x000ED;nic, Barcelona, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2015.2613</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2015.2613</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>25</Volume>
+			<Issue>3</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Announcements: DeRmaCalendar 2015</ArticleTitle>
+		<FirstPage>287</FirstPage>
+		<LastPage>287</LastPage>
+		<AuthorList />
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2015.2614</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2015.2614</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+
+</ArticleSet>

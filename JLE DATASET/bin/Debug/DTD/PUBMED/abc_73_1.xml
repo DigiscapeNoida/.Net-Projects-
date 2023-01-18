@@ -1,0 +1,751 @@
+<?xml version="1.0"?><!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd"><ArticleSet>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>R&#x02019;evolution in laboratory medicine: SFBC and Euromedlab&#x02019;15</ArticleTitle>
+		<VernacularTitle>R&#x02019;&#x000C9;volution de la biologie m&#x000E9;dicale&#x000A0;: la SFBC et Euromedlab&#x02019;15</VernacularTitle>
+		<FirstPage>5</FirstPage>
+		<LastPage>5</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Jo&#x000EB;lle</FirstName>
+				<LastName>Goudable</LastName>
+				<Affiliation>Pr&#x000E9;sidente de la Soci&#x000E9;t&#x000E9; fran&#x000E7;aise de biologie clinique</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1023</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1023</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Mass spectrometry: from physics fundamentals to laboratory medicine</ArticleTitle>
+		<VernacularTitle>La spectrom&#x000E9;trie de masse&#x000A0;: des fondements de la physique &#x000E0; l&#x02019;application en biologie m&#x000E9;dicale</VernacularTitle>
+		<FirstPage>7</FirstPage>
+		<LastPage>9</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Roselyne</FirstName>
+				<LastName>Garnotel</LastName>
+				<Affiliation>Laboratoire de biologie et de recherche p&#x000E9;diatriques, American Memorial Hospital, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Edgard</FirstName>
+				<LastName>Delvin</LastName>
+				<Affiliation>Centre de recherche, CHU Sainte-Justine, Universit&#x000E9; de Montr&#x000E9;al, Montr&#x000E9;al, Qu&#x000E9;bec, Canada</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.0985</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.0985</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Sample preparation and bioanalysis in mass spectrometry</ArticleTitle>
+		<VernacularTitle>Pr&#x000E9;paration d&#x02019;&#x000E9;chantillon et bioanalyse en spectrom&#x000E9;trie de masse</VernacularTitle>
+		<FirstPage>11</FirstPage>
+		<LastPage>23</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Emmanuel</FirstName>
+				<LastName>Bourgogne</LastName>
+				<Affiliation>Laboratoire de toxicologie biologique, H&#x000F4;pital Lariboisi&#x000E8;re, Assistance Publique-H&#x000F4;pitaux de Paris, Paris, France, CNRS UMR 8638-Comete, Facult&#x000E9; de pharmacie, Universit&#x000E9; Paris Descartes, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Michel</FirstName>
+				<LastName>Wagner</LastName>
+				<Affiliation>Thionville, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1016</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1016</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>The quantitative analysis of compounds of clinical interest of low molecular weight (&#60;1000&#x000A0;Da) in biological fluids is currently in most cases performed by liquid chromatography-mass spectrometry (LC-MS). Analysis of these compounds in biological fluids (plasma, urine, saliva, hair...) is a difficult task requiring a sample preparation. Sample preparation is a crucial part of chemical/biological analysis and in a sense is considered the bottleneck of the whole analytical process. The main objectives of sample preparation are the removal of potential interferences, analyte preconcentration, and converting (if needed) the analyte into a more suitable form for detection or separation. Without chromatographic separation, endogenous compounds, co-eluted products may affect a quantitative method in mass spectrometry performance. This work focuses on three distinct parts. First, quantitative bioanalysis will be defined, different matrices and sample preparation techniques currently used in bioanalysis by mass spectrometry of/for small molecules of clinical interest in biological fluids. In a second step the goals of sample preparation will be described. Finally, in a third step, sample preparation strategies will be made either directly (&#x0201C;dilute and shoot&#x0201D;) or after precipitation.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">mass spectrometry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">quantitation</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">biological fluids</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">bioanalysis</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Blood sampling using &#x0201C;dried blood spot&#x0201D;: a clinical biology revolution underway?</ArticleTitle>
+		<VernacularTitle>Le pr&#x000E9;l&#x000E8;vement sanguin sur papier buvard&#x000A0;: une r&#x000E9;volution de la biologie m&#x000E9;dicale en marche&#x000A0;?</VernacularTitle>
+		<FirstPage>25</FirstPage>
+		<LastPage>37</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Christophe</FirstName>
+				<LastName>Hirtz</LastName>
+				<Affiliation>Institut de recherche en bioth&#x000E9;rapie, H&#x000F4;pital Saint Eloi, CHU Montpellier, France&#x000A0;; Laboratoire de biochimie clinique de la prot&#x000E9;omique et CCBHM, Universit&#x000E9; Montpellier 1, Montpellier, France&#x000A0;; Inserm, F-34000 U1040, Montpellier, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sylvain</FirstName>
+				<LastName>Lehmann</LastName>
+				<Affiliation>Institut de recherche en bioth&#x000E9;rapie, H&#x000F4;pital Saint Eloi, CHU Montpellier, France&#x000A0;; Laboratoire de biochimie clinique de la prot&#x000E9;omique et CCBHM, Universit&#x000E9; Montpellier 1, Montpellier, France&#x000A0;; Inserm, F-34000 U1040, Montpellier, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1007</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1007</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Blood testing using the dried blood spot (DBS) is used since the 1960s in clinical analysis, mainly within the framework of the neonatal screening (Guthrie test). Since then numerous analytes such as nucleic acids, small molecules or lipids, were successfully measured on the DBS. While this pre-analytical method represents an interesting alternative to classic blood sampling, its use in routine is still limited. We review here the different clinical applications of the blood sampling on DBS and estimate its future place, supported by the new methods of analysis as the LC-MS mass spectrometry.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">dried blood spot</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">pre-analytical</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">PCR</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">mass spectrometry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">ELISA</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">multiplex</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Mass spectrometry and clinical proteomics</ArticleTitle>
+		<VernacularTitle>Spectrom&#x000E9;trie de masse et prot&#x000E9;omique clinique</VernacularTitle>
+		<FirstPage>39</FirstPage>
+		<LastPage>48</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Bruno</FirstName>
+				<LastName>Baudin</LastName>
+				<Affiliation>Laboratoire de biochimie et biologie cellulaire, EA-4530 UFR Pharmacie, Ch&#x000E2;tenay-Malabry, France, Service de biochimie, H&#x000F4;pital Saint-Antoine, Paris, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1019</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1019</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Proteomic analysis was promising from many years proposing new markers of pathologies and new targets for drug development. Constant progress in technics makes proteomics more efficient. This progress needs the development of mass spectrometers more precise on mass determination, more resolutive on ions separation, more sensitive for their detection, much more adapted to quantification of peaks, and with automated apparatus built for high throughput proteomics. MALDI-TOF keeps an important place in proteomics, as well as for low budget teams as for laboratories developing quantification and high throughput with TOF/TOF mode. ESI source is easy to couple to nanoLC, a good method for sequencing in bottom up strategy with quadripoles (Q), TOF or even with ionic traps in tandem. The analysis of post-translational modifications has become possible with most configurations of MS/MS coupling. Finally, electrophoresis keeps its place as an efficient method for separation, and chromatography is the source of constant technics progress. Proteomics has a bright future with multiple progresses in many technics.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">mass spectrometry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">proteomics</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">bi-dimensional electrophoresis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">MALDI-TOF</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">ESI-MS/MS</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">post-translational modifications</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Some thoughts on the links between LC-MS/MS and therapeutic drug monitoring</ArticleTitle>
+		<VernacularTitle>Quelques consid&#x000E9;rations sur la LC-MS/MS et le suivi th&#x000E9;rapeutique pharmacologique</VernacularTitle>
+		<FirstPage>49</FirstPage>
+		<LastPage>53</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Franck</FirstName>
+				<LastName>Saint-Marcoux</LastName>
+				<Affiliation>Laboratoire de toxicologie, Facult&#x000E9; de pharmacie, Universit&#x000E9; de Limoges, France&#x000A0;; Service de pharmacologie, toxicologie et pharmacovigilance, CHU de Limoges, France&#x000A0;; Inserm UMR 850, Universit&#x000E9; de Limoges, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1008</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1008</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Therapeutic drug monitoring can be defined as a multiple step activity involving: (i) the measurement of a drug; (ii) the interpretation of the concentration by taking into account the concentration-effect relationship; (iii) the individual dose adjustment. For over 15 years pharmacology-toxicology departments have implemented liquid chromatography coupled to tandem mass spectrometry (LC-MS/MS) on a daily basis. This article discusses the current position of this technology in TDM routine activity.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">therapeutic drug monitoring</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">liquid chromatography coupled to tandem mass spectrometry (LC-MS/MS)</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">pharmacology and toxicology</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Clinical and analytical toxicology of opiate, cocaine and amphetamine</ArticleTitle>
+		<VernacularTitle>Toxicologie clinique et analytique des opiac&#x000E9;s, de la coca&#x000EF;ne et des amph&#x000E9;tamines</VernacularTitle>
+		<FirstPage>54</FirstPage>
+		<LastPage>69</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Catherine</FirstName>
+				<LastName>Feliu</LastName>
+				<Affiliation>Laboratoire de pharmacologie et toxicologie, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Aur&#x000E9;lie</FirstName>
+				<LastName>Fouley</LastName>
+				<Affiliation>Laboratoire de pharmacologie et toxicologie, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Herv&#x000E9;</FirstName>
+				<LastName>Millart</LastName>
+				<Affiliation>Laboratoire de pharmacologie et toxicologie, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Claire</FirstName>
+				<LastName>Gozalo</LastName>
+				<Affiliation>Laboratoire de pharmacologie et toxicologie, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">H&#x000E9;l&#x000E8;ne</FirstName>
+				<LastName>Marty</LastName>
+				<Affiliation>Laboratoire de pharmacologie et toxicologie, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Zoubir</FirstName>
+				<LastName>Djerada</LastName>
+				<Affiliation>Laboratoire de pharmacologie et toxicologie, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1009</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1009</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>In several circumstances, determination and quantification of illicit drugs in biological fluids are determinant. Contexts are varied such as driving under influence, traffic accident, clinical and forensic toxicology, doping analysis, chemical submission. Whole blood is the favoured matrix for the quantification of illicit drugs. Gas chromatography coupled with mass spectrometry (GC-MS) is the gold standard for these analyses. All methods developed must be at least equivalent to gas chromatography coupled with a mass spectrometer. Nowadays, new technologies are available to biologists and clinicians: liquid chromatography coupled with a mass spectrometry (LC/MS) or coupled with a tandem mass spectrometer (LC/MS/MS). The aim of this paper is to describe the state of the art regarding techniques of confirmation by mass spectrometry used for quantification of conventional drugs except cannabis.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">drug abuse</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">blood</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">liquid chromatography</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">gas chromatography</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">mass spectrometry</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Mass spectrometry for steroid assays</ArticleTitle>
+		<VernacularTitle>Dosages des st&#x000E9;ro&#x000EF;des par spectrom&#x000E9;trie de masse</VernacularTitle>
+		<FirstPage>70</FirstPage>
+		<LastPage>78</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Diane</FirstName>
+				<LastName>Dufour-Rainfray</LastName>
+				<Affiliation>Laboratoire de m&#x000E9;decine nucl&#x000E9;aire, CHRU de Tours, Tours, France, Universit&#x000E9; Fran&#x000E7;ois Rabelais de Tours, Tours, France, Inserm, U930, Imagerie et cerveau, Tours, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Val&#x000E9;rie</FirstName>
+				<LastName>Moal</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHRU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lucie</FirstName>
+				<LastName>Cloix</LastName>
+				<Affiliation>Unit&#x000E9; d&#x02019;endocrinologie, nutrition et diab&#x000E9;tologie, M&#x000E9;decine interne, CHRU de Tours, Tours, France, Universit&#x000E9; Fran&#x000E7;ois Rabelais de Tours, Tours, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Elisabeth</FirstName>
+				<LastName>Mathieu</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHRU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Anne-Sophie</FirstName>
+				<LastName>Gauchez</LastName>
+				<Affiliation>P&#x000F4;le de biologie, Plateforme de radioactivit&#x000E9;, CHRU de Grenoble, Grenoble, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Julie</FirstName>
+				<LastName>Brossaud</LastName>
+				<Affiliation>Laboratoire hormonologie-marqueurs tumoraux, Service de m&#x000E9;decine nucl&#x000E9;aire, CHU de Bordeaux, Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Beno&#x000EE;t</FirstName>
+				<LastName>Corcuff</LastName>
+				<Affiliation>Laboratoire hormonologie-marqueurs tumoraux, Service de m&#x000E9;decine nucl&#x000E9;aire, CHU de Bordeaux, Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fran&#x000E7;ois</FirstName>
+				<LastName>Fraissinet</LastName>
+				<Affiliation>Laboratoire de biochimie, CHU de Poitiers, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Christine</FirstName>
+				<LastName>Collet</LastName>
+				<Affiliation>Laboratoire de m&#x000E9;decine nucl&#x000E9;aire, CHRU de Tours, Tours, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Florence</FirstName>
+				<LastName>Boux de Casson</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHRU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Denis</FirstName>
+				<LastName>Guilloteau</LastName>
+				<Affiliation>Laboratoire de m&#x000E9;decine nucl&#x000E9;aire, CHRU de Tours, Tours, France, Universit&#x000E9; Fran&#x000E7;ois Rabelais de Tours, Tours, France, Inserm, U930, Imagerie et cerveau, Tours, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Patrick</FirstName>
+				<LastName>Emond</LastName>
+				<Affiliation>Laboratoire de m&#x000E9;decine nucl&#x000E9;aire, CHRU de Tours, Tours, France, Universit&#x000E9; Fran&#x000E7;ois Rabelais de Tours, Tours, France, Inserm, U930, Imagerie et cerveau, Tours, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Pascal</FirstName>
+				<LastName>Reynier</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHRU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.0988</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.0988</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Steroid hormone measurement, first developed with radioimmunoassay, is now becoming easier with the use of automated platforms of immunoassay. However, some hormones remain uneasily detectable because of their low blood concentration, their structural homology or the presence of interferences. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) can be considered as an alternative to immunoassays. This approach allows the simultaneous determination of several parameters thanks to its selectivity led by the detector mass spectrometer and the separate dimension of chromatography liquid. In addition, recourse to UHPLC (ultra high performance liquid chromatography) allows improving selectivity and sensitivity while limiting the samples volumes. The &#x0201C;ready-to-use&#x0201D; kits are now available and added to the &#x0201C;homemade&#x0201D; techniques developed by laboratories, thus giving opportunity for measurement of a wide steroid panel with only one sample. Finally, mass spectrometry methods, including a prior extraction step, allow the use of varied biological fluids (blood, urine, saliva&#x02026;). Also, several clinical indications could gain from mass spectrometry, especially when hormone levels are low, when several steroids have to be identified, when the sample volume is low. However, this technology represents an important financial investment and in-depth staff training. In addition, some steroids are not easily quantifiable by mass spectrometry. It is likely by immunoassay and mass spectrometry, well-matched technologies, that we could answer the best to clinical questions about steroids.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">LC-MS/MS</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">cortisol</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">11-deoxycortisol</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">17-hydroxyprogesterone</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">testosterone</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Vitamin D measurement: pre-analytical and analytical considerations</ArticleTitle>
+		<VernacularTitle>Le dosage de la vitamine D&#x000A0;: consid&#x000E9;rations pr&#x000E9;-analytiques et analytiques</VernacularTitle>
+		<FirstPage>79</FirstPage>
+		<LastPage>92</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Caroline</FirstName>
+				<LastName>Le Goff</LastName>
+				<Affiliation>Service de chimie clinique, CHU de Li&#x000E8;ge, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Claude</FirstName>
+				<LastName>Souberbielle</LastName>
+				<Affiliation>Service des explorations fonctionnelles, H&#x000F4;pital Necker-Enfants malades, Assistance Publique-H&#x000F4;pitaux de Paris (AP-HP), Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Edgard</FirstName>
+				<LastName>Delvin</LastName>
+				<Affiliation>Centre de recherche, CHU Sainte-Justine, Montr&#x000E9;al, Canada</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">&#x000C9;tienne</FirstName>
+				<LastName>Cavalier</LastName>
+				<Affiliation>Service de chimie clinique, CHU de Li&#x000E8;ge, Belgique</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1002</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1002</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>The constantly increasing requests for the measurement of serum 25-hydroxyvitamin D over the last years has led reagent manufacturers to market different automated and semi-automated methods, that being unfortunately not fully harmonized, yield different results. Liquid chromatography coupled to tandem mass spectrometry has more recently been introduced. This approach allows the distinction between the two forms of 25-hydroxyvitamin D and to measure other metabolites. This approach also requires harmonization to curtail the differences between the different analytical methods. To meet this requirement, the American national institutes of health (NIH), the CDC (Center for disease control and prevention) in Atlanta, the NIST (National institute of standards and technology) and the vitamin D Reference laboratory of Ghent University have pooled their expertise to develop a standardization program. This article reviews the main elements and the difficulties of the automated and semi-automated methods for 25-hydroxyvitamin D, from sample preparation to the analytical phase, as well as those related to mass spectrometry. It also addresses the issues related to the clinical decision thresholds and the possibility of measurements in different biological liquids.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">vitamin D</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">cholecalciferol</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">ergocalciferol</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">25(OH)D</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">mass spectrometry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">immunoassay</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Mass spectrometry and inherited metabolic diseases diagnosis</ArticleTitle>
+		<VernacularTitle>Spectrom&#x000E9;trie de masse et diagnostic des maladies h&#x000E9;r&#x000E9;ditaires du m&#x000E9;tabolisme</VernacularTitle>
+		<FirstPage>93</FirstPage>
+		<LastPage>106</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Gilbert</FirstName>
+				<LastName>Briand</LastName>
+				<Affiliation>UF m&#x000E9;tabolisme g&#x000E9;n&#x000E9;ral, hormonal et maladies rares, Laboratoire de biochimie et biologie mol&#x000E9;culaire, Centre de biologie pathologie, CHRU de Lille, Lille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">St&#x000E9;phanie</FirstName>
+				<LastName>Lemaire-Ewing</LastName>
+				<Affiliation>Laboratoire de biochimie sp&#x000E9;cialis&#x000E9;e, CHU de Dijon, Dijon, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fabienne</FirstName>
+				<LastName>Parente</LastName>
+				<Affiliation>Division de biochimie, H&#x000F4;pital de Montr&#x000E9;al pour enfants, Centre universitaire de sant&#x000E9; McGill (CUSM), Montr&#x000E9;al, Qu&#x000E9;bec, Canada</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Roselyne</FirstName>
+				<LastName>Garnotel</LastName>
+				<Affiliation>Laboratoire de biologie et de recherche p&#x000E9;diatriques, American memorial hospital, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1022</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1022</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Tandem mass spectrometry is used for the diagnosis and following of metabolic disorders for acylcarnitine profiling and with liquide chromatography to explore creatin metabolism and amino and bile acids disorders. The analysis of organic acids by GC-MS is still the reference method for the diagnosis of inherited disorders of organiques acides and sterols. These techniques are also used to perform &#x0201C;in vitro&#x0201D; functional tests.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">inherited metabolic diseases</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">tandem mass spectrometry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">gas chromatography-mass spectrometry</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Mass spectrometry and neonatal screening</ArticleTitle>
+		<VernacularTitle>Spectrom&#x000E9;trie de masse et d&#x000E9;pistage n&#x000E9;onatal</VernacularTitle>
+		<FirstPage>107</FirstPage>
+		<LastPage>111</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Roselyne</FirstName>
+				<LastName>Garnotel</LastName>
+				<Affiliation>Laboratoire de biologie et de recherche p&#x000E9;diatriques, American Memorial Hospital, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1021</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1021</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Tandem mass spectrometry allows to screen many inherited metabolic diseases within a single blood spot. It is possible to screen newborns for amino and organic acid, fatty acid oxidation disorders and lysosomal diseases. Tandem mass spectrometry neonatal screening is not yet realized in France in 2014.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">neonatal screening</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">tandem mass spectrometry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">inherited metabolic disease</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Mass spectrometry in bacteriology</ArticleTitle>
+		<VernacularTitle>Place de la spectrom&#x000E9;trie de masse en bact&#x000E9;riologie</VernacularTitle>
+		<FirstPage>113</FirstPage>
+		<LastPage>125</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Philippe</FirstName>
+				<LastName>Lavigne</LastName>
+				<Affiliation>Inserm, U1047, UFR de m&#x000E9;decine, Universit&#x000E9; de Montpellier 1, N&#x000EE;mes, France, Service de microbiologie, CHU Car&#x000E9;meau, N&#x000EE;mes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Philippe</FirstName>
+				<LastName>Riegel</LastName>
+				<Affiliation>Laboratoire de bact&#x000E9;riologie, H&#x000F4;pitaux universitaires de Strasbourg, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.0991</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.0991</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Recently, different bacteriological laboratory interventions that decrease reporting time have been developed. These promising new broad-based techniques have merit, based on their ability to identify rapidly many bacteria, organisms difficult to grow or newly emerging strains, as well as their capacity to track disease transmission. Maldi-TOF MS has been proven to be an accurate and reliable method for organism identification including bacteria, yeast, molds, and mycobacteria. It is rapid, with results often 24 hours earlier than traditional methods, and inexpensive. The range of applications of Maldi-TOF MS has been growing constantly, from rapid species identification to labor-intensive proteomic studies of bacterial physiology (bacterial resistance and virulence). The purpose of this review is to present the different solutions commercialized in France, summarize the place of this technology in microbiology lab and to analyze future perspectives in this field.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">mass spectrometry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Maldi-TOF MS</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">PCR/ESI-MS</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">iPlex MassArray</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">clinical microbiology</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Metabolome and mass spectrometry: new biomedical analysis perspectives</ArticleTitle>
+		<VernacularTitle>M&#x000E9;tabolomique et spectrom&#x000E9;trie de masse&#x000A0;: de nouvelles perspectives en analyse biom&#x000E9;dicale</VernacularTitle>
+		<FirstPage>126</FirstPage>
+		<LastPage>130</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Juan Manuel</FirstName>
+				<LastName>Chao De La Barca</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Delphine</FirstName>
+				<LastName>Mirebeau-Prunier</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Val&#x000E9;rie</FirstName>
+				<LastName>Moal</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Pascal</FirstName>
+				<LastName>Reynier</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Roselyne</FirstName>
+				<LastName>Garnotel</LastName>
+				<Affiliation>Laboratoire de biologie et de recherche p&#x000E9;diatriques, American Memorial Hospital, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Gilles</FirstName>
+				<LastName>Simard</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie et g&#x000E9;n&#x000E9;tique, CHU d&#x02019;Angers, Angers, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1020</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1020</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Metabolomics is defined as an integrative approach consisting in the comprehensive analysis of all of the small molecules of a biological system (the &#x0201C;metabolome&#x0201D;). The main objective of metabolomics in medecine is to discover metabolic biomarkers for diseases. Mass spectrometry (MS) coupled to liquid or gas chromatography is amongst major analytical tools used in metabolomics. However, the holistic approach used in metabolomics requires very good performances of the analytical system (chromatographic column and MS equipment) and the use of non-conventional validation strategies. Metabolomics workflow can be divided in three main steps: sample preparation, MS data acquisition and processing, and statistical analysis. Processing of the &#x0201C;raw&#x0201D; data (obtained after MS acquisition) is mostly required to normalise chromatographic conditions and to carry out accurate quantification of MS features. Features resulting from this processing may be identified later. The statistical analyses include typically multivariate techniques such as supervised and non-supervised methods. Supervised methods make use of the response variable (e.g., case/control) for model construction while non-supervised methods do not use this piece of information. When the study is focused on a particular set of metabolites, targeted metabolomics could be an interesting alternative to the holistic approach since it may allow absolute quantitation and be associated with a reduced cost.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">metabolomics</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">metabolome</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">mass spectrometry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">statistical methods</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+
+</ArticleSet>

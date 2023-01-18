@@ -1,0 +1,929 @@
+<?xml version="1.0"?><!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd"><ArticleSet>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786417</Replaces>
+		<ArticleTitle>Medical education and tranining in geriatrics: the challenge for the future</ArticleTitle>
+		<VernacularTitle>&#x000C9;ducation et formation en m&#x000E9;decine g&#x000E9;riatrique en Europe&#x000A0;: le challenge du futur</VernacularTitle>
+		<FirstPage>5</FirstPage>
+		<LastPage>7</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Jean</FirstName>
+				<LastName>Petermans</LastName>
+				<Affiliation>Universit&#x000E9; et CHU de Li&#x000E8;ge, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Regina Elisabeth</FirstName>
+				<LastName>Roller</LastName>
+				<Affiliation>Universit&#x000E9; de Graz, Autriche</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">au</FirstName>
+				<LastName>nom du Groupe d&#x02019;int&#x000E9;r&#x000EA;t sp&#x000E9;cifique (SIG) de formation et &#x000E9;ducation de la Soci&#x000E9;t&#x000E9; europ&#x000E9;enne de g&#x000E9;riatrie (EUGMS)</LastName>
+				<Affiliation>Universit&#x000E9; et CHU de Li&#x000E8;ge, Belgique, Universit&#x000E9; de Graz, Autriche</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0527</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0527</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786418</Replaces>
+		<ArticleTitle>Pulmonary hypertension in the elderly</ArticleTitle>
+		<VernacularTitle>Hypertension pulmonaire chez la personne &#x000E2;g&#x000E9;e</VernacularTitle>
+		<FirstPage>8</FirstPage>
+		<LastPage>14</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Laurent</FirstName>
+				<LastName>Bertoletti</LastName>
+				<Affiliation>Groupe de recherche sur la thrombose (EA3065), Universit&#x000E9; Saint-&#x000C9;tienne, Jean Monet, Saint-&#x000C9;tienne, France, Inserm, CIE3, Saint-&#x000C9;tienne, France, M&#x000E9;decine vasculaire et th&#x000E9;rapeutique, Centre de comp&#x000E9;tences Rh&#x000F4;ne-Alpes d&#x02019;hypertension pulmonaire, CHU Saint-&#x000C9;tienne, H&#x000F4;pital Nord, Saint-&#x000C9;tienne, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ga&#x000EB;lle</FirstName>
+				<LastName>Bertoletti</LastName>
+				<Affiliation>G&#x000E9;rontologie clinique, La Charit&#x000E9;, CHU Saint-&#x000C9;tienne, Saint-&#x000C9;tienne, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">&#x000C9;lodie</FirstName>
+				<LastName>De Magalhaes</LastName>
+				<Affiliation>Inserm, CIE3, Saint-&#x000C9;tienne, France, M&#x000E9;decine vasculaire et th&#x000E9;rapeutique, Centre de comp&#x000E9;tences Rh&#x000F4;ne-Alpes d&#x02019;hypertension pulmonaire, CHU Saint-&#x000C9;tienne, H&#x000F4;pital Nord, Saint-&#x000C9;tienne, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Adel</FirstName>
+				<LastName>Merah</LastName>
+				<Affiliation>Inserm, CIE3, Saint-&#x000C9;tienne, France, M&#x000E9;decine vasculaire et th&#x000E9;rapeutique, Centre de comp&#x000E9;tences Rh&#x000F4;ne-Alpes d&#x02019;hypertension pulmonaire, CHU Saint-&#x000C9;tienne, H&#x000F4;pital Nord, Saint-&#x000C9;tienne, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Baptiste</FirstName>
+				<LastName>Gaultier</LastName>
+				<Affiliation>M&#x000E9;decine interne, H&#x000F4;pital Nord, CHU Saint-&#x000C9;tienne, Saint-&#x000C9;tienne, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alexie</FirstName>
+				<LastName>Gate-Martinet</LastName>
+				<Affiliation>Cardiologie, H&#x000F4;pital Nord, CHU Saint-&#x000C9;tienne, Saint-&#x000C9;tienne, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Thomas</FirstName>
+				<LastName>Celarier</LastName>
+				<Affiliation>G&#x000E9;rontologie clinique, La Charit&#x000E9;, CHU Saint-&#x000C9;tienne, Saint-&#x000C9;tienne, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">David</FirstName>
+				<LastName>Montani</LastName>
+				<Affiliation>Service de pneumologie et soins intensifs thoraciques, Centre de r&#x000E9;f&#x000E9;rence de l&#x02019;hypertension pulmonaire s&#x000E9;v&#x000E8;re, H&#x000F4;pital de Bic&#x000EA;tre, Assistance Publique H&#x000F4;pitaux de Paris, Le Kremlin-Bic&#x000EA;tre, France, Inserm U999, Universit&#x000E9; Paris Sud, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">&#x000C9;milie</FirstName>
+				<LastName>Crawford-Achour</LastName>
+				<Affiliation>G&#x000E9;rontologie clinique, La Charit&#x000E9;, CHU Saint-&#x000C9;tienne, Saint-&#x000C9;tienne, France, SNA-EPIS (EA 4607), Universit&#x000E9; Saint-&#x000C9;tienne, Jean Monet, Saint-&#x000C9;tienne, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0526</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0526</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>In the past decade, a significant improvement has been done in the management of pulmonary arterial hypertension, a devastating disease. Beside the aging population, one of the next challenges is to develop a specific management of a pulmonary hypertension&#x00027;s suspicion, in the aged patients. In fact, recent data have shown that if pulmonary hypertension were mostly related to chronic heart or lung failure, or pulmonary embolism, some elderly may in fact develop a real pulmonary arterial hypertension. Because of the potential therapies which may be proposed, the evaluation of a pulmonary hypertension&#x00027;s suspicion in the elderly needs a stringent evaluation by trained physicians, in collaboration with geriatricians.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">aged</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">cardiac failure</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">respiratory failure</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">pulmonary hypertension</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">pulmonary embolism</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786419</Replaces>
+		<ArticleTitle>Appropriateness of direct admissions to acute care geriatric unit for nursing home patients: an adaptation of the AEPf GRID</ArticleTitle>
+		<VernacularTitle>Pertinence des admissions en court s&#x000E9;jour g&#x000E9;riatrique de patients r&#x000E9;sidant en Ehpad&#x000A0;: adaptation de la grille AEPf</VernacularTitle>
+		<FirstPage>15</FirstPage>
+		<LastPage>21</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Dalia</FirstName>
+				<LastName>Abdoulhadi</LastName>
+				<Affiliation>P&#x000F4;le hospitalo-universitaire de g&#x000E9;rontologie clinique, CHU de Nantes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Pascal</FirstName>
+				<LastName>Chevalet</LastName>
+				<Affiliation>P&#x000F4;le hospitalo-universitaire de g&#x000E9;rontologie clinique, CHU de Nantes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Leila</FirstName>
+				<LastName>Moret</LastName>
+				<Affiliation>Service d&#x02019;&#x000E9;valuation m&#x000E9;dicale et d&#x02019;&#x000E9;pid&#x000E9;miologie, P&#x000F4;le sant&#x000E9; publique et sant&#x000E9; au travail, CHU de Nantes, France, et EA4275-Sphere, Biostatistiques, pharmaco-&#x000E9;pid&#x000E9;miologie et mesures subjectives en sant&#x000E9;, facult&#x000E9; de pharmacie, Nantes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marie-H&#x000E9;l&#x000E8;ne</FirstName>
+				<LastName>Fix</LastName>
+				<Affiliation>P&#x000F4;le hospitalo-universitaire de g&#x000E9;rontologie clinique, CHU de Nantes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marine</FirstName>
+				<LastName>G&#x000E9;gu</LastName>
+				<Affiliation>P&#x000F4;le hospitalo-universitaire de g&#x000E9;rontologie clinique, CHU de Nantes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Philippe</FirstName>
+				<LastName>Jaulin</LastName>
+				<Affiliation>Unit&#x000E9; de g&#x000E9;ronto-psychiatrie, CHU de Nantes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Gilles</FirstName>
+				<LastName>Berrut</LastName>
+				<Affiliation>P&#x000F4;le hospitalo-universitaire de g&#x000E9;rontologie clinique, CHU de Nantes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Laure</FirstName>
+				<LastName>de Decker</LastName>
+				<Affiliation>P&#x000F4;le hospitalo-universitaire de g&#x000E9;rontologie clinique, CHU de Nantes, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0522</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0522</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>The patient population staying in nursing homes is increasingly vulnerable and dependent and should benefit from a direct access to an acute care geriatric unit. Nevertheless, the easy access by a simple phone call from the general practitioner to the geriatrician, as well as the lack of orientation of these patients by emergency units, might lead to inappropriate admissions. This work studied the appropriateness of direct admissions of 40 patients living in nursing home in an acute care geriatric unit. Based on the AEPf assessment grid, 82.5% of these admissions were considered as appropriate (52.5%) or justified (30% based on an expert panel decision), and 17.5% were inappropriate. In conclusion, the process of direct admission does not seem to increase the rate of inappropriate admissions. Some actions could decrease this rate: implementation of geriatric mobile teams or psychogeriatric mobile teams intervening in nursing home, a better and more adapted use of ambulatory structures, a better information to the general practitioners. In order to reduce the intervention of the panel of experts, an adaptation of the AEPf assessment grid to these geriatric patients has been proposed. The &#x000AB;AEPg&#x000BB; assessment grid should benefit from a validation study.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">appropriateness of admission</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">appropriateness evaluation protocol</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">elderly</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">nursing home</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">acute care geriatric unit</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786420</Replaces>
+		<ArticleTitle>The fight against malnutrition in older adults: new aproaches in dentistry</ArticleTitle>
+		<VernacularTitle>Lutte contre la d&#x000E9;nutrition des personnes &#x000E2;g&#x000E9;es d&#x000E9;pendantes&#x000A0;: nouvelles approches en odontologie</VernacularTitle>
+		<FirstPage>22</FirstPage>
+		<LastPage>30</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Isabelle</FirstName>
+				<LastName>Pr&#x000EA;cheur</LastName>
+				<Affiliation>Laboratoire microbiologie orale, immunoth&#x000E9;rapie et sant&#x000E9; (Micoralis), UFR odontologie, Universit&#x000E9; Nice Sophia Antipolis, Nice, France, P&#x000F4;le odontologie, CHU de Nice, Nice, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marl&#x000E8;ne</FirstName>
+				<LastName>Chevalier</LastName>
+				<Affiliation>Laboratoire microbiologie orale, immunoth&#x000E9;rapie et sant&#x000E9; (Micoralis), UFR odontologie, Universit&#x000E9; Nice Sophia Antipolis, Nice, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0515</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0515</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>A minimal oral treatment aiming a clean and comfortable mouth could be very helpful in malnutrition control of dependent elderly persons. In such a case, it is necessary and generally it is enough to perform dental scaling and/or extractions with anxiolytic premedication (oral or rectal diazepam). Most of times, such minimal dental care can be performed at bedside, avoiding patient&#x00027;s stress and displacement to a dental surgery. The nursing staff can reassure the residents and their families on the absence of dentures, because saliva would be even more important than teeth. Actually, there is a tight relation between oral health, saliva, drugs, food texture and nutritional state of person. The notion of saliva includes two important criteria: 1) saliva-bacteria in the saliva, 2) fluid saliva-oral biofilm covering mucous membranes. All factors which change saliva secretion or inhibit oral bacteria community may lead to malnutrition. Several studies performed in hospital geriatric wards and in retirement homes allowed us to identify the following iatrogenic causes for malnutrition: 1) inappropriate preservation of teeth or dentures which may lead to oral reservoir (Candida albicans yeast-hyphal transition, antibiotic resistance genes transfer); 2) excessive uses of antiseptic mouthwashes for oral hygiene (leading to oral biofilm inhibition which is a cause of xerostomia); 3) drugs crushed in food (alteration of food taste and alteration of the oral biofilm); 4) exclusive recourse to a soft or mixed texture of food (alternative solutions exist, such as texture-adapted protein rich cookies). All these iatrogenic practices raise the possibility of formation of thick microbial communities in the mouth. This would explain why, despite attentive oral care, most of nurses and nurse&#x00027;s aides feel that in retirement homes the oral hygiene of the many residents is insufficient.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">biofilm</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">elderly adults</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">malnutrition</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">oral care</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">oral nutritional supplement</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786421</Replaces>
+		<ArticleTitle>Representation and practice about &#x000AB;chimical restraints&#x000BB;: qualitative study with 50 health worker</ArticleTitle>
+		<VernacularTitle>Interpr&#x000E9;tation et pratiques autour du terme &#x000AB;&#x000A0;contention chimique&#x000A0;&#x000BB;&#x000A0;: &#x000E9;tude qualitative aupr&#x000E8;s de 50&#x000A0;professionnels de sant&#x000E9;</VernacularTitle>
+		<FirstPage>31</FirstPage>
+		<LastPage>35</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Brice</FirstName>
+				<LastName>Colombier</LastName>
+				<Affiliation>Soins de suite et de r&#x000E9;adaptation g&#x000E9;riatrique, H&#x000F4;pital Sainte P&#x000E9;rine, H&#x000F4;pitaux universitaires Paris &#x000CE;le de France Ouest, AP-HP</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sophie</FirstName>
+				<LastName>Moulias</LastName>
+				<Affiliation>Unit&#x000E9; de court s&#x000E9;jour g&#x000E9;riatrique, H&#x000F4;pital Ambroise Par&#x000E9;, H&#x000F4;pitaux universitaires Paris &#x000CE;le de France Ouest, AP-HP, Universit&#x000E9; de Versailles Saint Quentin, Laboratoire d&#x02019;&#x000E9;thique m&#x000E9;dicale, Universit&#x000E9; Paris Descartes</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Niccolo</FirstName>
+				<LastName>Curatolo</LastName>
+				<Affiliation>Unit&#x000E9; de court s&#x000E9;jour g&#x000E9;riatrique, H&#x000F4;pital Ambroise Par&#x000E9;, H&#x000F4;pitaux universitaires Paris &#x000CE;le de France Ouest, AP-HP, Universit&#x000E9; de Versailles Saint Quentin</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Tristan</FirstName>
+				<LastName>Cudennec</LastName>
+				<Affiliation>Unit&#x000E9; de court s&#x000E9;jour g&#x000E9;riatrique, H&#x000F4;pital Ambroise Par&#x000E9;, H&#x000F4;pitaux universitaires Paris &#x000CE;le de France Ouest, AP-HP, Universit&#x000E9; de Versailles Saint Quentin</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Florence</FirstName>
+				<LastName>Muller</LastName>
+				<Affiliation>Soins de suite et de r&#x000E9;adaptation g&#x000E9;riatrique, H&#x000F4;pital Sainte P&#x000E9;rine, H&#x000F4;pitaux universitaires Paris &#x000CE;le de France Ouest, AP-HP</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Delphine</FirstName>
+				<LastName>Preulier</LastName>
+				<Affiliation>Soins de suite et de r&#x000E9;adaptation g&#x000E9;riatrique, H&#x000F4;pital Sainte P&#x000E9;rine, H&#x000F4;pitaux universitaires Paris &#x000CE;le de France Ouest, AP-HP</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Laurent</FirstName>
+				<LastName>Teillet</LastName>
+				<Affiliation>Soins de suite et de r&#x000E9;adaptation g&#x000E9;riatrique, H&#x000F4;pital Sainte P&#x000E9;rine, H&#x000F4;pitaux universitaires Paris &#x000CE;le de France Ouest, AP-HP, Unit&#x000E9; de court s&#x000E9;jour g&#x000E9;riatrique, H&#x000F4;pital Ambroise Par&#x000E9;, H&#x000F4;pitaux universitaires Paris &#x000CE;le de France Ouest, AP-HP, Universit&#x000E9; de Versailles Saint Quentin</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0521</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0521</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>The term &#x000AB;&#x000A0;chemical restraints&#x000A0;&#x000BB; seems to be used in medical practice, but do not have the same meaning for all French health care professionals. In available literature it is considered as use of psychotropic medications for behavioral disorders. We used qualitative research method based on semi-directive interviews, in order to better understand meaning of &#x000AB;&#x000A0;chemical restraint&#x000A0;&#x000BB; term for geriatric medical and paramedical personnel. This term is well understood, rarely used, wrong for some professional because &#x000AB;&#x000A0;drugs do not hold&#x000A0;&#x000BB;. The term of &#x000AB;&#x000A0;physical restraint&#x000A0;&#x000BB; has a more tangible reality. The term of &#x000AB;&#x000A0;sedation of psychocomportemental troubles&#x000A0;&#x000BB; is more common and seems to have a less pejorative connotation. In practice chemical restraint may correspond to emergency use of benzodiazepines or neuroleptics by injection at doses leading to the patient&#x00027;s sedation without his consent.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">chemical restraints</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">major/minor tranquilisers</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">neuroleptic</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">benzodiazepine</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">control behavior</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786422</Replaces>
+		<ArticleTitle>Cost evaluation of hospital inpatient stays induced by injuries due to falls for elderly people</ArticleTitle>
+		<VernacularTitle>&#x000C9;valuation &#x000E9;conomique des l&#x000E9;sions associ&#x000E9;es aux chutes des personnes &#x000E2;g&#x000E9;es vivant &#x000E0; domicile</VernacularTitle>
+		<FirstPage>36</FirstPage>
+		<LastPage>44</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Lionel</FirstName>
+				<LastName>Di Pierdomenico</LastName>
+				<Affiliation>Centre de recherche en &#x000E9;conomie de la sant&#x000E9;, gestion des institutions de soins et sciences infirmi&#x000E8;res, &#x000C9;cole de sant&#x000E9; publique, Universit&#x000E9; libre de Bruxelles, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ines</FirstName>
+				<LastName>Uwiteka</LastName>
+				<Affiliation>Centre de recherche en &#x000E9;conomie de la sant&#x000E9;, gestion des institutions de soins et sciences infirmi&#x000E8;res, &#x000C9;cole de sant&#x000E9; publique, Universit&#x000E9; libre de Bruxelles, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Christelle</FirstName>
+				<LastName>Senterre</LastName>
+				<Affiliation>Centre de recherche en &#x000E9;pid&#x000E9;miologie, biostatistiques et recherche clinique, &#x000C9;cole de sant&#x000E9; publique, Universit&#x000E9; libre de Bruxelles, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Pol</FirstName>
+				<LastName>Leclercq</LastName>
+				<Affiliation>Centre de recherche en &#x000E9;conomie de la sant&#x000E9;, gestion des institutions de soins et sciences infirmi&#x000E8;res, &#x000C9;cole de sant&#x000E9; publique, Universit&#x000E9; libre de Bruxelles, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">&#x000C9;lise</FirstName>
+				<LastName>Mendes Da Costa</LastName>
+				<Affiliation>Centre de recherche en &#x000E9;pid&#x000E9;miologie, biostatistiques et recherche clinique, &#x000C9;cole de sant&#x000E9; publique, Universit&#x000E9; libre de Bruxelles, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Thierry</FirstName>
+				<LastName>Pepersack</LastName>
+				<Affiliation>Service de g&#x000E9;riatrie, CHU St Pierre Bruxelles, Universit&#x000E9; libre de Bruxelles, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Magali</FirstName>
+				<LastName>Pirson</LastName>
+				<Affiliation>Centre de recherche en &#x000E9;conomie de la sant&#x000E9;, gestion des institutions de soins et sciences infirmi&#x000E8;res, &#x000C9;cole de sant&#x000E9; publique, Universit&#x000E9; libre de Bruxelles, Belgique</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2014.0509</ArticleId><ArticleId IdType="doi">10.1684/pnv.2014.0509</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Thirty percent of people aged 65 and older, living at home fall at least once a year. Few economic data are available in Belgium on this issue. We evaluated the cost borne by social security. 823 inpatient stays aged 65 and more, from home and admitted for injuries after a fall were selected. We observe an average (SD) age of 81 years. The proportion of women is 76%. 75% of admissions are related to fractures. 18% of patients are &#x02019;institutionalized&#x02019; after falls. The death rate is 6%. The median (Q1-Q3) of cost is &#x020AC; 4.182 (2.385-6.820), for a length of stay median (Q1-Q3) of 11 days (4-25). The cost of hospital stays is estimated at &#x020AC;135&#x000A0;millions. Based on population projections, the cost could be estimated at &#x020AC; 243&#x000A0;millions in 2050. The overall cost of the treatment of these lesions is much more important, because costs are also generated after the hospitalization.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">cost</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">fall</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">elderly</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">inpatient stay</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786423</Replaces>
+		<ArticleTitle>Quality of life of elderly people on oral anticoagulant for atrial fibrillation: VKA versus direct oral anticoagulants</ArticleTitle>
+		<VernacularTitle>&#x000C9;valuation de la qualit&#x000E9; de vie des patients &#x000E2;g&#x000E9;s en fibrillation atriale sous anticoagulants au long cours&#x000A0;: antivitamine K versus anticoagulants oraux directs</VernacularTitle>
+		<FirstPage>45</FirstPage>
+		<LastPage>54</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Sarah</FirstName>
+				<LastName>Fareau</LastName>
+				<Affiliation>P&#x000F4;le de g&#x000E9;riatrie polyvalente, Centre g&#x000E9;rontologique d&#x000E9;partemental, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Karine</FirstName>
+				<LastName>Baumstarck</LastName>
+				<Affiliation>EA 3279 &#x000AB;&#x000A0;Qualit&#x000E9; de vie concepts, usages et limites, d&#x000E9;terminants&#x000A0;&#x000BB;, Aix-Marseille Universit&#x000E9;, France&#x000A0;; Facult&#x000E9; de m&#x000E9;decine, Marseille, France, Unit&#x000E9; d&#x02019;aide m&#x000E9;thodologique &#x000E0; la recherche clinique, Assistance Publique-H&#x000F4;pitaux de Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ana&#x000EF;s</FirstName>
+				<LastName>Farcet</LastName>
+				<Affiliation>P&#x000F4;le de g&#x000E9;riatrie polyvalente, Centre g&#x000E9;rontologique d&#x000E9;partemental, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Catherine</FirstName>
+				<LastName>Molines</LastName>
+				<Affiliation>P&#x000F4;le de g&#x000E9;riatrie polyvalente, Centre g&#x000E9;rontologique d&#x000E9;partemental, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Pascal</FirstName>
+				<LastName>Auquier</LastName>
+				<Affiliation>EA 3279 &#x000AB;&#x000A0;Qualit&#x000E9; de vie concepts, usages et limites, d&#x000E9;terminants&#x000A0;&#x000BB;, Aix-Marseille Universit&#x000E9;, France&#x000A0;; Facult&#x000E9; de m&#x000E9;decine, Marseille, France, Unit&#x000E9; d&#x02019;aide m&#x000E9;thodologique &#x000E0; la recherche clinique, Assistance Publique-H&#x000F4;pitaux de Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fr&#x000E9;d&#x000E9;rique</FirstName>
+				<LastName>Retornaz</LastName>
+				<Affiliation>P&#x000F4;le de g&#x000E9;riatrie polyvalente, Centre g&#x000E9;rontologique d&#x000E9;partemental, Marseille, France, Unit&#x000E9; d&#x02019;aide m&#x000E9;thodologique &#x000E0; la recherche clinique, Assistance Publique-H&#x000F4;pitaux de Marseille, France, Unit&#x000E9; de soins et de recherche en m&#x000E9;decine interne et maladies infectieuses, H&#x000F4;pital europ&#x000E9;en, Marseille, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0516</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0516</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Atrial fibrillation (AF) is the most common arrhythmia. Its prevalence increases with age and increases the risk of stroke and systemic embolism. Few data are currently available on the quality of life (QOL) of anticoagulated patients with the advent of direct oral anticoagulants (DOAC). Our study aims to describe levels of QOL in elderly patients with AF receiving oral anticoagulants and compare QOL of patients treated with vitamin K antagonists (VKA) and DOAC. This prospective study included patients of 65 years and over, receiving anticoagulants for AF (VKA or DOAC) from general practice (n=70) or cardiac practice (n=30). The patients completed a self-administered questionnaire that included demographic, geriatric data and a QOL standardized scale: the anti-clot treatment scale (ACTS) 17 items exploring two dimensions &#x0201C;Burdens&#x0201D; and &#x0201C;Benefits&#x0201D;. Eighty-nine patients were enrolled: 61 were taking VKA and 28 taking DOAC. Our two groups were comparable for all demographic and clinical characteristics studied. Our patients&#x02019; mean scores were 48.6&#x000B1;12.1 on Burdens and 9.7&#x000B1;3.8 on Benefits. Burdens and Benefits scores were significantly better for patients treated with DOAC compared to patients with VKA (p&#60;0.0001 and p&#60;0.01, respectively). Anticoagulation in the elderly should be encouraged given the high thrombotic risk of AF. No matter what kind of molecule is chosen if in accordance to good guidance. Patients treated with ACOD seem to have a better QOL, but these results should be confirmed through larger randomized studies.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">quality of life</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">atrial fibrillation</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">elderly</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">anti-clot treatment scale</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">oral anticoagulants</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786424</Replaces>
+		<ArticleTitle>Triage risk screening tool (TRST) in screening elderly patients requiring the intervention of a mobile geriatric team: results of a pilot study</ArticleTitle>
+		<VernacularTitle>&#x000C9;valuation du Triage risk screening tool (TRST) pour le d&#x000E9;pistage des personnes &#x000E2;g&#x000E9;es n&#x000E9;cessitant l&#x02019;intervention d&#x02019;une &#x000E9;quipe mobile de g&#x000E9;riatrie dans les &#x000E9;tablissements de sant&#x000E9;&#x000A0;: r&#x000E9;sultats d&#x02019;une &#x000E9;tude pilote</VernacularTitle>
+		<FirstPage>55</FirstPage>
+		<LastPage>62</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Sophie</FirstName>
+				<LastName>Duc</LastName>
+				<Affiliation>Equipe mobile de g&#x000E9;riatrie, P&#x000F4;le de g&#x000E9;rontologie clinique, CHU de Bordeaux, H&#x000F4;pital Xavier Arnozan, Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Catherine</FirstName>
+				<LastName>Fernandez</LastName>
+				<Affiliation>Equipe mobile de g&#x000E9;riatrie, CHRU de Strasbourg, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Bahman</FirstName>
+				<LastName>Moheb</LastName>
+				<Affiliation>Unit&#x000E9; mobile de g&#x000E9;riatrie intra-hospitali&#x000E8;re, Centre hospitalier Annecy Genevois, Annecy, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Van M&#x000F4;</FirstName>
+				<LastName>Dang</LastName>
+				<Affiliation>Unit&#x000E9; mobile de g&#x000E9;rontologie, Clinique de m&#x000E9;decine g&#x000E9;riatrique, CHU de Grenoble, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Frederic</FirstName>
+				<LastName>Bloch</LastName>
+				<Affiliation>Equipe mobile de g&#x000E9;riatrie, H&#x000F4;pital universitaire Broca, Universit&#x000E9; Ren&#x000E9; Descartes Paris V, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marie</FirstName>
+				<LastName>Floccia</LastName>
+				<Affiliation>Equipe mobile de g&#x000E9;riatrie, P&#x000F4;le de g&#x000E9;rontologie clinique, CHU de Bordeaux, H&#x000F4;pital Xavier Arnozan, Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marie-Neige</FirstName>
+				<LastName>Videau</LastName>
+				<Affiliation>Equipe mobile de g&#x000E9;riatrie, P&#x000F4;le de g&#x000E9;rontologie clinique, CHU de Bordeaux, H&#x000F4;pital Xavier Arnozan, Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sandrine</FirstName>
+				<LastName>Tournier Louvel</LastName>
+				<Affiliation>Centre hospitalier Edmond Garcin, Aubagne, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Laure</FirstName>
+				<LastName>Ducastaing</LastName>
+				<Affiliation>Unit&#x000E9; mobile de g&#x000E9;riatrie, CHRU Brest, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Pascal</FirstName>
+				<LastName>Couturier</LastName>
+				<Affiliation>Unit&#x000E9; mobile de g&#x000E9;rontologie, Clinique de m&#x000E9;decine g&#x000E9;riatrique, CHU de Grenoble, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Nathalie</FirstName>
+				<LastName>Salles</LastName>
+				<Affiliation>Equipe mobile de g&#x000E9;riatrie, P&#x000F4;le de g&#x000E9;rontologie clinique, CHU de Bordeaux, H&#x000F4;pital Xavier Arnozan, Pessac, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">et les</FirstName>
+				<LastName>membres du groupe de travail des &#x000E9;quipes mobiles de g&#x000E9;riatrie de la Soci&#x000E9;t&#x000E9; fran&#x000E7;aise de g&#x000E9;riatrie et g&#x000E9;rontologie (SFGG)</LastName>
+				<Affiliation>Equipe mobile de g&#x000E9;riatrie, P&#x000F4;le de g&#x000E9;rontologie clinique, CHU de Bordeaux, H&#x000F4;pital Xavier Arnozan, Pessac, France, Equipe mobile de g&#x000E9;riatrie, CHRU de Strasbourg, France, Unit&#x000E9; mobile de g&#x000E9;riatrie intra-hospitali&#x000E8;re, Centre hospitalier Annecy Genevois, Annecy, France, Unit&#x000E9; mobile de g&#x000E9;rontologie, Clinique de m&#x000E9;decine g&#x000E9;riatrique, CHU de Grenoble, France, Equipe mobile de g&#x000E9;riatrie, H&#x000F4;pital universitaire Broca, Universit&#x000E9; Ren&#x000E9; Descartes Paris V, Paris, France, Centre hospitalier Edmond Garcin, Aubagne, France, Unit&#x000E9; mobile de g&#x000E9;riatrie, CHRU Brest, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0517</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0517</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Improving care and health course for hospitalized elderly patients is one of the tasks set out in the &#x0201C;Rapport du parcours de sant&#x000E9; des PAERPA&#x0201D; (elderly people with or at risk of functional decline). Identification of the needs of a mobile geriatric team (MGT) intervention for the patients remain difficult in emergency department and in medical surgical units. A screening tool is needed and should be simple and fast to use. Its implementation implies that it is efficient and previously validated. The aim of our study was to evaluate the validity and predictive performances of the Triage risk stratification tool (TRST) for identify patients aged over 75&#x000A0;years, requiring the intervention of the MGT. This is a prospective, national, multicenter study including consecutive patients aged 75&#x000A0;years and older, hospitalized in emergency services and medical-surgical units in September and October 2013. The TRST was considered positive when the score was greater than 2 of 5&#x000A0;points. A supplementary question with binary answer (yes/no) was asked to MGT, in order to define if MGT intervention was useful. This issue has served as a &#x0201C;gold standard&#x0201D; for assessing the validity and predictive test performance. In emergency departments, the TRST was performed in 427&#x000A0;patients, 347&#x000A0;were positive. Results showed high sensitivity (79%), and poor specificity (19%) of the test in emergency units, showing that TRST did not permit to identify patients requiring MGT intervention. In contrast, the TRST seems more performant in medical-surgical (n=63&#x000A0;patients) units with good predictive performances (positive predictive value 90% and negative predictive value 87%). The specificity of TRST in emergency services is insufficient to generalize its use. However, performances of the TRST in other units are encouraging to propose a validation as part of a national research project.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">mobile geriatric team</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">elderly</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">sensitivity</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">specificity and screening test</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786425</Replaces>
+		<ArticleTitle>Age-prospective memory-paradox: explanatory hypotheses</ArticleTitle>
+		<VernacularTitle>L&#x02019;effet paradoxal du vieillissement sur la m&#x000E9;moire prospective&#x000A0;: hypoth&#x000E8;ses explicatives</VernacularTitle>
+		<FirstPage>64</FirstPage>
+		<LastPage>72</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Barbara</FirstName>
+				<LastName>Azzopardi</LastName>
+				<Affiliation>Centre de recherches en psychologie, cognition et communication, Universit&#x000E9; Rennes 2, Universit&#x000E9; europ&#x000E9;enne de Bretagne, Rennes, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Caroline</FirstName>
+				<LastName>Auffray</LastName>
+				<Affiliation>Centre de recherches en psychologie, cognition et communication, Universit&#x000E9; de Bretagne occidentale, Universit&#x000E9; europ&#x000E9;enne de Bretagne, Facult&#x000E9; des lettres et sciences humaines, Brest, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jacques</FirstName>
+				<LastName>Juhel</LastName>
+				<Affiliation>Centre de recherches en psychologie, cognition et communication, Universit&#x000E9; Rennes 2, Universit&#x000E9; europ&#x000E9;enne de Bretagne, Rennes, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2014.0513</ArticleId><ArticleId IdType="doi">10.1684/pnv.2014.0513</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Prospective memory is a complex cognitive function requiring to remember a planned action. For example, this function is particularly important for elderly people to remember taking medication at the appropriate time. The comparison of the performance of old and young peoples on different prospective memory tasks led to two contradictory results, a configuration that has been dubbed &#x0201C;age-prospective memory-paradox&#x0201D;. The first set of results of the age-prospective memory-paradox configuration is in keeping with the effects of aging on cognitive functioning, older peoples generally performing less well than younger peoples on laboratory prospective memory tasks. The second set of results is at odds with the first one, as older peoples generally perform better than younger peoples on naturalistic prospective memory tasks. The aim of the present paper is to expose the main explanatory hypotheses of the age related deficit on laboratory prospective memory tasks in one hand and on the age related benefit on naturalistic prospective memory tasks on the other hand. Concerning laboratory prospective memory tasks, the main hypothesis is that the detrimental effect of age would be principally due to negative influence of age on executive control processes and retrospective memory processes involved in this kind of tasks. With respect to naturalistic prospective memory tasks, a higher motivational level and the fact that older people have more frequently recourse to external memory aids and to compensation strategies could explain the better results of older people.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">prospective memory</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">aging</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">naturalistic tasks</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">laboratory tasks</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786426</Replaces>
+		<ArticleTitle>Jean-Baptiste Vincent Laborde (1830-1903), forgotten neurologist and neurophysiologist</ArticleTitle>
+		<VernacularTitle>Le docteur Jean-Baptiste Vincent Laborde (1830-1903), neurologue et neurophysiologiste oubli&#x000E9;</VernacularTitle>
+		<FirstPage>73</FirstPage>
+		<LastPage>82</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Jacques</FirstName>
+				<LastName>Poirier</LastName>
+				<Affiliation>Paris, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0518</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0518</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Jean-Baptiste Vincent Laborde (1830-1903), native of Buzet, in Gascony, undertook his medical studies in Paris and was nominated &#x0201C;externe&#x0201D; (1854) then &#x0201C;interne&#x0201D; (1858) of Paris hospitals. His main &#x0201C;patrons&#x0201D; were Alfred Velpeau (1795-1867), Auguste N&#x000E9;laton (1807-1873), Jean-Baptiste Bouillaud (1796-1881), Pierre-Olive Rayer (1793-1867), Joseph-Fran&#x000E7;ois Malgaigne (1806-1865), Pierre Carl Edouard Potain (1825-1901), Ernest Charles Las&#x000E8;gue (1816-1883) and L&#x000E9;on Rostan (1790-1866). In 1864 he defended his thesis on the essential paralysis of childhood. He then worked in the physiology laboratory of Professor Jules Auguste Beclard (1818-1887), and became &#x0201C;chef des travaux&#x0201D; of physiology at the Paris faculty of medicine. In 1890, he was nominated to the chair of Biological anthropology at the Paris school of anthropology. His main works focused on the rhythmic tractions of the tongue in cases of apparent death, the understanding of the etiology of brain softening he attributed to vascular occlusions by atheroma and the discovery of connections between the cranial nuclei of common (III) and external (VI) oculomotor nerves and the struggle against the use of ceruse, against tuberculosis and especially against alcoholism. In addition, he made a career in journalism: since 1874 he had been the founder, director and editor-in-chief of the weekly newspaper The Medical Tribune, whose aim was to &#x0201C;combine to a fair extent, science and progress with the practice of medicine.&#x0201D; Finally, Laborde was a convinced Republican, a friend of L&#x000E9;on Gambetta&#x00027;s (1838-1882). For him, democracy was the &#x0201C;ideal of civilized nations&#x0201D; and he showed deep hatred for the &#x0201C;Commune of Paris&#x0201D;. Finally, he was a determined free thinker, who ran the Society for mutual autopsy for a while and who was attached to civil funerals and cremation.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">history of medicine</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">history of neurology</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">neurology</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">physiology</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">neurophysiology</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786427</Replaces>
+		<ArticleTitle>REM sleep behavior disorder in dementia with Lewy bodies</ArticleTitle>
+		<VernacularTitle>Le trouble du comportement en sommeil paradoxal au cours de la d&#x000E9;mence &#x000E0; corps de Lewy</VernacularTitle>
+		<FirstPage>83</FirstPage>
+		<LastPage>87</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Val&#x000E9;rie</FirstName>
+				<LastName>Cochen De Cock</LastName>
+				<Affiliation>P&#x000F4;le sommeil et neurologie, Clinique Beau Soleil, Montpellier, France&#x000A0;; EuroMov, Laboratoire Movement to Health (M2H), Universit&#x000E9; de Montpellier-1, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Aur&#x000E9;lie</FirstName>
+				<LastName>Terminet</LastName>
+				<Affiliation>Service de m&#x000E9;decine interne et soins aigus g&#x000E9;riatriques, CHU de Montpellier, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0519</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0519</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>REM sleep behavior disorder (RBD) is included in the diagnostic criteria for dementia with Lewy bodies (DLB), and is useful for being distinguished from Alzheimer&#x00027;s disease. However, RBD can precede DLB for a few years and be a warning symptom when associated with visuospatial disorders and hypometabolism in occipital regions by SPECT. When RBD are associated with dangerous behaviors or increased risk of fall out of bed, they must be treated. However, RBD can be difficult to be differentiated from hallucinations related to nocturnal delirium, both symptoms being frequently associated.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">behavioral disorders</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">dementia</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Lewy bodies</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">synucleopathy</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786428</Replaces>
+		<ArticleTitle>Artificial intelligence meeting neuropsychology&#x0000A;Semantic memory in normal and pathological aging</ArticleTitle>
+		<VernacularTitle>L&#x02019;intelligence artificielle &#x000E0; la rencontre de la neuropsychologie&#x000A0;: m&#x000E9;moire s&#x000E9;mantique, vieillissement normal et pathologique</VernacularTitle>
+		<FirstPage>88</FirstPage>
+		<LastPage>96</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Xavier</FirstName>
+				<LastName>Aim&#x000E9;</LastName>
+				<Affiliation>Inserm U1142, Limics, Paris, France, Sorbonne Universit&#x000E9;s, UPMC Universit&#x000E9; Paris 6, UMR-S 1142, Limics, Paris, France, Universit&#x000E9; Paris 13, Sorbonne Paris Cit&#x000E9;, Limics, UMR-S 1142, Villetaneuse, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean</FirstName>
+				<LastName>Charlet</LastName>
+				<Affiliation>Inserm U1142, Limics, Paris, France, Sorbonne Universit&#x000E9;s, UPMC Universit&#x000E9; Paris 6, UMR-S 1142, Limics, Paris, France, Universit&#x000E9; Paris 13, Sorbonne Paris Cit&#x000E9;, Limics, UMR-S 1142, Villetaneuse, France, Assistance publique - H&#x000F4;pitaux de Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Didier</FirstName>
+				<LastName>Maillet</LastName>
+				<Affiliation>UF m&#x000E9;moire et maladies neurod&#x000E9;g&#x000E9;n&#x000E9;ratives, Service de neurologie, H&#x000F4;pital Avicenne, H&#x000F4;pitaux Universitaires Paris Seine-Saint-Denis, Bobigny, France, Laboratoire Psitec, EA 4072, UFR de psychologie, Universit&#x000E9; de Lille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Catherine</FirstName>
+				<LastName>Belin</LastName>
+				<Affiliation>UF m&#x000E9;moire et maladies neurod&#x000E9;g&#x000E9;n&#x000E9;ratives, Service de neurologie, H&#x000F4;pital Avicenne, H&#x000F4;pitaux Universitaires Paris Seine-Saint-Denis, Bobigny, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0520</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0520</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Artificial intelligence (IA) is the subject of much research, but also many fantasies. It aims to reproduce human intelligence in its learning capacity, knowledge storage and computation. In 2014, the Defense advanced research projects agency (DARPA) started the restoring active memory (RAM) program that attempt to develop implantable technology to bridge gaps in the injured brain and restore normal memory function to people with memory loss caused by injury or disease. In another IA&#x00027;s field, computational ontologies (a formal and shared conceptualization) try to model knowledge in order to represent a structured and unambiguous meaning of the concepts of a target domain. The aim of these structures is to ensure a consensual understanding of their meaning and a univariant use (the same concept is used by all to categorize the same individuals). The first representations of knowledge in the AI&#x00027;s domain are largely based on model tests of semantic memory. This one, as a component of long-term memory is the memory of words, ideas, concepts. It is the only declarative memory system that resists so remarkably to the effects of age. In contrast, non-specific cognitive changes may decrease the performance of elderly in various events and instead report difficulties of access to semantic representations that affect the semantics stock itself. Some dementias, like semantic dementia and Alzheimer&#x00027;s disease, are linked to alteration of semantic memory. We propose in this paper, using the computational ontologies model, a formal and relatively thin modeling, in the service of neuropsychology: 1) for the practitioner with decision support systems, 2) for the patient as cognitive prosthesis outsourced, and 3) for the researcher to study semantic memory.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">artificial intelligence</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">computational ontology</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">semantic memory</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">dementia</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">cognitive aging</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786429</Replaces>
+		<ArticleTitle>Verbal and gestural communication in interpersonal interaction with Alzheimer&#x00027;s disease patients</ArticleTitle>
+		<VernacularTitle>Expression verbale et gestualit&#x000E9; dans la maladie d&#x02019;Alzheimer&#x000A0;: une &#x000E9;tude en situation d&#x02019;interaction sociale</VernacularTitle>
+		<FirstPage>97</FirstPage>
+		<LastPage>105</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Loris Tamara</FirstName>
+				<LastName>Schiaratura</LastName>
+				<Affiliation>Laboratoire Psitec, Universit&#x000E9; de Lille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Angela</FirstName>
+				<LastName>Di Pastena</LastName>
+				<Affiliation>Laboratoire Psitec, Universit&#x000E9; de Lille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fran&#x000E7;oise</FirstName>
+				<LastName>Askevis-Leherpeux</LastName>
+				<Affiliation>Laboratoire Psitec, Universit&#x000E9; de Lille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sylvain</FirstName>
+				<LastName>Cl&#x000E9;ment</LastName>
+				<Affiliation>Laboratoire NCA, Universit&#x000E9; de Lille, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2014.0514</ArticleId><ArticleId IdType="doi">10.1684/pnv.2014.0514</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Communication can be defined as a verbal and non verbal exchange of thoughts and emotions. While verbal communication deficit in Alzheimer&#x00027;s disease is well documented, very little is known about gestural communication, especially in interpersonal situations. This study examines the production of gestures and its relations with verbal aspects of communication. Three patients suffering from moderately severe Alzheimer&#x00027;s disease were compared to three healthy adults. Each one were given a series of pictures and asked to explain which one she preferred and why. The interpersonal interaction was video recorded. Analyses concerned verbal production (quantity and quality) and gestures. Gestures were either non representational (i.e., gestures of small amplitude punctuating speech or accentuating some parts of utterance) or representational (i.e., referring to the object of the speech). Representational gestures were coded as iconic (depicting of concrete aspects), metaphoric (depicting of abstract meaning) or deictic (pointing toward an object). In comparison with healthy participants, patients revealed a decrease in quantity and quality of speech. Nevertheless, their production of gestures was always present. This pattern is in line with the conception that gestures and speech depend on different communicational systems and look inconsistent with the assumption of a parallel dissolution of gesture and speech. Moreover, analyzing the articulation between verbal and gestural dimensions suggests that representational gestures may compensate for speech deficits. It underlines the importance for the role of gestures in maintaining interpersonal communication.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">Alzheimer&#x00027;s disease</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">interpersonal communication</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">gestures</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">verbal expression</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">non verbal communication</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Geriatr Psychol Neuropsychiatr</JournalTitle>
+			<Issn>2115-8789</Issn>
+			<Volume>13</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>03</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25786430</Replaces>
+		<ArticleTitle>Altered identification with relative preservation of emotional prosody production in patients with Alzheimer&#x00027;s disease</ArticleTitle>
+		<VernacularTitle>Alt&#x000E9;ration de l&#x02019;identification de la prosodie &#x000E9;motionnelle avec relative pr&#x000E9;servation de la production chez des patients atteints de la maladie d&#x02019;Alzheimer</VernacularTitle>
+		<FirstPage>106</FirstPage>
+		<LastPage>115</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Lorraine</FirstName>
+				<LastName>Templier</LastName>
+				<Affiliation>Universit&#x000E9; Paris Descartes, Sorbonne Paris Cit&#x000E9;, Institut de psychologie, Boulogne-Billancourt, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mohamed</FirstName>
+				<LastName>Chetouani</LastName>
+				<Affiliation>Institut des syst&#x000E8;mes intelligents et robotique, Groupe int&#x000E9;gration multimodale, interaction et signal social, ISIR, CNRS UMR 7222, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Monique</FirstName>
+				<LastName>Plaza</LastName>
+				<Affiliation>Institut des syst&#x000E8;mes intelligents et robotique, Groupe int&#x000E9;gration multimodale, interaction et signal social, ISIR, CNRS UMR 7222, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Zo&#x000E9;</FirstName>
+				<LastName>Belot</LastName>
+				<Affiliation>H&#x000F4;pital Corentin Celton, Issy-les-Moulineaux, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Patrick</FirstName>
+				<LastName>Bocquet</LastName>
+				<Affiliation>H&#x000F4;pital Corentin Celton, Issy-les-Moulineaux, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Laurence</FirstName>
+				<LastName>Chaby</LastName>
+				<Affiliation>Universit&#x000E9; Paris Descartes, Sorbonne Paris Cit&#x000E9;, Institut de psychologie, Boulogne-Billancourt, France, Institut des syst&#x000E8;mes intelligents et robotique, Groupe int&#x000E9;gration multimodale, interaction et signal social, ISIR, CNRS UMR 7222, Paris, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">pnv.2015.0524</ArticleId><ArticleId IdType="doi">10.1684/pnv.2015.0524</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Patients with Alzheimer&#x00027;s disease (AD) show cognitive and behavioral disorders, which they and their caregivers have difficulties to cope with in daily life. Psychological symptoms seem to be increased by impaired emotion processing in patients, this ability being linked to social cognition and thus essential to maintain good interpersonal relationships. Non-verbal emotion processing is a genuine way to communicate, especially so for patients whose language may be rapidly impaired. Many studies focus on emotion identification in AD patients, mostly by means of facial expressions rather than emotional prosody; even fewer consider emotional prosody production, despite its playing a key role in interpersonal exchanges. The literature on this subject is scarce with contradictory results. The present study compares the performances of 14 AD patients (88.4&#x000B1;4.9 yrs; MMSE: 19.9&#x000B1;2.7) to those of 14 control subjects (87.5&#x000B1;5.1 yrs; MMSE: 28.1&#x000B1;1.4) in tasks of emotion identification through faces and voices (non linguistic vocal emotion or emotional prosody) and in a task of emotional prosody production (12 sentences were to be pronounced in a neutral, positive, or negative tone, after a context was read). The Alzheimer&#x00027;s disease patients showed weaker performances than control subjects in all emotional recognition tasks and particularly when identifying emotional prosody. A negative relation between the identification scores and the NPI (professional caregivers) scores was found which underlines their link to psychological and behavioral disorders. The production of emotional prosody seems relatively preserved in a mild to moderate stage of the disease: we found subtle differences regarding acoustic parameters but in a qualitative way judges established that the patients&#x02019; productions were as good as those of control subjects. These results suggest interesting new directions for improving patients&#x02019; care.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">Alzheimer&#x00027;s disease</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">nonverbal communication</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">emotional prosody</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">behavioral and psychological symptoms of dementia (BPSD)</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+
+</ArticleSet>

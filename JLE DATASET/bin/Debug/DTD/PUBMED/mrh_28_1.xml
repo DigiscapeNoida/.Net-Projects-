@@ -1,0 +1,281 @@
+<?xml version="1.0"?><!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd"><ArticleSet>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25967879</Replaces>
+		<ArticleTitle>The relationship between repolarization parameters and serum electrolyte levels in patients with J wave syndromes</ArticleTitle>
+		<FirstPage>1</FirstPage>
+		<LastPage>13</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Nobuyuki</FirstName>
+				<LastName>Sato</LastName>
+				<Affiliation>Department of Cardiology, Asahikawa Medical University</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Rie</FirstName>
+				<LastName>Sasaki</LastName>
+				<Affiliation>Department of Medical Laboratory and Blood Center, Asahikawa Medical University Hospital</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marina</FirstName>
+				<LastName>Imahashi</LastName>
+				<Affiliation>Department of Medical Laboratory and Blood Center, Asahikawa Medical University Hospital</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Eisuke</FirstName>
+				<LastName>Ito</LastName>
+				<Affiliation>Department of Medical Laboratory and Blood Center, Asahikawa Medical University Hospital</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Kumiko</FirstName>
+				<LastName>Saito</LastName>
+				<Affiliation>Department of Medical Laboratory and Blood Center, Asahikawa Medical University Hospital</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Haruyo</FirstName>
+				<LastName>Kubota</LastName>
+				<Affiliation>Department of Medical Laboratory and Blood Center, Asahikawa Medical University Hospital</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ahmed Karim</FirstName>
+				<LastName>Talib</LastName>
+				<Affiliation>Department of Cardiology, Asahikawa Medical University</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Naka</FirstName>
+				<LastName>Sakamoto</LastName>
+				<Affiliation>Department of Cardiology, Asahikawa Medical University</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Kazumi</FirstName>
+				<LastName>Akasaka</LastName>
+				<Affiliation>Department of Medical Laboratory and Blood Center, Asahikawa Medical University Hospital</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Yasuaki</FirstName>
+				<LastName>Saijo</LastName>
+				<Affiliation>Division of Community Medicine and Epidemiology, Department of Health Science, Asahikawa Medical University</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Yuichiro</FirstName>
+				<LastName>Kawamura</LastName>
+				<Affiliation>Department of Cardiology, Asahikawa Medical University</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Satoshi</FirstName>
+				<LastName>Fujii</LastName>
+				<Affiliation>Department of Medical Laboratory and Blood Center, Asahikawa Medical University Hospital</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Naoyuki</FirstName>
+				<LastName>Hasebe</LastName>
+				<Affiliation>Department of Cardiology, Asahikawa Medical University</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">mrh.2015.0379</ArticleId><ArticleId IdType="doi">10.1684/mrh.2015.0379</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Background: Intravenous administration of magnesium (Mg<sup>2+</sup>) is effective for polymorphic ventricular tachycardia via homogenization of transmural ventricular repolarization. Mg<sup>2+</sup> likely plays some role in the heterogeneity of repolarization in J wave syndromes. Objective: To investigate the relationship between the repolarization parameters and serum Mg<sup>2+</sup>, potassium (K<sup>+</sup>), and calcium (Ca<sup>2+</sup>) levels in J wave syndromes. Methods: Thirteen J-wave syndrome patients (Brugada and early repolarization [ER] syndromes), with documented episodes of ventricular fibrillation (VF), and 13 ER pattern (ERP) or Brugada type ECG patients were enrolled (25 males, mean age 48&#x000A0;&#x000B1;&#x000A0;15 years). The 12-lead ECG-derived parameters including the QT, QT dispersion (QTd), Tpeak-Tend (Tp-e) interval, Tp-e dispersion (Tp-ed), Tp-e/QT ratio, and activation recovery interval (ARI) dispersion were calculated; the correlations between these parameters and electrolytes including Mg<sup>2+</sup>, K<sup>+</sup>, and Ca<sup>2+ </sup>were analyzed. Results: Although there was no association between serum K<sup>+</sup> or Ca<sup>2+</sup> and QTd, there was a strong negative correlation between serum Mg<sup>2+</sup> and QTd in J wave syndrome patients with a history of VF (r&#x000A0;=&#x000A0;-0.715, p&#x000A0;=&#x000A0;0.006). Also, there was a tendency for a negative correlation between Mg<sup>2+</sup> and Tp-ed or ARI dispersion in J wave syndrome patients with a history of VF (r&#x000A0;=&#x000A0;-0.513, p&#x000A0;=&#x000A0;0.072 and r&#x000A0;=&#x000A0;-0.53, p&#x000A0;=&#x000A0;0.063, respectively). On the other hand, in 13 patients with a Brugada type ECG or ERP, no correlation was observed between serum Mg<sup>2+ </sup>and the QTd, Tp-ed or ARI dispersion. Conclusion: Serum Mg<sup>2+</sup> may play an important role in the cardiac repolarization process in J wave syndromes.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">J wave syndrome</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">repolarization</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">magnesium</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25967880</Replaces>
+		<ArticleTitle>Magnesium and selected parameters of the non-enzymatic antioxidant and immune systems and oxidative stress intensity in the seminal plasma of fertile males</ArticleTitle>
+		<FirstPage>14</FirstPage>
+		<LastPage>22</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Aleksandra</FirstName>
+				<LastName>Kasperczyk</LastName>
+				<Affiliation>Dept. of Biochemistry, Medical University of Silesia in Katowice, ul. Jordana 19, 41-808 Zabrze, Poland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Micha&#x00142;</FirstName>
+				<LastName>Dobrakowski</LastName>
+				<Affiliation>Dept. of Biochemistry, Medical University of Silesia in Katowice, ul. Jordana 19, 41-808 Zabrze, Poland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jolanta</FirstName>
+				<LastName>Zalejska-Fiolka</LastName>
+				<Affiliation>Dept. of Biochemistry, Medical University of Silesia in Katowice, ul. Jordana 19, 41-808 Zabrze, Poland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Stanis&#x00142;aw</FirstName>
+				<LastName>Horak</LastName>
+				<Affiliation>I-st Chair and Clin. Dept. of Gynecology, Obstetrics and Gynecological Oncology, Medical University of Silesia in Katowice, ul. Batorego 15, 41-902 Bytom, Poland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ewa</FirstName>
+				<LastName>Birkner</LastName>
+				<Affiliation>Dept. of Biochemistry, Medical University of Silesia in Katowice, ul. Jordana 19, 41-808 Zabrze, Poland</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">mrh.2015.0377</ArticleId><ArticleId IdType="doi">10.1684/mrh.2015.0377</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Introduction: The present study investigated associations between environmental exposure to magnesium (Mg) and the levels of oxidative stress parameters and selected cytokines, and the antioxidant defense system in the seminal plasma of fertile males. Materials and methods: The study population consisted of 57 healthy, non-smoking, fertile men from the southern region of Poland. Based on the median magnesium levels in seminal plasma, subjects were divided into two groups: those with low (Mg-L) and high (Mg-H) magnesium concentrations. Results: Differences were not observed between the Mg-L and Mg-H groups as regards semen volume, pH, count, motility, or morphology of sperm cells. In the Mg-H group, cholesterol levels were significantly higher (77%) compared with the Mg-L group: however, &#x003B3;-glutamyltranspeptidase activity was significantly lower (21%). The values of total oxidant status were significantly different between the two groups, with 78% higher values observed in the Mg-H group compared with the Mg-L group, whereas malondialdehyde levels did not differ significantly. The values for total antioxidant capacity and uric acid levels were significantly lower in the Mg-H group compared with the Mg-L group (14% and 17%, respectively). However, levels of bilirubin, albumin, thiol groups and &#x003B1;-tocopherol were significantly higher in the Mg-H group (71%, 44%, 35% and 47%, respectively). Conclusion: No associations between Mg levels in the seminal plasma of fertile males and standard semen parameters were found. However, Mg levels may be associated with altered function of the non-enzymatic antioxidant system.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">magnesium</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">semen</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">oxidative stress</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">cytokines</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">antioxidant defense system</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25967881</Replaces>
+		<ArticleTitle>Influence of extracellular magnesium on phagocytosis and free cytosolic Mg levels in differentiated U937 and MH-S cells</ArticleTitle>
+		<FirstPage>23</FirstPage>
+		<LastPage>31</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Ebru</FirstName>
+				<LastName>Diler</LastName>
+				<Affiliation>Institute of Anatomy, Saarland University, Kirrberger Str. 100, 66424 Homburg/Saar Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Stephanie</FirstName>
+				<LastName>Saul</LastName>
+				<Affiliation>Department of Biophysics, Center for Integrated Physiology and Molecular Medicine, Building 48, Saarland University, 66424 Homburg/Saar, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ivan</FirstName>
+				<LastName>Bogeski</LastName>
+				<Affiliation>Department of Biophysics, Center for Integrated Physiology and Molecular Medicine, Building 48, Saarland University, 66424 Homburg/Saar, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Carola</FirstName>
+				<LastName>Meier</LastName>
+				<Affiliation>Institute of Anatomy, Saarland University, Kirrberger Str. 100, 66424 Homburg/Saar Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Thomas</FirstName>
+				<LastName>Tschernig</LastName>
+				<Affiliation>Institute of Anatomy, Saarland University, Kirrberger Str. 100, 66424 Homburg/Saar Germany</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">mrh.2015.0378</ArticleId><ArticleId IdType="doi">10.1684/mrh.2015.0378</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Background: The influence of extracellular calcium on phagocytosis is limited, and the involvement of extracellular magnesium is unclear. Aims: The role of extracellular calcium and magnesium on phagocytosis efficiency was investigated. Results: Extracellular calcium had no influence on the internalization of 1&#x000A0;&#x003BC;m polystyrene particles by primary monocytes as has been shown before for the human lymphoma-derived, differentiated cell line U937 and murine alveolar macrophage-derived MH-S cells. In contrast, the phagocytosis by differentiated U937 cells was positively affected by the presence of extracellular magnesium whereas that of MH-S cells was not. An extracellular increase in the magnesium level did not cause an increase in the free cytosolic magnesium concentration in either cell line. In contrast to magnesium, extracellular calcium caused an increase in intracellular divalent cation levels in differentiated U937 cells. Conclusions: A phagocytosis-enhancing effect in the extracellular space was observed in relation to extracellular magnesium rather than with an intracellular increase in magnesium levels, indicating that murine and human immune cells might be regulated differently.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">immunology</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">macrophages</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">bead uptake</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">monocytes</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>1</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>02</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">25967882</Replaces>
+		<ArticleTitle>Magnesium protects against bile duct ligation-induced liver injury in male Wistar rats</ArticleTitle>
+		<FirstPage>32</FirstPage>
+		<LastPage>45</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Tahereh</FirstName>
+				<LastName>Eshraghi</LastName>
+				<Affiliation>Department of Biology, Science and Research Branch, Islamic Azad University, Tehran, Iran</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Akram</FirstName>
+				<LastName>Eidi</LastName>
+				<Affiliation>Department of Biology, Science and Research Branch, Islamic Azad University, Tehran, Iran</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Pejman</FirstName>
+				<LastName>Mortazavi</LastName>
+				<Affiliation>Department of Pathology, Faculty of Specialized Veterinary Sciences, Science and Research Branch, Islamic Azad University, Tehran, Iran</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ahmad</FirstName>
+				<LastName>Asghari</LastName>
+				<Affiliation>Department of Clinical Science, Faculty of Specialized Veterinary Sciences, Science and Research Branch, Islamic Azad University, Tehran, Iran</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Seyyed Mohammad</FirstName>
+				<LastName>Tavangar</LastName>
+				<Affiliation>Department of Pathology, Shariati Hospital, Tehran University of Medical Sciences, Tehran, Iran</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">mrh.2015.0380</ArticleId><ArticleId IdType="doi">10.1684/mrh.2015.0380</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>The aim of this study was to investigate the effects of magnesium sulfate (MgSO<inf>4</inf>) on cholestasis-induced hepatic injury after bile duct ligation (BDL) in male Wistar rats. In this study, the effects of 28-day, oral administration of MgSO<inf>4</inf> (at doses of 0.01, 0.05, 0.1, and 0.2&#x000A0;g/kg bw) were evaluated in normal and BDL-induced cholestatic rats. The BDL group showed significant increases in serum levels of ALP, ALT, AST, GGT and significant decreases in hepatic SOD and catalase activities. BDL rats also had significant decreases in the serum levels of albumin, bilirubin, total cholesterol, triglycerides, and LDL. Administration of MgSO<inf>4</inf> significantly attenuated these changes to nearly normal levels. Administrations of MgSO<inf>4</inf> did not change these parameters in normal rats. Histopathological studies further confirmed the protective effects of MgSO<inf>4</inf> on cholestasis-induced hepatic injury in the BDL rat model. Taken together, the results of this study suggest that MgSO<inf>4</inf> treatment may be beneficial in cholestasis-induced hepatotoxicity.</Abstract>
+	</Article>
+
+</ArticleSet>

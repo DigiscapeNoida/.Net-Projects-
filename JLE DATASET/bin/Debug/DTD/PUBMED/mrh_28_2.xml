@@ -1,0 +1,263 @@
+<?xml version="1.0"?><!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd"><ArticleSet>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>The role of MAGT1 in genetic syndromes</ArticleTitle>
+		<FirstPage>46</FirstPage>
+		<LastPage>55</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Valentina</FirstName>
+				<LastName>Trapani</LastName>
+				<Affiliation>Istituto di Patologia Generale, Facolt&#x000E0; di Medicina e Chirurgia &#x0201C;A. Gemelli&#x0201D;, Universit&#x000E0; Cattolica del Sacro Cuore, Largo Francesco Vito 1, 00168 Rome, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Naomi</FirstName>
+				<LastName>Shomer</LastName>
+				<Affiliation>Department of Pathology (Cytogenetics), BC Child and Family Research Institute, University of British Columbia, 950 West 28th Avenue, Room 3060, Vancouver, BC V5Z 4H4, Canada</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Evica</FirstName>
+				<LastName>Rajcan-Separovic</LastName>
+				<Affiliation>Department of Pathology (Cytogenetics), BC Child and Family Research Institute, University of British Columbia, 950 West 28th Avenue, Room 3060, Vancouver, BC V5Z 4H4, Canada</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">mrh.2015.0381</ArticleId>
+			<ArticleId IdType="doi">10.1684/mrh.2015.0381</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Disturbances in magnesium homeostasis, often linked to altered expression and/or function of magnesium channels, have been implicated in a plethora of diseases. This review focuses on magnesium transporter 1 (MAGT1), as recently described changes in this gene have further extended our understanding of the role of magnesium in human health and disease. The identification of genetic changes and their functional consequences in patients with immunodeficiency revealed that magnesium and MAGT1 are key molecular players for T cell-mediated immune responses. This led to the description of XMEN (X-linked immunodeficiency with magnesium defect, Epstein Barr Virus infection, and neoplasia) syndrome, for which Mg<sup>2+ </sup>supplementation has been shown to be beneficial. Similarly, the identification of a copy-number variation (CNV) leading to dysfunctional MAGT1 in a family with atypical ATRX syndrome and skin abnormalities, suggested that the MAGT1 defect could be responsible for the cutaneous problems. On the other hand, recent genetic investigations question the previously proposed role for MAGT1 in intellectual disability. Understanding the molecular basis of the involvement of magnesium and its channels in human pathogenesis will improve opportunities for Mg<sup>2+ </sup>therapies in the clinic.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">magnesium</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">XMEN</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">intellectual disability</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">immune system</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">skin</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26105980</Replaces>
+		<ArticleTitle>Association between low serum magnesium concentration and hyperuricemia</ArticleTitle>
+		<FirstPage>56</FirstPage>
+		<LastPage>63</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Chao</FirstName>
+				<LastName>Zeng</LastName>
+				<Affiliation>Department of Orthopaedics, Xiangya Hospital, Central South University, Changsha, Hunan Province, China, 410008</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Yi-lun</FirstName>
+				<LastName>Wang</LastName>
+				<Affiliation>Department of Orthopaedics, Xiangya Hospital, Central South University, Changsha, Hunan Province, China, 410008</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jie</FirstName>
+				<LastName>Wei</LastName>
+				<Affiliation>Department of Epidemiology and Health Statistics, School of Public Health, Central South University, Changsha, Hunan Province, China, 410008</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Tuo</FirstName>
+				<LastName>Yang</LastName>
+				<Affiliation>Department of Orthopaedics, Xiangya Hospital, Central South University, Changsha, Hunan Province, China, 410008</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Hui</FirstName>
+				<LastName>Li</LastName>
+				<Affiliation>Department of Orthopaedics, Xiangya Hospital, Central South University, Changsha, Hunan Province, China, 410008</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Dong-xing</FirstName>
+				<LastName>Xie</LastName>
+				<Affiliation>Department of Orthopaedics, Xiangya Hospital, Central South University, Changsha, Hunan Province, China, 410008</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Yu-sheng</FirstName>
+				<LastName>Li</LastName>
+				<Affiliation>Department of Orthopaedics, Xiangya Hospital, Central South University, Changsha, Hunan Province, China, 410008</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Guang-hua</FirstName>
+				<LastName>Lei</LastName>
+				<Affiliation>Department of Orthopaedics, Xiangya Hospital, Central South University, Changsha, Hunan Province, China, 410008</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">mrh.2015.0384</ArticleId><ArticleId IdType="doi">10.1684/mrh.2015.0384</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>Objectives: To examine the cross-sectional associations between serum magnesium (Mg) and hyperuricemia (HU). Methods: 2904 subjects were included in this study. HU was defined as uric acid &#x02265;416&#x000A0;&#x003BC;mol/L for the male population and &#x02265;360&#x000A0;&#x003BC;mol/L for the female population. A multivariable logistic analysis model was applied to test the associations after adjusting for a number of potential confounding factors. Results: The relative odds of the prevalence of HU were significantly decreased by 0.65 times in the third quintile of serum Mg (OR 0.65, 95% CI 0.47-0.89), and 0.61 times in the fifth quintile (OR 0.61, 95% CI 0.45-0.83), compared with the lowest quintile: P for trend was 0.002. For males, the relative odds for HU were significantly decreased by 0.61 times in the third quintile of serum Mg (OR 0.61, 95% CI 0.42-0.89), 0.68 times in the fourth quintile (OR 0.68, 95% CI 0.47-0.97), and 0.59 times in the fifth quintile (OR 0.59, 95% CI 0.41-0.84) compared with the lowest quintile: P for trend was 0.003. However, no significant association was observed between serum Mg and HU for females. Conclusion: Serum Mg is inversely associated with HU. This association remains valid for the male subgroup, but not for the female subgroup.</Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26395418</Replaces>
+		<ArticleTitle>Effect of magnesium on vascular reactivity in NOS inhibition-induced hypertension</ArticleTitle>
+		<FirstPage>64</FirstPage>
+		<LastPage>74</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Filiz</FirstName>
+				<LastName>Basral&#x00131;</LastName>
+				<Affiliation>Akdeniz University, Faculty of Medicine, Department of Physiology, Antalya, Turkey</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Seher</FirstName>
+				<LastName>Nas&#x00131;rc&#x00131;lar &#x000DC;lker</LastName>
+				<Affiliation>Akdeniz University, Faculty of Medicine, Department of Physiology, Antalya, Turkey</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">G&#x000FC;nnur</FirstName>
+				<LastName>Ko&#x000E7;er</LastName>
+				<Affiliation>Near East University, Faculty of Medicine, Department of Physiology, Nicosia, Mersin, Turkey</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">P&#x00131;nar</FirstName>
+				<LastName>&#x000DC;lker Karadamar</LastName>
+				<Affiliation>Akdeniz University, Faculty of Medicine, Department of Physiology, Antalya, Turkey</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Dilek</FirstName>
+				<LastName>&#x000D6;zyurt</LastName>
+				<Affiliation>Istanbul Technical University, Department of Chemistry, Faculty of Sciences and Letters, Istanbul, Turkey</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Melike</FirstName>
+				<LastName>Cengiz</LastName>
+				<Affiliation>Akdeniz University, Faculty of Medicine, Department of Anesthesiology and Reanimation, Antalya, Turkey</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">&#x000DC;mit</FirstName>
+				<LastName>Kemal &#x0015E;ent&#x000FC;rk</LastName>
+				<Affiliation>Akdeniz University, Faculty of Medicine, Department of Physiology, Antalya, Turkey</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">mrh.2015.0383</ArticleId><ArticleId IdType="doi">10.1684/mrh.2015.0383</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract>This study investigated the effect of magnesium on the vascular reactivity of conduit and resistance arteries in a nitric oxide synthase inhibition-induced hypertension model. The aorta and third-order branches of the mesenteric artery were dissected from normotensive control and hypertensive rats, and their constriction and dilation responses in physiological saline solution containing normal (1.2&#x000A0;mM) or high (4.8&#x000A0;mM) magnesium concentrations were examined. The responses of the vessels were evaluated using potassium chloride (KCl) and phenylephrine (Phe), acetylcholine (ACh) and sodium nitroprusside. The Phe-induced constriction response of the aortic rings increased, whereas the ACh-induced dilation response decreased, in the hypertensive group compared to controls, in the presence of a normal magnesium concentration. High magnesium did not alter these responses in either group. Both the KCl- and Phe-induced constriction responses of the mesenteric arteries increased, and the ACh-induced dilation response decreased in the hypertensive group compared to controls, in the presence of a normal magnesium concentration. High magnesium significantly decreased the KCl and Phe-induced constriction and increased the ACh-induced dilation response of the mesenteric arteries in the hypertensive group, while it did not alter these responses in controls. This study suggests that high magnesium improves vascular reactivity of resistance-, but not conduit-type arteries in the nitric oxide synthase inhibition-induced hypertension model.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">hypertension</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">magnesium</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">vascular reactivity</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26106042</Replaces>
+		<ArticleTitle>Magnesium intervention studies -methodological aspects</ArticleTitle>
+		<FirstPage>75</FirstPage>
+		<LastPage>78</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Ragnar</FirstName>
+				<LastName>Rylander</LastName>
+				<Affiliation>BioFact Environmental Health Research Centre, Bj&#x000F6;rk&#x000E5;sv&#x000E4;gen 21, 443 91 Lerum, Sweden</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">J&#x000FC;rgen</FirstName>
+				<LastName>Vormann</LastName>
+				<Affiliation>Institute for Prevention and Nutrition, Ismaning, Germany</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">mrh.2015.0385</ArticleId><ArticleId IdType="doi">10.1684/mrh.2015.0385</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Magnes Res</JournalTitle>
+			<Issn>0953-1424</Issn>
+			<Volume>28</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>06</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">26395419</Replaces>
+		<ArticleTitle>Mitochondrial magnesium to the rescue</ArticleTitle>
+		<FirstPage>79</FirstPage>
+		<LastPage>84</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Valentina</FirstName>
+				<LastName>Trapani</LastName>
+				<Affiliation>Istituto di Patologia Generale, Universit&#x000E0; Cattolica del Sacro Cuore, Facolt&#x000E0; di Medicina e Chirurgia &#x0201C;A. Gemelli&#x0201D;, Largo Francesco Vito 1 00168 Rome Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Federica I.</FirstName>
+				<LastName>Wolf</LastName>
+				<Affiliation>Istituto di Patologia Generale, Universit&#x000E0; Cattolica del Sacro Cuore, Facolt&#x000E0; di Medicina e Chirurgia &#x0201C;A. Gemelli&#x0201D;, Largo Francesco Vito 1 00168 Rome Italy</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList><ArticleId IdType="pii">mrh.2015.0386</ArticleId><ArticleId IdType="doi">10.1684/mrh.2015.0386</ArticleId></ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+
+</ArticleSet>

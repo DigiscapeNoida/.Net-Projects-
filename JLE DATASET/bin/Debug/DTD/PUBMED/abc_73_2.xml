@@ -1,0 +1,849 @@
+<?xml version="1.0"?><!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd"><ArticleSet>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Is there a place for thrombin generation assay in routine clinical laboratory?</ArticleTitle>
+		<VernacularTitle>Quelle place pour le test de g&#x000E9;n&#x000E9;ration de thrombine au sein du laboratoire de biologie clinique&#x000A0;?</VernacularTitle>
+		<FirstPage>137</FirstPage>
+		<LastPage>149</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Christelle</FirstName>
+				<LastName>Lecut</LastName>
+				<Affiliation>Laboratoire de thrombose-h&#x000E9;mostase, Service d&#x02019;h&#x000E9;matologie biologique et immuno-h&#x000E9;matologie, CHU Sart Tilman, Li&#x000E8;ge, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Pierre</FirstName>
+				<LastName>Peters</LastName>
+				<Affiliation>Laboratoire de thrombose-h&#x000E9;mostase, Service d&#x02019;h&#x000E9;matologie biologique et immuno-h&#x000E9;matologie, CHU Sart Tilman, Li&#x000E8;ge, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Paul B.</FirstName>
+				<LastName>Massion</LastName>
+				<Affiliation>Unit&#x000E9; des soins intensifs, CHU Sart Tilman, Li&#x000E8;ge, Belgique</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Andr&#x000E9;</FirstName>
+				<LastName>Gothot</LastName>
+				<Affiliation>Laboratoire de thrombose-h&#x000E9;mostase, Service d&#x02019;h&#x000E9;matologie biologique et immuno-h&#x000E9;matologie, CHU Sart Tilman, Li&#x000E8;ge, Belgique</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1018</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1018</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Laboratory diagnosis of coagulopathies primarily relies on assays selectively exploring either the extrinsic (PT), the intrinsic (aPTT) or the common (TT) pathway of the coagulation system. Although these tests are very useful to rapidly identify severe coagulation disorders or to monitor anticoagulant therapy, they only poorly correlate with the clinical manifestations. Global assays that evaluate the whole coagulation process could potentially more accurately reflect the hemorrhagic or thrombotic phenotype of an individual. Thrombin generation assay (TGA), first described in the 1950&#x00027;s, has been developed and automated in the 1990&#x00027;s. This technique is widely used in fundamental research but has yet failed to integrate clinical laboratories. In this article, we describe TGA and review its clinical applications. Laboratory aspects and technical issues will also be discussed.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">assays</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">coagulation</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">thrombin</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">TGA</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">ETP</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Urinary biomarkers of kidney dysfunction</ArticleTitle>
+		<VernacularTitle>Biomarqueurs urinaires de dysfonction r&#x000E9;nale</VernacularTitle>
+		<FirstPage>151</FirstPage>
+		<LastPage>157</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Laurence</FirstName>
+				<LastName>Pi&#x000E9;roni</LastName>
+				<Affiliation>Laboratoire de biologie m&#x000E9;dicale, Centre hospitalier d&#x02019;Avignon, Avignon, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Paul</FirstName>
+				<LastName>Cristol</LastName>
+				<Affiliation>Service de biochimie, CHU Lapeyronie, Montpellier, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1029</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1029</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>The early diagnosis of chronic kidney disease (CKD) is based on the detection of markers of renal damage in urine collection. These urinary bio-markers are measurable before the appearance of functional defect, which is diagnosed with a decrease of glomerular filtration rate. Albuminuria, preferentially expressed as urinary albumin/creatinin ratio, is one of the marker of CKD. But today, other urinary biomarkers, monitoring tubulointersticial damage, are of interest in early diagnosis of CKD. In acute kidney injury, these markers could improve diagnostic tests, since they increase faster than serum creatinin. We propose a review of the urinary biomarkers of renal dysfunction used in routine clinical practice in 2015.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">kidney dysfunction</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">urinary biomarkers</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">albuminuria</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">proteinuria</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Accumulation of p53 protein and overexpression of the HER3 receptor in colorectal cancer</ArticleTitle>
+		<VernacularTitle>Accumulation de la prot&#x000E9;ine p53 et surexpression du r&#x000E9;cepteur HER3 dans le cancer colorectal</VernacularTitle>
+		<FirstPage>158</FirstPage>
+		<LastPage>164</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Siham</FirstName>
+				<LastName>Amsaguine</LastName>
+				<Affiliation>Equipe &#x000AB;&#x000A0;Signalisations cellulaires et pathologies associ&#x000E9;es&#x000A0;&#x000BB;, Laboratoire biologie et sant&#x000E9;, URAC 34, Universit&#x000E9; Hassan II, Facult&#x000E9; des sciences Ben M&#x00027;sik, Casablanca, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sara</FirstName>
+				<LastName>El Mhaia</LastName>
+				<Affiliation>Equipe &#x000AB;&#x000A0;Signalisations cellulaires et pathologies associ&#x000E9;es&#x000A0;&#x000BB;, Laboratoire biologie et sant&#x000E9;, URAC 34, Universit&#x000E9; Hassan II, Facult&#x000E9; des sciences Ben M&#x00027;sik, Casablanca, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Houda</FirstName>
+				<LastName>Drissi</LastName>
+				<Affiliation>Equipe &#x000AB;&#x000A0;Signalisations cellulaires et pathologies associ&#x000E9;es&#x000A0;&#x000BB;, Laboratoire biologie et sant&#x000E9;, URAC 34, Universit&#x000E9; Hassan II, Facult&#x000E9; des sciences Ben M&#x00027;sik, Casablanca, Maroc, Service de chirurgie, Centre hospitalier Ibn Sina, Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Chrifa</FirstName>
+				<LastName>Amer</LastName>
+				<Affiliation>Equipe &#x000AB;&#x000A0;Signalisations cellulaires et pathologies associ&#x000E9;es&#x000A0;&#x000BB;, Laboratoire biologie et sant&#x000E9;, URAC 34, Universit&#x000E9; Hassan II, Facult&#x000E9; des sciences Ben M&#x00027;sik, Casablanca, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mohammed</FirstName>
+				<LastName>Ahallat</LastName>
+				<Affiliation>Service de chirurgie, Centre hospitalier Ibn Sina, Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Najat</FirstName>
+				<LastName>El Amrani</LastName>
+				<Affiliation>Equipe &#x000AB;&#x000A0;Signalisations cellulaires et pathologies associ&#x000E9;es&#x000A0;&#x000BB;, Laboratoire biologie et sant&#x000E9;, URAC 34, Universit&#x000E9; Hassan II, Facult&#x000E9; des sciences Ben M&#x00027;sik, Casablanca, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Driss</FirstName>
+				<LastName>Radallah</LastName>
+				<Affiliation>Equipe &#x000AB;&#x000A0;Signalisations cellulaires et pathologies associ&#x000E9;es&#x000A0;&#x000BB;, Laboratoire biologie et sant&#x000E9;, URAC 34, Universit&#x000E9; Hassan II, Facult&#x000E9; des sciences Ben M&#x00027;sik, Casablanca, Maroc</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1027</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1027</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>In patients with colorectal cancer, nuclear accumulation of p53 is often associated with poor prognosis and resistance to chemotherapy. Overexpression of HER3 is associated with poor prognosis and resistance to therapy targeting EGFR. Our study was performed on 16 samples of colorectal adenocarcinomas. The pieces fixed in formalin were embedded in paraffin. The study of the expression of p53 and HER3 is performed by immunohistochemical technique. Immunohistochemical study of the expression of p53 showed nuclear accumulation of this protein in 87% of colorectal adenocarcinomas analyzed. Regarding the HER3 receptor overexpression was observed in 56% of cases. Overall, 50% of the cases co-expressed p53 and HER3. HER3 and p53 are important markers of colorectal cancer because they provide information about the distinctive biological characteristics of tumors. The prognostic and predictive value of the combination of these two markers could be an important clinical tool.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">colorectal cancer</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">p53</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">HER3 receptor</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">tumor markers</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">immunohistochemistry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">prognostic value</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>External quality assessment in clinical biochemistry laboratories: pilot study in 11 laboratories of Lom&#x000E9; (Togo)</ArticleTitle>
+		<VernacularTitle>&#x000C9;valuation externe de la qualit&#x000E9; des examens de biochimie clinique&#x000A0;: &#x000E9;tude pilote dans 11 laboratoires de Lom&#x000E9; (Togo)</VernacularTitle>
+		<FirstPage>165</FirstPage>
+		<LastPage>175</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Kafui</FirstName>
+				<LastName>Kouassi</LastName>
+				<Affiliation>Unit&#x000E9; de biochimie, Unit&#x000E9; de pilotage qualit&#x000E9; du service des laboratoires du CHU, Ecole sup&#x000E9;rieure des techniques biologiques et alimentaires, Universit&#x000E9; de Lom&#x000E9;, Togo</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lochina</FirstName>
+				<LastName>F&#x000E9;t&#x000E9;k&#x000E9;</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie, Facult&#x000E9; des sciences de la sant&#x000E9;, Universit&#x000E9; de Lom&#x000E9;, Togo</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Selom</FirstName>
+				<LastName>Assignon</LastName>
+				<Affiliation>D&#x000E9;partement de la pharmacie, Facult&#x000E9; des sciences de la sant&#x000E9;, Universit&#x000E9; de Lom&#x000E9;, Togo</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ameyo</FirstName>
+				<LastName>Dorkenoo</LastName>
+				<Affiliation>Division des laboratoires de la Direction de la pharmacie, des m&#x000E9;dicaments et des laboratoires, Minist&#x000E8;re de la sant&#x000E9; du Togo</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Gado</FirstName>
+				<LastName>Napo-Koura</LastName>
+				<Affiliation>Facult&#x000E9; des sciences de la sant&#x000E9;, Minist&#x000E8;re de la sant&#x000E9; du Togo</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1026</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1026</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>This study aims to evaluate the performance of a few biochemistry analysis and make recommendations to the place of the stakeholders. It is a cross-sectional study conducted between the October 1<sup>st</sup>, 2012 and the July 31, 2013 bearing on the results of 5 common examinations of clinical biochemistry, provided by 11 laboratories volunteers opening in the public and private sectors. These laboratories have analysed during the 3 cycles, 2 levels (medium and high) of serum concentration of urea, glucose, creatinine and serum aminotransferases. The performance of laboratories have been determined from the acceptable limits corresponding to the limits of total errors, defined by the French Society of Clinical Biology (SFBC). A system of internal quality control is implemented by all laboratories and 45% of them participated in international programs of external quality assessment (EQA). The rate of acceptable results for the entire study was of 69%. There was a significant difference (p&#60;0.002) between the performance of the group of laboratories engaged in a quality approach and the group with default implementation of the quality approach. Also a significant difference was observed between the laboratories of the central level and those of the peripheral level of our health system (p&#60;0.047). The performance of the results provided by the laboratories remains relatively unsatisfactory. It is important that the Ministry of Health put in place a national program of EQA with mandatory participation.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">external quality assessment</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">clinical biochemistry</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">performance</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Lom&#x000E9;</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Antimicrobial activity of Actinomycetale isolated from the lagoon in Algeria</ArticleTitle>
+		<VernacularTitle>Activit&#x000E9; antimicrobienne d&#x02019;une Actinomycetale isol&#x000E9;e d&#x02019;une lagune en Alg&#x000E9;rie</VernacularTitle>
+		<FirstPage>176</FirstPage>
+		<LastPage>180</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Ch&#x000E9;rifa</FirstName>
+				<LastName>Alliouch-Kerboua</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie, Facult&#x000E9; des Sciences, Universit&#x000E9; Badji Mokhtar, Annaba, Alg&#x000E9;rie</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Djamila</FirstName>
+				<LastName>Gacemi Kirane</LastName>
+				<Affiliation>D&#x000E9;partement de biochimie, Facult&#x000E9; des Sciences, Universit&#x000E9; Badji Mokhtar, Annaba, Alg&#x000E9;rie, Laboratoire d&#x02019;am&#x000E9;lioration g&#x000E9;n&#x000E9;tique des plantes, D&#x000E9;partement de biologie, Facult&#x000E9; des sciences, Universit&#x000E9; Badji Mokhtar, Annaba, Alg&#x000E9;rie</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Bernard</FirstName>
+				<LastName>La Scola</LastName>
+				<Affiliation>Unit&#x000E9; de recherche sur les maladies infectieuses et tropicales &#x000E9;mergentes (Urmite), UM63, CNRS 7278, IRD 198, Inserm 1095, Facult&#x000E9; de m&#x000E9;decine, Aix Marseille Universit&#x000E9;, Marseille, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1030</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1030</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>In the aim of the study of the taxonomy and the antimicrobial activity, a strain of actinomycete SM2/2GF which was isolated from sediment of the lagoon El-Mellah which is situated in the city of El-Kala in the Northeast of Algeria, was tested against diverse pathogenic microorganisms and against a Gram-negative bacterium Pseudomonas alcaliphila which was isolated from water of the lagoon El-Mellah. The phenotypic and the molecular characteristics show that the isolate SM2/2GF belongs to the kind Streptomyces. This strain showed an antimicrobial activity against a Gram-negative bacterium Pseudomonas alcaliphila and the positive-Gram bacteria as Staphylococcus aureus, methicillin-resistant Staphylococcus aureus (MRSA), Bacillus subtilis, Enterococcus faecalis, as well as the yeast Candida albicans. It has no activity against Pseudomonas aeruginosa. The interesting antimicrobial activity of the strain SM2/2GF against the pathogenic microorganisms could encourage further researches on one or several bioactive molecules which it secretes.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">antimicrobial activity</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Streptomyces</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">sediment</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Autosomal dominant polycystic kidney disease: identification of two polymorphisms</ArticleTitle>
+		<FirstPage>181</FirstPage>
+		<LastPage>183</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Safa</FirstName>
+				<LastName>Sahnoun</LastName>
+				<Affiliation>Laboratoire de biochimie et biologie mol&#x000E9;culaire, H&#x000F4;pital d&#x02019;enfant, Tunis, Tunisie</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Samia</FirstName>
+				<LastName>Barbouch</LastName>
+				<Affiliation>Service de n&#x000E9;phrologie et m&#x000E9;decine A, Tunis, Tunisie</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sondess</FirstName>
+				<LastName>Hadj Fredj</LastName>
+				<Affiliation>Laboratoire de biochimie et biologie mol&#x000E9;culaire, H&#x000F4;pital d&#x02019;enfant, Tunis, Tunisie</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Adel</FirstName>
+				<LastName>Khedher</LastName>
+				<Affiliation>Service de n&#x000E9;phrologie et m&#x000E9;decine A, Tunis, Tunisie</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Taieb</FirstName>
+				<LastName>Messaoud</LastName>
+				<Affiliation>Laboratoire de biochimie et biologie mol&#x000E9;culaire, H&#x000F4;pital d&#x02019;enfant, Tunis, Tunisie</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1036</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1036</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>The identification of polymorphism A4059V associated with the 12276 A&#x0003E;G at exon 45 of the PKD1 gene in a Tunisian polycystic patient.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">polycystic kidney disease</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Tunisian ADPKD patient</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">polymorphisms</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>An acute monoclonal gammopathy?</ArticleTitle>
+		<VernacularTitle>Une gammapathie monoclonale d&#x02019;apparition brutale&#x000A0;?</VernacularTitle>
+		<FirstPage>185</FirstPage>
+		<LastPage>189</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Alexandra</FirstName>
+				<LastName>Presle</LastName>
+				<Affiliation>Laboratoire central de biochimie, H&#x000F4;pital Robert Debr&#x000E9;, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Philippe</FirstName>
+				<LastName>Bertocchio</LastName>
+				<Affiliation>Service de n&#x000E9;phrologie, H&#x000F4;pital Maison Blanche, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Nathalie</FirstName>
+				<LastName>Schneider</LastName>
+				<Affiliation>Laboratoire central de biochimie, H&#x000F4;pital Robert Debr&#x000E9;, CHU de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Fran&#x000E7;ois-Xavier</FirstName>
+				<LastName>Maquart</LastName>
+				<Affiliation>Laboratoire central de biochimie, H&#x000F4;pital Robert Debr&#x000E9;, CHU de Reims, Reims, France, Laboratoire de biochimie m&#x000E9;dicale et de biologie mol&#x000E9;culaire, UMR CNRS 7369, Facult&#x000E9; de m&#x000E9;decine de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Laurent</FirstName>
+				<LastName>Ramont</LastName>
+				<Affiliation>Laboratoire central de biochimie, H&#x000F4;pital Robert Debr&#x000E9;, CHU de Reims, Reims, France, Laboratoire de biochimie m&#x000E9;dicale et de biologie mol&#x000E9;culaire, UMR CNRS 7369, Facult&#x000E9; de m&#x000E9;decine de Reims, Reims, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Baptiste</FirstName>
+				<LastName>Oudart</LastName>
+				<Affiliation>Laboratoire central de biochimie, H&#x000F4;pital Robert Debr&#x000E9;, CHU de Reims, Reims, France, Laboratoire de biochimie m&#x000E9;dicale et de biologie mol&#x000E9;culaire, UMR CNRS 7369, Facult&#x000E9; de m&#x000E9;decine de Reims, Reims, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1034</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1034</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Serum protein electrophoresis is commonly used in case of acute or chronic renal failure. It can lead to the etiologic diagnosis by detecting monoclonal gammopathies which are frequently complicated by renal failure, such as cast nephropathy, Randall&#x00027;s disease or amyloidosis, or to explore an associated inflammatory syndrome. We report the occurrence of two monoclonal components in a patient without any monoclonal component 10 days earlier. The sudden appearance of these two monoclonal components associated to the context of sepsis of urinary origin suggested the diagnosis of transient monoclonal gammopathy. This hypothesis was confirmed by monitoring serum protein electrophoresis that showed a gradual decrease of these two monoclonal components few weeks after the resolution of the infectious disease. The main etiological factors of transient monoclonal gammopathies are infectious or autoimmune diseases. In this context, it is important to delay the achievement of serum protein electrophoresis after the acute episode, in order to avoid to falsely conclude to hematologic malignancy diagnosis. This can prevent costly biological examinations of these transient monoclonal gammopathies and invasive procedures like bone marrow examination.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">serum protein electrophoresis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">transient gammopathy auto-immune disease</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>A case of bisalbuminemia in a patient with digestive adenocarcinoma</ArticleTitle>
+		<VernacularTitle>Un cas de bisalbumin&#x000E9;mie chez une patiente avec ad&#x000E9;nocarcinome digestif</VernacularTitle>
+		<FirstPage>190</FirstPage>
+		<LastPage>194</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Fatima Zahra</FirstName>
+				<LastName>Hajoui</LastName>
+				<Affiliation>Service de biochimie, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V (HMIMV), Rabat, Maroc, Universit&#x000E9; Mohamed V Souissi, Facult&#x000E9; de m&#x000E9;dicine et de pharmacie Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Asmaa</FirstName>
+				<LastName>Biaz</LastName>
+				<Affiliation>Service de biochimie, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V (HMIMV), Rabat, Maroc, Universit&#x000E9; Mohamed V Souissi, Facult&#x000E9; de m&#x000E9;dicine et de pharmacie Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lamyaa</FirstName>
+				<LastName>Zouiten</LastName>
+				<Affiliation>Service de biochimie, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V (HMIMV), Rabat, Maroc, Universit&#x000E9; Mohamed V Souissi, Facult&#x000E9; de m&#x000E9;dicine et de pharmacie Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Samira</FirstName>
+				<LastName>Mechtani</LastName>
+				<Affiliation>Service de biochimie, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V (HMIMV), Rabat, Maroc, Universit&#x000E9; Mohamed V Souissi, Facult&#x000E9; de m&#x000E9;dicine et de pharmacie Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Abdellah</FirstName>
+				<LastName>Dami</LastName>
+				<Affiliation>Service de biochimie, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V (HMIMV), Rabat, Maroc, Universit&#x000E9; Mohamed V Souissi, Facult&#x000E9; de m&#x000E9;dicine et de pharmacie Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sanaa</FirstName>
+				<LastName>Bouhsain</LastName>
+				<Affiliation>Service de biochimie, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V (HMIMV), Rabat, Maroc, Universit&#x000E9; Mohamed V Souissi, Facult&#x000E9; de m&#x000E9;dicine et de pharmacie Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Zohra</FirstName>
+				<LastName>Ouzzif</LastName>
+				<Affiliation>Service de biochimie, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V (HMIMV), Rabat, Maroc, Universit&#x000E9; Mohamed V Souissi, Facult&#x000E9; de m&#x000E9;dicine et de pharmacie Rabat, Maroc</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1028</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1028</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Bisalbuminemia whether hereditary or acquired, is a rare electrophoretic abnormality of albumin, characterized by a duplication of the albumin fraction on the electrophoretic trace of the serum proteins. This duplication reflects the presence in the same individual normal plasma albumin and a modified albumin. Observation: This is a patient of 62 years hospitalized at the Internal Medicine Department of HMIMV for liver metastases of gastrointestinal adenocarcinoma and including serum protein electrophoresis (EP) performed on capillary (Capillarys society Sebia) reveals bisalbuminemia. The family investigation has ruled that inheritance of acquired bisalbuminemia to retain appearance. Comment: Bisalbuminemia acquired outside treatment with high doses of beta-lactam antibiotics, chronic pancreatitis with pseudocyst rupture or fixing a monoclonal immunoglobulin on albumin in the myeloma subjects is an exceptional event. The pathophysiologic mechanism in the reported cases remains unexplained as is also the case of acquired bisalbuminemias associated with other pathological contexts (Alzheimer&#x00027;s disease nephrotic syndrome). Conclusion: To the best of our knowledge, the bisalbuminemia in the gastrointestinal adenocarcinoma liver metastases has not been reported to date, hence the importance of the reported cases.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">bisalbuminemia</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">adenocarcinoma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">liver metastases</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Prolonged molecular response induced by imatinib in Philadelphia positive acute lymphoblastic leukemia&#x0000A;A case report and brief review</ArticleTitle>
+		<VernacularTitle>R&#x000E9;mission mol&#x000E9;culaire prolong&#x000E9;e induite par l&#x02019;imatinib dans la leuc&#x000E9;mie aigu&#x000EB; lymphoblastique avec chromosome de Philadelphie&#x0000A;Cas clinique et revue de la litt&#x000E9;rature</VernacularTitle>
+		<FirstPage>195</FirstPage>
+		<LastPage>198</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Abderrahim</FirstName>
+				<LastName>Raissi</LastName>
+				<Affiliation>Service d&#x02019;h&#x000E9;matologie clinique, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V, Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Majdouline</FirstName>
+				<LastName>Bouaouad</LastName>
+				<Affiliation>Service d&#x02019;h&#x000E9;matologie clinique, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V, Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Noufissa Alami</FirstName>
+				<LastName>Drideb</LastName>
+				<Affiliation>Service d&#x02019;h&#x000E9;matologie clinique, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V, Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Selim</FirstName>
+				<LastName>Jennane</LastName>
+				<Affiliation>Service d&#x02019;h&#x000E9;matologie clinique, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V, Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">El Mahdi</FirstName>
+				<LastName>Mahtat</LastName>
+				<Affiliation>Service d&#x02019;h&#x000E9;matologie clinique, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V, Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Kamal</FirstName>
+				<LastName>Doghmi</LastName>
+				<Affiliation>Service d&#x02019;h&#x000E9;matologie clinique, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V, Rabat, Maroc</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mohammed</FirstName>
+				<LastName>Mikdame</LastName>
+				<Affiliation>Service d&#x02019;h&#x000E9;matologie clinique, H&#x000F4;pital militaire d&#x02019;instruction Mohamed V, Rabat, Maroc</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1039</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1039</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Philadelphia or BCR-ABL positive acute lymphoblastic leukemia (PH+ ALL) is the most common and severe of adult ALL. The only potentially curator treatment remains allogeneic hematopoietic stem cells transplantation (SCT) in first complete remission. The use of imatinib has revolutionized the treatment of chronic myeloid leukemia. Its incorporation into PH + ALL protocols also improved the prognosis of this disease giving better complete remission rates compared to chemotherapy alone. The treatment of patients not eligible for SCT remains controversial. Prolonged use of high dose tyrosine kinase inhibitors (TKI) (ie: imatinib at 600 or 800&#x000A0;mg/j) as maintenance therapy seems to be a reasonable approach. We present a case of prolonged molecular remission of PH+ ALL under TKI alone as maintenance therapy.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">hematopoetic stem cell transplantation</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Bcr-Abl + ALL</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">prolonged molecular remission</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Free thyroxine immunoassay: analytical review</ArticleTitle>
+		<VernacularTitle>L&#x02019;immunodosage de la thyroxine libre&#x000A0;: mise &#x000E0; jour analytique</VernacularTitle>
+		<FirstPage>199</FirstPage>
+		<LastPage>211</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Radhouene</FirstName>
+				<LastName>Doggui</LastName>
+				<Affiliation>Laboratoire de surveillance et &#x000E9;pid&#x000E9;miologie nutritionnelles en Tunisie (SURVEN), Institut national de nutrition et de technologie alimentaire, Tunis, Tunisie</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jacques</FirstName>
+				<LastName>Ingrand</LastName>
+				<Affiliation>Acorata, Unit&#x000E9; de formation continue, Sajas, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1031</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1031</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Thyroid hormones assays (T4 and T3) are limited to the free forms with hormonal activity, the only ones useful for the assessment of thyroid function. Free thyroxine assays are part of prescribed parameters by the physician once known plasma TSH concentration. A reference method exists, but immunoassays are the most commonly technics used in current practice. After a reminder of the iodothyronine biochemistry and physiology, the authors discuss preanalytical and analytical steps in detail, focusing on the possible pitfalls.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">thyroid hormones</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">immunoassay</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">thyreostimulin</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Immunoanalytical profile of free tri-iodothyronine</ArticleTitle>
+		<VernacularTitle>Profil immunoanalytique de la tri-iodothyronine libre</VernacularTitle>
+		<FirstPage>212</FirstPage>
+		<LastPage>220</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Radhouene</FirstName>
+				<LastName>Doggui</LastName>
+				<Affiliation>Laboratoire de surveillance et &#x000E9;pid&#x000E9;miologie nutritionnelles en Tunisie (Surven), Institut national de nutrition et de technologie alimentaire, Tunis, Tunisie</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jacques</FirstName>
+				<LastName>Ingrand</LastName>
+				<Affiliation>Unit&#x000E9; de formation continue Acorata, Sajas, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1033</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1033</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Tri-iodothyronine (T3) is the active form of thyroid hormone at the nuclear cell level. About 80% of tri-iodothyronine is produced by peripheral deiodination of thyroxine. The determination of the free form of this hormone is useful for the diagnosis and the follow-up of hyperthyroidism. In routine clinical laboratories, immunoassays remain the most used technics. After recalling the main points related to the physiological data, the authors point out the possible errors during the analytical steps of the assay</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">thyroid hormones</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">tri-iodothyronine</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">hyperthyroidism</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">immunoassay</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>TSH-receptor antibodies: immunoanalytical characteristics</ArticleTitle>
+		<VernacularTitle>Les anticorps anti-r&#x000E9;cepteur de la TSH&#x000A0;: caract&#x000E9;ristiques immunoanalytiques</VernacularTitle>
+		<FirstPage>221</FirstPage>
+		<LastPage>224</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Catherine</FirstName>
+				<LastName>Massart</LastName>
+				<Affiliation>Unit&#x000E9; fonctionnelle d&#x02019;hormonologie, Service de biochimie, Inserm 1414, Centre d&#x02019;investigation clinique, CHU Pontchaillou, Rennes, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2014.1024</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2014.1024</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Besides the main biochemical characteristics of anti TSH-receptor antibodies, this paper points out the optimal conditions for their assays and the interpretation of results.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">anti TSH-receptor antibody</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">pre- and post-analytical performances</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">immunoassay</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Guidelines for certification of Activated clotting time (ACT) according to the EN ISO 22870 standards</ArticleTitle>
+		<VernacularTitle>Recommandations pour l&#x02019;accr&#x000E9;ditation de l&#x02019;Activated clotting time (ACT) pour la surveillance de l&#x02019;anticoagulation par l&#x02019;h&#x000E9;parine non fractionn&#x000E9;e selon la norme EN ISO 22870</VernacularTitle>
+		<FirstPage>225</FirstPage>
+		<LastPage>254</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Dominique</FirstName>
+				<LastName>Lasne</LastName>
+				<Affiliation>Laboratoire d&#x02019;h&#x000E9;matologie, H&#x000F4;pital Necker, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Anne</FirstName>
+				<LastName>Bauters</LastName>
+				<Affiliation>Laboratoire d&#x02019;h&#x000E9;matologie A, H&#x000F4;pital cardiologique, Lille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Agn&#x000E8;s</FirstName>
+				<LastName>Le Querrec</LastName>
+				<Affiliation>Laboratoire d&#x02019;h&#x000E9;matologie, CHU C&#x000F4;te de Nacre, Caen, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Carole</FirstName>
+				<LastName>Bourdin</LastName>
+				<Affiliation>Laboratoire d&#x02019;h&#x000E9;matologie, H&#x000F4;pital Necker, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sophie</FirstName>
+				<LastName>Voisin</LastName>
+				<Affiliation>Laboratoire d&#x02019;h&#x000E9;matologie, H&#x000F4;pital Rangueil, Toulouse, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1035</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1035</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Point of care testing (POCT) must comply with regulatory requirements according to standard EN ISO 22870, which identify biologists as responsible for POCT. Activated clotting time (ACT) is mandatory to monitor on whole blood, anticoagulation achieved by unfractionated heparin during cardiopulmonary bypass (CPB) or cardiac catheterization. This test has no equivalent in the laboratory. With the aim to help the multidisciplinary groups for POCT supervision when they have to analyse the wish of medical departments to use ACT and to help the biologists to be in accordance with the standard, we present the guidelines of the GEHT (Groupe d&#x02019;&#x000E9;tude d&#x02019;h&#x000E9;mostase et thrombose) subcommittee &#x0201C;CEC et Biologie d&#x000E9;localis&#x000E9;e&#x0201D; for the certification of ACT. These guidelines are based on the SFBC guidelines for the certification of POCT and on the analysis of the literature to ascertain the justification of clinical need and assess the analytical performance of main analyzers used in France, as well as on a survey conducted with French and Belgian biologists.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">activated clotting time</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">ACT</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">point of care testing</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">EN ISO 22&#x000A0;870 standard</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Annales de Biologie Clinique</JournalTitle>
+			<Issn>0003-3898</Issn>
+			<Volume>73</Volume>
+			<Issue>2</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2015</Year>
+				<Month>04</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<ArticleTitle>Measurements of PSA and of vitamin D: a period of 3-months of use of special forms based on the guidelines of the Haute autorit&#x000E9; de sant&#x000E9; shows a clear improvement of prescription behaviors</ArticleTitle>
+		<VernacularTitle>Dosages de PSA et de vitamine D&#x000A0;: nette am&#x000E9;lioration des pratiques professionnelles apr&#x000E8;s 3 mois d&#x02019;utilisation de formulaires sp&#x000E9;ciaux fond&#x000E9;s sur les recommandations de la HAS</VernacularTitle>
+		<FirstPage>255</FirstPage>
+		<LastPage>258</LastPage>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Joseph</FirstName>
+				<LastName>Watine</LastName>
+				<Affiliation>H&#x000F4;pital de la Chartreuse, Villefranche-de-Rouergue, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">abc.2015.1038</ArticleId>
+			<ArticleId IdType="doi">10.1684/abc.2015.1038</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>In France practice guidelines of the Haute Autorit&#x000E9; de sant&#x000E9; (HAS) are not implemented as often as they should. As a consequence resources are wasted that could be useful elsewhere. In Avril 2014 prescription-forms were introduced in our hospital for PSA and for vitamin-D. If those forms were not filled-in by the physicians, then PSA and vitamin-D were not measured any more by our laboratory. PSA was measured in only two circumstances: therapeutic follow-up of, or screening for, prostate cancer. Patients had to give their formal consent for being screened with PSA. Vitamin-D was measured in the only six circumstances recommended by the HAS. After a few months of use of these two forms we observe a sharp decrease in PSA, and even more so in vitamin D, measurements. Our prescription-forms&#x02019; legitimacy is high because they are based on governmental guidelines. All the more since the values that are promoted in these guidelines clearly cover the four core principles of bioethics, that is beneficence, non-malevolence, respect for the patient&#x00027;s autonomy (particularly for PSA) and equity. Our results need to be confirmed over a longer period of time, and to be analysed in more detail, particularly regarding the way consent forms are filled-in by the patients.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">vitamin D</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">PSA</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">recommendations</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">quality of care</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">bioethics</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+
+</ArticleSet>

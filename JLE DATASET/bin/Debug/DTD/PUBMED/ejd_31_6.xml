@@ -1,0 +1,2335 @@
+<?xml version="1.0"?><!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd"><ArticleSet>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107067</Replaces>
+		<ArticleTitle>Merkel cell carcinoma: an updated overview of clinico-pathological aspects, molecular genetics and therapy</ArticleTitle>
+		<FirstPage>691</FirstPage>
+		<LastPage>701</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Emi</FirstName>
+				<LastName>Dika</LastName>
+				<Affiliation>Division of Dermatology, IRCCS Policlinico di Sant&#x02019;Orsola, via Massarenti 9, Bologna- Italy, Division of Dermatology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, Bologna, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Cristina</FirstName>
+				<LastName>Pellegrini</LastName>
+				<Affiliation>Dermatology, Department of Biotechnological and Applied Clinical Science, University of L&#x02019;Aquila, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Martina</FirstName>
+				<LastName>Lambertini</LastName>
+				<Affiliation>Division of Dermatology, IRCCS Policlinico di Sant&#x02019;Orsola, via Massarenti 9, Bologna- Italy, Division of Dermatology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, Bologna, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Annalisa</FirstName>
+				<LastName>Patrizi</LastName>
+				<Affiliation>Division of Dermatology, IRCCS Policlinico di Sant&#x02019;Orsola, via Massarenti 9, Bologna- Italy, Division of Dermatology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, Bologna, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alessandra</FirstName>
+				<LastName>Ventura</LastName>
+				<Affiliation>Dermatology, Department of Biotechnological and Applied Clinical Science, University of L&#x02019;Aquila, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Carlotta</FirstName>
+				<LastName>Baraldi</LastName>
+				<Affiliation>Division of Dermatology, IRCCS Policlinico di Sant&#x02019;Orsola, via Massarenti 9, Bologna- Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ludovica</FirstName>
+				<LastName>Cardelli</LastName>
+				<Affiliation>Dermatology, Department of Biotechnological and Applied Clinical Science, University of L&#x02019;Aquila, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Martina</FirstName>
+				<LastName>Mussi</LastName>
+				<Affiliation>Division of Dermatology, IRCCS Policlinico di Sant&#x02019;Orsola, via Massarenti 9, Bologna- Italy, Division of Dermatology, Department of Experimental, Diagnostic and Specialty Medicine (DIMES), University of Bologna, Bologna, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Maria Concetta</FirstName>
+				<LastName>Fargnoli</LastName>
+				<Affiliation>Dermatology, Department of Biotechnological and Applied Clinical Science, University of L&#x02019;Aquila, Italy</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4170</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4170</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Merkel cell carcinoma (MCC) is a rare cutaneous neuroendocrine carcinoma of uncertain origin. MCC incidence varies by country and has been increasing among white populations over the last three decades. MCC occurs most commonly in elderly men and typically arises on sun-exposed areas. It is associated with a high mortality rate due to rapid growth and significant metastatic potential. Clinical and histopathological diagnosis are challenging, but prompt recognition of the disease is imperative for a correct management. Several hypotheses have been proposed to define the cell of origin, which still remains controversial. The discovery of Merkel cell polyoma virus, identified in the majority of MCCs, led to the hypothesis of the existence of two tumour subtypes showing biological, clinico-pathological and prognostic differences. Significant interest is nowadays directed to characterize MCC genomic alterations and microRNA (miRNA) expression profiles. Current treatment strategies for MCC depend on staging, and typically consist of surgery, radiation therapy, chemotherapy and/or, more recently, immunotherapy. The aim of this review is to provide an updated overview of MCC with a special focus on clinico-pathological aspects, molecular-genetics and therapy.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">Merkel cell carcinoma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">microRNAs</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">molecular genetics</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">immunotherapy</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">33337331</Replaces>
+		<ArticleTitle>Contact pemphigus: does it exist?</ArticleTitle>
+		<FirstPage>702</FirstPage>
+		<LastPage>704</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Razvigor</FirstName>
+				<LastName>Darlenski</LastName>
+				<Affiliation>Department of Dermatology and Venereology, Acibadem City clinic Tokuda Hospital - Sofia, Department of Dermatology and Venereology, Medical Faculty, Trakia University- Stara Zagora, Bulgaria</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jana</FirstName>
+				<LastName>Kazandjieva</LastName>
+				<Affiliation>Department of Dermatology and Venereology, Medical Faculty, Medical University- Sofia, Bulgaria</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Nikolai</FirstName>
+				<LastName>Tsankov</LastName>
+				<Affiliation>Department of Dermatology and Venereology, Acibadem City clinic Tokuda Hospital - Sofia</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2020.3916</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2020.3916</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>The entity &#x0201C;contact pemphigus&#x0201D; has been recognized for more than 50 years, however existence of the disease, which is opposed and supported by many, is questionable. Contact pemphigus is defined as pemphigus occurring at the site of local skin contact with different chemicals. Many products have been disclosed as aetiological factors such as pesticides, topical drugs (imiquimod, ketoprofen, phenol, bezoin, polymyxin B sulphate, neomycin and bacitracin), cosmetics, garlic and others. This paper summarizes the current knowledge on contact pemphigus and the chemicals responsible for its aetiology, with an emphasis on mechanisms that may elicit the disease.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">contact pemphigus</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">chemical</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">aetiological factor</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">mechanism</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107068</Replaces>
+		<ArticleTitle>Microstructural comparative analysis of calcification patterns in calciphylaxis versus arteriolosclerotic ulcer of Martorell</ArticleTitle>
+		<FirstPage>705</FirstPage>
+		<LastPage>711</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Julia</FirstName>
+				<LastName>Deinsberger</LastName>
+				<Affiliation>Skin and Endothelium Research Division (SERD), Department of Dermatology, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria, Disease Modeling and Organoid Technology (DMOT) Research Group, Department of Dermatology, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria, Department of Dermatology, Vienna General Hospital, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Stefani</FirstName>
+				<LastName>Sirovina</LastName>
+				<Affiliation>Skin and Endothelium Research Division (SERD), Department of Dermatology, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria, Disease Modeling and Organoid Technology (DMOT) Research Group, Department of Dermatology, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria, Division of Biomedical Science, University of Applied Sciences FH Campus Wien, Favoritenstra&#x000DF;e 226, 1100 Vienna, Austria</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sophie</FirstName>
+				<LastName>Bromberger</LastName>
+				<Affiliation>Skin and Endothelium Research Division (SERD), Department of Dermatology, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria, Department of Dermatology, Vienna General Hospital, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Kornelia</FirstName>
+				<LastName>B&#x000F6;hler</LastName>
+				<Affiliation>Department of Dermatology, Vienna General Hospital, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Andreas</FirstName>
+				<LastName>Vychytil</LastName>
+				<Affiliation>Clinical Division of Nephrology and Dialysis, Department of Medicine III, Medical University of Vienna, Vienna, Austria</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Barbara</FirstName>
+				<LastName>Meier-Schiesser</LastName>
+				<Affiliation>Department of Dermatology, University Hospital of Zurich, Gloriastrasse 31, 8091 Zurich, Switzerland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Peter</FirstName>
+				<LastName>Petzelbauer</LastName>
+				<Affiliation>Skin and Endothelium Research Division (SERD), Department of Dermatology, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria, Department of Dermatology, Vienna General Hospital, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Helmut</FirstName>
+				<LastName>Beltraminelli</LastName>
+				<Affiliation>Department of Dermatology, Inselspital Bern University Hospital, University of Bern, Freiburgstrasse 34, 3010 Bern, Switzerland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">J&#x000FC;rg</FirstName>
+				<LastName>Hafner</LastName>
+				<Affiliation>Department of Dermatology, University Hospital of Zurich, Gloriastrasse 31, 8091 Zurich, Switzerland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Benedikt</FirstName>
+				<LastName>Weber</LastName>
+				<Affiliation>Skin and Endothelium Research Division (SERD), Department of Dermatology, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria, Disease Modeling and Organoid Technology (DMOT) Research Group, Department of Dermatology, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria, Department of Dermatology, Vienna General Hospital, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4182</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4182</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Calciphylaxis and the arteriolosclerotic ulcer of Martorell (ASUM) represent two entities of cutaneous calcific arteriolopathies. Their differential diagnosis can be challenging, given similarities in their clinical and histological presentation. Calcification patterns have been proposed as a possible discriminative histological criterion, however, a systematic microstructural comparative analysis is lacking. Objectives: The study aimed at a systematic comparative microstructural analysis of the calcification patterns in calciphylaxis versus ASUM. Materials &#38; Methods: Skin biopsies of patients with leg ulcers due to calciphylaxis (20) and ASUM (69) diagnosed at three European wound care centres (Vienna, Bern, Zurich) were included. The extent of calcification, arteriolar calcification pattern and presence of extra-arteriolar calcification were assessed. Results: All calciphylaxis and most ASUM patients (77%) presented with arteriolar calcification. Although the mean number of calcified vessels and the proportion of calcified area were significantly higher in calciphylaxis specimens (p&#x02009;=&#x02009;0.003 and p&#x02009;=&#x02009;0.0171), there was no significant difference in the pattern of arteriolar calcification (p&#x02009;=&#x02009;0.177). Interestingly, extra-arteriolar calcification was detected in the majority of both calciphylaxis (93.3%) and ASUM samples (85.2%, p&#x02009;=&#x02009;0.639). Notably, Alizarin Red S staining was superior to H&#38;E for the detection of calcifications of both entities (p&#x02009;=&#x02009;0.014 and p&#x02009;&#60;&#x02009;0.0001), and to von Kossa staining for ASUM samples (p&#x02009;=&#x02009;0.0001). However, no differences could be observed between cases with uraemic and non-uraemic calciphylaxis or ulcerations located on the upper and lower leg. Conclusion: Our results indicate that extra-arteriolar calcification is not only present in calciphylaxis, but can also be detected in ASUM suggesting a lack of specificity for this finding. However, more specific calcification stains, such as Alizarin Red S, should be used in suspected cases, as calcifications may be overlooked using conventional H&#38;E staining.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">vascular calcification</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">arteriolopathy</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">calciphylaxis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">arteriolosclerosis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">leg ulcer</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34427560</Replaces>
+		<ArticleTitle>The association between immunosuppression and skin cancer in solid organ transplant recipients: a control-matched cohort study of 2,852 patients</ArticleTitle>
+		<FirstPage>712</FirstPage>
+		<LastPage>721</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">John A. G.</FirstName>
+				<LastName>Gibson</LastName>
+				<Affiliation>Reconstructive Surgery &#38; Regenerative Medicine Research Group (ReconRegen), Institute of Life Sciences, Swansea University Medical School, Swansea, UK, The Welsh Centre for Burns and Plastic Surgery, Morriston Hospital, Swansea, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Andrea</FirstName>
+				<LastName>Cordaro</LastName>
+				<Affiliation>Reconstructive Surgery &#38; Regenerative Medicine Research Group (ReconRegen), Institute of Life Sciences, Swansea University Medical School, Swansea, UK, The Welsh Centre for Burns and Plastic Surgery, Morriston Hospital, Swansea, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Thomas D.</FirstName>
+				<LastName>Dobbs</LastName>
+				<Affiliation>Reconstructive Surgery &#38; Regenerative Medicine Research Group (ReconRegen), Institute of Life Sciences, Swansea University Medical School, Swansea, UK, The Welsh Centre for Burns and Plastic Surgery, Morriston Hospital, Swansea, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Rowena</FirstName>
+				<LastName>Griffiths</LastName>
+				<Affiliation>Health Data Research UK, Swansea University, Swansea, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ashley</FirstName>
+				<LastName>Akbari</LastName>
+				<Affiliation>Health Data Research UK, Swansea University, Swansea, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sairan</FirstName>
+				<LastName>Whitaker</LastName>
+				<Affiliation>Department of Dermatology, Singleton Hospital, Swansea, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Hayley A.</FirstName>
+				<LastName>Hutchings</LastName>
+				<Affiliation>Patient and Population Health and Informatics Research, Swansea University Medical School, Sansea, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ronan A.</FirstName>
+				<LastName>Lyons</LastName>
+				<Affiliation>Health Data Research UK, Swansea University, Swansea, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Iain S.</FirstName>
+				<LastName>Whitaker</LastName>
+				<Affiliation>Reconstructive Surgery &#38; Regenerative Medicine Research Group (ReconRegen), Institute of Life Sciences, Swansea University Medical School, Swansea, UK, The Welsh Centre for Burns and Plastic Surgery, Morriston Hospital, Swansea, UK</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4108</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4108</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Skin cancer is more common in transplant recipients, although the quoted incidence is variable. This study investigated the incidence of skin cancer in solid organ transplant recipients (OTRs) in a national cohort and the effect of pharmacotherapeutic agents Transplant patients were identified from Patient Episode Database for Wales (PEDW) using Office of Population Census and Surveys Classifications of Interventions and Procedures-4 (OPCS-4) codes. Controls were matched to cases according to age, sex and socioeconomic status. Skin cancer data were obtained from linkage with other national data sources. Incidence was calculated per 100,000 person-years at risk (PYAR). Negative binomial regression was used to calculate adjusted incidence rate ratios (IRRs) for each organ type. During 2000-2018, 2,852 Welsh patients underwent solid organ transplantation. A total of 13,527 controls were matched from the general population. The incidence of skin cancer within the OTR cohort was 1203.2 per 100,000 PYAR vs 133.9 in the matched control group. Age, male gender and azathioprine use were all associated with an increased risk of skin cancer. Contemporary immunomodulators such as tacrolimus and mycophenolate were associated with a reduction in skin cancer risk when compared to their predecessors, cyclosporin and azathioprine. The highest adjusted IRR was observed in heart transplant recipients (IRR: 10.82; 95%&#x000A0;CI: 3.64-32.19) and the lowest in liver transplant recipients (IRR: 2.86; 95%&#x000A0;CI: 1.15-7.13). This study highlights the need for long-term routine skin cancer surveillance for all OTRs and the importance of using contemporary immunomodulators, when possible, for risk reduction.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">skin cancer</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">immunosuppression</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">transplant</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">oncology</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34726161</Replaces>
+		<ArticleTitle>Psoriasis and addiction: assessing mental health based on a cross-sectional study in Germany</ArticleTitle>
+		<FirstPage>722</FirstPage>
+		<LastPage>729</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Maximilian C.</FirstName>
+				<LastName>Schielein</LastName>
+				<Affiliation>Technical University of Munich, School of Medicine, Department of Dermatology and Allergy, Munich, Germany, Department of Medical Informatics, Biometry and Epidemiology (IBE), Ludwig-Maximilians-University, Munich, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Linda</FirstName>
+				<LastName>Tizek</LastName>
+				<Affiliation>Technical University of Munich, School of Medicine, Department of Dermatology and Allergy, Munich, Germany, Department of Medical Informatics, Biometry and Epidemiology (IBE), Ludwig-Maximilians-University, Munich, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lisanne</FirstName>
+				<LastName>Knobloch</LastName>
+				<Affiliation>Benedictus Hospital, Department of Neurology, Tutzing, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Dirk</FirstName>
+				<LastName>Maa&#x000DF;en</LastName>
+				<Affiliation>Psoriasis Pratice Network South-West, Maxdorf, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Tilo</FirstName>
+				<LastName>Biedermann</LastName>
+				<Affiliation>Technical University of Munich, School of Medicine, Department of Dermatology and Allergy, Munich, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alexander</FirstName>
+				<LastName>Zink</LastName>
+				<Affiliation>Technical University of Munich, School of Medicine, Department of Dermatology and Allergy, Munich, Germany</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4146</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4146</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Psoriasis is a chronic skin disease with a high mental burden. Well-known comorbidities include depression, anxiety, as well as alcohol and tobacco addiction, however, there is barely any evidence on other addictions. The aim of this study was to estimate the prevalence of the six most common addictions among psoriasis patients in Germany and to determine associated clinical factors. Dermatologists working in four dermatological clinics and 32 practices across Germany recruited patients between September 2018 and November 2019. This cross-sectional study contained questionnaires on six addictions, depression, anxiety, and the Dermatology Life Quality Index (DLQI). In addition, scores for the Psoriasis Area and Severity Index (PASI) were obtained by physicians. Overall, 502 patients (43.4% women; mean age: 49.7&#x02009;&#x000B1;&#x02009;14.6 years) were included. Positive addictions were found in 30.3% for daily smoking, 8.6% for alcohol, 1.2% for gambling, 3.8% for internet use, 3.6% for food, and 6.0% for drugs. Younger age was associated with a higher probability of addiction except for alcohol dependency. The PASI was only significantly associated with smoking. Addictions seem to be common among psoriasis patients. Further research should include comprehensive data and control groups, furthermore, standardised screenings and early referrals could represent first steps to improve people-centred healthcare for patients with psoriasis.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">addiction medicine</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">comorbidity</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">epidemiology</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">mental health</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">psoriasis</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34789442</Replaces>
+		<ArticleTitle>Quality management of cutaneous melanoma: impact on short-term outcomes and costs</ArticleTitle>
+		<FirstPage>730</FirstPage>
+		<LastPage>735</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Alessandra</FirstName>
+				<LastName>Buja</LastName>
+				<Affiliation>Department of Cardiologic, Vascular, and Thoracic Sciences and Public Health, University of Padova, Padova, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Giuseppe</FirstName>
+				<LastName>De Luca</LastName>
+				<Affiliation>Department of Cardiologic, Vascular, and Thoracic Sciences and Public Health, University of Padova, Padova, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Manuel</FirstName>
+				<LastName>Zorzi</LastName>
+				<Affiliation>Veneto Tumor Registry, Azienda Zero, Padova, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Eva</FirstName>
+				<LastName>Carpin</LastName>
+				<Affiliation>Veneto Tumor Registry, Azienda Zero, Padova, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Carlo</FirstName>
+				<LastName>Pinato</LastName>
+				<Affiliation>Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology - IOV IRCCS, Padua, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Antonella</FirstName>
+				<LastName>Vecchiato</LastName>
+				<Affiliation>Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology - IOV IRCCS, Padua, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Paolo</FirstName>
+				<LastName>Del Fiore</LastName>
+				<Affiliation>Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology - IOV IRCCS, Padua, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alberto</FirstName>
+				<LastName>Bortolami</LastName>
+				<Affiliation>Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology - IOV IRCCS, Padua, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sandro</FirstName>
+				<LastName>Tognazzo</LastName>
+				<Affiliation>Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology - IOV IRCCS, Padua, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Francesca</FirstName>
+				<LastName>Falasco</LastName>
+				<Affiliation>Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology - IOV IRCCS, Padua, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mario</FirstName>
+				<LastName>Saia</LastName>
+				<Affiliation>Azienda Zero, Padova, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Vincenzo</FirstName>
+				<LastName>Baldo</LastName>
+				<Affiliation>Department of Cardiologic, Vascular, and Thoracic Sciences and Public Health, University of Padova, Padova, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Massimo</FirstName>
+				<LastName>Rugge</LastName>
+				<Affiliation>Veneto Tumor Registry, Azienda Zero, Padova, Italy, Department of Medicine (DIMED), Surgical Pathology &#38; Cytopathology Unit, University of Padova, Padova, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Carlo Riccardo</FirstName>
+				<LastName>Rossi</LastName>
+				<Affiliation>Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology - IOV IRCCS, Padua, Italy, Department of Surgery, Oncology and Gastroenterology, University of Padova, Padova, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Simone</FirstName>
+				<LastName>Mocellin</LastName>
+				<Affiliation>Soft-Tissue, Peritoneum and Melanoma Surgical Oncology Unit, Veneto Institute of Oncology - IOV IRCCS, Padua, Italy</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4149</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4149</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Promoting standardization and quality assurance (QA) may guarantee better outcomes for patients and ensure a better allocation of healthcare system resources. The present study tested the association between process quality indicators of the clinical pathway for melanoma and both patient short-term mortality and budget utilization. Specific indicators were selected to assess quality of processes in different phases of the pathway as well as the pathway as a whole. Cox regression models were run for each phase to test the association between adherence to the quality indicator and overall mortality. A Tobit regression analysis was used to identify any association between adherence to the quality indicators and total costs over the two years after melanoma was diagnosed. This retrospective cohort study concerned 1,222 incident cases of melanoma in the Veneto Region (north-east of Italy). Adherence to the clinical pathway as a whole was associated with a significant decrease in risk of death (HR= 0.40; 95%&#x000A0;CI: 0,19 -0,77). Adherence to quality processes in the diagnostic phase (HR= 0.55 95%&#x000A0;CI: 0.31- 0.95) and surgical phase (HR= 0.33 95% CI: 0.16- 0.61) significantly reduced the hazard risk. Tobit regression revealed a significant increase in overall costs for patients who adhered to the whole pathway in comparison with those who did not (&#x003B2;= 2,393.24; p= 0.013). This study suggests that adherence to the quality of management of clinical pathways modifies short-term survival as well as mean cost of care for patients with cutaneous melanoma. Physicians should be encouraged to improve their compliance with clinical care pathways for their melanoma patients, and steadily growing associated costs emphasize the need for policy makers to invest exclusively in treatments of proven efficacy.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">quality assurance</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">quality management</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">quality indicators</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">epidemiology</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">health care costs</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34704942</Replaces>
+		<ArticleTitle>Impact of the COVID-19 pandemic and lockdown on the clinical response to dupilumab treatment and the psychological status of non-infected atopic patients</ArticleTitle>
+		<FirstPage>736</FirstPage>
+		<LastPage>740</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Chiara</FirstName>
+				<LastName>Rovati</LastName>
+				<Affiliation>Dermatology Department, ASST Spedali Civili di Brescia, University of Brescia, Brescia, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mariateresa</FirstName>
+				<LastName>Rossi</LastName>
+				<Affiliation>Dermatology Department, ASST Spedali Civili di Brescia, University of Brescia, Brescia, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alessandra</FirstName>
+				<LastName>Gelmetti</LastName>
+				<Affiliation>Dermatology Department, ASST Spedali Civili di Brescia, University of Brescia, Brescia, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Cesare</FirstName>
+				<LastName>Tomasi</LastName>
+				<Affiliation>Department of Experimental and Applied Medicine, ASST Spedali Civili di Brescia, University of Brescia, Brescia, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Irene</FirstName>
+				<LastName>Calzavara-Pinton</LastName>
+				<Affiliation>Dermatology Department, ASST Spedali Civili di Brescia, University of Brescia, Brescia, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marina</FirstName>
+				<LastName>Venturini</LastName>
+				<Affiliation>Dermatology Department, ASST Spedali Civili di Brescia, University of Brescia, Brescia, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Piergiacomo</FirstName>
+				<LastName>Calzavara-Pinton</LastName>
+				<Affiliation>Dermatology Department, ASST Spedali Civili di Brescia, University of Brescia, Brescia, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mariachiara</FirstName>
+				<LastName>Arisi</LastName>
+				<Affiliation>Dermatology Department, ASST Spedali Civili di Brescia, University of Brescia, Brescia, Italy</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4135</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4135</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Dupilumab is an effective treatment for atopic dermatitis and was found to improve results of clinician- and patient-oriented tests with relevant benefits across multiple domains related to the disease. To investigate the effects of significant psychological stress on clinician- and patient-oriented tests for severe AD patients treated with dupilumab. Patients were investigated before and during the COVID-19 pandemic and lockdown in a severely affected area. Forty-five adult patients suffering from severe AD were enrolled. Clinician-oriented (EASI, SCORAD and NRS scores for sleep loss and itching) and patient-oriented tests (DLQI, POEM and HADS) were administered at baseline (T0) and after 16 (T1) and 24 (T2) weeks. The T2 examination took place just before the outbreak of the COVID-19 pandemic. A further examination took place at 32 weeks (T3) during the COVID-19 pandemic and lockdown. In comparison to baseline, dupilumab treatment rapidly improved the scores of all tests. After this, the pandemic and lockdown started, and scores of clinician-oriented tests remained almost stable, while patient-oriented scores markedly deteriorated, although they remained better than at baseline. Some personal and social situations seemed to be linked to a worse result. Despite dupilumab being effective in inducing and maintaining clinical remission of AD, the COVID-19 pandemic and lockdown significantly impaired patients&#x02019; perception of the disease, quality of life and anxiety and/or depression. However, this psychological status did not modify the therapeutic response to dupilumab.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">COVID-19</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">dupilumab</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">atopic dermatitis</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34911671</Replaces>	
+		<ArticleTitle>Simultaneous positive patch test reactions to neomycin and low-molecular-weight heparins: possible cross-reaction?</ArticleTitle>
+		<FirstPage>741</FirstPage>
+		<LastPage>743</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Thanisorn</FirstName>
+				<LastName>Sukakul</LastName>
+				<Affiliation>Department of Occupational and Environmental Dermatology, Lund University, Sk&#x000E5;ne University Hospital, Malm&#x000F6;, Sweden, Department of Dermatology, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Cecilia</FirstName>
+				<LastName>Svedman</LastName>
+				<Affiliation>Department of Occupational and Environmental Dermatology, Lund University, Sk&#x000E5;ne University Hospital, Malm&#x000F6;, Sweden</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jakob</FirstName>
+				<LastName>Dahlin</LastName>
+				<Affiliation>Department of Occupational and Environmental Dermatology, Lund University, Sk&#x000E5;ne University Hospital, Malm&#x000F6;, Sweden</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ola</FirstName>
+				<LastName>Bergendorff</LastName>
+				<Affiliation>Department of Occupational and Environmental Dermatology, Lund University, Sk&#x000E5;ne University Hospital, Malm&#x000F6;, Sweden</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lena</FirstName>
+				<LastName>Holmstr&#x000F6;m</LastName>
+				<Affiliation>Department of Occupational and Environmental Dermatology, Lund University, Sk&#x000E5;ne University Hospital, Malm&#x000F6;, Sweden</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Magnus</FirstName>
+				<LastName>Bruze</LastName>
+				<Affiliation>Department of Occupational and Environmental Dermatology, Lund University, Sk&#x000E5;ne University Hospital, Malm&#x000F6;, Sweden</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4164</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4164</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: A patient received enoxaparin sodium subcutaneous injections for prophylaxis after surgery and developed inflammatory skin reactions on injection sites on Day 5 after the first administration. Patch test was performed with baseline series and low-molecular-weight heparins (LMWHs) at different concentrations and showed positive reactions to neomycin and LMWHs. Cross-reactivity between neomycin and LMWHs was suspected due to similar structure. Objectives: To establish the evidence of possible cross reaction between neomycin and LMWHs by patch testing. Materials &#38; Methods: Patch testing of 12 individual controls with a history of neomycin contact allergy was performed. Results: Positive patch test reactions to enoxaparin sodium, tinzaparin sodium, and neomycin sulphate were reported in the patients. None of the controls reacted to LMWHs. Conclusion: There was no proof of cross reaction between neomycin and LMWHs in this study, suggesting that the simultaneous reaction may be a coincidence. Since the number of individuals studied was low, allergy to LMWHs following injection in individuals with a history of neomycin allergy should be further investigated.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">allergic contact dermatitis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">drug reaction</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">neomycin</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">low-molecular-weight heparins</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">patch test</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">cross-reaction</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34935620</Replaces>
+		<ArticleTitle>A comprehensive epidemiological study of rosacea in Germany</ArticleTitle>
+		<FirstPage>744</FirstPage>
+		<LastPage>751</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Stephan</FirstName>
+				<LastName>Zierl</LastName>
+				<Affiliation>Department of Dermatology and Allergy, University Hospital of Munich, LMU, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Anne</FirstName>
+				<LastName>Guertler</LastName>
+				<Affiliation>Department of Dermatology and Allergy, University Hospital of Munich, LMU, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Johannes A.</FirstName>
+				<LastName>Hildebrand</LastName>
+				<Affiliation>Department of Dermatology and Allergy, University Hospital of Munich, LMU, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Benjamin M.</FirstName>
+				<LastName>Clanner-Engelshofen</LastName>
+				<Affiliation>Department of Dermatology and Allergy, University Hospital of Munich, LMU, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lars E.</FirstName>
+				<LastName>French</LastName>
+				<Affiliation>Department of Dermatology and Allergy, University Hospital of Munich, LMU, Germany, Dr. Phillip Frost Department of Dermatology and Cutaneous Surgery, Miller School of Medicine, University of Miami, USA</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Markus</FirstName>
+				<LastName>Reinholz</LastName>
+				<Affiliation>Department of Dermatology and Allergy, University Hospital of Munich, LMU, Germany</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4165</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4165</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Rosacea is one of the most common skin diseases causing great distress in affected patients. For optimal patient care, epidemiological studies on disease distribution and clinical aspects are essential. Objectives: The goal of this study was to provide an updated perspective on the current state of rosacea epidemiology in Germany. Materials &#38; Methods: A cohort of 777 rosacea patients was assessed based on a detailed online questionnaire. Information regarding patients&#x02019; demographics, course and clinical presentation of rosacea, trigger factors, dermatological consultations, treatment adherence and satisfaction as well as quality of life were obtained. Results: There was a very high self-reported prevalence of primary and secondary rosacea features (flushing: n&#x02009;=&#x02009;726, 93.4%; papules/pustules: n&#x02009;=&#x02009;613, 79.0%; telangiectasia: n&#x02009;=&#x02009;590, 75.9%; sub jective symptoms: n&#x02009;=&#x02009;691, 88.9%). However, these clinical findings were often underdiagnosed by the treating physicians, while changes in temperature and ultraviolet radiation were potent triggers across all patients (86.3%, 77.7%, respectively). Disease-related quality of life decreased with the number of drugs prescribed as well as with uncontrolled symptom activity, and was reduced in female patients. Conclusion: This study is the largest German-based assessment exclusively focusing on rosacea patients covering a variety of clinical aspects to optimize patient care.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">rosacea</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">epidemiology</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">therapeutic outcome</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">epidemiologic study</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">symptoms</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">therapy</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34935621</Replaces>
+		<ArticleTitle>Symptom burden of patients with moderate-to-severe atopic dermatitis</ArticleTitle>
+		<FirstPage>752</FirstPage>
+		<LastPage>758</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Alexander</FirstName>
+				<LastName>Egeberg</LastName>
+				<Affiliation>Department of Dermatology, Bispebjerg University Hospital, University of Copenhagen, Nielsine Nielsens Vej 9, 2400 Copenhagen, Denmark</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Peter</FirstName>
+				<LastName>Anderson</LastName>
+				<Affiliation>Brand &#38; Scientific Communications, Adelphi Real World, Adelphi Mill, Bollington, Macclesfield, Cheshire SK10 5JB, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">James</FirstName>
+				<LastName>Piercy</LastName>
+				<Affiliation>Health Economics and Outcomes Research, Adelphi Real World, Adelphi Mill, Bollington, Macclesfield, Cheshire SK10 5JB, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lucy</FirstName>
+				<LastName>Massey</LastName>
+				<Affiliation>Statistical Analysis, Adelphi Real World, Adelphi Mill, Bollington, Macclesfield, Cheshire SK10 5JB, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Joseph C.</FirstName>
+				<LastName>Cappelleri</LastName>
+				<Affiliation>Department of Statistics, Pfizer Inc., 445 Eastern Point Road, Groton, CT 06340, USA</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Gerardo A.</FirstName>
+				<LastName>Encinas</LastName>
+				<Affiliation>Emerging Markets, Pfizer Inc., 3930 Braemar Pl, North Vancouver, BC, V7N 4M8 Canada</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Claire</FirstName>
+				<LastName>Feeney</LastName>
+				<Affiliation>Global TA Medical Affairs, Pfizer Ltd, Walton Oaks, Dorking Road, Walton-on-the-Hill, Tadworth, Surrey KT20 7NS, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marco</FirstName>
+				<LastName>Dibonaventura</LastName>
+				<Affiliation>Health Economics and Outcomes Research, Pfizer Inc., 235 East 42nd Street, New York, NY 10017, USA</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4166</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4166</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Atopic dermatitis (AD) is a chronic inflammatory skin disease associated with intense and persistent pruritus. Objectives: To examine associations between AD symptoms and health-related quality of life (HRQoL) in adults (aged &#x02265;18 years) with moderate-to-severe AD. Materials &#38; Methods: Patient chart and survey data from physicians within Europe were derived from the Adelphi AD Disease Specific Programme (Q3 2019-Q2 2020). HRQoL measures included Euro-Qol 5-dimension, 3-level, questionnaire; Dermatology Life Quality Index; and Work Productivity and Activity Impairment&#x02212;Atopic Dermatitis questionnaire. Data were evaluated using descriptive statistics and generalized linear models. Results: Of 631 patients, 90.1%, 49.3%, 18.5% and 17.7% reported pruritus, sleep disruption, anxiety and depression, respectively. Adjusted analyses indicated an increased frequency of symptoms associated with worse HRQoL and greater work/activity impairments, particularly for patients with pruritus and sleep disruption. Conclusion: Reductions in symptom frequency may have important implications for improving the overall health of patients with moderate-to-severe AD.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">atopic dermatitis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">burden</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">health-related quality-of-life</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34911675</Replaces>
+		<ArticleTitle>Marjolin ulcers after cultured epidermal autograft in severely burned patients: a rare case series and literature review</ArticleTitle>
+		<VernacularTitle>Marjolin ulcers after cultured epidermal autograft in severely burned patients: a rare case series and literature review</VernacularTitle>
+		<FirstPage>759</FirstPage>
+		<LastPage>770</LastPage>
+		<Language>FR</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Arnaud</FirstName>
+				<LastName>Baus</LastName>
+				<Affiliation>Plastic and reconstructive surgery Burn Unit, Percy military Hospital, Clamart, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Chafik</FirstName>
+				<LastName>Keilani</LastName>
+				<Affiliation>Plastic and reconstructive surgery Burn Unit, Percy military Hospital, Clamart, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Florence</FirstName>
+				<LastName>Brunet-Possenti</LastName>
+				<Affiliation>Department of Dermatology, Bichat Hospital, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Claire</FirstName>
+				<LastName>Sophie Bich</LastName>
+				<Affiliation>Plastic and reconstructive surgery Burn Unit, Percy military Hospital, Clamart, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lydia</FirstName>
+				<LastName>Deschamps</LastName>
+				<Affiliation>Pathology department, Bichat Hospital, Paris, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Michel</FirstName>
+				<LastName>Brachet</LastName>
+				<Affiliation>Plastic and reconstructive surgery Burn Unit, Percy military Hospital, Clamart, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Eric</FirstName>
+				<LastName>Bey</LastName>
+				<Affiliation>Plastic and reconstructive surgery Burn Unit, Percy military Hospital, Clamart, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Patrick</FirstName>
+				<LastName>Duhamel</LastName>
+				<Affiliation>Plastic and reconstructive surgery Burn Unit, Percy military Hospital, Clamart, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4174</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4174</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>The advent of tissue engineering and the clinical applications with cultured epidermal autograft (CEA) have improved the prognosis of severely burned patients. Marjolin ulcers (MUs) are a well-known complication of burns. These malignant neoplasm transformations of burn scars are usually squamous cell carcinomas with a higher incidence of regional metastases. Radical surgery remains the treatment of choice. To identify cases of malignant transformation occurring at sites of CEA in a cohort of 68 massively burned patients. A retrospective single-centre study was performed from April 2017 to June 2019 at the Military Hospital of Clamart (France). A total of 34 patients treated between 1991 and 2013 (including one post-mortem) were included. Four cases of squamous cell carcinoma occurred in areas previously covered by CEA. The data from clinical and histopathological examination as well as treatment modalities are presented. One patient died as a result of the evolution of his squamous cell carcinoma, and two others required salvage amputation due to locoregional recurrence. The prevalence of these CEA-MUs is estimated at between 5.9% and 11.7% and the person-time incidence rate of CEA-related MUs is about 5.9 per 1,000 persons-years. In our study, the average time to malignant transformation seems considerably shortened (32-35 years for &#x0201C;classic burn MU&#x0201D; versus 15.7 years for CEA-MU). This first documented case series of CEA-MUs demonstrates the need to inform caregivers and educate patients. Further studies are needed to specify the true incidence of CEA-graft site malignancy.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">cultured epidermal autograft</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">massive burns</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">graft site malignancy</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Marjolin ulcer</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">verrucous squamous cell carcinoma</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107069</Replaces>
+		<ArticleTitle>Clinical ABCDE rule for early melanoma detection</ArticleTitle>
+		<FirstPage>771</FirstPage>
+		<LastPage>778</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Ana F.</FirstName>
+				<LastName>Duarte</LastName>
+				<Affiliation>Centro de Dermatologia Epidermis, Instituto CUF, Porto, Portugal, CINTESIS - Centre for Health Technology and Services Research, University of Porto, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Bernardo</FirstName>
+				<LastName>Sousa-Pinto</LastName>
+				<Affiliation>CINTESIS - Centre for Health Technology and Services Research, University of Porto, Portugal, MEDCIDS - Department of Community Medicine, Information and Health Decision Sciences, Faculty of Medicine, University of Porto, Portugal, Basic and Clinical Immunology Unit, Department of Pathology, Faculty of Medicine, University of Porto, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lu&#x000ED;s F.</FirstName>
+				<LastName>Azevedo</LastName>
+				<Affiliation>CINTESIS - Centre for Health Technology and Services Research, University of Porto, Portugal, MEDCIDS - Department of Community Medicine, Information and Health Decision Sciences, Faculty of Medicine, University of Porto, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ana M.</FirstName>
+				<LastName>Barros</LastName>
+				<Affiliation>Centro de Dermatologia Epidermis, Instituto CUF, Porto, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Susana</FirstName>
+				<LastName>Puig</LastName>
+				<Affiliation>Dermatology Department, Hospital Clinic de Barcelona, Universitat de Barcelona, IDIBAPS, Barcelona, Spain &#38; Centro de Investigaci&#x000F3;n Biom&#x000E9;dica en Red de Enfermedades Raras (CIBERER), Instituto de Salud Carlos III, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Josep</FirstName>
+				<LastName>Malvehy</LastName>
+				<Affiliation>Dermatology Department, Hospital Clinic de Barcelona, Universitat de Barcelona, IDIBAPS, Barcelona, Spain &#38; Centro de Investigaci&#x000F3;n Biom&#x000E9;dica en Red de Enfermedades Raras (CIBERER), Instituto de Salud Carlos III, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Eckart</FirstName>
+				<LastName>Haneke</LastName>
+				<Affiliation>Centro de Dermatologia Epidermis, Instituto CUF, Porto, Portugal, Department of Dermatology, Inselspital, University of Bern, Bern, Switzerland, Dermatology Clinic Dermaticum, Freiburg, Germany, Department of Dermatology, University of Ghent, Ghent, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Osvaldo</FirstName>
+				<LastName>Correia</LastName>
+				<Affiliation>Centro de Dermatologia Epidermis, Instituto CUF, Porto, Portugal, CINTESIS - Centre for Health Technology and Services Research, University of Porto, Portugal, Basic and Clinical Immunology Unit, Department of Pathology, Faculty of Medicine, University of Porto, Portugal</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4171</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4171</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: The ABCDE rule systematizes warning signs for malignant melanoma (MM). Objectives: To evaluate whether the ABCDE signs are associated with early detection of MM. Materials &#38; Methods: Based on a retrospective study over 11.5 years, we assessed whether ABCDE signs are associated with early diagnosis of MM. Results: In total, 144 MM were included; 52 (36.1%) in situ and 92 (63.9%) invasive lesions. For 23.6%, the MM were first suspected by an individual other than a dermatologist. The &#x0201C;E sign&#x0201D; was significantly less frequent among in situ lesions (32.7% versus 50.0%; p&#x02009;=&#x02009;0.044). Based on adjusted analyses, the probability of MM being first suspected by a non-dermatologist consistently increased with the number of ABCDE signs of the lesion, ranging from 8% for a neoplasm with no ABCDE signs to 32% for a lesion with five signs (OR&#x02009;=&#x02009;1.6; 95%&#x000A0;CI: 1.2-2.2; p&#x02009;=&#x02009;0.004). Conclusion: A higher number of ABCDE signs were associated with a greater chance of MM being first suspected by a non-dermatologist, but not in situ MM diagnosis. Relying on the ABCDE rule alone might result in missing early MM lesions.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">malignant melanoma (MM)</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">ABCDE rule</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">early detection</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">non-dermatologist</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34933836</Replaces>
+		<ArticleTitle>How to spot a basosquamous carcinoma: a study on demographics, clinical-dermatoscopic features and histopathological correlations</ArticleTitle>
+		<FirstPage>779</FirstPage>
+		<LastPage>784</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Dimitrios</FirstName>
+				<LastName>Sgouros</LastName>
+				<Affiliation>2nd Department of Dermatology-Venereology, &#x0201C;Attikon&#x0201D; General University Hospital, National and Kapodistrian University of Athens, Medical School, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Zoe</FirstName>
+				<LastName>Apalla</LastName>
+				<Affiliation>State Clinic of Dermatology, Hospital for Skin and Venereal Diseases, Thessaloniki, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Melpomeni</FirstName>
+				<LastName>Theofili</LastName>
+				<Affiliation>2nd Department of Dermatology-Venereology, &#x0201C;Attikon&#x0201D; General University Hospital, National and Kapodistrian University of Athens, Medical School, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Vasileia</FirstName>
+				<LastName>Damaskou</LastName>
+				<Affiliation>2nd Department of Pathology, &#x0201C;Attikon&#x0201D; General University Hospital, National and Kapodistrian University of Athens, Medical School, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Georgios</FirstName>
+				<LastName>Kokkalis</LastName>
+				<Affiliation>2nd Department of Dermatology-Venereology, &#x0201C;Attikon&#x0201D; General University Hospital, National and Kapodistrian University of Athens, Medical School, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Eftichia</FirstName>
+				<LastName>Kitsiou</LastName>
+				<Affiliation>2nd Department of Dermatology-Venereology, &#x0201C;Attikon&#x0201D; General University Hospital, National and Kapodistrian University of Athens, Medical School, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Aimilios</FirstName>
+				<LastName>Lallas</LastName>
+				<Affiliation>First Department of Dermatology, Aristotle University, Thessaloniki, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Antonios</FirstName>
+				<LastName>Kanelleas</LastName>
+				<Affiliation>2nd Department of Dermatology-Venereology, &#x0201C;Attikon&#x0201D; General University Hospital, National and Kapodistrian University of Athens, Medical School, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alexander</FirstName>
+				<LastName>Stratigos</LastName>
+				<Affiliation>1st Department of Dermatology-Venereology, Andreas Sygros Hospital, National and Kapodistrian University of Athens School of Medicine, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Christina</FirstName>
+				<LastName>Nikolaidou</LastName>
+				<Affiliation>Pathology Laboratory, Hippokratio General Hospital, Thessaloniki, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mattheos</FirstName>
+				<LastName>Bobos</LastName>
+				<Affiliation>Department of Biomedical Sciences, International Hellenic University, Alexandrian Campus, Sindos, Thessaloniki, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ioannis</FirstName>
+				<LastName>Panayiotides</LastName>
+				<Affiliation>2nd Department of Pathology, &#x0201C;Attikon&#x0201D; General University Hospital, National and Kapodistrian University of Athens, Medical School, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Dimitrios</FirstName>
+				<LastName>Rigopoulos</LastName>
+				<Affiliation>1st Department of Dermatology-Venereology, Andreas Sygros Hospital, National and Kapodistrian University of Athens School of Medicine, Athens, Greece</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alexander</FirstName>
+				<LastName>Katoulis</LastName>
+				<Affiliation>2nd Department of Dermatology-Venereology, &#x0201C;Attikon&#x0201D; General University Hospital, National and Kapodistrian University of Athens, Medical School, Athens, Greece</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4178</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4178</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Basosquamous carcinoma (BSC) is a relatively rare type of neoplasm originating from basal cell carcinoma with features of squamous differentiation. BSC has an aggressive local behaviour with a tendency for recurrence and a less frequent metastatic potential The primary objective was to describe the dermatoscopic features of the tumour. Secondary goals were to detect the morphological features of the tumour along with patients&#x02019; characteristics and to evaluate possible dermatoscopic and histopathological correlations Twenty-two patients with 25 BSCs were enrolled. All tumours were surgically excised and diagnosis was based on histopathology. Clinical and dermatoscopic images were evaluated by two investigators based on pre-defined criteria, and a statistical analysis was performed The median age of the patients was 78 years old (range: 52-88) and the male/female ratio was 2.14. All patients reported history of either occupational (50%) or recreational (50%) intensive sun exposure and 72.73% had signs of actinic keratosis. The most common anatomical site of the tumours was the head/neck area (72%). Clinically, nodular (64%), ulcerated (88%) and non-pigmented (76%) lesions prevailed. Dermatoscopically, 92% had prominent vasculature and monomorphous arborizing vessels with a diffuse arrangement, representing the most frequently observed type. Ulceration (88%), SCC dermatoscopic criteria (56%), white strands/blotches (56%) and features of pigmentation (40%) were also detected We suggest that the most common prototype of BSC is an ulcerated, facial nodule in elderly males with photo-damaged skin, dermatoscopically displaying combined features of mostly nodular BCC and, to a less extent, SCC</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">basosquamous</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">metatypical basal cell carcinoma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">squamous cell carcinoma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">dermatoscopy</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">histopathology</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107070</Replaces>
+		<ArticleTitle>Sequelae following infantile haemangiomas treated with propranolol</ArticleTitle>
+		<FirstPage>785</FirstPage>
+		<LastPage>790</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Eulalia</FirstName>
+				<LastName>Baselga</LastName>
+				<Affiliation>Paediatric Dermatology Department, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">May</FirstName>
+				<LastName>El Hachem</LastName>
+				<Affiliation>Pediatric Dermatology Unit, Bambino Ges&#x000F9; Children&#x00027;s Hospital, IRCCS, Rome, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Andrea</FirstName>
+				<LastName>Diociaiuti</LastName>
+				<Affiliation>Pediatric Dermatology Unit, Bambino Ges&#x000F9; Children&#x00027;s Hospital, IRCCS, Rome, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Claudia</FirstName>
+				<LastName>Carnevale</LastName>
+				<Affiliation>Pediatric Dermatology Unit, Bambino Ges&#x000F9; Children&#x00027;s Hospital, IRCCS, Rome, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Camila</FirstName>
+				<LastName>Downey</LastName>
+				<Affiliation>Paediatric Dermatology Department, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Esther</FirstName>
+				<LastName>Roe</LastName>
+				<Affiliation>Paediatric Dermatology Department, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Patricia</FirstName>
+				<LastName>Mascaro</LastName>
+				<Affiliation>Universitat Aut&#x000F3;noma de Barcelona, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Iria</FirstName>
+				<LastName>Neri</LastName>
+				<Affiliation>Division of Dermatology, Department of Experimental, Diagnostic and Specialty Medicine, University of Bologna, Bologna, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Miriam</FirstName>
+				<LastName>Leuzzi</LastName>
+				<Affiliation>Division of Dermatology, Department of Experimental, Diagnostic and Specialty Medicine, University of Bologna, Bologna, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jos&#x000E9;</FirstName>
+				<LastName>Bernabeu-Wittel</LastName>
+				<Affiliation>Hospital Universitario Virgen del Roc&#x000ED;o, Sevilla, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Maria Teresa</FirstName>
+				<LastName>Monserrat-Garc&#x000ED;a</LastName>
+				<Affiliation>Hospital Universitario Virgen del Roc&#x000ED;o, Sevilla, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alejandro</FirstName>
+				<LastName>Ortiz-Prieto</LastName>
+				<Affiliation>Hospital Universitario Virgen del Roc&#x000ED;o, Sevilla, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Antonio</FirstName>
+				<LastName>Torrelo</LastName>
+				<Affiliation>Hospital del Nino Jesus, Madrid, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Nicole</FirstName>
+				<LastName>Knopfel</LastName>
+				<Affiliation>Hospital del Nino Jesus, Madrid, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Nadia</FirstName>
+				<LastName>Vercellino</LastName>
+				<Affiliation>Dermatology Unit and Angioma Center, IRCCS Istituto Giannina Gaslini, Genoa, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Francesca</FirstName>
+				<LastName>Manunza</LastName>
+				<Affiliation>Dermatology Unit and Angioma Center, IRCCS Istituto Giannina Gaslini, Genoa, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Teresa</FirstName>
+				<LastName>Oranges</LastName>
+				<Affiliation>Department of Health Sciences, Anna Meyer Children&#x00027;s University Hospital, Florence, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Andrea</FirstName>
+				<LastName>Bassi</LastName>
+				<Affiliation>Department of Health Sciences, Anna Meyer Children&#x00027;s University Hospital, Florence, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Maria Antonia</FirstName>
+				<LastName>Gonzalez-Ense&#x000F1;at</LastName>
+				<Affiliation>Department of Dermatology, Hospital Sant Joan de D&#x000E9;u, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Asunci&#x000F3;n</FirstName>
+				<LastName>Vicente</LastName>
+				<Affiliation>Department of Dermatology, Hospital Sant Joan de D&#x000E9;u, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ignasi</FirstName>
+				<LastName>Gich</LastName>
+				<Affiliation>Epidemiologia Cl&#x000ED;nica, CIM - Caiber - IIb Sant Pau, Barcelona, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Luis</FirstName>
+				<LastName>Puig</LastName>
+				<Affiliation>Dermatology Department, Hospital de la Santa Creu y Sant Pau, Barcelona, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4172</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4172</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Oral propranolol accelerates the involution of infantile haemangiomas (IHs). However, it is not clear whether IHs treated with oral propranolol are associated with fewer sequelae than when left untreated. Objectives: To quantify and describe sequelae associated with IHs treated with oral propranolol, and to explore whether treated IHs are associated with fewer sequelae than untreated IHs. Materials &#38; Methods: This multicentre, retrospective, cohort study included patients with IH treated with oral propranolol &#x02265;2&#x000A0;mg/kg for at least six months, with photographic images available at baseline and at age 4-5 years. A historical comparison cohort comprised 185 patients with untreated IHs. Main outcomes/measures were: IH features, treatment characteristics and type/degree of sequelae. Results: Oral propranolol, most commonly at 2&#x000A0;mg/kg/day (mean duration: nine months), was initiated in 171 patients (mean age: 6.02 months). After treatment, 125 of 171 (73.1%) IHs were associated with no/minimal sequelae. The most common sequelae were telangiectasia (78%), fibrofatty tissue (37%) and anetodermic skin (28%). Deep IHs were associated with significantly fewer sequelae than other subtypes. Ulceration appeared to increase the likelihood of severe sequelae. IHs with a stepped border was associated with more severe sequelae than those with a progressive border (44% versus 27%, p&#x02009;&#60;&#x02009;0.05). Treated IHs resolved without sequelae or were associated with a sequela that did not need correction in 27.7% more cases than untreated IHs (RR: 1.61; p&#x02009;&#60;&#x02009;0.001). Conclusion: Among IHs treated with oral propranolol, 73% resolved without, or were associated with minimal sequelae. Deep IHs were associated fewer sequelae than other subtypes. Oral propranolol decreased the likelihood of IH sequelae requiring correction</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">infantile haemangioma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">propranolol</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">sequelae</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34935622</Replaces>
+		<ArticleTitle>Effective treatment of atopic dermatitis in small children significantly improves the quality of life of patients and their families</ArticleTitle>
+		<FirstPage>791</FirstPage>
+		<LastPage>797</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Alexander</FirstName>
+				<LastName>Salava</LastName>
+				<Affiliation>Helsinki University Hospital, Department of Dermatology and Allergology, Meilahdentie 2, 00250 Helsinki, Finland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Miia</FirstName>
+				<LastName>Per&#x000E4;l&#x000E4;</LastName>
+				<Affiliation>Helsinki University Hospital, Department of Dermatology and Allergology, Meilahdentie 2, 00250 Helsinki, Finland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mona</FirstName>
+				<LastName>Juppo</LastName>
+				<Affiliation>Helsinki University Hospital, Department of Dermatology and Allergology, Meilahdentie 2, 00250 Helsinki, Finland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Anna S.</FirstName>
+				<LastName>Pelkonen</LastName>
+				<Affiliation>Helsinki University Hospital, Department of Dermatology and Allergology, Meilahdentie 2, 00250 Helsinki, Finland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Mika J.</FirstName>
+				<LastName>M&#x000E4;kel&#x000E4;</LastName>
+				<Affiliation>Helsinki University Hospital, Department of Dermatology and Allergology, Meilahdentie 2, 00250 Helsinki, Finland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Anita</FirstName>
+				<LastName>Remitz</LastName>
+				<Affiliation>Helsinki University Hospital, Department of Dermatology and Allergology, Meilahdentie 2, 00250 Helsinki, Finland</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4169</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4169</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Atopic dermatitis (AD) has a severe impact on quality of life (QoL). Objectives: To analyze the impact of AD on QoL of small children with moderate-to-severe AD in a tertiary health care hospital in Helsinki, Finland. Materials &#38; Methods: Based on interim analysis of this longitudinal follow-up study, we investigated treatment response (topical corticosteroids vs. tacrolimus) and QoL of 152 small children with moderate-to-severe AD. Results: The tacrolimus group had a significantly better treatment response at 12 months visit, but thereafter no differences were observed (p&#x02009;=&#x02009;0.029; Mann-Whitney U test). The odds ratio for group comparisons was 2.258 (CI: 1.151-4.431). There was a significant improvement in QoL during follow-up in both treatment groups. Our study showed substantial improvements in disease severity and QoL based on active management and effective treatments in small children with AD. The main improvement was seen during the first year in both treatment groups with a lasting response. Conclusion: Effective treatment has a significant positive impact on the QoL of small children with AD and their families.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">atopic dermatitis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">quality of life</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">small children</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">disease severity</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34933842</Replaces>
+		<ArticleTitle>Oral intake of a new full-spectrum hyaluronan improves skin profilometry and ageing: a randomized, double-blind, placebo-controlled clinical trial</ArticleTitle>
+		<FirstPage>798</FirstPage>
+		<LastPage>805</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Angela</FirstName>
+				<LastName>Michelotti</LastName>
+				<Affiliation>In Vivo Laboratory, San Martino Siccomario (Pv), Complife Italia Srl, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Enza</FirstName>
+				<LastName>Cestone</LastName>
+				<Affiliation>In Vivo Laboratory, San Martino Siccomario (Pv), Complife Italia Srl, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ileana</FirstName>
+				<LastName>De Ponti</LastName>
+				<Affiliation>In Vivo Laboratory, San Martino Siccomario (Pv), Complife Italia Srl, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marta</FirstName>
+				<LastName>Pisati</LastName>
+				<Affiliation>In Vivo Laboratory, San Martino Siccomario (Pv), Complife Italia Srl, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Eleonora</FirstName>
+				<LastName>Sparta</LastName>
+				<Affiliation>In Vivo Laboratory, San Martino Siccomario (Pv), Complife Italia Srl, Italy</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Francesco</FirstName>
+				<LastName>Tursi</LastName>
+				<Affiliation>Laboratory Management, Garbagnate Milanese (Mi), Complife Italia Srl, Italy</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4176</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4176</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Skin aging is a physiological condition which leads to structural and functional changes in skin. Common signs of aging are the gradual decrease of hyaluronic acid (HA) in the skin and the appearance of wrinkles. Therefore, effective HA supplementation could counteract HA deficiency and improve skin parameters, providing a safe profile for use which is easily incorporated into daily routine. Objectives: To evaluate a food supplement containing a wide range of hyaluronans of different molecular weights (full-spectrum hyaluronan [FS-HA]) in order to ameliorate skin conditions in adult females. Materials &#38; Methods: Sixty subjects showing mild-to-moderate skin aging signs were enrolled in a double-blind, randomized, placebo-controlled clinical trial to receive 200&#x000A0;mg/day of FS-HA (ExceptionHYAL&#x000AE; Star), or placebo, for 28 days. Dermatological parameters were evaluated at T<inf>0d</inf> and T<inf>28d</inf>. Product efficacy and tolerance were further evaluated using a self-assessment questionnaire. In addition, HA serum levels were weekly evaluated in a proportion of enrolled subjects. Results: After only 28 days, subjects in the active arm showed a statistically significant improvement in all evaluated dermatological parameters related to skin aging. Skin became more hydrated (+10.6%) and protected from dehydration, with a decrease in both wrinkle depth (-18.8%) and volume (-17.6%) and increase in elasticity and firmness (+5.1%). Instrumental results were further confirmed by self-assessment questionnaire outcomes. Conclusion: Administration of a food supplement based on innovative hyaluronans from bio-fermentation, characterized by a wide range of molecular weights, resulted in a quick and significant amelioration of typical signs of skin aging.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">molecular weight</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">oral</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">skin agingn sodium hyaluronaten wrinkles</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107071</Replaces>
+		<ArticleTitle>Online survey to identify current challenges in atopic dermatitis management and guideline implementation in German-speaking countries</ArticleTitle>
+		<FirstPage>806</FirstPage>
+		<LastPage>812</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Stephan</FirstName>
+				<LastName>Traidl</LastName>
+				<Affiliation>Hannover Medical School, Department of Dermatology and Allergy, Division of Immunodermatology and Allergy Research Hannover, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Annice</FirstName>
+				<LastName>Heratizadeh</LastName>
+				<Affiliation>Hannover Medical School, Department of Dermatology and Allergy, Division of Immunodermatology and Allergy Research Hannover, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Thomas</FirstName>
+				<LastName>Werfel</LastName>
+				<Affiliation>Hannover Medical School, Department of Dermatology and Allergy, Division of Immunodermatology and Allergy Research Hannover, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Corinna</FirstName>
+				<LastName>Dressler</LastName>
+				<Affiliation>Division of Evidence-Based Medicine (dEBM), Klinik f&#x000FC;r Dermatologie, Venerologie und Allergologie, Charit&#x000E9; &#x02013; Universit&#x000E4;tsmedizin Berlin, corporate member of Freie Universit&#x000E4;t Berlin, Humbo ldt-Universit&#x000E4;t zu Berlin, and Berlin Institute of Health, Berlin, Germany</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4167</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4167</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Atopic dermatitis (AD) is a relapsing chronic inflammatory skin disease with a significant public health burden. Objectives: To conduct a survey in order to gain information on current problems on the care and treatment of AD patients from a wide range of care providers, as well as information on ways of improving AD guidelines. Materials &#38; Methods: An online survey was conducted via professional associations, focussing on AD health care professionals with regards to current gaps in knowledge of AD management and experience based on the German guidelines (GL). Results: In total, 542 respondents treated a median of 200 AD patients yearly. The most frequent problems in the management of AD concerned emollients (50%), largely due to patient costs and the inability to prescribe emollients/moisturizers. Barriers to prescribing biologics included cost. Respondents stated that the GL lacks information regarding patient education (27%) and use of basic emollients (27%). Consideration should be given to feasibility issues (32%) and the addition of care pathways (41%) to improve the GL. Conclusion: In this survey, we identified inadequate basic AD care mainly due to patient costs and lack of time for counselling as real-life challenges. These issues remain to be addressed in future guidelines.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">atopic dermatitis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">guideline</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">disease management</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">emollients</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">biologics</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107072</Replaces>
+		<ArticleTitle>Low effectiveness of methotrexate in the management of localised scleroderma (morphea) based on an ultrasound activity score</ArticleTitle>
+		<FirstPage>813</FirstPage>
+		<LastPage>821</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Cristi&#x000E1;n</FirstName>
+				<LastName>Vera-Kellet</LastName>
+				<Affiliation>Department of Dermatology, Faculty of Medicine, Pontificia Universidad Cat&#x000F3;lica de Chile, Santiago, Chile, Connective Tissue Diseases Unit, Department of Dermatology, Pontificia Universidad Cat&#x000F3;lica de Chile, Santiago, Chile</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Rodrigo</FirstName>
+				<LastName>Meza-Romero</LastName>
+				<Affiliation>Department of Dermatology, Faculty of Medicine, Pontificia Universidad Cat&#x000F3;lica de Chile, Santiago, Chile</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Catherina</FirstName>
+				<LastName>Moll-Manzur</LastName>
+				<Affiliation>Department of Dermatology, Faculty of Medicine, Pontificia Universidad Cat&#x000F3;lica de Chile, Santiago, Chile</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Cristian</FirstName>
+				<LastName>Ram&#x000ED;rez-Cornejo</LastName>
+				<Affiliation>Department of Dermatology, Faculty of Medicine, Pontificia Universidad Cat&#x000F3;lica de Chile, Santiago, Chile</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ximena</FirstName>
+				<LastName>Wortsman</LastName>
+				<Affiliation>Department of Dermatology, Faculty of Medicine, Pontificia Universidad Cat&#x000F3;lica de Chile, Santiago, Chile, Institute for Diagnostic Imaging and Research of the Skin and Soft Tissues, Santiago, Chile</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4189</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4189</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: The effectiveness of methotrexate (MTX), a first-line treatment for localised scleroderma (morphea), has not been assessed using colour Doppler ultrasonography (CDU). Objectives: We aimed to ultrasonographically monitor disease activity in patients with morphea treated with MTX, assessing its effectiveness using an Ultrasound Morphea Activity Score (US-MAS). Materials &#38; Methods: A retrospective cohort of 22 patients was studied between July 2014 and July 2019. The morphea of each patient, treated with MTX, was confirmed by histology and all patients had at least two CDU examinations. The US-MAS is based on published ultrasound signs of disease activity validated by histology. A weight-adjusted average MTX dose (mg/kg/wk) was used to standardize dosage, weight, and time between CDU examinations. The difference in US-MAS between two CDU examinations was determined. Statistical analyses included Wilcoxon and Fisher exact tests, the Spearman correlation coefficient, and risk ratios with 95% confidence intervals. To create two groups, we determined the median of the sample as the cut-off point for MTX dose (0.265&#x000A0;mg/kg/week). Significance was set at p&#x02264;0.05; Results: In all cases, CDU examinations showed subclinical signs of activity beyond the visible lesional borders, either in the same or adjacent corporal segments. A negative correlation was found between the change in US-MAS and MTX dose (Spearman coefficient, -0.45; p&#x02009;=&#x02009;0.035). The group dosed at &#x02265;0.265&#x000A0;mg/kg/wk showed a non-significant change in US-MAS (2-point decrease). No case became inactive. Conclusion: MTX is a treatment with a low effectiveness for morphea, causing only slight decreases in ultrasound activity at higher doses.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">morphea</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">localized scleroderma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">methotrexate</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">morphea treatment</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">morphea ultrasound</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">dermatologic ultrasound</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">skin ultrasound</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107073</Replaces>
+		<ArticleTitle>Response of recalcitrant generalized morphea to intravenous immunoglobulins (IVIg): three cases and a review of the literature</ArticleTitle>
+		<FirstPage>822</FirstPage>
+		<LastPage>829</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Christian</FirstName>
+				<LastName>Kromer</LastName>
+				<Affiliation>Department of Dermatology, Venereology, and Allergology, University Medical Center G&#x000F6;ttingen, Germany, Robert Koch Str. 40, D-37075 G&#x000F6;ttingen, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Liesa</FirstName>
+				<LastName>Mitterlechner</LastName>
+				<Affiliation>Department of Dermatology, Venereology, and Allergology, University Medical Center G&#x000F6;ttingen, Germany, Robert Koch Str. 40, D-37075 G&#x000F6;ttingen, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Norman</FirstName>
+				<LastName>Langer</LastName>
+				<Affiliation>Department of Dermatology, Venereology, and Allergology, University Medical Center G&#x000F6;ttingen, Germany, Robert Koch Str. 40, D-37075 G&#x000F6;ttingen, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Michael P.</FirstName>
+				<LastName>Sch&#x000F6;n</LastName>
+				<Affiliation>Department of Dermatology, Venereology, and Allergology, University Medical Center G&#x000F6;ttingen, Germany, Robert Koch Str. 40, D-37075 G&#x000F6;ttingen, Germany, Lower Saxony Institute of Occupational Dermatology, University Medical Center G&#x000F6;ttingen, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Rotraut</FirstName>
+				<LastName>M&#x000F6;ssner</LastName>
+				<Affiliation>Department of Dermatology, Venereology, and Allergology, University Medical Center G&#x000F6;ttingen, Germany, Robert Koch Str. 40, D-37075 G&#x000F6;ttingen, Germany</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4173</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4173</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: Generalized morphea and eosinophilic fasciitis are difficult-to-treat inflammatory and sclerosing skin diseases. Few cases have been reported in which intravenous immunoglobulins were of benefit, possibly owing to their immunomodulatory and antifibrotic properties. Objectives: We present three new patients with generalized morphea treated with intravenous immunoglobulins as well as a review of the literature. Materials &#38; Methods: Three hospitalized patients (two men, age 66 and 65 years, respectively, and a 67-year-old woman) with generalized morphea who received therapy for the first time are described. Results: The three patients were treated with intravenous immunoglobulins (1.5-2&#x000A0;g/kg body weight over three to four consecutive days every four weeks). This was combined with corticosteroid pulse therapy in all patients, methotrexate in two patients and mycophenolate mofetil in one patient, respectively. Marked and steady improvement of skin sclerosis was evident in all patients, one to five months after treatment initiation. No adverse events were observed. To date, there are 12 reports of 16 patients with generalized morphea or eosinophilic fasciitis treated with intravenous immunoglobulins. The treatment was highly effective in the majority of patients (9/16) and yielded a favourable risk profile. Conclusion: Our cases add to the hitherto limited evidence that the administration of intravenous immunoglobulins in combination with glucocorticoids and conventional immunosuppressive agents is a safe and effective therapy against morphea. It seems appropriate to verify these results in future high-quality studies.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">localized scleroderma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">IVIg</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">eosinophilic fasciitis</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">Shulman&#x00027;s syndrome</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">33648909</Replaces>
+		<ArticleTitle>Distribution and clinical role of KIT gene mutations in melanoma according to subtype: a study of 492 Spanish patients</ArticleTitle>
+		<FirstPage>830</FirstPage>
+		<LastPage>838</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">David</FirstName>
+				<LastName>Mill&#x000E1;n-Esteban</LastName>
+				<Affiliation>Laboratory of Molecular Biology, Fundaci&#x000F3;n Instituto Valenciano de Oncolog&#x000ED;a, Val&#x000E8;ncia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Zaida</FirstName>
+				<LastName>Garc&#x000ED;a-Casado</LastName>
+				<Affiliation>Laboratory of Molecular Biology, Fundaci&#x000F3;n Instituto Valenciano de Oncolog&#x000ED;a, Val&#x000E8;ncia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Esperanza</FirstName>
+				<LastName>Manrique-Silva</LastName>
+				<Affiliation>Department of Dermatology, Fundaci&#x000F3;n Instituto Valenciano de Oncolog&#x000ED;a, Val&#x000E8;ncia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Amaya</FirstName>
+				<LastName>Vir&#x000F3;s</LastName>
+				<Affiliation>Laboratory of Skin Cancer and Aging, CRUK-Manchester Institute, University of Manchester, Manchester UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Rajiv</FirstName>
+				<LastName>Kumar</LastName>
+				<Affiliation>Division of Molecular Genetic Epidemiology, Division of Genomic Functional Analysis, DKFZ, Heidelberg, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Simon</FirstName>
+				<LastName>Furney</LastName>
+				<Affiliation>Genomic Oncology Research Group, Centre for Systems Medicine, Department of Physiology and Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jos&#x000E9; Antonio</FirstName>
+				<LastName>L&#x000F3;pez-Guerrero</LastName>
+				<Affiliation>Laboratory of Molecular Biology, Fundaci&#x000F3;n Instituto Valenciano de Oncolog&#x000ED;a, Val&#x000E8;ncia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Celia</FirstName>
+				<LastName>Requena</LastName>
+				<Affiliation>Department of Dermatology, Fundaci&#x000F3;n Instituto Valenciano de Oncolog&#x000ED;a, Val&#x000E8;ncia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jose</FirstName>
+				<LastName>Ba&#x000F1;uls</LastName>
+				<Affiliation>Department of Dermatology, Hospital General Universitario de Alicante, Alicante, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">V&#x000ED;ctor</FirstName>
+				<LastName>Traves</LastName>
+				<Affiliation>Department of Pathology, Fundaci&#x000F3;n Instituto Valenciano de Oncolog&#x000ED;a, Val&#x000E8;ncia, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Eduardo</FirstName>
+				<LastName>Nagore</LastName>
+				<Affiliation>Department of Dermatology, Fundaci&#x000F3;n Instituto Valenciano de Oncolog&#x000ED;a, Val&#x000E8;ncia, Spain, School of Medicine, Universidad Cat&#x000F3;lica de Valencia San Vicente M&#x000E1;rtir, Val&#x000E8;ncia, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.3971</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.3971</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Background: KIT mutations are primarily associated with acral and mucosal melanoma, and have been reported to show higher prevalence in chronic sun-damaged (CSD) than non-CSD melanomas. Objectives: To investigate the prevalence of KIT mutations in melanoma according to subtype, and determine the clinical role of such mutations. Materials &#38; Methods: We present results from a study of a Spanish population of 492 melanomas, classified according to the latest World Health Organization (WHO) guidelines. We analysed the mutational status of KIT and correlated with different clinical variables related to sun exposure and family history. Results: KIT mutations were significantly more frequent in acral (3/36; 8.3%) and mucosal (4/8; 50%) melanomas than non-acral cutaneous melanomas. No significant difference was observed in KIT mutational status between CSD and non-CSD melanomas. Conclusion: Our results suggest that KIT mutations in melanoma tumours are unrelated to the development of nevi or chronic sun damage, but their presence is associated with aggressive melanomas which show ulceration, vascular invasiveness, and increased Breslow thickness. These findings are consistent with those reported by The Cancer Genome Atlas network.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+				<Param Name="value">aggressiveness</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">KIT</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">melanoma</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">mutation</Param>
+			</Object>
+			<Object Type="keyword">
+				<Param Name="value">subtype</Param>
+			</Object>
+		</ObjectList>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34933838</Replaces>
+		<ArticleTitle>Methotrexate for idiopathic chronic eczematous eruption of aging</ArticleTitle>
+		<FirstPage>839</FirstPage>
+		<LastPage>841</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Claire</FirstName>
+				<LastName>Sarles</LastName>
+				<Affiliation>Department of dermatology, Aix-Marseille University, La Timone university hospital, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Florent</FirstName>
+				<LastName>Amatore</LastName>
+				<Affiliation>Department of dermatology, Aix-Marseille University, La Timone university hospital, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Nausicaa</FirstName>
+				<LastName>Malissen</LastName>
+				<Affiliation>Department of dermatology, Aix-Marseille University, La Timone university hospital, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Caroline</FirstName>
+				<LastName>Gaudy-Marqueste</LastName>
+				<Affiliation>Department of dermatology, Aix-Marseille University, La Timone university hospital, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jean-Jacques</FirstName>
+				<LastName>Grob</LastName>
+				<Affiliation>Department of dermatology, Aix-Marseille University, La Timone university hospital, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Nicolas</FirstName>
+				<LastName>Macagno</LastName>
+				<Affiliation>Department of pathology, Aix-Marseille University, La Timone university hospital, Marseille, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Marie-Aleth</FirstName>
+				<LastName>Richard</LastName>
+				<Affiliation>Department of dermatology, Aix-Marseille University, La Timone university hospital, Marseille, France, CEReSS-EA 3279, health services and quality of life research centre, Aix Marseille University, dermatology department, La Timone university hospital APHM, 13385, Marseille, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4177</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4177</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107074</Replaces>
+		<ArticleTitle>Scarring alopecia developing after mogamulizumab-associated rash</ArticleTitle>
+		<FirstPage>841</FirstPage>
+		<LastPage>843</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Neel S.</FirstName>
+				<LastName>Raval</LastName>
+				<Affiliation>Division of Dermatology, Washington University School of Medicine, St. Louis, Missouri</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Caroline K.</FirstName>
+				<LastName>Snowden</LastName>
+				<Affiliation>Division of Dermatology, Washington University School of Medicine, St. Louis, Missouri,, Department of Dermatology, Northwestern University Feinberg School of Medicine, Chicago, Illinois</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Karlee S.</FirstName>
+				<LastName>De Monnin</LastName>
+				<Affiliation>Division of Dermatology, Washington University School of Medicine, St. Louis, Missouri</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Christine C.</FirstName>
+				<LastName>Yokoyama</LastName>
+				<Affiliation>Division of Dermatology, Washington University School of Medicine, St. Louis, Missouri</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jaehyuk</FirstName>
+				<LastName>Choi</LastName>
+				<Affiliation>Department of Dermatology, Northwestern University Feinberg School of Medicine, Chicago, Illinois</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Neha</FirstName>
+				<LastName>Mehta-Shah</LastName>
+				<Affiliation>Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, Missouri</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ilana S.</FirstName>
+				<LastName>Rosman</LastName>
+				<Affiliation>Division of Dermatology, Washington University School of Medicine, St. Louis, Missouri,, Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, Missouri</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jennifer</FirstName>
+				<LastName>Pavlisin</LastName>
+				<Affiliation>Division of Medical Oncology, Washington University School of Medicine, St. Louis, Missouri, USA</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Amy C.</FirstName>
+				<LastName>Musiek</LastName>
+				<Affiliation>Division of Dermatology, Washington University School of Medicine, St. Louis, Missouri</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4179</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4179</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34933837</Replaces>
+		<ArticleTitle>Canalicular stenosis associated with dupilumab treatment for atopic dermatitis</ArticleTitle>
+		<FirstPage>843</FirstPage>
+		<LastPage>844</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Lotte</FirstName>
+				<LastName>Loret</LastName>
+				<Affiliation>Department of Ophthalmology, Ghent University Hospital, Ghent, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Virginie</FirstName>
+				<LastName>Ninclaus</LastName>
+				<Affiliation>Department of Ophthalmology, Ghent University Hospital, Ghent, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Am&#x000E9;lie</FirstName>
+				<LastName>Dendooven</LastName>
+				<Affiliation>Department of Pathology, Ghent University Hospital, Ghent, Belgium, Faculty of Medical Sciences, Ghent University, Ghent, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Hilde</FirstName>
+				<LastName>Lapeere</LastName>
+				<Affiliation>Faculty of Medical Sciences, Ghent University, Ghent, Belgium, Department of Dermatology, Ghent University Hospital, Ghent, Belgium</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Elke O.</FirstName>
+				<LastName>Kreps</LastName>
+				<Affiliation>Department of Ophthalmology, Ghent University Hospital, Ghent, Belgium, Faculty of Medical Sciences, Ghent University, Ghent, Belgium</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4180</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4180</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">34911674</Replaces>
+		<ArticleTitle>Nivolumab-induced multiple morphea associated with eosinophilic fasciitis</ArticleTitle>
+		<FirstPage>844</FirstPage>
+		<LastPage>846</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Marouschka</FirstName>
+				<LastName>Lacombe</LastName>
+				<Affiliation>Department of Dermatology, Limoges University Hospital, Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Christophe</FirstName>
+				<LastName>Bedane</LastName>
+				<Affiliation>Department of Dermatology, Limoges University Hospital, Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">St&#x000E9;phanie</FirstName>
+				<LastName>Delaumenie</LastName>
+				<Affiliation>Department of Dermatology, Limoges University Hospital, Limoges, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Philippe</FirstName>
+				<LastName>Bernard</LastName>
+				<Affiliation>Department of Dermatology, Limoges University Hospital, Limoges, France</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4181</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4181</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107075</Replaces>
+		<ArticleTitle>Dupilumab, an emerging therapeutic choice for recalcitrant subepidermal autoimmune bullous diseases: a case series of three patients</ArticleTitle>
+		<FirstPage>846</FirstPage>
+		<LastPage>847</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Xiuting</FirstName>
+				<LastName>Liu</LastName>
+				<Affiliation>Department of Dermatology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jianchi</FirstName>
+				<LastName>Ma</LastName>
+				<Affiliation>Department of Dermatology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Xiaonan</FirstName>
+				<LastName>Qiu</LastName>
+				<Affiliation>Department of Dermatology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Dan</FirstName>
+				<LastName>Hong</LastName>
+				<Affiliation>Department of Dermatology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Liangchun</FirstName>
+				<LastName>Wang</LastName>
+				<Affiliation>Department of Dermatology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Zhenrui</FirstName>
+				<LastName>Shi</LastName>
+				<Affiliation>Department of Dermatology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, China</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4190</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4190</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107076</Replaces>
+		<ArticleTitle>Giant Bowen&#x00027;s disease with unilateral verrucous epidermal nevus on non-sun-exposed skin</ArticleTitle>
+		<FirstPage>847</FirstPage>
+		<LastPage>848</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Si</FirstName>
+				<LastName>Zhang</LastName>
+				<Affiliation>Department of Dermatology, Peking University People&#x00027;s Hospital, Beijing 100044&#x0000A;P. R. China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lin</FirstName>
+				<LastName>Cai</LastName>
+				<Affiliation>Department of Dermatology, Peking University People&#x00027;s Hospital, Beijing 100044&#x0000A;P. R. China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Jianzhong</FirstName>
+				<LastName>Zhang</LastName>
+				<Affiliation>Department of Dermatology, Peking University People&#x00027;s Hospital, Beijing 100044&#x0000A;P. R. China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Cheng</FirstName>
+				<LastName>Zhou</LastName>
+				<Affiliation>Department of Dermatology, Peking University People&#x00027;s Hospital, Beijing 100044&#x0000A;P. R. China</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4044</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4044</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107077</Replaces>
+		<ArticleTitle>Journal club: New small molecules for atopic dermatitis management</ArticleTitle>
+		<FirstPage>849</FirstPage>
+		<LastPage>852</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Marine-Alexia</FirstName>
+				<LastName>Lefevre</LastName>
+				<Affiliation>CIRI, Centre International de Recherche en Infectiologie, (Team Epidermal Immunity and Allergy); INSERM, U1111; Univ Lyon; Universit&#x000E9; de Lyon 1; Ecole Normale Sup&#x000E9;rieure de Lyon; CNRS, UMR 5308, Lyon, France&#x0000A;Department of Dermatology and Allergology, Centre Hospitalier Universitaire de Saint-Etienne, Saint-Priest-en-Jarez, France</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Sophia</FirstName>
+				<LastName>Mohme</LastName>
+				<Affiliation>Department of Dermatology, Venereology and Allergology, University Hospital W&#x000FC;rzburg, W&#x000FC;rzburg, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Neda</FirstName>
+				<LastName>Alband</LastName>
+				<Affiliation>Dermatology of Department, Cambridge University Hospitals, Addenbrookes Hospital, Cambridge, UK</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Miguel</FirstName>
+				<LastName>Nogueira</LastName>
+				<Affiliation>Department of Dermatology, Centro Hospitalar Universit&#x000E1;rio do Porto, Porto, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Angel</FirstName>
+				<LastName>Rosell Diaz</LastName>
+				<Affiliation>Department of Dermatology, Hospital General Universitario Gregorio Mara&#x000F1;&#x000F3;n, Madrid, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Enrique</FirstName>
+				<LastName>Rodriguez-Lomba</LastName>
+				<Affiliation>Department of Dermatology, Hospital General Universitario Gregorio Mara&#x000F1;&#x000F3;n, Madrid, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4186</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4186</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107078</Replaces>
+		<ArticleTitle>Calling on dermatology to save a life: a case of MPO-ANCA-associated vasculitis</ArticleTitle>
+		<FirstPage>852</FirstPage>
+		<LastPage>853</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Miguel</FirstName>
+				<LastName>Nogueira</LastName>
+				<Affiliation>Department of Dermatology, Centro Hospitalar Universit&#x000E1;rio do Porto, Porto, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">&#x000C1;lvaro</FirstName>
+				<LastName>Machado</LastName>
+				<Affiliation>Department of Dermatology, Centro Hospitalar Universit&#x000E1;rio do Porto, Porto, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Andr&#x000E9;</FirstName>
+				<LastName>Coelho</LastName>
+				<Affiliation>Department of Pathology, Centro Hospitalar Universit&#x000E1;rio do Porto, Porto, Portugal</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">In&#x000EA;s</FirstName>
+				<LastName>Raposo</LastName>
+				<Affiliation>Department of Dermatology, Centro Hospitalar Universit&#x000E1;rio do Porto, Porto, Portugal</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4188</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4188</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107079</Replaces>
+		<ArticleTitle>A blistering child: a toddler with large bullae</ArticleTitle>
+		<FirstPage>853</FirstPage>
+		<LastPage>855</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Sophia</FirstName>
+				<LastName>Mohme</LastName>
+				<Affiliation>Department of Dermatology, Venereology and Allergology, University Hospital W&#x000FC;rzburg, W&#x000FC;rzburg, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Matthias</FirstName>
+				<LastName>Goebeler</LastName>
+				<Affiliation>Department of Dermatology, Venereology and Allergology, University Hospital W&#x000FC;rzburg, W&#x000FC;rzburg, Germany</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Henning</FirstName>
+				<LastName>Hamm</LastName>
+				<Affiliation>Department of Dermatology, Venereology and Allergology, University Hospital W&#x000FC;rzburg, W&#x000FC;rzburg, Germany</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4187</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4187</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107080</Replaces>
+		<ArticleTitle>sQUIZ your knowledge! Progressive thickening and hardening of the skin on the upper back</ArticleTitle>
+		<FirstPage>855</FirstPage>
+		<LastPage>857</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Jingru</FirstName>
+				<LastName>Sun</LastName>
+				<Affiliation>Department of Dermatology and Venereology, Peking University First Hospital, Beijing 100034, China, Beijing Key Laboratory of Molecular Diagnosis on Dermatoses, Beijing 100034, China, National Clinical Research Center for Skin and Immune Diseases, Beijing 100034, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Shengguo</FirstName>
+				<LastName>Yi</LastName>
+				<Affiliation>Department of Endocrinology, Peking University First Hospital, Beijing 100034, China</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Ping</FirstName>
+				<LastName>Tu</LastName>
+				<Affiliation>Department of Dermatology and Venereology, Peking University First Hospital, Beijing 100034, China, Beijing Key Laboratory of Molecular Diagnosis on Dermatoses, Beijing 100034, China, National Clinical Research Center for Skin and Immune Diseases, Beijing 100034, China</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4185</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4185</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107081</Replaces>
+		<ArticleTitle>sQUIZ your Knowledge! Pruritic unilateral erythematous agminate papules on the back</ArticleTitle>
+		<FirstPage>857</FirstPage>
+		<LastPage>859</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">Natalia</FirstName>
+				<LastName>Naranjo Guerrero</LastName>
+				<Affiliation>Dermatology Department, University Hospital of Gran Canaria Doctor Negr&#x000ED;n, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">&#x000C1;ngela</FirstName>
+				<LastName>Garc&#x000ED;a Mi&#x000F1;arro</LastName>
+				<Affiliation>Dermatology Department, University Hospital of Gran Canaria Doctor Negr&#x000ED;n, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4184</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4184</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume>31</Volume>
+			<Issue>6</Issue>
+			<PubDate PubStatus="ppublish">
+				<Year>2021</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">35107082</Replaces>
+		<ArticleTitle>sQuiz your Knowledge! Long-standing multiple painful keratotic papules on the palms and soles</ArticleTitle>
+		<FirstPage>859</FirstPage>
+		<LastPage>860</LastPage>
+		<Language>EN</Language>
+		<AuthorList>
+			<Author>
+				<FirstName EmptyYN="N">David</FirstName>
+				<LastName>Vega-Diez</LastName>
+				<Affiliation>Dermatology Department, University Hospital Pr&#x000ED;ncipe de Asturias, Carr Alcal&#x000E1;-Meco S/N, 28805 Alcal&#x000E1; de Henares, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Lario Ana</FirstName>
+				<LastName>Rodr&#x000ED;guez-Villa</LastName>
+				<Affiliation>Dermatology Department, University Hospital Pr&#x000ED;ncipe de Asturias, Carr Alcal&#x000E1;-Meco S/N, 28805 Alcal&#x000E1; de Henares, Spain</Affiliation>
+			</Author>
+			<Author>
+				<FirstName EmptyYN="N">Alba</FirstName>
+				<LastName>G&#x000F3;mez-Zubiaur</LastName>
+				<Affiliation>Dermatology Department, University Hospital Pr&#x000ED;ncipe de Asturias, Carr Alcal&#x000E1;-Meco S/N, 28805 Alcal&#x000E1; de Henares, Spain</Affiliation>
+			</Author>
+		</AuthorList>
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2021.4183</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2021.4183</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract></Abstract>
+	</Article>
+
+</ArticleSet>
