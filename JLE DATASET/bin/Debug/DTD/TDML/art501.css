@@ -1,0 +1,928 @@
+/* Use Times New Roman for default font */
+$DOCUMENT
+{
+  font-family: "Times New Roman";
+  font-size: 12pt;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+$COMMENT {
+  display: block;
+  color: purple;
+  white-space: pre;
+}
+
+$PROCINS {
+  color: black;
+  background-color: #c0c0c0;
+}
+
+aid {
+  display: block;
+}
+
+article {
+  display: block;
+}
+
+body {
+  display: block;
+}
+
+book-review {
+  display: block;
+}
+
+book-review-head {
+  display: block;
+}
+
+ce\:abstract {
+  display: block;
+}
+
+ce\:abstract-sec {
+  display: block;
+}
+
+ce\:acknowledgment {
+  display: block;
+}
+
+ce\:affiliation {
+  display: block;
+}
+
+ce\:alt-e-component {
+  display: block;
+}
+
+ce\:alt-subtitle {
+  display: block;
+}
+
+ce\:alt-title {
+  display: block;
+}
+
+ce\:appendices {
+  display: block;
+}
+
+ce\:article-footnote {
+  display: block;
+}
+
+ce\:author {
+  display: block;
+}
+
+ce\:author-group {
+  display: block;
+}
+
+ce\:bib-reference {
+  display: block;
+}
+
+ce\:bibliography {
+  display: block;
+}
+
+ce\:bibliography-sec {
+  display: block;
+}
+
+ce\:biography {
+  display: block;
+}
+
+ce\:caption {
+  display: block;
+}
+
+ce\:chem {
+  display: block;
+}
+
+ce\:collab-aff {
+  display: block;
+}
+
+ce\:collaboration {
+  display: block;
+}
+
+ce\:compound-formula {
+  display: block;
+}
+
+ce\:compound-info {
+  display: block;
+}
+
+ce\:compound-name {
+  display: block;
+}
+
+ce\:compound-struct {
+  display: block;
+}
+
+ce\:copyright {
+  display: block;
+}
+
+ce\:correspondence {
+  display: block;
+}
+
+ce\:cross-ref {
+  display: block;
+}
+
+ce\:dedication {
+  display: block;
+}
+
+ce\:def-description {
+  display: block;
+}
+
+ce\:def-list {
+  display: block;
+}
+
+ce\:def-term {
+  display: block;
+}
+
+ce\:degrees {
+  display: block;
+}
+
+ce\:display {
+  display: block;
+}
+
+ce\:displayed-quote {
+  display: block;
+}
+
+ce\:dochead {
+  display: block;
+}
+
+ce\:doctopic {
+  display: block;
+}
+
+ce\:doctopics {
+  display: block;
+}
+
+ce\:document-thread {
+  display: block;
+}
+
+ce\:doi {
+  display: block;
+}
+
+ce\:e-address {
+  display: block;
+}
+
+ce\:e-component {
+  display: block;
+}
+
+ce\:editors {
+  display: block;
+}
+
+ce\:enunciation {
+  display: block;
+}
+
+ce\:exam-answers {
+  display: block;
+}
+
+ce\:exam-questions {
+  display: block;
+}
+
+ce\:exam-reference {
+  display: block;
+}
+
+ce\:figure {
+  display: block;
+}
+
+ce\:first-page {
+  display: block;
+}
+
+ce\:floats {
+  display: block;
+}
+
+ce\:footnote {
+  display: block;
+}
+
+ce\:formula {
+  display: block;
+}
+
+ce\:further-reading {
+  display: block;
+}
+
+ce\:further-reading-sec {
+  display: block;
+}
+
+ce\:given-name {
+  display: block;
+}
+
+ce\:glossary {
+  display: block;
+}
+
+ce\:glossary-def {
+  display: block;
+}
+
+ce\:glossary-entry {
+  display: block;
+}
+
+ce\:glossary-heading {
+  display: block;
+}
+
+ce\:glossary-sec {
+  display: block;
+}
+
+ce\:include-item {
+  display: block;
+}
+
+ce\:index {
+  display: block;
+}
+
+ce\:index-entry {
+  display: block;
+}
+
+ce\:index-flag {
+  display: block;
+}
+
+ce\:index-flag-see {
+  display: block;
+}
+
+ce\:index-flag-see-also {
+  display: block;
+}
+
+ce\:index-flag-term {
+  display: block;
+}
+
+ce\:index-heading {
+  display: block;
+}
+
+ce\:index-sec {
+  display: block;
+}
+
+ce\:indexed-name {
+  display: block;
+}
+
+ce\:initials {
+  display: block;
+}
+
+ce\:inline-figure {
+  display: block;
+}
+
+ce\:inter-ref {
+  display: block;
+}
+
+ce\:inter-ref-end {
+  display: block;
+}
+
+ce\:inter-ref-title {
+  display: block;
+}
+
+ce\:inter-refs {
+  display: block;
+}
+
+ce\:inter-refs-text {
+  display: block;
+}
+
+ce\:intra-ref-end {
+  display: block;
+}
+
+ce\:intra-ref-title {
+  display: block;
+}
+
+ce\:intra-refs {
+  display: block;
+}
+
+ce\:intra-refs-text {
+  display: block;
+}
+
+ce\:intro {
+  display: block;
+}
+
+ce\:keyword {
+  display: block;
+}
+
+ce\:keywords {
+  display: block;
+}
+
+ce\:label {
+  display: block;
+}
+
+ce\:last-page {
+  display: block;
+}
+
+ce\:legend {
+  display: block;
+}
+
+ce\:list {
+  display: block;
+}
+
+ce\:list-item {
+  display: block;
+}
+
+ce\:miscellaneous {
+  display: block;
+}
+
+ce\:nomenclature {
+  display: block;
+}
+
+ce\:note {
+  display: block;
+}
+
+ce\:note-para {
+  display: block;
+}
+
+ce\:other-ref {
+  display: block;
+}
+
+ce\:pages {
+  display: block;
+}
+
+ce\:para {
+  display: block;
+}
+
+ce\:pii {
+  display: block;
+}
+
+ce\:preprint {
+  display: block;
+}
+
+ce\:presented {
+  display: block;
+}
+
+ce\:ranking {
+  display: block;
+}
+
+ce\:refers-to-document {
+  display: block;
+}
+
+ce\:roles {
+  display: block;
+}
+
+ce\:salutation {
+  display: block;
+}
+
+ce\:section {
+  display: block;
+}
+
+ce\:section-title {
+  display: block;
+}
+
+ce\:sections {
+  display: block;
+}
+
+ce\:see {
+  display: block;
+}
+
+ce\:see-also {
+  display: block;
+}
+
+ce\:simple-para {
+  display: block;
+}
+
+ce\:stereochem {
+  display: block;
+}
+
+ce\:subtitle {
+  display: block;
+}
+
+ce\:suffix {
+  display: block;
+}
+
+ce\:surname {
+  display: block;
+}
+
+ce\:table {
+  display: block;
+}
+
+ce\:table-footnote {
+  display: block;
+}
+
+ce\:text {
+  display: block;
+}
+
+ce\:textbox {
+  display: block;
+}
+
+ce\:textbox-body {
+  display: block;
+}
+
+ce\:textbox-head {
+  display: block;
+}
+
+ce\:textbox-tail {
+  display: block;
+}
+
+ce\:textfn {
+  display: block;
+}
+
+ce\:textref {
+  display: block;
+}
+
+ce\:title {
+  display: block;
+}
+
+entry {
+  display: block;
+}
+
+exam {
+  display: block;
+}
+
+head {
+  display: block;
+}
+
+item-info {
+  display: block;
+}
+
+jid {
+  display: block;
+}
+
+mml\:annotation {
+  display: block;
+}
+
+mml\:annotation-xml {
+  display: block;
+}
+
+mml\:apply {
+  display: block;
+}
+
+mml\:bvar {
+  display: block;
+}
+
+mml\:ci {
+  display: block;
+}
+
+mml\:cn {
+  display: block;
+}
+
+mml\:condition {
+  display: block;
+}
+
+mml\:csymbol {
+  display: block;
+}
+
+mml\:declare {
+  display: block;
+}
+
+mml\:degree {
+  display: block;
+}
+
+mml\:domainofapplication {
+  display: block;
+}
+
+mml\:fn {
+  display: block;
+}
+
+mml\:interval {
+  display: block;
+}
+
+mml\:lambda {
+  display: block;
+}
+
+mml\:list {
+  display: block;
+}
+
+mml\:logbase {
+  display: block;
+}
+
+mml\:lowlimit {
+  display: block;
+}
+
+mml\:maction {
+  display: block;
+}
+
+mml\:math {
+  display: block;
+}
+
+mml\:matrix {
+  display: block;
+}
+
+mml\:matrixrow {
+  display: block;
+}
+
+mml\:menclose {
+  display: block;
+}
+
+mml\:merror {
+  display: block;
+}
+
+mml\:mfenced {
+  display: block;
+}
+
+mml\:mfrac {
+  display: block;
+}
+
+mml\:mi {
+  display: block;
+}
+
+mml\:mlabeledtr {
+  display: block;
+}
+
+mml\:mmultiscripts {
+  display: block;
+}
+
+mml\:mn {
+  display: block;
+}
+
+mml\:mo {
+  display: block;
+}
+
+mml\:momentabout {
+  display: block;
+}
+
+mml\:mover {
+  display: block;
+}
+
+mml\:mpadded {
+  display: block;
+}
+
+mml\:mphantom {
+  display: block;
+}
+
+mml\:mroot {
+  display: block;
+}
+
+mml\:mrow {
+  display: block;
+}
+
+mml\:ms {
+  display: block;
+}
+
+mml\:msqrt {
+  display: block;
+}
+
+mml\:mstyle {
+  display: block;
+}
+
+mml\:msub {
+  display: block;
+}
+
+mml\:msubsup {
+  display: block;
+}
+
+mml\:msup {
+  display: block;
+}
+
+mml\:mtable {
+  display: block;
+}
+
+mml\:mtd {
+  display: block;
+}
+
+mml\:mtext {
+  display: block;
+}
+
+mml\:mtr {
+  display: block;
+}
+
+mml\:munder {
+  display: block;
+}
+
+mml\:munderover {
+  display: block;
+}
+
+mml\:otherwise {
+  display: block;
+}
+
+mml\:piece {
+  display: block;
+}
+
+mml\:piecewise {
+  display: block;
+}
+
+mml\:reln {
+  display: block;
+}
+
+mml\:semantics {
+  display: block;
+}
+
+mml\:set {
+  display: block;
+}
+
+mml\:uplimit {
+  display: block;
+}
+
+mml\:vector {
+  display: block;
+}
+
+row {
+  display: block;
+}
+
+sb\:author {
+  display: block;
+}
+
+sb\:authors {
+  display: block;
+}
+
+sb\:book {
+  display: block;
+}
+
+sb\:book-series {
+  display: block;
+}
+
+sb\:collaboration {
+  display: block;
+}
+
+sb\:comment {
+  display: block;
+}
+
+sb\:conference {
+  display: block;
+}
+
+sb\:contribution {
+  display: block;
+}
+
+sb\:date {
+  display: block;
+}
+
+sb\:e-host {
+  display: block;
+}
+
+sb\:edited-book {
+  display: block;
+}
+
+sb\:edition {
+  display: block;
+}
+
+sb\:editor {
+  display: block;
+}
+
+sb\:editors {
+  display: block;
+}
+
+sb\:first-page {
+  display: block;
+}
+
+sb\:host {
+  display: block;
+}
+
+sb\:isbn {
+  display: block;
+}
+
+sb\:issn {
+  display: block;
+}
+
+sb\:issue {
+  display: block;
+}
+
+sb\:issue-nr {
+  display: block;
+}
+
+sb\:last-page {
+  display: block;
+}
+
+sb\:location {
+  display: block;
+}
+
+sb\:maintitle {
+  display: block;
+}
+
+sb\:name {
+  display: block;
+}
+
+sb\:pages {
+  display: block;
+}
+
+sb\:publisher {
+  display: block;
+}
+
+sb\:reference {
+  display: block;
+}
+
+sb\:series {
+  display: block;
+}
+
+sb\:subtitle {
+  display: block;
+}
+
+sb\:title {
+  display: block;
+}
+
+sb\:translated-title {
+  display: block;
+}
+
+sb\:volume-nr {
+  display: block;
+}
+
+simple-article {
+  display: block;
+}
+
+simple-head {
+  display: block;
+}
+
+simple-tail {
+  display: block;
+}
+
+tail {
+  display: block;
+}
+
+tbody {
+  display: block;
+}
+
+tgroup {
+  display: block;
+}
+
+thead {
+  display: block;
+}
+
