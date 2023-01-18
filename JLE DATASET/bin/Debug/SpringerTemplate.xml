@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JobSheet JobSheetDate="2010-12-30 12:00:00" Supplier="ExternalPublisher" Version="2.4.1">
+<IssueJobSheet>
+<PublisherInfo>
+<PublisherName>Springer-Verlag</PublisherName>
+<PublisherLocation>Paris</PublisherLocation>
+</PublisherInfo>
+<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+<JournalID>13315</JournalID>
+<JournalPrintISSN>1294-9361</JournalPrintISSN>
+<JournalElectronicISSN>1950-6945</JournalElectronicISSN>
+<JournalSPIN>13315</JournalSPIN>
+<JournalTitle>Epileptic Disorders</JournalTitle>
+<JournalAbbreviatedTitle>Epileptic Disord.</JournalAbbreviatedTitle>
+<JournalSubjectGroup>
+<JournalSubject Type="Primary">M&#xe9;decine</JournalSubject>
+</JournalSubjectGroup>
+</JournalInfo>
+<VolumeInfo OutputMedium="Online" TocLevels="0" VolumeType="Regular">
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<VolumeIssueCount>4</VolumeIssueCount>
+</VolumeInfo>
+<IssueInfo IssueType="Regular" OutputMedium="Online" TocLevels="0">
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+<IssueArticleCount>19</IssueArticleCount>
+<IssueHistory>
+<CoverDate>
+<Year>2010</Year>
+<Month>12</Month>
+</CoverDate>
+</IssueHistory>
+<IssueCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</IssueCopyright>
+</IssueInfo>
+<ProductionInfo>
+<DiscreteIssueObjectInfo ID="Cover">
+<CoverInfo>
+<CoverFirstPage>A1</CoverFirstPage>
+<CoverLastPage>A4</CoverLastPage>
+</CoverInfo>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_1">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>332</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0332</ArticleDOI>
+<ArticleSequenceNumber>1</ArticleSequenceNumber>
+<ArticleTitle Language="En">Incidence and clinical decision making for the Wada test over one decade: 1997&#x2013;2007</ArticleTitle>
+<ArticleCategory>Original article</ArticleCategory>
+<ArticleFirstPage>249</ArticleFirstPage>
+<ArticleLastPage>254</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_249 aff2_249">
+<AuthorName>
+<GivenName>Rohit R.</GivenName>
+<FamilyName>Das</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff3_249">
+<AuthorName>
+<GivenName>Andreas V.</GivenName>
+<FamilyName>Alexopoulos</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_249 aff2_249">
+<AuthorName>
+<GivenName>Tobias</GivenName>
+<FamilyName>Loddenkemper</FamilyName>
+</AuthorName>
+<Contact>
+<Email>tobias.loddenkemper@childrens.harvard.edu</Email>
+</Contact>
+</Author>
+<Affiliation ID="aff1_249">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Division of Epilepsy and Clinical Neurophysiology, Children's Hospital</OrgName>
+<OrgAddress>
+<City>Boston</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_249">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Harvard Medical School</OrgName>
+<OrgAddress>
+<City>Boston</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff3_249">
+<OrgDivision>Epilepsy Center</OrgDivision>
+<OrgName>Cleveland Clinic Neurological Institute</OrgName>
+<OrgAddress>
+<City>Cleveland</City>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_2">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>340</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0340</ArticleDOI>
+<ArticleSequenceNumber>2</ArticleSequenceNumber>
+<ArticleTitle Language="En">Convulsions associated with gastroenteritis in the spectrum of benign focal epilepsies in infancy: 30 cases including four cases with ictal EEG recording</ArticleTitle>
+<ArticleCategory>Original article</ArticleCategory>
+<ArticleFirstPage>255</ArticleFirstPage>
+<ArticleLastPage>261</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_255">
+<AuthorName>
+<GivenName>Raffaella</GivenName>
+<FamilyName>Cusmai</FamilyName>
+</AuthorName>
+<Contact>
+<Email>cusmai@opbg.net</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff2_255">
+<AuthorName>
+<GivenName>Bosanka</GivenName>
+<FamilyName>Jocic-Jakubi</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff3_255">
+<AuthorName>
+<GivenName>Laura</GivenName>
+<FamilyName>Cantonetti</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff4_255">
+<AuthorName>
+<GivenName>Natia</GivenName>
+<FamilyName>Japaridze</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_255">
+<AuthorName>
+<GivenName>Federico</GivenName>
+<FamilyName>Vigevano</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_255">
+<OrgDivision>Neurology Unit</OrgDivision>
+<OrgName>Bambino Ges&#xf9; Children's Hospital, IRCCS</OrgName>
+<OrgAddress>
+<City>Rome</City>
+<Country>Italy</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_255">
+<OrgDivision>Clinical Center Nis</OrgDivision>
+<OrgName>Pediatric Clinic, School of Medicine</OrgName>
+<OrgAddress>
+<City>Nis</City>
+<Country>Serbia</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff3_255">
+<OrgDivision>Unit of Pediatric Rehabilitation</OrgDivision>
+<OrgName>Bambino Ges&#xf9; Children's Hospital, IRCCS</OrgName>
+<OrgAddress>
+<City>Santa Marinella-Rome</City>
+<Country>Italy</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff4_255">
+<OrgDivision>Department of Neurology and Epilepsy</OrgDivision>
+<OrgName>M. Iashvili Children's Central Hospital</OrgName>
+<OrgAddress>
+<City>Tbilisi</City>
+<Country>Georgia</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_3">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>337</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0337</ArticleDOI>
+<ArticleSequenceNumber>3</ArticleSequenceNumber>
+<ArticleTitle Language="En">Ictal kissing: a release phenomenon in non-dominant temporal lobe epilepsy</ArticleTitle>
+<ArticleCategory>Original article</ArticleCategory>
+<ArticleFirstPage>262</ArticleFirstPage>
+<ArticleLastPage>269</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_262">
+<AuthorName>
+<GivenName>Razi M.</GivenName>
+<FamilyName>Rashid</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_262">
+<AuthorName>
+<GivenName>Katherine</GivenName>
+<FamilyName>Eder</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_262">
+<AuthorName>
+<GivenName>Joshua</GivenName>
+<FamilyName>Rosenow</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_262">
+<AuthorName>
+<GivenName>Michael P.</GivenName>
+<FamilyName>Macken</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_262">
+<AuthorName>
+<GivenName>Stephan U.</GivenName>
+<FamilyName>Schuele</FamilyName>
+</AuthorName>
+<Contact>
+<Email>s-schuele@northwestern.edu</Email>
+</Contact>
+</Author>
+<Affiliation ID="aff1_262">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Northwestern University</OrgName>
+<OrgAddress>
+<City>Chicago, IL</City>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_4">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>336</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0336</ArticleDOI>
+<ArticleSequenceNumber>4</ArticleSequenceNumber>
+<ArticleTitle Language="En">Hypnopompic seizures</ArticleTitle>
+<ArticleCategory>Original article</ArticleCategory>
+<ArticleFirstPage>270</ArticleFirstPage>
+<ArticleLastPage>274</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_270">
+<AuthorName>
+<GivenName>Amer M.</GivenName>
+<FamilyName>Awad</FamilyName>
+</AuthorName>
+<Contact>
+<Email>ameraldo@gmail.com</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff1_270">
+<AuthorName>
+<GivenName>Hans O.</GivenName>
+<FamilyName>L&#xfc;ders</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_270">
+<OrgDivision>Neurological Institute</OrgDivision>
+<OrgName>Case Western Reserve University, University Hospitals Case Medical Center</OrgName>
+<OrgAddress>
+<City>Cleveland, Ohio</City>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_5">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>344</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0344</ArticleDOI>
+<ArticleSequenceNumber>5</ArticleSequenceNumber>
+<ArticleTitle Language="En">Correlation between child and parental perceptions of health-related quality of life inepilepsy using the PedsQL.v4.0 measurement model</ArticleTitle>
+<ArticleCategory>Original article</ArticleCategory>
+<ArticleFirstPage>275</ArticleFirstPage>
+<ArticleLastPage>282</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_275 aff5_275">
+<AuthorName>
+<GivenName>Zulfi</GivenName>
+<FamilyName>Haneef</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff2_275 aff3_275 aff4_275">
+<AuthorName>
+<GivenName>Mitzie L.</GivenName>
+<FamilyName>Grant</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff3_275 aff4_275 aff5_275">
+<AuthorName>
+<GivenName>Ignacio</GivenName>
+<FamilyName>Valencia</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff4_275">
+<AuthorName>
+<GivenName>Elizabeth F.</GivenName>
+<FamilyName>Hobdell</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff4_275 aff6_275">
+<AuthorName>
+<GivenName>Sanjeev V.</GivenName>
+<FamilyName>Kothare</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff3_275 aff4_275 aff5_275">
+<AuthorName>
+<GivenName>Agustin</GivenName>
+<FamilyName>Legido</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff3_275 aff4_275 aff5_275">
+<AuthorName>
+<GivenName>Divya</GivenName>
+<FamilyName>Khurana</FamilyName>
+</AuthorName>
+<Contact>
+<Email>divya.khurana@drexelmed.edu</Email>
+</Contact>
+</Author>
+<Affiliation ID="aff1_275">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Temple University Hospital</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_275">
+<OrgDivision>Department of Psychiatry</OrgDivision>
+<OrgName>Drexel University College of Medicine</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff3_275">
+<OrgDivision>Department of Pediatrics</OrgDivision>
+<OrgName>Drexel University College of Medicine</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff4_275">
+<OrgDivision>Department of Pediatrics</OrgDivision>
+<OrgName>St. Christopher's Hospital for Children</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff5_275">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Drexel University College of Medicine</OrgName>
+<OrgAddress>
+<City>Philadelphia</City>
+<Country>Pennsylvania</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff6_275">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Children's Hospital</OrgName>
+<OrgAddress>
+<City>Boston, Massachusetts</City>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_6">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>345</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0345</ArticleDOI>
+<ArticleSequenceNumber>6</ArticleSequenceNumber>
+<ArticleTitle Language="En">Prevalence of psychiatric comorbidities in temporal lobe epilepsy: the value of structured psychiatric interviews</ArticleTitle>
+<ArticleCategory>Original article</ArticleCategory>
+<ArticleFirstPage>283</ArticleFirstPage>
+<ArticleLastPage>291</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_283">
+<AuthorName>
+<GivenName>Jos&#xe9; Augusto</GivenName>
+<FamilyName>Bragatti</FamilyName>
+</AuthorName>
+<Contact>
+<Email>jbragatti@hcpa.ufrgs.br</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff1_283">
+<AuthorName>
+<GivenName>Carolina</GivenName>
+<FamilyName>Machado Torres</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_283">
+<AuthorName>
+<GivenName>Renata</GivenName>
+<FamilyName>Gomes Londero</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_283">
+<AuthorName>
+<GivenName>Juliana</GivenName>
+<FamilyName>Bohn Assmann</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_283">
+<AuthorName>
+<GivenName>Vivian</GivenName>
+<FamilyName>Fontana</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_283">
+<AuthorName>
+<GivenName>Kelin</GivenName>
+<FamilyName>Cristine Martin</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff2_283">
+<AuthorName>
+<GivenName>Maria</GivenName>
+<FamilyName>Paz Loayza Hidalgo</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_283">
+<AuthorName>
+<GivenName>M&#xe1;rcia</GivenName>
+<FamilyName>Lorena Fagundes Chaves</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_283">
+<AuthorName>
+<GivenName>Marino</GivenName>
+<FamilyName>Muxfeldt Bianchin</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_283">
+<OrgDivision>Division of Neurology</OrgDivision>
+<OrgName>
+</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_283">
+<OrgDivision>Hospital de Clinicas de Porto Alegre</OrgDivision>
+<OrgName>Division of Psychiatry</OrgName>
+<OrgAddress>
+<City>Porto Alegre</City>
+<Country>Brazil</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_7">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>334</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0334</ArticleDOI>
+<ArticleSequenceNumber>7</ArticleSequenceNumber>
+<ArticleTitle Language="En">Accentuated cortico-cortical evoked potentials in neocortical epilepsy in areas of ictal onset</ArticleTitle>
+<ArticleCategory>Original articles</ArticleCategory>
+<ArticleFirstPage>292</ArticleFirstPage>
+<ArticleLastPage>302</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_292 aff2_292">
+<AuthorName>
+<GivenName>Masaki</GivenName>
+<FamilyName>Iwasaki</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_292">
+<AuthorName>
+<GivenName>Rei</GivenName>
+<FamilyName>Enatsu</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_292 aff3_292">
+<AuthorName>
+<GivenName>Riki</GivenName>
+<FamilyName>Matsumoto</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff2_292">
+<AuthorName>
+<GivenName>Eric</GivenName>
+<FamilyName>Novak</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_292">
+<AuthorName>
+<GivenName>Baburaj</GivenName>
+<FamilyName>Thankappen</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_292">
+<AuthorName>
+<GivenName>Zhe</GivenName>
+<FamilyName>Piao</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_292">
+<AuthorName>
+<GivenName>Tim</GivenName>
+<FamilyName>O'Connor R</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_292">
+<AuthorName>
+<GivenName>Karl</GivenName>
+<FamilyName>Horning</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_292">
+<AuthorName>
+<GivenName>William</GivenName>
+<FamilyName>Bingaman</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_292 aff2_292">
+<AuthorName>
+<GivenName>Dileep</GivenName>
+<FamilyName>Nair</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_292">
+<OrgDivision>Epilepsy Center</OrgDivision>
+<OrgName>Neurological Institute, Cleveland Clinic</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_292">
+<OrgDivision>Biostatistics</OrgDivision>
+<OrgName>Department of Qualitative Health Sciences, Cleveland Clinic</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff3_292">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Kyoto University Graduate School of Medicine</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff4_292">
+<OrgDivision>Department of Neurosurgery</OrgDivision>
+<OrgName>Tohoku University Graduate School of Medicine</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>Japan</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_8">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>333</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0333</ArticleDOI>
+<ArticleSequenceNumber>8</ArticleSequenceNumber>
+<ArticleTitle Language="En">Lingual myoclonus associated with brain tumour: an epileptic origin?</ArticleTitle>
+<ArticleCategory>Clinical commentaries</ArticleCategory>
+<ArticleFirstPage>303</ArticleFirstPage>
+<ArticleLastPage>305</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_303">
+<AuthorName>
+<GivenName>Rezzak</GivenName>
+<FamilyName>Yilmaz</FamilyName>
+</AuthorName>
+<Contact>
+<Email>rezzakyilmaz@gmail.com</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff1_303">
+<AuthorName>
+<GivenName>Busra S.</GivenName>
+<FamilyName>Arica</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_303">
+<AuthorName>
+<GivenName>Aytac</GivenName>
+<FamilyName>Yigit</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_303">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Faculty of Medicine, University of Ankara</OrgName>
+<OrgAddress>
+<City>Turkey</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_9">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>346</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0346</ArticleDOI>
+<ArticleSequenceNumber>9</ArticleSequenceNumber>
+<ArticleTitle Language="En">Seizure in benign epilepsy with centro-temporal spikes</ArticleTitle>
+<ArticleCategory>Clinical commentaries</ArticleCategory>
+<ArticleFirstPage>306</ArticleFirstPage>
+<ArticleLastPage>308</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author>
+<AuthorName>
+<GivenName>Gorande</GivenName>
+<FamilyName>Kanabar</FamilyName>
+</AuthorName>
+<Contact>
+<Email>gkanabar@nhs.net</Email>
+</Contact>
+</Author>
+<Author>
+<AuthorName>
+<GivenName>Maggie</GivenName>
+<FamilyName>Sully</FamilyName>
+</AuthorName>
+</Author>
+<Author>
+<AuthorName>
+<GivenName>Katy</GivenName>
+<FamilyName>Walsh</FamilyName>
+</AuthorName>
+</Author>
+<Author>
+<AuthorName>
+<GivenName>Kavita</GivenName>
+<FamilyName>Chawla</FamilyName>
+</AuthorName>
+</Author>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_10">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>347</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0347</ArticleDOI>
+<ArticleSequenceNumber>10</ArticleSequenceNumber>
+<ArticleTitle Language="En">Unilateral opercular lesion and eating-induced seizures</ArticleTitle>
+<ArticleCategory>Clinical commentaries</ArticleCategory>
+<ArticleFirstPage>309</ArticleFirstPage>
+<ArticleLastPage>313</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_309">
+<AuthorName>
+<GivenName>Siresha</GivenName>
+<FamilyName>Chaluvadi Manyam</FamilyName>
+</AuthorName>
+<Contact>
+<Email>chaluvad@bcm.edu</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff1_309">
+<AuthorName>
+<GivenName>Doris H.</GivenName>
+<FamilyName>Kung</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff2_309">
+<AuthorName>
+<GivenName>Lisa B.</GivenName>
+<FamilyName>Rhodes</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff3_309">
+<AuthorName>
+<GivenName>Michael E.</GivenName>
+<FamilyName>Newmark</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_309">
+<AuthorName>
+<GivenName>David E.</GivenName>
+<FamilyName>Friedman</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_309">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Baylor College of Medicine</OrgName>
+<OrgAddress>
+<City>Houston</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_309">
+<OrgDivision>St. Luke's Episcopal Hospital</OrgDivision>
+<OrgName>Epilepsy Monitoring Unit</OrgName>
+<OrgAddress>
+<City>Houston</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff3_309">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>Kelsey-Seybold Clinic</OrgName>
+<OrgAddress>
+<City>Houston</City>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_11">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>342</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0342</ArticleDOI>
+<ArticleSequenceNumber>11</ArticleSequenceNumber>
+<ArticleTitle Language="En">Unilateral continuous subclinical paroxysmal activity: an unusual finding in a patient with recurrent absence status</ArticleTitle>
+<ArticleCategory>Clinical commentaries</ArticleCategory>
+<ArticleFirstPage>316</ArticleFirstPage>
+<ArticleLastPage>320</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_316 aff2_316">
+<AuthorName>
+<GivenName>Reana</GivenName>
+<FamilyName>Velizarova</FamilyName>
+</AuthorName>
+<Contact>
+<Email>velizarova.reana25@gmail.com</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff1_316">
+<AuthorName>
+<GivenName>Pierre</GivenName>
+<FamilyName>Genton</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_316">
+<OrgDivision>Centre Saint-Paul</OrgDivision>
+<OrgName>
+</OrgName>
+<OrgAddress>
+<City>Marseille</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_316">
+<OrgDivision>H&#xf4;pital Gui de Chauliac</OrgDivision>
+<OrgName>
+</OrgName>
+<OrgAddress>
+<City>Montpellier</City>
+<Country>France</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_12">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>335</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0335</ArticleDOI>
+<ArticleSequenceNumber>12</ArticleSequenceNumber>
+<ArticleTitle Language="En">Subclinical rhythmic electrographic discharges of adults and transient global amnesia: a causal or casual association?</ArticleTitle>
+<ArticleCategory>Clinical commentaries</ArticleCategory>
+<ArticleFirstPage>321</ArticleFirstPage>
+<ArticleLastPage>324</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_321">
+<AuthorName>
+<GivenName>Francesco</GivenName>
+<FamilyName>Brigo</FamilyName>
+</AuthorName>
+<Contact>
+<Email>dr.francescobrigo@gmail.com</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff1_321">
+<AuthorName>
+<GivenName>Luigi Giuseppe</GivenName>
+<FamilyName>Bongiovanni</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_321">
+<AuthorName>
+<GivenName>Antonio</GivenName>
+<FamilyName>Fiaschi</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_321">
+<OrgDivision>Department of Neurological</OrgDivision>
+<OrgName>Neuropsychological, Morphological and Movement Sciences, University of Verona</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>Italy</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_13">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>341</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0341</ArticleDOI>
+<ArticleSequenceNumber>13</ArticleSequenceNumber>
+<ArticleTitle Language="En">Statistical analysis of transcallosal propagation of spikes arising from the mesial frontal area</ArticleTitle>
+<ArticleCategory>Clinical commentaries</ArticleCategory>
+<ArticleFirstPage>325</ArticleFirstPage>
+<ArticleLastPage>329</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_325">
+<AuthorName>
+<GivenName>Shuichi C.</GivenName>
+<FamilyName>Umeoka</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_325">
+<AuthorName>
+<GivenName>Hans O.</GivenName>
+<FamilyName>L&#xfc;ders</FamilyName>
+</AuthorName>
+<Contact>
+<Email>Hans.Luders@UHhospitals.org</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff1_325">
+<AuthorName>
+<GivenName>Masoud</GivenName>
+<FamilyName>Abed Sangani</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_325">
+<AuthorName>
+<GivenName>John P.</GivenName>
+<FamilyName>Turnbull</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_325">
+<OrgDivision>University Hospitals of Cleveland</OrgDivision>
+<OrgName>Case Medical Center, Institute of Neurology, Epilepsy Center</OrgName>
+<OrgAddress>
+<City>Cleveland</City>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_14">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>338</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0338</ArticleDOI>
+<ArticleSequenceNumber>14</ArticleSequenceNumber>
+<ArticleTitle Language="En">Regression of stroke-like lesions in MELAS-syndrome after seizure control</ArticleTitle>
+<ArticleCategory>Clinical commentaries</ArticleCategory>
+<ArticleFirstPage>330</ArticleFirstPage>
+<ArticleLastPage>334</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_330">
+<AuthorName>
+<GivenName>Josef</GivenName>
+<FamilyName>Finsterer</FamilyName>
+</AuthorName>
+<Contact>
+<Email>fifigs1@yahoo.de</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff1_330">
+<AuthorName>
+<GivenName>Peter</GivenName>
+<FamilyName>Barton</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_330">
+<OrgDivision>Krankenanstalt Rudolfstiftung</OrgDivision>
+<OrgName>
+</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_330">
+<OrgDivision>Institute of Radiology Urania</OrgDivision>
+<OrgName>
+</OrgName>
+<OrgAddress>
+<City>Vienna</City>
+<Country>Austria</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_15">
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>343</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0343</ArticleDOI>
+<ArticleSequenceNumber>15</ArticleSequenceNumber>
+<ArticleTitle Language="En">A case of levetiracetam-induced thrombocytopenia</ArticleTitle>
+<ArticleCategory>Clinical commentaries</ArticleCategory>
+<ArticleFirstPage>335</ArticleFirstPage>
+<ArticleLastPage>337</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="aff1_335">
+<AuthorName>
+<GivenName>Roger</GivenName>
+<FamilyName>Oghlakian</FamilyName>
+</AuthorName>
+<Contact>
+<Email>roger.oghlakian@uhhospitals.org</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="aff2_335">
+<AuthorName>
+<GivenName>Charles</GivenName>
+<FamilyName>Nock</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="aff1_335">
+<AuthorName>
+<GivenName>Mohamad</GivenName>
+<FamilyName>Koubeissi</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="aff1_335">
+<OrgDivision>Department of Neurology</OrgDivision>
+<OrgName>University Hospitals Case Medical Center</OrgName>
+<OrgAddress>
+<City>
+</City>
+<Country>
+</Country>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="aff2_335">
+<OrgDivision>University Hospitals Case Medical Center</OrgDivision>
+<OrgName>Division of Hematology/Oncology and Department of Neurology</OrgName>
+<OrgAddress>
+<City>Cleveland, Ohio</City>
+<Country>USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_16">
+<ArticleInfo ArticleType="Unknown" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>339</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0339</ArticleDOI>
+<ArticleSequenceNumber>16</ArticleSequenceNumber>
+<ArticleTitle Language="En">Varenicline-induced grand mal seizure</ArticleTitle>
+<ArticleCategory>Letter to the Editor</ArticleCategory>
+<ArticleFirstPage>338</ArticleFirstPage>
+<ArticleLastPage>338</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_17">
+<ArticleInfo ArticleType="Unknown" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>350</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0350</ArticleDOI>
+<ArticleSequenceNumber>17</ArticleSequenceNumber>
+<ArticleTitle Language="En">Congresses and meetings</ArticleTitle>
+<ArticleCategory>Congresses and meetings</ArticleCategory>
+<ArticleFirstPage>339</ArticleFirstPage>
+<ArticleLastPage>339</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_18">
+<ArticleInfo ArticleType="Unknown" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>348</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0348</ArticleDOI>
+<ArticleSequenceNumber>18</ArticleSequenceNumber>
+<ArticleTitle Language="En">List of reviewers for 2010</ArticleTitle>
+<ArticleCategory>List of reviewers for 2010</ArticleCategory>
+<ArticleFirstPage>340</ArticleFirstPage>
+<ArticleLastPage>341</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+</DiscreteIssueObjectInfo>
+<DiscreteIssueObjectInfo ID="Art_19">
+<ArticleInfo ArticleType="Unknown" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+<ArticleID>349</ArticleID>
+<ArticleDOI>10.1684/epd.2010.0349</ArticleDOI>
+<ArticleSequenceNumber>19</ArticleSequenceNumber>
+<ArticleTitle Language="En">Articles with video sequences published in 2010</ArticleTitle>
+<ArticleCategory>Articles with video sequences published en 2010</ArticleCategory>
+<ArticleFirstPage>351</ArticleFirstPage>
+<ArticleLastPage>351</ArticleLastPage>
+<ArticleCopyright>
+<CopyrightHolderName>JLE/Springer</CopyrightHolderName>
+<CopyrightYear>2010</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>13315</JournalID>
+<VolumeIDStart>12</VolumeIDStart>
+<VolumeIDEnd>12</VolumeIDEnd>
+<IssueIDStart>4</IssueIDStart>
+<IssueIDEnd>4</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+</DiscreteIssueObjectInfo>
+<WorkflowInfo TaskType="DeliverCompoundObject">
+<Priority Level="Standard"/>
+<Supplier>
+<ExternalPublisher>
+<CompanyName>Jouve</CompanyName>
+<Contact>
+<Street>561, rue du Saint Leonard, BP 3</Street>
+<City>Mayenne</City>
+<Postcode>53101</Postcode>
+<Country>France</Country>
+<Phone>+33243082571</Phone>
+<Fax>+33243082639</Fax>
+</Contact>
+<ContactPerson>
+<ContactPersonName>
+<GivenName>J&#xe9;r&#xf4;me</GivenName>
+<FamilyName>Cailliaux</FamilyName>
+</ContactPersonName>
+<Contact>
+<Phone>+33243083909</Phone>
+<Fax>+33243082630</Fax>
+<Email>jcailliaux@jouve.fr</Email>
+</Contact>
+</ContactPerson>
+<Deliverables>
+<DeliverablesForCompoundObjects AdvertisementPrintPDF="No" BackmatterPrintPDF="No" CoverFigure="Yes" CoverPrintPDF="No" DiscreteContentObjectOnlineMediaObjects="No" DiscreteContentObjectOnlinePDF="Yes" DiscreteContentObjectPrintPDF="No" DiscreteContentObjectXMLWithBody="No" DiscreteContentObjectXMLWithBodyRefsOnly="Yes" FrontmatterPrintPDF="No" Pit-Stop-Reports="Yes"/>
+</Deliverables>
+<FilesToPublisher>
+<ContentFiles>
+<File DiscreteObjectID="Cover">
+<Cover>
+<CoverInfo>
+<CoverFirstPage>A1</CoverFirstPage>
+<CoverLastPage>A4</CoverLastPage>
+</CoverInfo>
+<CoverFigure>
+<MediaObject>
+<ImageObject Color="Color" FileRef="13315_12_4_Cover/13315_12_4_CoverFigure_Print.tif" Format="TIFF" Rendition="Print" Type="Halftone">
+</ImageObject>
+</MediaObject>
+</CoverFigure>
+</Cover>
+</File>
+<File DiscreteObjectID="Art_1">
+<RenditionItem FileRef="1331501204.1v1/133150249.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_2">
+<RenditionItem FileRef="1331501204.1v1/133150255.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_3">
+<RenditionItem FileRef="1331501204.1v1/133150262.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_4">
+<RenditionItem FileRef="1331501204.1v1/133150270.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_5">
+<RenditionItem FileRef="1331501204.1v1/133150275.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_6">
+<RenditionItem FileRef="1331501204.1v1/133150283.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_7">
+<RenditionItem FileRef="1331501204.1v1/133150292.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_8">
+<RenditionItem FileRef="1331501204.1v1/133150303.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_9">
+<RenditionItem FileRef="1331501204.1v1/133150306.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_10">
+<RenditionItem FileRef="1331501204.1v1/133150309.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_11">
+<RenditionItem FileRef="1331501204.1v1/133150316.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_12">
+<RenditionItem FileRef="1331501204.1v1/133150321.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_13">
+<RenditionItem FileRef="1331501204.1v1/133150325.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_14">
+<RenditionItem FileRef="1331501204.1v1/133150330.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_15">
+<RenditionItem FileRef="1331501204.1v1/133150335.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_16">
+<RenditionItem FileRef="1331501204.1v1/133150338.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_17">
+<RenditionItem FileRef="1331501204.1v1/133150339.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_18">
+<RenditionItem FileRef="1331501204.1v1/133150340.pdf" TargetType="OnlinePDF"/>
+</File>
+<File DiscreteObjectID="Art_19">
+<RenditionItem FileRef="1331501204.1v1/133150351.pdf" TargetType="OnlinePDF"/>
+</File>
+</ContentFiles>
+</FilesToPublisher>
+</ExternalPublisher>
+</Supplier>
+</WorkflowInfo>
+</ProductionInfo>
+</IssueJobSheet>
+</JobSheet>

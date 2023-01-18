@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JInfo>
+<EJD>
+	<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+		<JournalID>40699</JournalID>
+		<JournalPrintISSN>1167-1122</JournalPrintISSN>
+		<JournalElectronicISSN>1952-4013</JournalElectronicISSN>
+		<JournalSPIN>40699</JournalSPIN>
+		<JournalTitle>European Journal of Dermatology</JournalTitle>
+		<JournalAbbreviatedTitle>Eur J Dermatol</JournalAbbreviatedTitle>
+		<JournalSubjectGroup>
+			<JournalSubject Type="Primary">M&#xe9;decine</JournalSubject>
+		</JournalSubjectGroup>
+	</JournalInfo>
+</EJD>
+<EPD>
+	<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+		<JournalID>13315</JournalID>
+		<JournalPrintISSN>1294-9361</JournalPrintISSN>
+		<JournalElectronicISSN>1950-6945</JournalElectronicISSN>
+		<JournalSPIN>13315</JournalSPIN>
+		<JournalTitle>Epileptic Disorders</JournalTitle>
+		<JournalAbbreviatedTitle>Epileptic Disord.</JournalAbbreviatedTitle>
+		<JournalSubjectGroup>
+			<JournalSubject Type="Primary">M&#xe9;decine</JournalSubject>
+		</JournalSubjectGroup>
+	</JournalInfo>
+</EPD>
+<ECN>
+	<JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+			<JournalID>40698</JournalID>
+			<JournalPrintISSN>1148-5493</JournalPrintISSN>
+			<JournalSPIN>40698</JournalSPIN>
+			<JournalTitle>European Cytokine Network</JournalTitle>
+			<JournalAbbreviatedTitle>Eur Cytokine Netw</JournalAbbreviatedTitle>
+			<JournalSubjectGroup>
+			<JournalSubject Type="Primary">M&#xe9;decine</JournalSubject>
+			</JournalSubjectGroup>
+</JournalInfo>
+</ECN>
+</JInfo>

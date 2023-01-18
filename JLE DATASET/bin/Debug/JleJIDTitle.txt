@@ -1,0 +1,40 @@
+mst	Med Sante Trop
+agr	Agricultures
+bdc	Bull Cancer
+ecn	Eur Cytokine Netw
+ejd	Eur J Dermatol
+epd	Epileptic Disord
+mrh	Magnes Res
+san	Sant&#xe9;
+abc	Annales de Biologie Clinique
+age	Annales de G&#xe9;rontologie
+agr	Cahiers Agricultures
+bdc	Bulletin du Cancer
+bic	Bulletin infirmier du Cancer
+ecn	European Cytokine Network
+ejd	European Journal of Dermatology
+epd	Epileptic Disorders
+epi	Epilepsies
+ers	Environnement, Risques & Sant&#xe9;
+hma	H&#xe9;matologie
+hpg	H&#xe9;patoGastro
+ipe	l'Information Psychiatrique
+jpc	Journal de Pharmacie Clinique
+lli	La Lettre de l'Internat
+mca	MT Cardio
+med	M&#xe9;decine
+met	M&#xe9;decine th&#xe9;rapeutique
+mrh	Magnesium Research
+mtc	M&#xe9;decine th&#xe9;rapeutique Cardiologie
+mte	M&#xe9;decine Th&#xe9;rapeutique Endocrinologie & Reproduction
+mtg	M&#xe9;decine de la reproduction, gyn&#xe9;cologie et endocrinologie
+mtm	M&#xe9;decine de la reproduction
+mtp	P&#xe9;diatrie
+nro	Neurologie.com
+nrp	Revue de neuropsychologie
+ocl	Ol&#xe9;agineux, Corps Gras, Lipides
+gpn	Geriatr Psychol Neuropsychiatr
+san	Sant&#xe9;
+sec	S&#xe9;cheresse
+sss	Sciences Sociales et Sant&#xe9;
+stv	Sang Thrombose Vaisseaux

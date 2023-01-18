@@ -1,0 +1,4485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns="http://www.editeur.org/onix/DOIMetadata/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/1.1 http://www.medra.org/schema/onix/DOIMetadata/1.1/ONIX_DOIMetadata_1.1.xsd">
+	<Header>
+		<FromCompany>Thomson Digital (Mauritius) ltd</FromCompany>
+		<FromEmail>siwraj.o@thomsondigital.com</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20140415</SentDate>
+	</Header>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2198</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2198</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>3</FirstPageNumber>
+					<LastPageNumber>9</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>A comparison of the irritant and allergenic properties of antiseptics</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Marie Lachapelle</PersonName>
+				<NamesBeforeKey>Jean-Marie</NamesBeforeKey>
+				<KeyNames>Lachapelle</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2187</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2187</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>10</FirstPageNumber>
+					<LastPageNumber>14</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Epicutaneous exposure to proteins and skin immune function</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ian Kimber</PersonName>
+				<NamesBeforeKey>Ian</NamesBeforeKey>
+				<KeyNames>Kimber</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Christopher E.M. Griffiths</PersonName>
+				<NamesBeforeKey>Christopher E.M.</NamesBeforeKey>
+				<KeyNames>Griffiths</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>David A. Basketter</PersonName>
+				<NamesBeforeKey>David A.</NamesBeforeKey>
+				<KeyNames>Basketter</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>John P. McFadden</PersonName>
+				<NamesBeforeKey>John P.</NamesBeforeKey>
+				<KeyNames>McFadden</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Rebecca J. Dearman</PersonName>
+				<NamesBeforeKey>Rebecca J.</NamesBeforeKey>
+				<KeyNames>Dearman</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2258</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2258</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>15</FirstPageNumber>
+					<LastPageNumber>22</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>The European Standard Series and its additions: are they of any use in 2013?</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Michel Castelain</PersonName>
+				<NamesBeforeKey>Michel</NamesBeforeKey>
+				<KeyNames>Castelain</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Haudrey Assier</PersonName>
+				<NamesBeforeKey>Haudrey</NamesBeforeKey>
+				<KeyNames>Assier</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie Baeck</PersonName>
+				<NamesBeforeKey>Marie</NamesBeforeKey>
+				<KeyNames>Baeck</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Corina Bara</PersonName>
+				<NamesBeforeKey>Corina</NamesBeforeKey>
+				<KeyNames>Bara</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Annick Barbaud</PersonName>
+				<NamesBeforeKey>Annick</NamesBeforeKey>
+				<KeyNames>Barbaud</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Florence Castelain</PersonName>
+				<NamesBeforeKey>Florence</NamesBeforeKey>
+				<KeyNames>Castelain</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Brigitte Felix</PersonName>
+				<NamesBeforeKey>Brigitte</NamesBeforeKey>
+				<KeyNames>Felix</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie Christine Ferrie Le Bouedec</PersonName>
+				<NamesBeforeKey>Marie Christine</NamesBeforeKey>
+				<KeyNames>Ferrie Le Bouedec</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Christian Frick</PersonName>
+				<NamesBeforeKey>Christian</NamesBeforeKey>
+				<KeyNames>Frick</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Pascal Girardin</PersonName>
+				<NamesBeforeKey>Pascal</NamesBeforeKey>
+				<KeyNames>Girardin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie Claude Jacobs</PersonName>
+				<NamesBeforeKey>Marie Claude</NamesBeforeKey>
+				<KeyNames>Jacobs</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Gilbert Jelen</PersonName>
+				<NamesBeforeKey>Gilbert</NamesBeforeKey>
+				<KeyNames>Jelen</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Isabelle Lartigaud</PersonName>
+				<NamesBeforeKey>Isabelle</NamesBeforeKey>
+				<KeyNames>Lartigaud</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nadia Raison-Peyron</PersonName>
+				<NamesBeforeKey>Nadia</NamesBeforeKey>
+				<KeyNames>Raison-Peyron</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Dominique Tennstedt</PersonName>
+				<NamesBeforeKey>Dominique</NamesBeforeKey>
+				<KeyNames>Tennstedt</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Florence Tetard</PersonName>
+				<NamesBeforeKey>Florence</NamesBeforeKey>
+				<KeyNames>Tetard</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Martine Vigan</PersonName>
+				<NamesBeforeKey>Martine</NamesBeforeKey>
+				<KeyNames>Vigan</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Julie Waton</PersonName>
+				<NamesBeforeKey>Julie</NamesBeforeKey>
+				<KeyNames>Waton</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2265</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2265</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>23</FirstPageNumber>
+					<LastPageNumber>27</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Reduction in lesions from Lmax: a new concept for assessing efficacy of field-directed therapy for actinic keratosis. Results with imiquimod 3.75%</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Eggert Stockfleth</PersonName>
+				<NamesBeforeKey>Eggert</NamesBeforeKey>
+				<KeyNames>Stockfleth</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Girish Gupta</PersonName>
+				<NamesBeforeKey>Girish</NamesBeforeKey>
+				<KeyNames>Gupta</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ketty Peris</PersonName>
+				<NamesBeforeKey>Ketty</NamesBeforeKey>
+				<KeyNames>Peris</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Selim Aractingi</PersonName>
+				<NamesBeforeKey>Selim</NamesBeforeKey>
+				<KeyNames>Aractingi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Rada Dakovic</PersonName>
+				<NamesBeforeKey>Rada</NamesBeforeKey>
+				<KeyNames>Dakovic</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Agustin Alomar</PersonName>
+				<NamesBeforeKey>Agustin</NamesBeforeKey>
+				<KeyNames>Alomar</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2252</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2252</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>28</FirstPageNumber>
+					<LastPageNumber>34</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Use of recombinant C1 inhibitor in patients with resistant or frequent attacks of hereditary or acquired angioedema</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ania L Manson</PersonName>
+				<NamesBeforeKey>Ania L</NamesBeforeKey>
+				<KeyNames>Manson</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>John Dempster</PersonName>
+				<NamesBeforeKey>John</NamesBeforeKey>
+				<KeyNames>Dempster</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sofia Grigoriadou</PersonName>
+				<NamesBeforeKey>Sofia</NamesBeforeKey>
+				<KeyNames>Grigoriadou</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Matthew S Buckland</PersonName>
+				<NamesBeforeKey>Matthew S</NamesBeforeKey>
+				<KeyNames>Buckland</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hilary J Longhurst</PersonName>
+				<NamesBeforeKey>Hilary J</NamesBeforeKey>
+				<KeyNames>Longhurst</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2214</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2214</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>35</FirstPageNumber>
+					<LastPageNumber>40</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Melanoma attributable to sunbed use and tan seeking behaviours: an Italian survey</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sara Gandini</PersonName>
+				<NamesBeforeKey>Sara</NamesBeforeKey>
+				<KeyNames>Gandini</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ignazio Stanganelli</PersonName>
+				<NamesBeforeKey>Ignazio</NamesBeforeKey>
+				<KeyNames>Stanganelli</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Serena Magi</PersonName>
+				<NamesBeforeKey>Serena</NamesBeforeKey>
+				<KeyNames>Magi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Laura Mazzoni</PersonName>
+				<NamesBeforeKey>Laura</NamesBeforeKey>
+				<KeyNames>Mazzoni</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Matelda Medri</PersonName>
+				<NamesBeforeKey>Matelda</NamesBeforeKey>
+				<KeyNames>Medri</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Veronica Agnoletti</PersonName>
+				<NamesBeforeKey>Veronica</NamesBeforeKey>
+				<KeyNames>Agnoletti</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Linda Lombi</PersonName>
+				<NamesBeforeKey>Linda</NamesBeforeKey>
+				<KeyNames>Lombi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Fabio Falcini</PersonName>
+				<NamesBeforeKey>Fabio</NamesBeforeKey>
+				<KeyNames>Falcini</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2219</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2219</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>41</FirstPageNumber>
+					<LastPageNumber>45</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Increased expression of enhancer of Zeste Homolog 2 (EZH2) differentiates squamous cell carcinoma from normal skin and actinic keratosis</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Qiang Xie</PersonName>
+				<NamesBeforeKey>Qiang</NamesBeforeKey>
+				<KeyNames>Xie</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hongbei Wang</PersonName>
+				<NamesBeforeKey>Hongbei</NamesBeforeKey>
+				<KeyNames>Wang</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Edward R. Heilman</PersonName>
+				<NamesBeforeKey>Edward R.</NamesBeforeKey>
+				<KeyNames>Heilman</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Michael G. Walsh</PersonName>
+				<NamesBeforeKey>Michael G.</NamesBeforeKey>
+				<KeyNames>Walsh</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>M.A. Haseeb</PersonName>
+				<NamesBeforeKey>M.A.</NamesBeforeKey>
+				<KeyNames>Haseeb</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Raavi Gupta</PersonName>
+				<NamesBeforeKey>Raavi</NamesBeforeKey>
+				<KeyNames>Gupta</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2233</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2233</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>46</FirstPageNumber>
+					<LastPageNumber>52</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Ex-vivo study of hybrid energy technology using a human skin model</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sylvie Boisnic</PersonName>
+				<NamesBeforeKey>Sylvie</NamesBeforeKey>
+				<KeyNames>Boisnic</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie Christine Branchet</PersonName>
+				<NamesBeforeKey>Marie Christine</NamesBeforeKey>
+				<KeyNames>Branchet</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2241</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2241</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>53</FirstPageNumber>
+					<LastPageNumber>62</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Vitamin D insufficiency is associated with higher carotid intima-media thickness in psoriatic patients</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jacinto Orgaz-Molina</PersonName>
+				<NamesBeforeKey>Jacinto</NamesBeforeKey>
+				<KeyNames>Orgaz-Molina</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Cesar Magro-Checa</PersonName>
+				<NamesBeforeKey>Cesar</NamesBeforeKey>
+				<KeyNames>Magro-Checa</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>José Luis Rosales-Alexander</PersonName>
+				<NamesBeforeKey>José Luis</NamesBeforeKey>
+				<KeyNames>Rosales-Alexander</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Miguel A Arrabal-Polo</PersonName>
+				<NamesBeforeKey>Miguel A</NamesBeforeKey>
+				<KeyNames>Arrabal-Polo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Luisa Castellote-Caballero</PersonName>
+				<NamesBeforeKey>Luisa</NamesBeforeKey>
+				<KeyNames>Castellote-Caballero</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Agustin Buendía-Eisman</PersonName>
+				<NamesBeforeKey>Agustin</NamesBeforeKey>
+				<KeyNames>Buendía-Eisman</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Enriqué Raya-Álvarez</PersonName>
+				<NamesBeforeKey>Enriqué</NamesBeforeKey>
+				<KeyNames>Raya-Álvarez</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Salvador Arias-Santiago</PersonName>
+				<NamesBeforeKey>Salvador</NamesBeforeKey>
+				<KeyNames>Arias-Santiago</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2255</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2255</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>63</FirstPageNumber>
+					<LastPageNumber>69</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Point prevalence and risk factors for food allergy in a cohort of 386 children with atopic dermatitis attending a multidisciplinary dermatology/paediatric allergy clinic</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Claire Mailhol</PersonName>
+				<NamesBeforeKey>Claire</NamesBeforeKey>
+				<KeyNames>Mailhol</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Françoise Giordano-Labadie</PersonName>
+				<NamesBeforeKey>Françoise</NamesBeforeKey>
+				<KeyNames>Giordano-Labadie</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Valérie Lauwers-Cances</PersonName>
+				<NamesBeforeKey>Valérie</NamesBeforeKey>
+				<KeyNames>Lauwers-Cances</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Alfred Ammoury</PersonName>
+				<NamesBeforeKey>Alfred</NamesBeforeKey>
+				<KeyNames>Ammoury</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Carle Paul</PersonName>
+				<NamesBeforeKey>Carle</NamesBeforeKey>
+				<KeyNames>Paul</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Fabienne Rance</PersonName>
+				<NamesBeforeKey>Fabienne</NamesBeforeKey>
+				<KeyNames>Rance</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2216</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2216</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>70</FirstPageNumber>
+					<LastPageNumber>75</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Neoplastic skin lesions of the scalp in children: A retrospective study of 265 cases in Taiwan</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chao-Chun Yang</PersonName>
+				<NamesBeforeKey>Chao-Chun</NamesBeforeKey>
+				<KeyNames>Yang</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yi-An Chen</PersonName>
+				<NamesBeforeKey>Yi-An</NamesBeforeKey>
+				<KeyNames>Chen</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yueh-Lin Tsai</PersonName>
+				<NamesBeforeKey>Yueh-Lin</NamesBeforeKey>
+				<KeyNames>Tsai</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>I-Hsin Shih</PersonName>
+				<NamesBeforeKey>I-Hsin</NamesBeforeKey>
+				<KeyNames>Shih</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>WenChieh Chen</PersonName>
+				<NamesBeforeKey>WenChieh</NamesBeforeKey>
+				<KeyNames>Chen</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2223</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2223</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>76</FirstPageNumber>
+					<LastPageNumber>79</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Curative effect study of pulsed dye laser in the treatment of 43 patients with hand infantile hemangioma</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Wei Chen</PersonName>
+				<NamesBeforeKey>Wei</NamesBeforeKey>
+				<KeyNames>Chen</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chunjun Yang</PersonName>
+				<NamesBeforeKey>Chunjun</NamesBeforeKey>
+				<KeyNames>Yang</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Shengxiu Liu</PersonName>
+				<NamesBeforeKey>Shengxiu</NamesBeforeKey>
+				<KeyNames>Liu</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sen Yang</PersonName>
+				<NamesBeforeKey>Sen</NamesBeforeKey>
+				<KeyNames>Yang</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2243</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2243</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>81</FirstPageNumber>
+					<LastPageNumber>84</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>The correlation between cutaneous IgM deposition and renal involvement in adult patients with Henoch-Schönlein purpura</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Asli Akin Belli</PersonName>
+				<NamesBeforeKey>Asli Akin</NamesBeforeKey>
+				<KeyNames>Belli</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Emine Dervis</PersonName>
+				<NamesBeforeKey>Emine</NamesBeforeKey>
+				<KeyNames>Dervis</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2266</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2266</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>85</FirstPageNumber>
+					<LastPageNumber>93</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Behaviour, attitudes and awareness concerning sun exposure in adolescents on the Costa del sol</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Teresa Fernández-Morano</PersonName>
+				<NamesBeforeKey>Teresa</NamesBeforeKey>
+				<KeyNames>Fernández-Morano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Magdalena De Troya-Martín</PersonName>
+				<NamesBeforeKey>Magdalena De</NamesBeforeKey>
+				<KeyNames>Troya-Martín</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Francisco Rivas-Ruiz</PersonName>
+				<NamesBeforeKey>Francisco</NamesBeforeKey>
+				<KeyNames>Rivas-Ruiz</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nuria Blázquez-Sánchez</PersonName>
+				<NamesBeforeKey>Nuria</NamesBeforeKey>
+				<KeyNames>Blázquez-Sánchez</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Javier Del Boz-González</PersonName>
+				<NamesBeforeKey>Javier Del</NamesBeforeKey>
+				<KeyNames>Boz-González</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Pablo Fernández-Peñas</PersonName>
+				<NamesBeforeKey>Pablo</NamesBeforeKey>
+				<KeyNames>Fernández-Peñas</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Agustín Buendía-Eisman</PersonName>
+				<NamesBeforeKey>Agustín</NamesBeforeKey>
+				<KeyNames>Buendía-Eisman</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2213</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2213</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>94</FirstPageNumber>
+					<LastPageNumber>95</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Dramatic reduction of clindamycin plasma concentration in hidradenitis suppurativa patients treated with the rifampin-clindamycin combination</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Olivier Join-Lambert</PersonName>
+				<NamesBeforeKey>Olivier</NamesBeforeKey>
+				<KeyNames>Join-Lambert</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Florence Ribadeau-Dumas</PersonName>
+				<NamesBeforeKey>Florence</NamesBeforeKey>
+				<KeyNames>Ribadeau-Dumas</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Vincent Jullien</PersonName>
+				<NamesBeforeKey>Vincent</NamesBeforeKey>
+				<KeyNames>Jullien</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie-Dominique Kitzis</PersonName>
+				<NamesBeforeKey>Marie-Dominique</NamesBeforeKey>
+				<KeyNames>Kitzis</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Philippe Jais</PersonName>
+				<NamesBeforeKey>Jean-Philippe</NamesBeforeKey>
+				<KeyNames>Jais</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hélène Coignard-Biehler</PersonName>
+				<NamesBeforeKey>Hélène</NamesBeforeKey>
+				<KeyNames>Coignard-Biehler</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hélène Guet-Revillet</PersonName>
+				<NamesBeforeKey>Hélène</NamesBeforeKey>
+				<KeyNames>Guet-Revillet</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Paul-Henri Consigny</PersonName>
+				<NamesBeforeKey>Paul-Henri</NamesBeforeKey>
+				<KeyNames>Consigny</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Maia Delage</PersonName>
+				<NamesBeforeKey>Maia</NamesBeforeKey>
+				<KeyNames>Delage</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Xavier Nassif</PersonName>
+				<NamesBeforeKey>Xavier</NamesBeforeKey>
+				<KeyNames>Nassif</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Olivier Lortholary</PersonName>
+				<NamesBeforeKey>Olivier</NamesBeforeKey>
+				<KeyNames>Lortholary</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Aude Nassif</PersonName>
+				<NamesBeforeKey>Aude</NamesBeforeKey>
+				<KeyNames>Nassif</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2201</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2201</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>95</FirstPageNumber>
+					<LastPageNumber>96</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Primary cutaneous lichen amyloidosis of the external auditory canal, possibly due to scratching with a metal nail head for severe pruritus</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kio Park</PersonName>
+				<NamesBeforeKey>Kio</NamesBeforeKey>
+				<KeyNames>Park</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takashi Taniyama</PersonName>
+				<NamesBeforeKey>Takashi</NamesBeforeKey>
+				<KeyNames>Taniyama</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kenji Kabashima</PersonName>
+				<NamesBeforeKey>Kenji</NamesBeforeKey>
+				<KeyNames>Kabashima</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoshiki Miyachi</PersonName>
+				<NamesBeforeKey>Yoshiki</NamesBeforeKey>
+				<KeyNames>Miyachi</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2212</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2212</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>96</FirstPageNumber>
+					<LastPageNumber>97</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>An unusual case of erythema elevatum diutinum with penile and laryngeal manifestations</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Tomoko Syuto</PersonName>
+				<NamesBeforeKey>Tomoko</NamesBeforeKey>
+				<KeyNames>Syuto</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Osamu Tago</PersonName>
+				<NamesBeforeKey>Osamu</NamesBeforeKey>
+				<KeyNames>Tago</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yuko Kuriyama</PersonName>
+				<NamesBeforeKey>Yuko</NamesBeforeKey>
+				<KeyNames>Kuriyama</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takahiro Ishibuchi</PersonName>
+				<NamesBeforeKey>Takahiro</NamesBeforeKey>
+				<KeyNames>Ishibuchi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Setsuko Sasahira</PersonName>
+				<NamesBeforeKey>Setsuko</NamesBeforeKey>
+				<KeyNames>Sasahira</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yayoi Nagai</PersonName>
+				<NamesBeforeKey>Yayoi</NamesBeforeKey>
+				<KeyNames>Nagai</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Osamu Ishikawa</PersonName>
+				<NamesBeforeKey>Osamu</NamesBeforeKey>
+				<KeyNames>Ishikawa</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2215</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2215</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>98</FirstPageNumber>
+					<LastPageNumber>98</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>A simple method to visualize the regrowth of white vellus hairs using superficial cryotherapy</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Dongyun Shin</PersonName>
+				<NamesBeforeKey>Dongyun</NamesBeforeKey>
+				<KeyNames>Shin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jimyung Seo</PersonName>
+				<NamesBeforeKey>Jimyung</NamesBeforeKey>
+				<KeyNames>Seo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Do Young Kim</PersonName>
+				<NamesBeforeKey>Do Young</NamesBeforeKey>
+				<KeyNames>Kim</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2220</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2220</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>98</FirstPageNumber>
+					<LastPageNumber>99</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Acneiform eruption induced by ethosuximide</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Francesco Ricci</PersonName>
+				<NamesBeforeKey>Francesco</NamesBeforeKey>
+				<KeyNames>Ricci</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Andrea Paradisi</PersonName>
+				<NamesBeforeKey>Andrea</NamesBeforeKey>
+				<KeyNames>Paradisi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Francesco Masini</PersonName>
+				<NamesBeforeKey>Francesco</NamesBeforeKey>
+				<KeyNames>Masini</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ilaria Contaldo</PersonName>
+				<NamesBeforeKey>Ilaria</NamesBeforeKey>
+				<KeyNames>Contaldo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Domenica Immacolata Battaglia</PersonName>
+				<NamesBeforeKey>Domenica Immacolata</NamesBeforeKey>
+				<KeyNames>Battaglia</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Rodolfo Capizzi</PersonName>
+				<NamesBeforeKey>Rodolfo</NamesBeforeKey>
+				<KeyNames>Capizzi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Cristina Guerriero</PersonName>
+				<NamesBeforeKey>Cristina</NamesBeforeKey>
+				<KeyNames>Guerriero</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2267</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2267</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>100</FirstPageNumber>
+					<LastPageNumber>101</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Effects of platelet-rich plasma on wrinkles and skin tone in Asian lower eyelid skin: Preliminary results from a prospective, randomised, split-face trial</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Boo Kyoung Kang</PersonName>
+				<NamesBeforeKey>Boo Kyoung</NamesBeforeKey>
+				<KeyNames>Kang</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Min Kyung Shin</PersonName>
+				<NamesBeforeKey>Min Kyung</NamesBeforeKey>
+				<KeyNames>Shin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jong Ho Lee</PersonName>
+				<NamesBeforeKey>Jong Ho</NamesBeforeKey>
+				<KeyNames>Lee</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nack In Kim</PersonName>
+				<NamesBeforeKey>Nack In</NamesBeforeKey>
+				<KeyNames>Kim</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2218</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2218</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>101</FirstPageNumber>
+					<LastPageNumber>103</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Immune reconstitution inflammatory syndrome in a patient with adult-onset Still's disease: Graft-versus-host-like skin reaction with possible asymptomatic human herpes virus reactivation during steroid tapering</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kosuke Yamaga</PersonName>
+				<NamesBeforeKey>Kosuke</NamesBeforeKey>
+				<KeyNames>Yamaga</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takaaki Hanafusa</PersonName>
+				<NamesBeforeKey>Takaaki</NamesBeforeKey>
+				<KeyNames>Hanafusa</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hiroaki Azukizawa</PersonName>
+				<NamesBeforeKey>Hiroaki</NamesBeforeKey>
+				<KeyNames>Azukizawa</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Atsushi Tanemura</PersonName>
+				<NamesBeforeKey>Atsushi</NamesBeforeKey>
+				<KeyNames>Tanemura</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takuro Nii</PersonName>
+				<NamesBeforeKey>Takuro</NamesBeforeKey>
+				<KeyNames>Nii</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masayuki Nishide</PersonName>
+				<NamesBeforeKey>Masayuki</NamesBeforeKey>
+				<KeyNames>Nishide</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masashi Narazaki</PersonName>
+				<NamesBeforeKey>Masashi</NamesBeforeKey>
+				<KeyNames>Narazaki</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ichiro Katayama</PersonName>
+				<NamesBeforeKey>Ichiro</NamesBeforeKey>
+				<KeyNames>Katayama</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2222</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2222</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>103</FirstPageNumber>
+					<LastPageNumber>104</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>An outbreak of hand-foot-and-mouth disease mimicking chicken pox, with a frequent association of onychomadesis in Japan in 2009: A new phenotype caused by coxsackievirus A6</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Asako Miyamoto</PersonName>
+				<NamesBeforeKey>Asako</NamesBeforeKey>
+				<KeyNames>Miyamoto</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Rumiko Hirata</PersonName>
+				<NamesBeforeKey>Rumiko</NamesBeforeKey>
+				<KeyNames>Hirata</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kazuhisa Ishimoto</PersonName>
+				<NamesBeforeKey>Kazuhisa</NamesBeforeKey>
+				<KeyNames>Ishimoto</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mayumi Hisatomi</PersonName>
+				<NamesBeforeKey>Mayumi</NamesBeforeKey>
+				<KeyNames>Hisatomi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Rieko Wasada</PersonName>
+				<NamesBeforeKey>Rieko</NamesBeforeKey>
+				<KeyNames>Wasada</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yukihiro Akita</PersonName>
+				<NamesBeforeKey>Yukihiro</NamesBeforeKey>
+				<KeyNames>Akita</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takanobu Ishihara</PersonName>
+				<NamesBeforeKey>Takanobu</NamesBeforeKey>
+				<KeyNames>Ishihara</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Tamotsu Fujimoto</PersonName>
+				<NamesBeforeKey>Tamotsu</NamesBeforeKey>
+				<KeyNames>Fujimoto</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nobuyuki Eshima</PersonName>
+				<NamesBeforeKey>Nobuyuki</NamesBeforeKey>
+				<KeyNames>Eshima</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yutaka Hatano</PersonName>
+				<NamesBeforeKey>Yutaka</NamesBeforeKey>
+				<KeyNames>Hatano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kazumoto Katagiri</PersonName>
+				<NamesBeforeKey>Kazumoto</NamesBeforeKey>
+				<KeyNames>Katagiri</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sakuhei Fujiwara</PersonName>
+				<NamesBeforeKey>Sakuhei</NamesBeforeKey>
+				<KeyNames>Fujiwara</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2225</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2225</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>105</FirstPageNumber>
+					<LastPageNumber>106</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Acquired ichthyosis associated with primary cutaneous CD30+ lymphoproliferative disorders</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Daniel López Aventín</PersonName>
+				<NamesBeforeKey>Daniel</NamesBeforeKey>
+				<KeyNames>López Aventín</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Fernando Gallardo</PersonName>
+				<NamesBeforeKey>Fernando</NamesBeforeKey>
+				<KeyNames>Gallardo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mireia Yébenes</PersonName>
+				<NamesBeforeKey>Mireia</NamesBeforeKey>
+				<KeyNames>Yébenes</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Josep Lloreta</PersonName>
+				<NamesBeforeKey>Josep</NamesBeforeKey>
+				<KeyNames>Lloreta</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ramon M. Pujol</PersonName>
+				<NamesBeforeKey>Ramon M.</NamesBeforeKey>
+				<KeyNames>Pujol</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2224</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2224</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>106</FirstPageNumber>
+					<LastPageNumber>107</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Spindle cell angiosarcoma almost exclusively made up of spindle cells</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sumiko Makita</PersonName>
+				<NamesBeforeKey>Sumiko</NamesBeforeKey>
+				<KeyNames>Makita</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Michihiro Kono</PersonName>
+				<NamesBeforeKey>Michihiro</NamesBeforeKey>
+				<KeyNames>Kono</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Motohito Yamada</PersonName>
+				<NamesBeforeKey>Motohito</NamesBeforeKey>
+				<KeyNames>Yamada</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Noriyuki Suzuki</PersonName>
+				<NamesBeforeKey>Noriyuki</NamesBeforeKey>
+				<KeyNames>Suzuki</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takuo Karasawa</PersonName>
+				<NamesBeforeKey>Takuo</NamesBeforeKey>
+				<KeyNames>Karasawa</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chisato Tanahashi</PersonName>
+				<NamesBeforeKey>Chisato</NamesBeforeKey>
+				<KeyNames>Tanahashi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masashi Akiyama</PersonName>
+				<NamesBeforeKey>Masashi</NamesBeforeKey>
+				<KeyNames>Akiyama</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2227</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2227</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>107</FirstPageNumber>
+					<LastPageNumber>109</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Eruptive naevi and darkening of pre-existing naevi 24 h after a single mono-dose injection of melanotan II</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Franziska Schulze</PersonName>
+				<NamesBeforeKey>Franziska</NamesBeforeKey>
+				<KeyNames>Schulze</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hanieh Erdmann</PersonName>
+				<NamesBeforeKey>Hanieh</NamesBeforeKey>
+				<KeyNames>Erdmann</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Lena H. Hardkop</PersonName>
+				<NamesBeforeKey>Lena H.</NamesBeforeKey>
+				<KeyNames>Hardkop</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Waltraud Anemüller</PersonName>
+				<NamesBeforeKey>Waltraud</NamesBeforeKey>
+				<KeyNames>Anemüller</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Christian Rose</PersonName>
+				<NamesBeforeKey>Christian</NamesBeforeKey>
+				<KeyNames>Rose</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Detlef Zillikens</PersonName>
+				<NamesBeforeKey>Detlef</NamesBeforeKey>
+				<KeyNames>Zillikens</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Tobias W. Fischer</PersonName>
+				<NamesBeforeKey>Tobias W.</NamesBeforeKey>
+				<KeyNames>Fischer</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2229</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2229</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>109</FirstPageNumber>
+					<LastPageNumber>110</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Unilateral eruptive seborrheic keratoses associated with hepatic hemangiomas</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Naoyuki Ikkaku</PersonName>
+				<NamesBeforeKey>Naoyuki</NamesBeforeKey>
+				<KeyNames>Ikkaku</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masahiro Oka</PersonName>
+				<NamesBeforeKey>Masahiro</NamesBeforeKey>
+				<KeyNames>Oka</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yozo Yamada</PersonName>
+				<NamesBeforeKey>Yozo</NamesBeforeKey>
+				<KeyNames>Yamada</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kouji Uda</PersonName>
+				<NamesBeforeKey>Kouji</NamesBeforeKey>
+				<KeyNames>Uda</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chikako Nishigori</PersonName>
+				<NamesBeforeKey>Chikako</NamesBeforeKey>
+				<KeyNames>Nishigori</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2228</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2228</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>111</FirstPageNumber>
+					<LastPageNumber>112</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>A generalized Kaposi's sarcoma after chronic and extensive topical corticosteroid use</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Georgios Tyros</PersonName>
+				<NamesBeforeKey>Georgios</NamesBeforeKey>
+				<KeyNames>Tyros</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Irini Potouridou</PersonName>
+				<NamesBeforeKey>Irini</NamesBeforeKey>
+				<KeyNames>Potouridou</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Athanasios Tsaraklis</PersonName>
+				<NamesBeforeKey>Athanasios</NamesBeforeKey>
+				<KeyNames>Tsaraklis</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Pinelopi Korkolopoulou</PersonName>
+				<NamesBeforeKey>Pinelopi</NamesBeforeKey>
+				<KeyNames>Korkolopoulou</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Erietta Christofidou</PersonName>
+				<NamesBeforeKey>Erietta</NamesBeforeKey>
+				<KeyNames>Christofidou</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Dorothea Polydorou</PersonName>
+				<NamesBeforeKey>Dorothea</NamesBeforeKey>
+				<KeyNames>Polydorou</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Georgios Kontochristopoulos</PersonName>
+				<NamesBeforeKey>Georgios</NamesBeforeKey>
+				<KeyNames>Kontochristopoulos</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2256</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2256</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>112</FirstPageNumber>
+					<LastPageNumber>113</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Diffuse plane normolipemic xanthoma associated with chronic myelomonocytic leukemia-1</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masahiro Oka</PersonName>
+				<NamesBeforeKey>Masahiro</NamesBeforeKey>
+				<KeyNames>Oka</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Atsuo Okamura</PersonName>
+				<NamesBeforeKey>Atsuo</NamesBeforeKey>
+				<KeyNames>Okamura</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Seiji Kawano</PersonName>
+				<NamesBeforeKey>Seiji</NamesBeforeKey>
+				<KeyNames>Kawano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takeshi Fukumoto</PersonName>
+				<NamesBeforeKey>Takeshi</NamesBeforeKey>
+				<KeyNames>Fukumoto</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masanobu Sakaguchi</PersonName>
+				<NamesBeforeKey>Masanobu</NamesBeforeKey>
+				<KeyNames>Sakaguchi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chikako Nishigori</PersonName>
+				<NamesBeforeKey>Chikako</NamesBeforeKey>
+				<KeyNames>Nishigori</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2231</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2231</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>113</FirstPageNumber>
+					<LastPageNumber>115</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Clinicopathological features and treatment of uremic calciphylaxis: a case series</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>David Veitch</PersonName>
+				<NamesBeforeKey>David</NamesBeforeKey>
+				<KeyNames>Veitch</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nilukshi Wijesuriya</PersonName>
+				<NamesBeforeKey>Nilukshi</NamesBeforeKey>
+				<KeyNames>Wijesuriya</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jane M. McGregor</PersonName>
+				<NamesBeforeKey>Jane M.</NamesBeforeKey>
+				<KeyNames>McGregor</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hamish Dobbie</PersonName>
+				<NamesBeforeKey>Hamish</NamesBeforeKey>
+				<KeyNames>Dobbie</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Catherine Harwood</PersonName>
+				<NamesBeforeKey>Catherine</NamesBeforeKey>
+				<KeyNames>Harwood</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2268</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2268</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>115</FirstPageNumber>
+					<LastPageNumber>116</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Heat stroke burn: unusual cutaneous damage due to heat wave</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yusuke Nakamura</PersonName>
+				<NamesBeforeKey>Yusuke</NamesBeforeKey>
+				<KeyNames>Nakamura</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Naoko Takeo</PersonName>
+				<NamesBeforeKey>Naoko</NamesBeforeKey>
+				<KeyNames>Takeo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mayuko Goto</PersonName>
+				<NamesBeforeKey>Mayuko</NamesBeforeKey>
+				<KeyNames>Goto</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoshitaka Kai</PersonName>
+				<NamesBeforeKey>Yoshitaka</NamesBeforeKey>
+				<KeyNames>Kai</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yutaka Hatano</PersonName>
+				<NamesBeforeKey>Yutaka</NamesBeforeKey>
+				<KeyNames>Hatano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Osamu Okamoto</PersonName>
+				<NamesBeforeKey>Osamu</NamesBeforeKey>
+				<KeyNames>Okamoto</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sakuhei Fujiwara</PersonName>
+				<NamesBeforeKey>Sakuhei</NamesBeforeKey>
+				<KeyNames>Fujiwara</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sanshi Tanabe</PersonName>
+				<NamesBeforeKey>Sanshi</NamesBeforeKey>
+				<KeyNames>Tanabe</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ryuichi Takenaka</PersonName>
+				<NamesBeforeKey>Ryuichi</NamesBeforeKey>
+				<KeyNames>Takenaka</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hirotaka Fudaba</PersonName>
+				<NamesBeforeKey>Hirotaka</NamesBeforeKey>
+				<KeyNames>Fudaba</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takeshi Kubo</PersonName>
+				<NamesBeforeKey>Takeshi</NamesBeforeKey>
+				<KeyNames>Kubo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Minoru Fujiki</PersonName>
+				<NamesBeforeKey>Minoru</NamesBeforeKey>
+				<KeyNames>Fujiki</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2240</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2240</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>116</FirstPageNumber>
+					<LastPageNumber>117</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Cutaneous mucormycosis in a patient with acute lymphocytic leukemia</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ken Shiraishi</PersonName>
+				<NamesBeforeKey>Ken</NamesBeforeKey>
+				<KeyNames>Shiraishi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Shiro Sasaki</PersonName>
+				<NamesBeforeKey>Shiro</NamesBeforeKey>
+				<KeyNames>Sasaki</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yasushi Sadamoto</PersonName>
+				<NamesBeforeKey>Yasushi</NamesBeforeKey>
+				<KeyNames>Sadamoto</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2238</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2238</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>117</FirstPageNumber>
+					<LastPageNumber>119</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Successful treatment with UVA rush hardening in a case of solar urticaria</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Naoya Mori</PersonName>
+				<NamesBeforeKey>Naoya</NamesBeforeKey>
+				<KeyNames>Mori</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Teruhiko Makino</PersonName>
+				<NamesBeforeKey>Teruhiko</NamesBeforeKey>
+				<KeyNames>Makino</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kotaro Matsui</PersonName>
+				<NamesBeforeKey>Kotaro</NamesBeforeKey>
+				<KeyNames>Matsui</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoshiaki Takegami</PersonName>
+				<NamesBeforeKey>Yoshiaki</NamesBeforeKey>
+				<KeyNames>Takegami</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Shotaro Murayama</PersonName>
+				<NamesBeforeKey>Shotaro</NamesBeforeKey>
+				<KeyNames>Murayama</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Tadamichi Shimizu</PersonName>
+				<NamesBeforeKey>Tadamichi</NamesBeforeKey>
+				<KeyNames>Shimizu</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2239</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2239</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>119</FirstPageNumber>
+					<LastPageNumber>120</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Pemphigus induced by radiotherapy for breast cancer: clinical, immunological and histological features of one case with antidesmoglein immunostaining</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sylvie Thimon</PersonName>
+				<NamesBeforeKey>Sylvie</NamesBeforeKey>
+				<KeyNames>Thimon</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Laurent Machet</PersonName>
+				<NamesBeforeKey>Laurent</NamesBeforeKey>
+				<KeyNames>Machet</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie-Christine Machet</PersonName>
+				<NamesBeforeKey>Marie-Christine</NamesBeforeKey>
+				<KeyNames>Machet</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mahtab Samimi</PersonName>
+				<NamesBeforeKey>Mahtab</NamesBeforeKey>
+				<KeyNames>Samimi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Annabel Maruani</PersonName>
+				<NamesBeforeKey>Annabel</NamesBeforeKey>
+				<KeyNames>Maruani</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2242</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2242</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>120</FirstPageNumber>
+					<LastPageNumber>122</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Correlation between nocturnal scratch behavior assessed by actigraphy and subjective/objective parameters in patients with atopic dermatitis</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hiroyuki Fujita</PersonName>
+				<NamesBeforeKey>Hiroyuki</NamesBeforeKey>
+				<KeyNames>Fujita</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mayumi Nagashima</PersonName>
+				<NamesBeforeKey>Mayumi</NamesBeforeKey>
+				<KeyNames>Nagashima</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoshihiro Takeshita</PersonName>
+				<NamesBeforeKey>Yoshihiro</NamesBeforeKey>
+				<KeyNames>Takeshita</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Michiko Aihara</PersonName>
+				<NamesBeforeKey>Michiko</NamesBeforeKey>
+				<KeyNames>Aihara</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2244</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2244</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>122</FirstPageNumber>
+					<LastPageNumber>123</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Pachyonychia congenita in Japan: report of familial cases with a recurrent KRT16 mutation</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yutaka Inaba</PersonName>
+				<NamesBeforeKey>Yutaka</NamesBeforeKey>
+				<KeyNames>Inaba</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nobuo Kanazawa</PersonName>
+				<NamesBeforeKey>Nobuo</NamesBeforeKey>
+				<KeyNames>Kanazawa</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Fukumi Furukawa</PersonName>
+				<NamesBeforeKey>Fukumi</NamesBeforeKey>
+				<KeyNames>Furukawa</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoshihisa Sakurane</PersonName>
+				<NamesBeforeKey>Yoshihisa</NamesBeforeKey>
+				<KeyNames>Sakurane</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hajime Nakano</PersonName>
+				<NamesBeforeKey>Hajime</NamesBeforeKey>
+				<KeyNames>Nakano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Daisuke Sawamura</PersonName>
+				<NamesBeforeKey>Daisuke</NamesBeforeKey>
+				<KeyNames>Sawamura</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kozo Yoneda</PersonName>
+				<NamesBeforeKey>Kozo</NamesBeforeKey>
+				<KeyNames>Yoneda</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takahiro Hamada</PersonName>
+				<NamesBeforeKey>Takahiro</NamesBeforeKey>
+				<KeyNames>Hamada</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takashi Hashimoto</PersonName>
+				<NamesBeforeKey>Takashi</NamesBeforeKey>
+				<KeyNames>Hashimoto</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2245</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2245</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>123</FirstPageNumber>
+					<LastPageNumber>125</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Serum levels of mannose-binding lectin in systemic sclerosis: a possible contribution to the initiation of skin sclerosis in the diffuse cutaneous subtype</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kaname Akamata</PersonName>
+				<NamesBeforeKey>Kaname</NamesBeforeKey>
+				<KeyNames>Akamata</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoshihide Asano</PersonName>
+				<NamesBeforeKey>Yoshihide</NamesBeforeKey>
+				<KeyNames>Asano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Naohiko Aozasa</PersonName>
+				<NamesBeforeKey>Naohiko</NamesBeforeKey>
+				<KeyNames>Aozasa</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Shinji Noda</PersonName>
+				<NamesBeforeKey>Shinji</NamesBeforeKey>
+				<KeyNames>Noda</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takashi Taniguchi</PersonName>
+				<NamesBeforeKey>Takashi</NamesBeforeKey>
+				<KeyNames>Taniguchi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takehiro Takahashi</PersonName>
+				<NamesBeforeKey>Takehiro</NamesBeforeKey>
+				<KeyNames>Takahashi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yohei Ichimura</PersonName>
+				<NamesBeforeKey>Yohei</NamesBeforeKey>
+				<KeyNames>Ichimura</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Tetsuo Toyama</PersonName>
+				<NamesBeforeKey>Tetsuo</NamesBeforeKey>
+				<KeyNames>Toyama</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hayakazu Sumida</PersonName>
+				<NamesBeforeKey>Hayakazu</NamesBeforeKey>
+				<KeyNames>Sumida</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoshihiro Kuwano</PersonName>
+				<NamesBeforeKey>Yoshihiro</NamesBeforeKey>
+				<KeyNames>Kuwano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Koichi Yanaba</PersonName>
+				<NamesBeforeKey>Koichi</NamesBeforeKey>
+				<KeyNames>Yanaba</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yayoi Tada</PersonName>
+				<NamesBeforeKey>Yayoi</NamesBeforeKey>
+				<KeyNames>Tada</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Makoto Sugaya</PersonName>
+				<NamesBeforeKey>Makoto</NamesBeforeKey>
+				<KeyNames>Sugaya</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takafumi Kadono</PersonName>
+				<NamesBeforeKey>Takafumi</NamesBeforeKey>
+				<KeyNames>Kadono</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Shinichi Sato</PersonName>
+				<NamesBeforeKey>Shinichi</NamesBeforeKey>
+				<KeyNames>Sato</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2246</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2246</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>125</FirstPageNumber>
+					<LastPageNumber>126</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Marked melanocyte colonization of pigmented Sister Mary Joseph's nodule from intrahepatic cholangiocarcinoma</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mutsumi Higuchi</PersonName>
+				<NamesBeforeKey>Mutsumi</NamesBeforeKey>
+				<KeyNames>Higuchi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Satoko Shibata-Kikuchi</PersonName>
+				<NamesBeforeKey>Satoko</NamesBeforeKey>
+				<KeyNames>Shibata-Kikuchi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takamichi Ito</PersonName>
+				<NamesBeforeKey>Takamichi</NamesBeforeKey>
+				<KeyNames>Ito</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chisato Gondo</PersonName>
+				<NamesBeforeKey>Chisato</NamesBeforeKey>
+				<KeyNames>Gondo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masakazu Takahara</PersonName>
+				<NamesBeforeKey>Masakazu</NamesBeforeKey>
+				<KeyNames>Takahara</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoichi Moroi</PersonName>
+				<NamesBeforeKey>Yoichi</NamesBeforeKey>
+				<KeyNames>Moroi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masutaka Furue</PersonName>
+				<NamesBeforeKey>Masutaka</NamesBeforeKey>
+				<KeyNames>Furue</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2247</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2247</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>126</FirstPageNumber>
+					<LastPageNumber>127</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Primary cutaneous extraskeletal Ewing's sarcoma/PNET: possibility of better prognosis than deep ES/PNET</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mamiko Omori</PersonName>
+				<NamesBeforeKey>Mamiko</NamesBeforeKey>
+				<KeyNames>Omori</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mitsuhiko Ueno</PersonName>
+				<NamesBeforeKey>Mitsuhiko</NamesBeforeKey>
+				<KeyNames>Ueno</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Makiko Ogawa</PersonName>
+				<NamesBeforeKey>Makiko</NamesBeforeKey>
+				<KeyNames>Ogawa</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Tohru Nagano</PersonName>
+				<NamesBeforeKey>Tohru</NamesBeforeKey>
+				<KeyNames>Nagano</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2248</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2248</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>127</FirstPageNumber>
+					<LastPageNumber>128</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Cutaneous lymphangioma circumscriptum with marked blood presence: histopathologic evaluation of the endothelial cells</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Naoki Oiso</PersonName>
+				<NamesBeforeKey>Naoki</NamesBeforeKey>
+				<KeyNames>Oiso</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Tatsuki Itoh</PersonName>
+				<NamesBeforeKey>Tatsuki</NamesBeforeKey>
+				<KeyNames>Itoh</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Muneharu Miyake</PersonName>
+				<NamesBeforeKey>Muneharu</NamesBeforeKey>
+				<KeyNames>Miyake</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takao Satou</PersonName>
+				<NamesBeforeKey>Takao</NamesBeforeKey>
+				<KeyNames>Satou</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Akira Kawada</PersonName>
+				<NamesBeforeKey>Akira</NamesBeforeKey>
+				<KeyNames>Kawada</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2249</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2249</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>128</FirstPageNumber>
+					<LastPageNumber>130</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>A case of needle tract seeding of an intraductal papillary neoplasm of the bile duct (IPNB) after percutaneous biopsy</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Naomi Takahashi</PersonName>
+				<NamesBeforeKey>Naomi</NamesBeforeKey>
+				<KeyNames>Takahashi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Takashi Taniguchi</PersonName>
+				<NamesBeforeKey>Takashi</NamesBeforeKey>
+				<KeyNames>Taniguchi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Makoto Adachi</PersonName>
+				<NamesBeforeKey>Makoto</NamesBeforeKey>
+				<KeyNames>Adachi</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2250</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2250</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>130</FirstPageNumber>
+					<LastPageNumber>131</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Pretibial erysipelas-like erythema as the primary manifestation of renal cell carcinoma, a paraneoplastic manifestation</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Haiyan Huang</PersonName>
+				<NamesBeforeKey>Haiyan</NamesBeforeKey>
+				<KeyNames>Huang</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Juan Du</PersonName>
+				<NamesBeforeKey>Juan</NamesBeforeKey>
+				<KeyNames>Du</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sonia Kay Hwang</PersonName>
+				<NamesBeforeKey>Sonia Kay</NamesBeforeKey>
+				<KeyNames>Hwang</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jianzhong Zhang</PersonName>
+				<NamesBeforeKey>Jianzhong</NamesBeforeKey>
+				<KeyNames>Zhang</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2251</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2251</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>131</FirstPageNumber>
+					<LastPageNumber>132</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Cutaneous necrosis induced by extravasation of hydroxyzine</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chikako Kishi</PersonName>
+				<NamesBeforeKey>Chikako</NamesBeforeKey>
+				<KeyNames>Kishi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hiroo Amano</PersonName>
+				<NamesBeforeKey>Hiroo</NamesBeforeKey>
+				<KeyNames>Amano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Akira Shimizu</PersonName>
+				<NamesBeforeKey>Akira</NamesBeforeKey>
+				<KeyNames>Shimizu</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yayoi Nagai</PersonName>
+				<NamesBeforeKey>Yayoi</NamesBeforeKey>
+				<KeyNames>Nagai</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Osamu Ishikawa</PersonName>
+				<NamesBeforeKey>Osamu</NamesBeforeKey>
+				<KeyNames>Ishikawa</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2013.2253</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2013.2253</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>132</FirstPageNumber>
+					<LastPageNumber>133</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Atopic dermatitis with CD30-positive anaplastic large cell lymphoma</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yumi Yasukochi</PersonName>
+				<NamesBeforeKey>Yumi</NamesBeforeKey>
+				<KeyNames>Yasukochi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Katsuto Takenaka</PersonName>
+				<NamesBeforeKey>Katsuto</NamesBeforeKey>
+				<KeyNames>Takenaka</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ayano Yurino</PersonName>
+				<NamesBeforeKey>Ayano</NamesBeforeKey>
+				<KeyNames>Yurino</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yuichi Kurihara</PersonName>
+				<NamesBeforeKey>Yuichi</NamesBeforeKey>
+				<KeyNames>Kurihara</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sho Miake</PersonName>
+				<NamesBeforeKey>Sho</NamesBeforeKey>
+				<KeyNames>Miake</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hiroshi Uchi</PersonName>
+				<NamesBeforeKey>Hiroshi</NamesBeforeKey>
+				<KeyNames>Uchi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Satoshi Takeuchi</PersonName>
+				<NamesBeforeKey>Satoshi</NamesBeforeKey>
+				<KeyNames>Takeuchi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Futoshi Kohda</PersonName>
+				<NamesBeforeKey>Futoshi</NamesBeforeKey>
+				<KeyNames>Kohda</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yoichi Moroi</PersonName>
+				<NamesBeforeKey>Yoichi</NamesBeforeKey>
+				<KeyNames>Moroi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Shinji Okano</PersonName>
+				<NamesBeforeKey>Shinji</NamesBeforeKey>
+				<KeyNames>Okano</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hidetaka Yamamoto</PersonName>
+				<NamesBeforeKey>Hidetaka</NamesBeforeKey>
+				<KeyNames>Yamamoto</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masutaka Furue</PersonName>
+				<NamesBeforeKey>Masutaka</NamesBeforeKey>
+				<KeyNames>Furue</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2013</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2269</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2269</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>133</FirstPageNumber>
+					<LastPageNumber>135</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Mean platelet volume variation after biologic therapy in psoriasis and psoriatic arthritis</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Alessandra Capo</PersonName>
+				<NamesBeforeKey>Alessandra</NamesBeforeKey>
+				<KeyNames>Capo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marta Di Nicola</PersonName>
+				<NamesBeforeKey>Marta</NamesBeforeKey>
+				<KeyNames>Di Nicola</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Matteo Auriemma</PersonName>
+				<NamesBeforeKey>Matteo</NamesBeforeKey>
+				<KeyNames>Auriemma</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Stefano Piaserico</PersonName>
+				<NamesBeforeKey>Stefano</NamesBeforeKey>
+				<KeyNames>Piaserico</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chiara Cuccurullo</PersonName>
+				<NamesBeforeKey>Chiara</NamesBeforeKey>
+				<KeyNames>Cuccurullo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Francesca Santilli</PersonName>
+				<NamesBeforeKey>Francesca</NamesBeforeKey>
+				<KeyNames>Santilli</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Giovanni Davi</PersonName>
+				<NamesBeforeKey>Giovanni</NamesBeforeKey>
+				<KeyNames>Davi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Paolo Amerio</PersonName>
+				<NamesBeforeKey>Paolo</NamesBeforeKey>
+				<KeyNames>Amerio</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2270</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2270</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>135</FirstPageNumber>
+					<LastPageNumber>136</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Folliculotropic mycosis fungoides with extreme pilosebaceous involvement and hematological abnormalities</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kazuko Mizuno-Ikeda</PersonName>
+				<NamesBeforeKey>Kazuko</NamesBeforeKey>
+				<KeyNames>Mizuno-Ikeda</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Toshihisa Hamada</PersonName>
+				<NamesBeforeKey>Toshihisa</NamesBeforeKey>
+				<KeyNames>Hamada</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Daisuke Suzuki</PersonName>
+				<NamesBeforeKey>Daisuke</NamesBeforeKey>
+				<KeyNames>Suzuki</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Shin Morizane</PersonName>
+				<NamesBeforeKey>Shin</NamesBeforeKey>
+				<KeyNames>Morizane</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Toshiyuki Watanabe</PersonName>
+				<NamesBeforeKey>Toshiyuki</NamesBeforeKey>
+				<KeyNames>Watanabe</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Masahide Imada</PersonName>
+				<NamesBeforeKey>Masahide</NamesBeforeKey>
+				<KeyNames>Imada</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ken Okada</PersonName>
+				<NamesBeforeKey>Ken</NamesBeforeKey>
+				<KeyNames>Okada</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Keiji Iwatsuki</PersonName>
+				<NamesBeforeKey>Keiji</NamesBeforeKey>
+				<KeyNames>Iwatsuki</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2338</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2338</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>137</FirstPageNumber>
+					<LastPageNumber>138</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Residents’corner February 2014. Editorial: What's new this month?</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Kristina Buder</PersonName>
+				<NamesBeforeKey>Kristina</NamesBeforeKey>
+				<KeyNames>Buder</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Helena Clayton</PersonName>
+				<NamesBeforeKey>Helena</NamesBeforeKey>
+				<KeyNames>Clayton</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Rubeta NH Matin</PersonName>
+				<NamesBeforeKey>Rubeta NH</NamesBeforeKey>
+				<KeyNames>Matin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Alejandro Martin-Gorgojo</PersonName>
+				<NamesBeforeKey>Alejandro</NamesBeforeKey>
+				<KeyNames>Martin-Gorgojo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ana Rita Travassos</PersonName>
+				<NamesBeforeKey>Ana Rita</NamesBeforeKey>
+				<KeyNames>Travassos</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Audrey Nosbaum</PersonName>
+				<NamesBeforeKey>Audrey</NamesBeforeKey>
+				<KeyNames>Nosbaum</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2339</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2339</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>138</FirstPageNumber>
+					<LastPageNumber>139</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Residents’corner February 2014.&#x0000A;sQUIZ your knowledge! Segmental hyperkeratotic brownish papules</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Diogo Miguel Martins De Matos</PersonName>
+				<NamesBeforeKey>Diogo Miguel</NamesBeforeKey>
+				<KeyNames>Martins De Matos</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ricardo Luis Azevedo De Oliveira Coelho</PersonName>
+				<NamesBeforeKey>Ricardo Luis</NamesBeforeKey>
+				<KeyNames>Azevedo De Oliveira Coelho</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2340</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2340</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>139</FirstPageNumber>
+					<LastPageNumber>140</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Residents’corner February 2014. DeRmpath & Clinic: Differential diagnosis in palisading non-infectious granulomas</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ana Rita Travassos</PersonName>
+				<NamesBeforeKey>Ana Rita</NamesBeforeKey>
+				<KeyNames>Travassos</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Luís Soares-De-Almeida</PersonName>
+				<NamesBeforeKey>Luís</NamesBeforeKey>
+				<KeyNames>Soares-De-Almeida</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/ejd.2014.2341</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/ejd.2014.2341</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>European Journal of Dermatology</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>24</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20141-2</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>140</FirstPageNumber>
+					<LastPageNumber>141</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Residents’corner February 2014. Clues in DeRmosCopy: Bloody parallel ridges</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ben A Esdaile</PersonName>
+				<NamesBeforeKey>Ben A</NamesBeforeKey>
+				<KeyNames>Esdaile</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Rubeta N Matin</PersonName>
+				<NamesBeforeKey>Rubeta N</NamesBeforeKey>
+				<KeyNames>Matin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jonathan C Bowling</PersonName>
+				<NamesBeforeKey>Jonathan C</NamesBeforeKey>
+				<KeyNames>Bowling</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>eng</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+</ONIXDOISerialArticleWorkRegistrationMessage>

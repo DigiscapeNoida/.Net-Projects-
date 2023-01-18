@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns="http://www.editeur.org/onix/DOIMetadata/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/1.1 http://www.medra.org/schema/onix/DOIMetadata/1.1/ONIX_DOIMetadata_1.1.xsd">
+	<Header>
+		<FromCompany>Thomson Digital (Mauritius) ltd</FromCompany>
+		<FromEmail>siwraj.o@thomsondigital.com</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20140904</SentDate>
+	</Header>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.2011</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.2011</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>655</FirstPageNumber>
+					<LastPageNumber>655</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Tumeurs de la femme : dynamisme francophone et questions d’actualité</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Stéphane Vignot</PersonName>
+				<NamesBeforeKey>Stéphane</NamesBeforeKey>
+				<KeyNames>Vignot</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jacques Olivier Bay</PersonName>
+				<NamesBeforeKey>Jacques Olivier</NamesBeforeKey>
+				<KeyNames>Bay</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.2012</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.2012</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>656</FirstPageNumber>
+					<LastPageNumber>656</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>À propos de l’article « Organized proteomic heterogeneity in colorectal cancer liver metastases and implications for therapies »</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Serge Evrard</PersonName>
+				<NamesBeforeKey>Serge</NamesBeforeKey>
+				<KeyNames>Evrard</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.2013</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.2013</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>657</FirstPageNumber>
+					<LastPageNumber>662</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Papillomavirus and cancers: plea for extending the vaccination to boys</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Laurent Abramowitz</PersonName>
+				<NamesBeforeKey>Laurent</NamesBeforeKey>
+				<KeyNames>Abramowitz</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Philippe Descamps</PersonName>
+				<NamesBeforeKey>Philippe</NamesBeforeKey>
+				<KeyNames>Descamps</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>François Denis</PersonName>
+				<NamesBeforeKey>François</NamesBeforeKey>
+				<KeyNames>Denis</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie-Aliette Dommergues</PersonName>
+				<NamesBeforeKey>Marie-Aliette</NamesBeforeKey>
+				<KeyNames>Dommergues</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean Lacau St Guily</PersonName>
+				<NamesBeforeKey>Jean</NamesBeforeKey>
+				<KeyNames>Lacau St Guily</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Louis Lefebvre</PersonName>
+				<NamesBeforeKey>Jean-Louis</NamesBeforeKey>
+				<KeyNames>Lefebvre</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Guerric Masse</PersonName>
+				<NamesBeforeKey>Guerric</NamesBeforeKey>
+				<KeyNames>Masse</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Philippe Judlin</PersonName>
+				<NamesBeforeKey>Philippe</NamesBeforeKey>
+				<KeyNames>Judlin</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1919</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1919</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>663</FirstPageNumber>
+					<LastPageNumber>668</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Cervical and breast cancer prevention among underprivileged women in France: an epidemiological study</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marielle Chappuis</PersonName>
+				<NamesBeforeKey>Marielle</NamesBeforeKey>
+				<KeyNames>Chappuis</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Alilla Brossard Antonielli</PersonName>
+				<NamesBeforeKey>Alilla Brossard</NamesBeforeKey>
+				<KeyNames>Antonielli</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sophie Laurence</PersonName>
+				<NamesBeforeKey>Sophie</NamesBeforeKey>
+				<KeyNames>Laurence</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jeanine Rochefort</PersonName>
+				<NamesBeforeKey>Jeanine</NamesBeforeKey>
+				<KeyNames>Rochefort</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Catherine Giboin</PersonName>
+				<NamesBeforeKey>Catherine</NamesBeforeKey>
+				<KeyNames>Giboin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean François Corty</PersonName>
+				<NamesBeforeKey>Jean François</NamesBeforeKey>
+				<KeyNames>Corty</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1921</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1921</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>669</FirstPageNumber>
+					<LastPageNumber>680</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Cilinicopathologic characteristics and prognosis factors of uterine sarcomas in central Tunisia</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Abdeljalik Khlifi</PersonName>
+				<NamesBeforeKey>Abdeljalik</NamesBeforeKey>
+				<KeyNames>Khlifi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Khadija Fathallah</PersonName>
+				<NamesBeforeKey>Khadija</NamesBeforeKey>
+				<KeyNames>Fathallah</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Chakib Zbidi</PersonName>
+				<NamesBeforeKey>Chakib</NamesBeforeKey>
+				<KeyNames>Zbidi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Samir Hidar</PersonName>
+				<NamesBeforeKey>Samir</NamesBeforeKey>
+				<KeyNames>Hidar</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mohamed Bibi</PersonName>
+				<NamesBeforeKey>Mohamed</NamesBeforeKey>
+				<KeyNames>Bibi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hedi Khairi</PersonName>
+				<NamesBeforeKey>Hedi</NamesBeforeKey>
+				<KeyNames>Khairi</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1923</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1923</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>681</FirstPageNumber>
+					<LastPageNumber>689</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Economic assesment of the routine use of Oncotype DX® assay for early breast cancer in Franche-Comte region</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Virginie Nerich</PersonName>
+				<NamesBeforeKey>Virginie</NamesBeforeKey>
+				<KeyNames>Nerich</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Elsa Curtit</PersonName>
+				<NamesBeforeKey>Elsa</NamesBeforeKey>
+				<KeyNames>Curtit</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Fernando Bazan</PersonName>
+				<NamesBeforeKey>Fernando</NamesBeforeKey>
+				<KeyNames>Bazan</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Philippe Montcuquet</PersonName>
+				<NamesBeforeKey>Philippe</NamesBeforeKey>
+				<KeyNames>Montcuquet</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Cristian Villanueva</PersonName>
+				<NamesBeforeKey>Cristian</NamesBeforeKey>
+				<KeyNames>Villanueva</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Loïc Chaigneau</PersonName>
+				<NamesBeforeKey>Loïc</NamesBeforeKey>
+				<KeyNames>Chaigneau</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Laurent Cals</PersonName>
+				<NamesBeforeKey>Laurent</NamesBeforeKey>
+				<KeyNames>Cals</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nathalie Méneveau</PersonName>
+				<NamesBeforeKey>Nathalie</NamesBeforeKey>
+				<KeyNames>Méneveau</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Erion Dobi</PersonName>
+				<NamesBeforeKey>Erion</NamesBeforeKey>
+				<KeyNames>Dobi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Hamadi Altmotlak</PersonName>
+				<NamesBeforeKey>Hamadi</NamesBeforeKey>
+				<KeyNames>Altmotlak</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie-Paule Algros</PersonName>
+				<NamesBeforeKey>Marie-Paule</NamesBeforeKey>
+				<KeyNames>Algros</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie-Jeanne Choulot</PersonName>
+				<NamesBeforeKey>Marie-Jeanne</NamesBeforeKey>
+				<KeyNames>Choulot</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Gilles Nallet</PersonName>
+				<NamesBeforeKey>Gilles</NamesBeforeKey>
+				<KeyNames>Nallet</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Samuel Limat</PersonName>
+				<NamesBeforeKey>Samuel</NamesBeforeKey>
+				<KeyNames>Limat</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sylvie Mansion</PersonName>
+				<NamesBeforeKey>Sylvie</NamesBeforeKey>
+				<KeyNames>Mansion</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Xavier Pivot</PersonName>
+				<NamesBeforeKey>Xavier</NamesBeforeKey>
+				<KeyNames>Pivot</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1951</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1951</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>690</FirstPageNumber>
+					<LastPageNumber>697</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Psychological adjustment in couples facing woman's breast cancer: perceptions of spousal support</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Alexandra Stulz</PersonName>
+				<NamesBeforeKey>Alexandra</NamesBeforeKey>
+				<KeyNames>Stulz</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Diane Boinon</PersonName>
+				<NamesBeforeKey>Diane</NamesBeforeKey>
+				<KeyNames>Boinon</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sarah Dauchy</PersonName>
+				<NamesBeforeKey>Sarah</NamesBeforeKey>
+				<KeyNames>Dauchy</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Suzette Delaloge</PersonName>
+				<NamesBeforeKey>Suzette</NamesBeforeKey>
+				<KeyNames>Delaloge</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Anne Brédart</PersonName>
+				<NamesBeforeKey>Anne</NamesBeforeKey>
+				<KeyNames>Brédart</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.2009</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.2009</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>698</FirstPageNumber>
+					<LastPageNumber>702</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Re-entrainment to physical activity in the global management of breast cancer: pilot study in a mono-institutional experience</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marine Sorg</PersonName>
+				<NamesBeforeKey>Marine</NamesBeforeKey>
+				<KeyNames>Sorg</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jane-Chloé Trone</PersonName>
+				<NamesBeforeKey>Jane-Chloé</NamesBeforeKey>
+				<KeyNames>Trone</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Benoîte Méry</PersonName>
+				<NamesBeforeKey>Benoîte</NamesBeforeKey>
+				<KeyNames>Méry</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Baptiste Guichard</PersonName>
+				<NamesBeforeKey>Jean-Baptiste</NamesBeforeKey>
+				<KeyNames>Guichard</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Romain Rivoirard</PersonName>
+				<NamesBeforeKey>Romain</NamesBeforeKey>
+				<KeyNames>Rivoirard</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Cécile Pacaut</PersonName>
+				<NamesBeforeKey>Cécile</NamesBeforeKey>
+				<KeyNames>Pacaut</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Baptiste Guy</PersonName>
+				<NamesBeforeKey>Jean-Baptiste</NamesBeforeKey>
+				<KeyNames>Guy</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Houda Eddekkaoui</PersonName>
+				<NamesBeforeKey>Houda</NamesBeforeKey>
+				<KeyNames>Eddekkaoui</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Olivier Collard</PersonName>
+				<NamesBeforeKey>Olivier</NamesBeforeKey>
+				<KeyNames>Collard</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Claire Bosacki</PersonName>
+				<NamesBeforeKey>Claire</NamesBeforeKey>
+				<KeyNames>Bosacki</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Philippe Jacquin</PersonName>
+				<NamesBeforeKey>Jean-Philippe</NamesBeforeKey>
+				<KeyNames>Jacquin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Michel Guy</PersonName>
+				<NamesBeforeKey>Jean-Michel</NamesBeforeKey>
+				<KeyNames>Guy</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nicolas Magné</PersonName>
+				<NamesBeforeKey>Nicolas</NamesBeforeKey>
+				<KeyNames>Magné</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1955</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1955</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>703</FirstPageNumber>
+					<LastPageNumber>713</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Endometrial carcinoma. Application of the guidelines of 2010: Multicentre trial</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Émilie Raimond</PersonName>
+				<NamesBeforeKey>Émilie</NamesBeforeKey>
+				<KeyNames>Raimond</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Geoffroy Canlorbe</PersonName>
+				<NamesBeforeKey>Geoffroy</NamesBeforeKey>
+				<KeyNames>Canlorbe</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sofiane Bendifallah</PersonName>
+				<NamesBeforeKey>Sofiane</NamesBeforeKey>
+				<KeyNames>Bendifallah</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Delphine Hudry</PersonName>
+				<NamesBeforeKey>Delphine</NamesBeforeKey>
+				<KeyNames>Hudry</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Fadime Selvi</PersonName>
+				<NamesBeforeKey>Fadime</NamesBeforeKey>
+				<KeyNames>Selvi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marcos Ballester</PersonName>
+				<NamesBeforeKey>Marcos</NamesBeforeKey>
+				<KeyNames>Ballester</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Charles Coutant</PersonName>
+				<NamesBeforeKey>Charles</NamesBeforeKey>
+				<KeyNames>Coutant</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Olivier Graesslin</PersonName>
+				<NamesBeforeKey>Olivier</NamesBeforeKey>
+				<KeyNames>Graesslin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Emile Daraï</PersonName>
+				<NamesBeforeKey>Emile</NamesBeforeKey>
+				<KeyNames>Daraï</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1954</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1954</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>714</FirstPageNumber>
+					<LastPageNumber>717</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Breast cancer: radiotherapy and estrogen signaling</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Céline Bourgier</PersonName>
+				<NamesBeforeKey>Céline</NamesBeforeKey>
+				<KeyNames>Bourgier</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Claire Lemanski</PersonName>
+				<NamesBeforeKey>Claire</NamesBeforeKey>
+				<KeyNames>Lemanski</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Gilles Romieu</PersonName>
+				<NamesBeforeKey>Gilles</NamesBeforeKey>
+				<KeyNames>Romieu</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Mahmut Ozsahin</PersonName>
+				<NamesBeforeKey>Mahmut</NamesBeforeKey>
+				<KeyNames>Ozsahin</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>David Azria</PersonName>
+				<NamesBeforeKey>David</NamesBeforeKey>
+				<KeyNames>Azria</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.2010</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.2010</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>718</FirstPageNumber>
+					<LastPageNumber>729</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Breast surgeon role in the management of high-risk breast lesions</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Pierre-Emmanuel Colombo</PersonName>
+				<NamesBeforeKey>Pierre-Emmanuel</NamesBeforeKey>
+				<KeyNames>Colombo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Anne Vincent-Salomon</PersonName>
+				<NamesBeforeKey>Anne</NamesBeforeKey>
+				<KeyNames>Vincent-Salomon</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marie-Christine Chateau</PersonName>
+				<NamesBeforeKey>Marie-Christine</NamesBeforeKey>
+				<KeyNames>Chateau</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Anne Mourregot</PersonName>
+				<NamesBeforeKey>Anne</NamesBeforeKey>
+				<KeyNames>Mourregot</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Marian Gutowski</PersonName>
+				<NamesBeforeKey>Marian</NamesBeforeKey>
+				<KeyNames>Gutowski</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Guillaume Laffargue</PersonName>
+				<NamesBeforeKey>Guillaume</NamesBeforeKey>
+				<KeyNames>Laffargue</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Bruno Masson</PersonName>
+				<NamesBeforeKey>Bruno</NamesBeforeKey>
+				<KeyNames>Masson</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Aurélie Maran-Gonzalez</PersonName>
+				<NamesBeforeKey>Aurélie</NamesBeforeKey>
+				<KeyNames>Maran-Gonzalez</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Philippe Rouanet</PersonName>
+				<NamesBeforeKey>Philippe</NamesBeforeKey>
+				<KeyNames>Rouanet</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1926</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1926</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>730</FirstPageNumber>
+					<LastPageNumber>740</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Towards an integrated approach to cardiovascular toxicities related to the treatments of breast cancer</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Rachid Tanz</PersonName>
+				<NamesBeforeKey>Rachid</NamesBeforeKey>
+				<KeyNames>Tanz</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nicolas Magne</PersonName>
+				<NamesBeforeKey>Nicolas</NamesBeforeKey>
+				<KeyNames>Magne</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Pierre Annede</PersonName>
+				<NamesBeforeKey>Pierre</NamesBeforeKey>
+				<KeyNames>Annede</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Benoite Mery</PersonName>
+				<NamesBeforeKey>Benoite</NamesBeforeKey>
+				<KeyNames>Mery</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Julian Jacob</PersonName>
+				<NamesBeforeKey>Julian</NamesBeforeKey>
+				<KeyNames>Jacob</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Olivier Bauduceau</PersonName>
+				<NamesBeforeKey>Olivier</NamesBeforeKey>
+				<KeyNames>Bauduceau</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jane-Chloé Trone</PersonName>
+				<NamesBeforeKey>Jane-Chloé</NamesBeforeKey>
+				<KeyNames>Trone</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Baptiste Guichard</PersonName>
+				<NamesBeforeKey>Jean-Baptiste</NamesBeforeKey>
+				<KeyNames>Guichard</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nicolas Meillan</PersonName>
+				<NamesBeforeKey>Nicolas</NamesBeforeKey>
+				<KeyNames>Meillan</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Youlia Kirova</PersonName>
+				<NamesBeforeKey>Youlia</NamesBeforeKey>
+				<KeyNames>Kirova</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Lionel Vedrine</PersonName>
+				<NamesBeforeKey>Lionel</NamesBeforeKey>
+				<KeyNames>Vedrine</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Cyrus Chargari</PersonName>
+				<NamesBeforeKey>Cyrus</NamesBeforeKey>
+				<KeyNames>Chargari</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1947</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1947</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>741</FirstPageNumber>
+					<LastPageNumber>747</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Follow-up of endometrial cancer</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Tristan Gauthier</PersonName>
+				<NamesBeforeKey>Tristan</NamesBeforeKey>
+				<KeyNames>Gauthier</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>François Siegerth</PersonName>
+				<NamesBeforeKey>François</NamesBeforeKey>
+				<KeyNames>Siegerth</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jacques Monteil</PersonName>
+				<NamesBeforeKey>Jacques</NamesBeforeKey>
+				<KeyNames>Monteil</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Isabelle Jammet</PersonName>
+				<NamesBeforeKey>Isabelle</NamesBeforeKey>
+				<KeyNames>Jammet</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nadira Saidi</PersonName>
+				<NamesBeforeKey>Nadira</NamesBeforeKey>
+				<KeyNames>Saidi</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nicole Tubiana-Mathieu</PersonName>
+				<NamesBeforeKey>Nicole</NamesBeforeKey>
+				<KeyNames>Tubiana-Mathieu</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Yves Aubard</PersonName>
+				<NamesBeforeKey>Yves</NamesBeforeKey>
+				<KeyNames>Aubard</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1949</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1949</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>748</FirstPageNumber>
+					<LastPageNumber>755</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Targeted therapy in locally and metastatic recurrent cervical cancers</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Romain Geiss</PersonName>
+				<NamesBeforeKey>Romain</NamesBeforeKey>
+				<KeyNames>Geiss</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Thibault De La Motte Rouge</PersonName>
+				<NamesBeforeKey>Thibault</NamesBeforeKey>
+				<KeyNames>De La Motte Rouge</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Coraline Dubot</PersonName>
+				<NamesBeforeKey>Coraline</NamesBeforeKey>
+				<KeyNames>Dubot</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Alexandra Leary</PersonName>
+				<NamesBeforeKey>Alexandra</NamesBeforeKey>
+				<KeyNames>Leary</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Catherine Lhommé</PersonName>
+				<NamesBeforeKey>Catherine</NamesBeforeKey>
+				<KeyNames>Lhommé</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Patricia Pautier</PersonName>
+				<NamesBeforeKey>Patricia</NamesBeforeKey>
+				<KeyNames>Pautier</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Suzy Scholl</PersonName>
+				<NamesBeforeKey>Suzy</NamesBeforeKey>
+				<KeyNames>Scholl</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Manuel Jorge Rodrigues</PersonName>
+				<NamesBeforeKey>Manuel Jorge</NamesBeforeKey>
+				<KeyNames>Rodrigues</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1938</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1938</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>756</FirstPageNumber>
+					<LastPageNumber>759</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Recent advances in patient related outcome in gynaecological cancer</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Pierre Emmanuel Brachet</PersonName>
+				<NamesBeforeKey>Pierre Emmanuel</NamesBeforeKey>
+				<KeyNames>Brachet</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Florence Joly</PersonName>
+				<NamesBeforeKey>Florence</NamesBeforeKey>
+				<KeyNames>Joly</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1937</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1937</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>760</FirstPageNumber>
+					<LastPageNumber>764</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Carcinosarcomas in female genital tracts: general review</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jean-Baptiste Guy</PersonName>
+				<NamesBeforeKey>Jean-Baptiste</NamesBeforeKey>
+				<KeyNames>Guy</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jane-Chloé Trone</PersonName>
+				<NamesBeforeKey>Jane-Chloé</NamesBeforeKey>
+				<KeyNames>Trone</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>François Casteillo</PersonName>
+				<NamesBeforeKey>François</NamesBeforeKey>
+				<KeyNames>Casteillo</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Fabien Forest</PersonName>
+				<NamesBeforeKey>Fabien</NamesBeforeKey>
+				<KeyNames>Forest</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Cécile Pacaut</PersonName>
+				<NamesBeforeKey>Cécile</NamesBeforeKey>
+				<KeyNames>Pacaut</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Coralie Moncharmont</PersonName>
+				<NamesBeforeKey>Coralie</NamesBeforeKey>
+				<KeyNames>Moncharmont</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Sophie Espenel</PersonName>
+				<NamesBeforeKey>Sophie</NamesBeforeKey>
+				<KeyNames>Espenel</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Alexis Vallard</PersonName>
+				<NamesBeforeKey>Alexis</NamesBeforeKey>
+				<KeyNames>Vallard</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Julien Langrand Escure</PersonName>
+				<NamesBeforeKey>Julien</NamesBeforeKey>
+				<KeyNames>Langrand Escure</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Olivier Collard</PersonName>
+				<NamesBeforeKey>Olivier</NamesBeforeKey>
+				<KeyNames>Collard</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Michel Peoc’h</PersonName>
+				<NamesBeforeKey>Michel</NamesBeforeKey>
+				<KeyNames>Peoc’h</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Nicolas Magné</PersonName>
+				<NamesBeforeKey>Nicolas</NamesBeforeKey>
+				<KeyNames>Magné</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/bdc.2014.1940</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/bdc.2014.1940</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bulletin du Cancer</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>101</JournalVolumeNumber>
+			<JournalIssueNumber>7-8</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>20147-8</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>765</FirstPageNumber>
+					<LastPageNumber>771</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Pertuzumab (Perjeta®) approval in HER2-positive metastatic breast cancers</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Renaud Sabatier</PersonName>
+				<NamesBeforeKey>Renaud</NamesBeforeKey>
+				<KeyNames>Sabatier</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Anthony Gonçalves</PersonName>
+				<NamesBeforeKey>Anthony</NamesBeforeKey>
+				<KeyNames>Gonçalves</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2014</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+</ONIXDOISerialArticleWorkRegistrationMessage>

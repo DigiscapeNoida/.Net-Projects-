@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns="http://www.editeur.org/onix/DOIMetadata/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/1.1 http://www.medra.org/schema/onix/DOIMetadata/1.1/ONIX_DOIMetadata_1.1.xsd">
+	<Header>
+		<FromCompany>Thomson Digital (Mauritius) ltd</FromCompany>
+		<FromEmail>siwraj.o@thomsondigital.com</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20150619</SentDate>
+	</Header>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/veg.2015.0001</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/veg.2015.0001</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>La lettre de l&#39;angiogen&#232;se</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>38</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>2015,5</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>2</FirstPageNumber>
+					<LastPageNumber>2</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>VEGF-Actu est mort  vive e-VEGF !</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Bernard  L&#381;vy</PersonName>
+				<NamesBeforeKey>Bernard</NamesBeforeKey>
+				<KeyNames>L&#381;vy</KeyNames>
+			</Contributor>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Robert Jacques</PersonName>
+				<NamesBeforeKey>Robert</NamesBeforeKey>
+				<KeyNames>Jacques</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2015</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/veg.2015.0002</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/veg.2015.0002</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>La lettre de l&#39;angiogen&#232;se</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>38</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>2015,5</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>3</FirstPageNumber>
+					<LastPageNumber>5</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Tol&#381;rance du premier anti-angiog&#381;nique</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>ƒric  Dansin</PersonName>
+				<NamesBeforeKey>ƒric</NamesBeforeKey>
+				<KeyNames>Dansin</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2015</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/veg.2015.0003</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/veg.2015.0003</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>La lettre de l&#39;angiogen&#232;se</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>38</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>2015,5</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>6</FirstPageNumber>
+					<LastPageNumber>12</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Modle pr&#381;dictif des effets</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Bernard  L&#381;vy</PersonName>
+				<NamesBeforeKey>Bernard</NamesBeforeKey>
+				<KeyNames>L&#381;vy</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2015</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/veg.2015.0004</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/veg.2015.0004</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>La lettre de l&#39;angiogen&#232;se</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>38</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>2015,5</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>13</FirstPageNumber>
+					<LastPageNumber>15</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Pro-angiog&#381;niques : de nouveaux</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>David  Malka</PersonName>
+				<NamesBeforeKey>David</NamesBeforeKey>
+				<KeyNames>Malka</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2015</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/veg.2015.0005</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/veg.2015.0005</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>La lettre de l&#39;angiogen&#232;se</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>38</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>2015,5</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>16</FirstPageNumber>
+					<LastPageNumber>17</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Quand &#199; tri-th&#381;rapie È rime avec qualit&#381;</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Anne Floquet</PersonName>
+				<NamesBeforeKey>Anne</NamesBeforeKey>
+				<KeyNames>Floquet</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2015</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/veg.2015.0006</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/veg.2015.0006</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>La lettre de l&#39;angiogen&#232;se</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>38</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>2015,5</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>18</FirstPageNumber>
+					<LastPageNumber>18</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Inhibition de l&#213;angiogense</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Ga‘l  Deplanque</PersonName>
+				<NamesBeforeKey>Ga‘l</NamesBeforeKey>
+				<KeyNames>Deplanque</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2015</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+	<DOISerialArticleWork>
+		<NotificationType>06</NotificationType>
+		<DOI>10.1684/veg.2015.0007</DOI>
+		<DOIWebsiteLink>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/veg.2015.0007</DOIWebsiteLink>
+		<Website>
+			<WebsiteRole>01</WebsiteRole>
+			<WebsiteLink>http://www.john-libbey-eurotext.fr</WebsiteLink>
+		</Website>
+		<RegistrantName>John Libbey Eurotext</RegistrantName>
+		<RegistrationAuthority>mEDRA</RegistrationAuthority>
+		<SerialPublication>
+			<SerialWork>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>La lettre de l&#39;angiogen&#232;se</TitleText>
+				</Title>
+				<Publisher>
+					<PublishingRole>01</PublishingRole>
+					<PublisherName>John Libbey Eurotext</PublisherName>
+				</Publisher>
+				<CountryOfPublication>FR</CountryOfPublication>
+			</SerialWork>
+		</SerialPublication>
+		<JournalIssue>
+			<JournalVolumeNumber>38</JournalVolumeNumber>
+			<JournalIssueNumber>1</JournalIssueNumber>
+			<JournalIssueDate>
+				<DateFormat>01</DateFormat>
+				<Date>2015,5</Date>
+			</JournalIssueDate>
+		</JournalIssue>
+		<ContentItem>
+			<TextItem>
+				<PageRun>
+					<FirstPageNumber>19</FirstPageNumber>
+					<LastPageNumber>19</LastPageNumber>
+				</PageRun>
+			</TextItem>
+			<Title>
+				<TitleType>01</TitleType>
+				<TitleText>Angiogense  de la physiologie</TitleText>
+			</Title>
+			<Contributor>
+				<ContributorRole>A01</ContributorRole>
+				<PersonName>Jacques  Robert</PersonName>
+				<NamesBeforeKey>Jacques</NamesBeforeKey>
+				<KeyNames>Robert</KeyNames>
+			</Contributor>
+			<Language>
+				<LanguageRole>01</LanguageRole>
+				<LanguageCode>fre</LanguageCode>
+			</Language>
+			<CopyrightStatement>
+				<CopyrightYear>2015</CopyrightYear>
+				<CopyrightOwner>
+					<CorporateName>John Libbey Eurotext</CorporateName>
+				</CopyrightOwner>
+			</CopyrightStatement>
+		</ContentItem>
+	</DOISerialArticleWork>
+</ONIXDOISerialArticleWorkRegistrationMessage>

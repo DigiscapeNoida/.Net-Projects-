@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.4.1 http://www.crossref.org/schema/deposit/crossref4.4.1.xsd" version="4.4.1">
+	<head>
+		<doi_batch_id>ABC-80-1-4abba5b7-6cd3-4475-aa2b-29207bb091ee</doi_batch_id>
+		<timestamp>25022022143957</timestamp>
+		<depositor>
+			<depositor_name>John Libbey Eurotext</depositor_name>
+			<email_address>veema.mohun@thomsondigital.com</email_address>
+		</depositor>
+		<registrant>John Libbey Eurotext</registrant>
+	</head>
+	<body>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Revue des médias</title>
+				</titles>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>103</first_page>
+					<last_page>104</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1704</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1704</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Place of biomarkers in the renutrition of patients with serious Covid-19 infection: discussion around a clinical case</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Marie</given_name>
+						<surname>Schnebelen</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Laurent</given_name>
+						<surname>Petit</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Vincent</given_name>
+						<surname>Rigalleau</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Geneviève</given_name>
+						<surname>Lacape</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Marie-Christine</given_name>
+						<surname>Beauvieux</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Blandine</given_name>
+						<surname>Gatta-Cherifi</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>15</first_page>
+					<last_page>27</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1705</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1705</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Effects of oral vitamin D3 supplementation in Crohn's disease patients: Modulation of clinical active/remission phases by pro-inflammatory cytokines profile and oxidative stress</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Naziha</given_name>
+						<surname>Berriche-Yahi</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Amina</given_name>
+						<surname>Tahar</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Hocine</given_name>
+						<surname>Asselah</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Soraya</given_name>
+						<surname>Ayoub</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Djaffar</given_name>
+						<surname>Hantala</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Elhadj-Ahmed</given_name>
+						<surname>Koceir</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>29</first_page>
+					<last_page>46</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2021.1698</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2021.1698</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Investigation of large granular lymphocytic leukemias: data from the laboratory of hematology at Nancy University Hospital, France</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Charles</given_name>
+						<surname>Guisnel</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Jean-François</given_name>
+						<surname>Lesesve</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Delphine</given_name>
+						<surname>Gérard</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Sylvain</given_name>
+						<surname>Salignac</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Marc</given_name>
+						<surname>Muller</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Pierre</given_name>
+						<surname>Feugier</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Julien</given_name>
+						<surname>Broséus</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Véronique</given_name>
+						<surname>Latger-Cannard</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>47</first_page>
+					<last_page>54</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1701</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1701</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Qualitative dysalbuminemia in capillary serum protein electrophoresis: a case series of 70 patients</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Hind</given_name>
+						<surname>Zrikem</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Adil</given_name>
+						<surname>Jahdaoui</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Siham</given_name>
+						<surname>Aboulmakarim</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>55</first_page>
+					<last_page>60</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2021.1696</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2021.1696</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>The wishes of the SFBC President</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Vincent</given_name>
+						<surname>Sapin</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>5</first_page>
+					<last_page>5</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1703</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1703</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>A rare case of non-secretory multiple myeloma</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Tristan</given_name>
+						<surname>Bintner</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Valérie</given_name>
+						<surname>Coulon</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Quentin</given_name>
+						<surname>Cabrera</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Thierry</given_name>
+						<surname>Klein</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>61</first_page>
+					<last_page>64</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1699</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1699</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="en">
+				<titles>
+					<title>Undetectable triglycerides related to the combined intake of ascorbic acid and tacrolimus</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Corentine</given_name>
+						<surname>Klos</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Guillaume</given_name>
+						<surname>Grzych</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Emeline</given_name>
+						<surname>Gernez</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Isabelle</given_name>
+						<surname>Kim</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Jean-David</given_name>
+						<surname>Pékar</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Julie</given_name>
+						<surname>Demaret</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Marie Joncquel Chevalier</given_name>
+						<surname>Curt</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>65</first_page>
+					<last_page>68</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1702</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1702</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Le comité de rédaction des Annales de Biologie Clinique remercie l’ensemble des reviewers qui ont permis l’édition des six numéros de l’année 2021, sans lesquels la revue ne pourrait exister !</title>
+				</titles>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>6</first_page>
+					<last_page>6</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2021.1697</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2021.1697</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Relapse of acquired von Willebrand syndrome in a patient non-compliant with Crohn's disease</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Myriam</given_name>
+						<surname>Hormi</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Melchior</given_name>
+						<surname>Le Méné</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Céline</given_name>
+						<surname>Comparon</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Imededdine</given_name>
+						<surname>El Kout</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Fanny</given_name>
+						<surname>Baran-Marszak</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Nathalie</given_name>
+						<surname>Itzhar-Baikian</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Virginie</given_name>
+						<surname>Siguret</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Robin</given_name>
+						<surname>Dhote</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>69</first_page>
+					<last_page>73</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2021.1692</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2021.1692</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="en">
+				<titles>
+					<title>Hyperhomocysteinemia and cardiovascular diseases</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Régis</given_name>
+						<surname>Guieu</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Jean</given_name>
+						<surname>Ruf</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Giovanna</given_name>
+						<surname>Mottola</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>7</first_page>
+					<last_page>14</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2021.1694</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2021.1694</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Biological difficulties of a heavy chains disease diagnosis</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Pauline</given_name>
+						<surname>Planté</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Anne-Cécile</given_name>
+						<surname>Hochart</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Bernard</given_name>
+						<surname>Gressier</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>75</first_page>
+					<last_page>79</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2021.1693</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2021.1693</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="en">
+				<titles>
+					<title>The first Moroccan case of severe type II congenital plasminogen deficiency with ligneous conjunctivitis</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Hicham</given_name>
+						<surname>Esselmani</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Yassine Al</given_name>
+						<surname>Mabrouki</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Asmaa</given_name>
+						<surname>Yassine</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Boutaina</given_name>
+						<surname>Akhatar</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Abderrazak</given_name>
+						<surname>Lfakir</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>81</first_page>
+					<last_page>83</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1707</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1707</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Uncertainty of measurement and result from a complex calculation: about the risk of fetal Down's syndrome by maternal serum markers</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Estelle</given_name>
+						<surname>Roland</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Etienne</given_name>
+						<surname>Voirin-Mathieu</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Sophie</given_name>
+						<surname>Dreux</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Gilles</given_name>
+						<surname>Renom</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>85</first_page>
+					<last_page>90</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2021.1695</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2021.1695</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Precision intra-assay study in the absence of internal quality control: example of radioimmunoassay of procollagen III peptide</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Antoine</given_name>
+						<surname>Laudat</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Antoine</given_name>
+						<surname>Pilon</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Michel</given_name>
+						<surname>Vaubourdolle</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>91</first_page>
+					<last_page>95</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1700</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1700</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+		<journal>
+			<journal_metadata>
+				<full_title>Annales de Biologie Clinique</full_title>
+				<issn media_type="print">0003-3898</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="print">
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<journal_volume>
+					<volume>80</volume>
+				</journal_volume>
+				<issue>1</issue>
+			</journal_issue>
+			<journal_article language="fr">
+				<titles>
+					<title>Abstracts from the 30th national days of the Collège National de Biochimie des Hôpitaux</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Floris</given_name>
+						<surname>Chabrun</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Xavier</given_name>
+						<surname>Dieu</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Annie</given_name>
+						<surname>Fonteille</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Jean-Marc</given_name>
+						<surname>Le Gac</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>David</given_name>
+						<surname>Gruson</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Fatima</given_name>
+						<surname>Kaddari</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Hortense</given_name>
+						<surname>Lanneluc-Beaujard</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Oriane</given_name>
+						<surname>Marmontel</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Sophie</given_name>
+						<surname>Mirallie</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Lucas</given_name>
+						<surname>Pires</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Manuel</given_name>
+						<surname>Sanchez</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>François</given_name>
+						<surname>Schmitt</surname>
+					</person_name>
+				</contributors>
+				<publication_date>
+					<month>02</month>
+					<year>2022</year>
+				</publication_date>
+				<pages>
+					<first_page>97</first_page>
+					<last_page>102</last_page>
+				</pages>
+				<doi_data>
+					<doi>10.1684/abc.2022.1706</doi>
+					<resource>http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/abc.2022.1706</resource>
+				</doi_data>
+			</journal_article>
+		</journal>
+	</body>
+</doi_batch>

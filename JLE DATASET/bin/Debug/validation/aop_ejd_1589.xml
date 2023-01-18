@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "F:\NewProject\JLEDataSet\JLEDATASET\bin\Debug\DTD\PUBMED\PubMed.dtd">
+<ArticleSet>
+	<Article>
+		<Journal>
+			<PublisherName>John Libbey Eurotext</PublisherName>
+			<JournalTitle>Eur J Dermatol</JournalTitle>
+			<Issn>1167-1122</Issn>
+			<Volume></Volume>
+			<Issue></Issue>
+			<PubDate PubStatus="aheadofprint">
+				<Year>2011</Year>
+				<Month>11</Month>
+				<Day>9</Day>
+			</PubDate>
+		</Journal>
+		<Replaces IdType="pubmed">22067672</Replaces>
+		<ArticleTitle>WITHDRAWN: Thanks to reviewers</ArticleTitle>
+		<FirstPage></FirstPage>
+		<LastPage></LastPage>
+		<AuthorList />
+		<PublicationType></PublicationType>
+		<ArticleIdList>
+			<ArticleId IdType="pii">ejd.2011.1589</ArticleId>
+			<ArticleId IdType="doi">10.1684/ejd.2011.1589</ArticleId>
+		</ArticleIdList>
+		<History></History>
+		<Abstract>Ahead of Print article withdrawn by publisher.</Abstract>
+	</Article>
+</ArticleSet>

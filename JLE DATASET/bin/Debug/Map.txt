@@ -1,0 +1,11 @@
+ce:bold	bold
+ce:italic	italic
+ce:monospace	monospace
+ce:sans-serif	sans-serif
+ce:small-caps	sc
+ce:underline	underline
+ce:br	break
+ce:inf	sub
+ce:sub	sub
+ce:sup	sup
+ce:para	p

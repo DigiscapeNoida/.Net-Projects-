@@ -1,0 +1,20 @@
+Background	background
+Case Reports	cases
+Cases	cases
+Comment	conclusions
+conclusion	conclusion
+discussion	discussion
+Interpretation	discussion
+Introduction	intro
+Materials	materials
+Methodology	methods
+Methods	methods
+Participants	subjects
+Patients	subjects
+Procedures	methods
+Results	results
+Statement of Findings	results
+Subjects	subjects
+Summary	summary
+Supplementary materials	supplementary-material
+Synopsis	intro

@@ -1,0 +1,109 @@
+> ***************************** 
+> We would require JLE dataset dtd ('JLE.dtd"). 
+
+This is a fake file. We do not validate the XML against a DTD, but our
+parser need this DTD line, even though it does not use it.
+As far as I know, this file never actually existed...
+
+> Please suggest from where we need to fetch details for below tags in
+> index.xml file. 
+> 
+> <Edition.Page.Ordre>1</Edition.Page.Ordre> 
+
+* this is the numbering of the articles within a page. It only applies
+if a single page contains more than one article. It is used to order the
+articles in the table of contents on the website (as in: ORDER BY
+"Edition.Page.Debut", "Edition.Page.Ordre")
+
+> <JLE.DatePubli>2010-09-01</JLE.DatePubli> 
+
+* this is the date at which the article will be/is available on the
+website, which is usually (perhaps always, as JLE could confirm) the
+same as "JLE.DateParu". A future date will prevent the article from
+being displayed. As of the current production process, this date is
+usually in the past.
+
+> <JLE.DateParu>2010-09-01</JLE.DateParu> 
+
+* this is the date of the issue, in date format (year + month + day),
+ie. when it should be available on shelves; this is the same date as
+"JLE.Lib.Paru", but written in formal date format.
+
+> <JLE.Lib.Paru>septembre 2010</JLE.Lib.Paru> 
+
+* this is the label for the date of the issue, as written on the paper;
+it is equivalent to "JLE.DateParu", but without a formal format. It
+could be "septembre 2010", or "juillet-août 2010", or "winter 2010" if
+need be. This is displayed on the issue page in the website.
+
+> <JLE.Gratuit>0</JLE.Gratuit>
+
+* this is a boolean (written as an integer, 0 or 1), telling us if the
+article should be free on the website or not. A single article per issue
+is free (ie. viewable without paying) on the website. JLE decides which
+one, and forwards this information to you. As soon as the article is
+imported on the website, it's "free-status" is known and enforced (there
+is an option to change this status manually on the website back-office,
+but this would make it known long after the article is online).
+
+
+
+
+
+------------------------------------------------------09-02-2012------------------------------------------------------
+Hello,
+
+The XML created by Thomson and imported into the site contains two forms JLE
+different for each date of publication:
+<JLE.DateParu> 2008-05-01 </ JLE.DateParu>
+<JLE.Lib.Paru> May-June 2008 </ JLE.Lib.Paru>
+
+The first field, the ISO date format, used to sort, filter, etc.. The
+second field is a label free, just used for display,
+and represents the date or time of publication.
+
+For monthly magazines, filling is simple:
+* JLE.DateParu: the first month of release, or "2012-02-01"
+* JLE.Lib.Paru: corresponding label, ie "February 2012"
+For bi-monthly or less frequent journals, logic would
+therefore:
+* JLE.DateParu: first the first month of the publication period, or
+"2012-01-01" ("the first day of the period")
+* JLE.Lib.Paru: label corresponding to the entire period,
+"January-February 2012"
+
+The wording is totally free, of course we accept "First
+quarter of 2012 ", the formal date of issue remaining well
+"2012-01-01" (the first day of the "first quarter").
+
+Of recent imports contained data wacky, as in
+mtg-13-3:
+    <JLE.DateParu> 2012-1-01 </ JLE.DateParu>
+    <JLE.Lib.Paru> July 2011 </ JLE.Lib.Paru>
+or
+    <JLE.Lib.Paru> July 8 </ JLE.Lib.Paru>
+
+* Format "2012-1-01" is not correct, but was probably
+accepted, otherwise we would have been a mistake
+* The language "July 2011" and the date "2012-01-01" not at all
+consistent (the same for "July 8" ...)
+
+For mtg-13-2:
+    <JLE.DateParu> 2011-10-01 </ JLE.DateParu>
+    <JLE.Lib.Paru> April-June 2011 </ JLE.Lib.Paru>
+* Should be the date "2011-04-01", or the wording should be
+"October-December 2011"
+
+Even if a publication is designed, processed, or imported several months
+after the theoretical date of publication, the JLE.DateParu should always
+be the first day of the period represented by
+<JLE.Lib.Paru>.
+Another XML field, JLE.DatePubli, may contain the effective date of
+publication of each article when it was created, processed or
+imported, according to your constraints (this date can be different
+for each item, and may be optionally after the very
+JLE.DateParu)
+
+I leave Baptist transmit to the persons concerned in JLE.
+
+Good day to all!

@@ -1,0 +1,28 @@
+MST	Med Sante Trop
+ABC	Annales de Biologie Clinique
+AGE	Annales de G&eacute;rontologie
+AGR	Cahiers Agricultures
+BDC	Bulletin du Cancer
+ECN	European Cytokine Network
+EJD	European Journal of Dermatology
+EPD	Epileptic Disorders
+EPI	Epilepsies
+ERS	Environnement Risques Sant&eacute;
+HMA	H&eacute;matologie
+HPG	HEPATO-GASTRO et Oncologie digestive
+IPE	L'Information psychiatrique
+JPC	Journal de Pharmacie Clinique
+MET	M&eacute;decine Th&eacute;rapeutique
+MRH	Magnesium Research
+MTE	M&eacute;decine de la Reproduction
+MTP	MT P&eacute;diatrie
+NRO	Neurologie.com
+NRP	Revue de Neuropsychologie
+OCL	Ol&eacute;agineux corps gras lipides
+GPN	G&eacute;riatrie et Psychologie Neuropsychiatrie du Viellissement
+SAN	Cahiers Sant&eacute;
+SEC	S&eacute;cheresse
+STV	Sang thrombose vaisseaux---Sang Thrombose Vaisseaux
+VIR	Virologie
+MEDTROP	M&eacute;decine et Sant&eacute; Tropicales
+SSS	Sciences Sociales et Sant&eacute;

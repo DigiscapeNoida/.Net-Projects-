@@ -1,0 +1,13 @@
+abs	abstract
+add	addendum
+ann	announcement
+brv	book-review
+cal	calendar
+cor	correction
+dis	discussion
+edi	editorial
+err	correction
+ind	introduction
+nws	news
+ret	retraction
+rev	review-article
