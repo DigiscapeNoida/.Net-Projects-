@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+  </configSections>
+  
+  <appSettings>
+    
+    <add key="ConnString" value="Initial Catalog=PPMTrackingSystem;uid=sa;password=tpms_tpms;Data Source=172.16.2.19"/>
+    
+    <add key="UploadLocation" value="E:\\abc"/>
+    
+    <add key="uploadhost" value="ewii.elsevier.com"/>
+    <add key="UploadF" value=""/>
+    <add key="uploaduid" value="tombkpew"/>
+    <add key="uploadpwd" value="tombkput25189"/>
+    <add key="OrderPath" value="Z:\ElsBook\Orders\PPM\"/>
+    <add key="LocalIPath" value="C:\PPMTS\"/>
+    <add key="CounterIni" value="counter.ini"/>
+    <add key="databaseurl" value="172.16.2.19"/>
+    <add key="uploadurl" value="ewii.elsevier.com"/>
+  </appSettings>
+</configuration>
