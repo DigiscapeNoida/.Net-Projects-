@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset xmlns="http://www.elsevier.com/xml/schema/transport/book-2016.6/s280" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.elsevier.com/xml/schema/transport/book-2016.6/s280 http://www.elsevier.com/xml/schema/transport/book-2016.6/s280.xsd" schema-version="2016.6">
+<!--<proof-correctors>
+  <proof-corrector sequence="1" role="author" name="Brian Slack" email="brian.slack@concordia.ca"/>
+  <proof-corrector sequence="2" role="master copier" q-to-pub="project manager"/>
+</proof-correctors>-->   
+<dataset-unique-ids>
+	<supplier-code>TOMBK</supplier-code>
+	<supplier-dataset-id>TOMBK00004256</supplier-dataset-id>
+	<timestamp>2020-02-15T04:25:05+05:30</timestamp>
+</dataset-unique-ids>
+<dataset-properties>
+	<dataset-action>LOAD</dataset-action>
+	<production-process>CAP</production-process>
+</dataset-properties>
+<dataset-content>
+<book-item>
+<version>
+<version-number>S280.1</version-number>
+<stage>S280</stage>
+</version>
+<book-item-unique-ids>
+<pii>B978-0-08-102671-7.10480-4</pii>
+<doi>10.1016/B978-0-08-102671-7.10480-4</doi>
+<collection-item-id>
+<isbn>978-0-08-102671-7</isbn>
+</collection-item-id>
+</book-item-unique-ids>
+<book-item-properties>
+<pit>CHP</pit>
+<production-type>NON-CRC</production-type>
+</book-item-properties>
+<files-info><ml><pathname>9780081026717/B9780081026717104804/main.xml</pathname><purpose>MAIN</purpose><dtd-version>BOOK 5.5.0 [PITINFO]</dtd-version><weight>FULL-TEXT</weight></ml></files-info>
+</book-item>
+</dataset-content>
+</dataset>
