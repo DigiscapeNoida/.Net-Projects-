@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <vocabulary>
+        <vocabulary-uri>http://data.elsevier.com/vocabulary/SciValFunders</vocabulary-uri>
+        <vocabulary-filename>FundRef_wrapper.rdf</vocabulary-filename>
+    </vocabulary>
+    <vocabulary>
+        <vocabulary-uri>http://data.elsevier.com/vocabulary/ElsevierContentTypes</vocabulary-uri>
+        <vocabulary-filename>ElsevierContentTypes.rdf</vocabulary-filename>
+    </vocabulary>
+    <vocabulary>
+        <vocabulary-uri>http://data.elsevier.com/vocabulary/Pubnames</vocabulary-uri>
+        <vocabulary-filename>pubnames.rdf</vocabulary-filename>
+    </vocabulary>
+    <vocabulary>
+        <vocabulary-uri>http://data.elsevier.com/vocabulary/Sources</vocabulary-uri>
+        <vocabulary-filename>sources.rdf</vocabulary-filename>
+    </vocabulary>
+    <vocabulary>
+        <vocabulary-uri>http://data.elsevier.com/vocabulary/MedlineJournals</vocabulary-uri>
+        <vocabulary-filename>medline-journals.rdf</vocabulary-filename>
+    </vocabulary>
+</config>

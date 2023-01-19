@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="D:\Contrast\280\Output\TOMBK00010383\dataset.xml"><Log filename="D:\Contrast\280\Output\TOMBK00010383\dataset.xml"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:09 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<skipped-checks><check-id>CON-ITI005a</check-id>
+<check-id>CON-ITI005c</check-id>
+<check-id>CON-ITI005d</check-id>
+<check-id>CON-ITI005i</check-id>
+<check-id>CON-XMP602</check-id>
+<check-id>CON-XMP607</check-id>
+<check-id>XMP603</check-id>
+<check-id>XMP619</check-id>
+</skipped-checks>
+<results><message id="CON-CON044" type="error" position="13:21">For RefMod deliveries the project-id must be 'ATHENA'.</message>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.xml"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:10 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<skipped-checks><check-id>XML510</check-id>
+</skipped-checks>
+<results><message id="CED518" type="warning" position="1:153040">Punctuation characters ".,;?!:" should not be preceded by a space character ("Species : Structure").</message>
+<message id="MSC531" type="warning" position="1:1851">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:2237">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:2827">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:3407">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:3992">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:4523">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:5155">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:5722">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:6377">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:6889">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:7457">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:7999">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:8483">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:8975">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:9526">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:10010">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:10451">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:10936">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:11444">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:11929">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:12377">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:12955">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:13625">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:14261">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:14878">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:15487">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:16230">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:16881">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="XML503d" type="warning" position="1:22458">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:26444">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:33645">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:38007">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:45273">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:49677">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:53252">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:58465">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:64811">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:69504">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:72603">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:77538">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:83313">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:87057">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:90018">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:90428">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:93171">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:96693">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:106036">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:135094">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:168276">The XML file may not contain XML comments.</message>
+<message id="CED501b" type="warning" position="1:83313">Implicit name-year reference found ("...arron and colleagues (2010) described...").</message>
+<total-errors>0</total-errors>
+<total-warnings>51</total-warnings>
+<total-skipped-checks>1</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:10 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.pdf"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:10 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<skipped-checks><check-id>PDF011</check-id>
+</skipped-checks>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>1</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:12 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr1.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:12 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:13 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr10.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:13 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:14 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr11.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:14 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:15 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr12.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:15 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:16 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr13.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:16 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:17 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr14.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:17 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:19 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr15.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:19 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:20 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr16.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:20 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:21 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr17.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:21 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:22 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr18.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:22 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:24 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr19.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:24 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:25 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr2.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:25 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:26 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr20.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:26 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:27 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr21.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:27 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:28 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr22a.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:28 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:30 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr22b.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:30 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:31 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr23a.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:31 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:32 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr23b.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:32 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:33 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr24a.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:33 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:34 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr24b.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:34 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:35 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr25a.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:35 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:36 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr25b.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:36 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:38 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr26a.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:38 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:39 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr26b.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:39 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:40 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr27a.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:40 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:41 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr27b.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:41 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:42 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr28a.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:42 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:43 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr28b.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:43 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:45 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr3.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:45 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:46 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr4.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:46 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:47 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr5.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:47 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:49 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr6.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:49 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:50 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr7.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:50 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:51 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr8.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:51 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:53 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010383\9780702084034\B9780702084034000193\main.assets\gr9.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 17:57:53 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010383\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010383.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:54 IST 2022</time>
+</Log>
+<message id="CON-ITI003f" type="error" position="34:117">The DTD version (BOOK 5.5.0 [PITINFO]) must match the information in the book item file.</message>
+<message id="parser" type="error" position="34:151"><![CDATA[Error: cvc-enumeration-valid: Value 'BOOK 5.5.0 [PITINFO]' is not facet-valid with respect to enumeration '[BOOK 5.2.1 CHAPTER, BOOK 5.2.1 SIMPLE-CHAPTER, BOOK 5.2.1 EXAMINATION, BOOK 5.2.1 FB-NON-CHAPTER, BOOK 5.2.1 GLOSSARY, BOOK 5.2.1 INDEX, BOOK 5.2.1 INTRODUCTION, BOOK 5.2.1 BIBLIOGRAPHY, BOOK 5.3.0 CHAPTER, BOOK 5.3.0 SIMPLE-CHAPTER, BOOK 5.3.0 EXAMINATION, BOOK 5.3.0 FB-NON-CHAPTER, BOOK 5.3.0 GLOSSARY, BOOK 5.3.0 INDEX, BOOK 5.3.0 INTRODUCTION, BOOK 5.3.0 BIBLIOGRAPHY, BOOK 5.3.1 CHAPTER, BOOK 5.3.1 SIMPLE-CHAPTER, BOOK 5.3.1 EXAMINATION, BOOK 5.3.1 FB-NON-CHAPTER, BOOK 5.3.1 GLOSSARY, BOOK 5.3.1 INDEX, BOOK 5.3.1 INTRODUCTION, BOOK 5.3.1 BIBLIOGRAPHY, BOOK 5.4.0 BOOK, BOOK 5.4.0 CHAPTER, BOOK 5.4.0 SIMPLE-CHAPTER, BOOK 5.4.0 EXAMINATION, BOOK 5.4.0 FB-NON-CHAPTER, BOOK 5.4.0 GLOSSARY, BOOK 5.4.0 INDEX, BOOK 5.4.0 INTRODUCTION, BOOK 5.4.0 BIBLIOGRAPHY, BOOK 5.5.0 BOOK, BOOK 5.5.0 CHAPTER, BOOK 5.5.0 SIMPLE-CHAPTER, BOOK 5.5.0 EXAMINATION, BOOK 5.5.0 FB-NON-CHAPTER, BOOK 5.5.0 GLOSSARY, BOOK 5.5.0 INDEX, BOOK 5.5.0 INTRODUCTION, BOOK 5.5.0 BIBLIOGRAPHY, PAGEBREAK 5.0.0]'. It must be a value from the enumeration.]]></message>
+<message id="parser" type="error" position="34:151"><![CDATA[Error: cvc-type.3.1.3: The value 'BOOK 5.5.0 [PITINFO]' of element 'dtd-version' is not valid.]]></message>
+<total-errors>4</total-errors>
+<total-warnings>51</total-warnings>
+<total-skipped-checks>8</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 17:57:54 IST 2022</time>
+</Log>
+</LogReport>

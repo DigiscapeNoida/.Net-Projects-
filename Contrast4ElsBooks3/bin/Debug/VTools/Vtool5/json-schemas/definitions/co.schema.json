@@ -1,0 +1,269 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "title": "Definitions for CO properties",
+    "description": "This schema contains the generic definitions for Content Objects. Do not use standalone",
+    "definitions": {
+        "ecm:identifier": {
+            "title": "VTW identifier",
+            "type": "string"
+        },
+        "dct:identifier": {
+            "title": "any other identifier",
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "dct:title": {
+            "title": "title",
+            "type": "string"
+        },
+        "dct:type": {
+            "title": "content type",
+            "type": "string",
+            "format": "uri",
+            "pattern": "^http://data.elsevier.com/vocabulary/.*$"
+        },
+        "obs:publisherItemType": {
+            "title": "TPA content type",
+            "type": "string"
+        },
+        "obs:carCreationInstruction": {
+            "title": "CAR creation type",
+	          "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "obs:isPartOf": {
+            "type": "array",
+            "items": [{
+                "type": "string",
+                "format": "uri"
+            }]
+        },
+        "obs:sourceType": {
+            "title": "TPA source type",
+            "type": "string"
+        },
+        "obs:subscriptionStatus": {
+            "title": "status of CAR",
+            "type": "string"
+        },
+        "prism:aggregationType": {
+            "title": "aggregation type",
+            "type": "array"
+        },
+        "prism:channel": {
+            "type": "array",
+            "items": [{
+                "format": "uri",
+                "pattern": "^http://data.elsevier.com/vocabulary/.*$"
+            }]
+        },
+        "bam:subtype": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^http://data.elsevier.com/vocabulary/.*$"
+        },
+        "dct:isPartOf": {
+            "type": ["array"],
+            "items": [{
+                "type": "string",
+                "format": "uri"
+            }]
+        },
+        "dct:creator": {
+            "type": "array",
+            "items": {"$ref": "#/definitions/person"}
+        },
+        "bam:correspondingAuthor": {"$ref": "#/definitions/person"},
+        "bam:leadCreator": {"$ref": "#/definitions/person"},
+        "person": {
+            "type": "object",
+            "required": ["foaf:name"],
+            "properties": {
+                "@id": {"$ref": "#/definitions/orcid"},
+                "foaf:name": {
+                "type": "string",
+		         "pattern": "^([^@]+)$"},
+                "foaf:mailbox": {"type": "string"},
+                "ccm:instanceIdentifier": {"type": "string"},
+                "ccm:orcid": {"type": "string"},
+                "ccm:altName": {"type": "string"}
+            },
+            "additionalProperties": false,
+            "patternProperties": {"^foaf.*": {"type": "string"}}
+        },
+        "orcid": {
+            "type": "string",
+            "pattern": "^http://orcid.org/.*$"
+        },
+        "dct:abstract": {
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "dct:description": {"type": "string"},
+        "dct:date": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "bam:year": {"type": "integer"},
+        "dct:created": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "dct:modified": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "dct:publisher": {"type": "string"},
+        "prism:copyright": {"type": "string"},
+        "dct:language": {"type": "string"},
+        "prism:expirationDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "bam:addOnType": {
+            "title": "Type of extension for the Add-On Content Object",
+            "type": "string",
+            "format": "uri"
+        },
+        "bam:addsOnTo": {
+            "title": "identifier of the parent content object",
+            "type": "string",
+            "format": "uri"
+        },
+        "bam:isZeroAddOn": {
+            "title": "Exposes the zero aspect of this Add-On to consumers",
+            "type": "string",
+            "format": "uri",
+            "pattern": "^(http://vtw.elsevier.com/data/voc/AddOnStatus#)(Complete|Zero)$"
+        },
+        "prism:keyword": {
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "prism:publicationName": {"type": "string"},
+        "prism:issn": {
+            "type": "string",
+            "pattern": "^[0-9]{4}-[0-9]{3}[0-9X]$"
+        },
+        "prism:eissn": {
+            "type": "string",
+            "pattern": "^[0-9]{4}-[0-9]{3}[0-9X]$"
+        },
+        "prism:isbn": {"type": "string"},
+        "prism:issueName": {"type": "string"},
+        "prism:coverDate": {"type": "string"},
+        "prism:coverdate": {"type": "string"},
+        "prism:coverDisplayDate": {"type": "string"},
+        "prism:issueIdentifier": {"type": "string"},        
+        "bam:publicationTimeStart": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "bam:publicationTimeEnd": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "prism:volume": {"type": "string"},
+        "prism:number": {"type": "string"},
+        "prism:pageRange": {"type": "string"},
+        "prism:startingPage": {"type": "string"},
+        "prism:endingPage": {"type": "string"},
+        "bam:articleNumber": {"type": "string"},
+        "bam:project": {"type": "string"},
+        "prism:distributor": {"type": "string"},
+        "bam:formattedPII": {"type": "string"},
+        "prism:doi": {
+            "description": "value does not start with http://dx.doi.org/",
+            "type": "string",
+            "pattern": "^(?!http://dx.doi.org/).*$"
+        },
+        "bam:isFundedBy": {"type": "string"},
+        "bam:isCitationAbstractReferenceOf": {
+            "type": "string",
+            "format": "uri"
+        },
+        "bam:describesResource": {"type": "string"},
+        "bam:collectionCode": {"type": "string"},
+        "bam:copyrightYear": {
+            "type": "string",
+            "pattern": "^[0-9]{4}$"
+        },
+        "bam:hasCommonGroup": {"type": "string"},
+        "bam:operatingCompany": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^http://data.elsevier.com/vocabulary/.*$"
+        },
+        "bam:label": {"type": "string"},
+        "bam:asjcCode": {
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "bam:contentProvider": {"type": "string"},
+        "bam:rejectionReason": {"type": "string"},
+        "bam:title": {"type": "string"},
+        "bam:subtitle": {"type": "string"},
+        "bam:aid": {
+            "type": "number",
+            "minimum": 0
+        },
+        "bam:jid": {"type": "string"},
+        "bam:dochead": {"type": "string"},
+        "bam:documentThread": {
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "epc:printColourPages": {
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "epc:isIncludedBy": {
+            "type": "string",
+            "format": "uri"
+        },
+        "epc:printEndingPage": {"type": "string"},
+        "epc:printStartingPage": {"type": "string"},
+        "epc:printPageRange": {"type": "string"},
+        "bam:fragmentIdentifier": {"type": "string"},
+        "bam:initialSubmissionDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "bam:isContinuedFrom": {
+            "type": "string",
+            "format": "uri"
+        },
+        "bam:patentClassification": {
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "bam:patentClassificationCpc": {
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "bam:patentClassificationIpcr": {
+            "type": "array",
+            "items": [{"type": "string"}]
+        },
+        "bam:patentFamilyId": {
+            "type": "integer",
+            "minimum": 0
+        },
+        "bam:patentKindCode": {"type": "string"},
+        "bam:revised": {
+            "type": "array",
+            "items": [{
+                "type": "string",
+                "format": "date-time"
+            }]
+        },
+        "bam:source": {
+            "type": "string",
+            "format": "uri"
+        },
+        "bam:workingTitle": {"type": "string"},
+        "prism:edition": {"type": "string"},
+        "bam:shortenedTitle": {"type": "string"},
+        "bam:crossMarkIdentified": {"type": "boolean"}
+    }
+}

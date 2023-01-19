@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "title": "generic definitions",
+  "description": "This schema contains the generic definitions to be used by other JSON schema. Do not use standalone",
+  "definitions": {
+    "@context": {
+      "title": "context file",
+      "description": "ref to the context file",
+      "type": "string",
+      "format": "uri"
+    },
+    "@id": {
+      "title": "id of object: CO, Asset, Generation, creator, etc",
+      "type": "string",
+      "format": "uri"
+    },
+    "typeIsCOs": {
+      "title": "object of type of bam:ContentObjects",
+      "type": "string",
+      "pattern": "^bam:ContentObjects$"
+    },
+    "typeIsMetadata": {
+      "title": "object of type bam:Metadata",
+      "type": "string",
+      "pattern": "^bam:Metadata$"
+    },
+    "typeIsAssetMetadata": {
+      "title": "object of type bam:AssetMetadata",
+      "type": "string",
+      "pattern": "^bam:AssetMetadata$"
+    },
+    "typeIsGeneration": {
+      "title": "object of type bam:Generation",
+      "type": "string",
+      "pattern": "^bam:Generation$"
+    }
+  }
+}

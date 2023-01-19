@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ViewLog.xsl"?><LogReport xmlns:vt="http://www.elsevier.com/xml/apps/qc/v" filename="D:\Contrast\280\Output\TOMBK00010379\dataset.xml"><Log filename="D:\Contrast\280\Output\TOMBK00010379\dataset.xml"><time>Vtool:5.72.1 run at Wed Jun 29 13:51:19 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010379\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010379.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d"</command-line-options>
+<skipped-checks><check-id>CON-ITI005a</check-id>
+<check-id>CON-ITI005c</check-id>
+<check-id>CON-ITI005d</check-id>
+<check-id>CON-ITI005i</check-id>
+<check-id>CON-XMP602</check-id>
+<check-id>CON-XMP607</check-id>
+<check-id>XMP603</check-id>
+<check-id>XMP619</check-id>
+</skipped-checks>
+<results><message id="CON-CON044" type="error" position="13:21">For RefMod deliveries the project-id must be 'ATHENA'.</message>
+<Log filename="D:\Contrast\280\Output\TOMBK00010379\9780128207321\B9780128207321000011\main.xml"><time>Vtool:5.72.1 run at Wed Jun 29 13:51:20 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010379\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010379.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d"</command-line-options>
+<results><message id="MSC531" type="warning" position="1:632">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:1249">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:1618">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:2142">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="MSC531" type="warning" position="1:2797">Element 'ce:figure' must have a 'ce:alt-text' subelement with an attribute 'role'.</message>
+<message id="STR501c" type="warning" position="1:124169">Element 'sb:first-page' may not consist of digits separated by a '-'.</message>
+<message id="XML503d" type="warning" position="1:687">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:2880">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:3310">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:12672">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:17010">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:19728">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:20610">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:21527">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:22318">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:22318">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:26089">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:25301">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:34514">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:12546">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:40835">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:45178">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:46190">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:49935">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:50760">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:50760">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:109550">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:50760">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:50760">The XML file may not contain XML comments.</message>
+<message id="XML503d" type="warning" position="1:381">The XML file may not contain XML comments.</message>
+<message id="XML510" type="error" position="1:783">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:809">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:14400">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:16381">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:19098">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:19902">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:20094">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:20120">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:20251">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:21063">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:21975">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:22464">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:22828">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:22880">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:23768">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:25839">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:26665">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:29632">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:32165">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:33927">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:34792">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:36086">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:36547">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:37795">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:38137">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:39106">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:43893">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:46695">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:47260">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:55549">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:56771">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:58129">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:59423">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:61661">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:62143">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:62889">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:63094">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:65842">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:65867">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:66339">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:66364">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:69035">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:70318">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:70443">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:70757">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:71596">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:71633">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:71726">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:72455">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:74768">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:75960">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:78729">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:80152">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:91833">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:92283">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:92341">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:94317">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:95431">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:97222">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:100605">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:102620">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:106116">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:107167">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:112155">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:112700">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:113710">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:114056">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:114996">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:118174">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:123281">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:124335">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:128429">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:135192">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:140252">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:141326">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:143273">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:144288">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:145295">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:147274">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:148294">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:151124">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:152118">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:153162">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:154396">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:157218">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:158157">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:159305">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:160463">Named entities and numerical Unicode entities are not allowed.</message>
+<message id="XML510" type="error" position="1:161539">Named entities and numerical Unicode entities are not allowed.</message>
+<total-errors>89</total-errors>
+<total-warnings>30</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 13:51:20 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010379\9780128207321\B9780128207321000011\main.pdf"><time>Vtool:5.72.1 run at Wed Jun 29 13:51:20 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010379\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010379.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d"</command-line-options>
+<skipped-checks><check-id>PDF011</check-id>
+</skipped-checks>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>1</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 13:51:21 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010379\9780128207321\B9780128207321000011\main.assets\gr1.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 13:51:21 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010379\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010379.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d"</command-line-options>
+<results><message id="AWC013a" type="warning" position="unknown">The differences between the width and height of the image and its trimmed version should preferably be 4 pixels or less.</message>
+<total-errors>0</total-errors>
+<total-warnings>1</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 13:51:23 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010379\9780128207321\B9780128207321000011\main.assets\gr2.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 13:51:23 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010379\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010379.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 13:51:24 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010379\9780128207321\B9780128207321000011\main.assets\gr3.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 13:51:24 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010379\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010379.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 13:51:25 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010379\9780128207321\B9780128207321000011\main.assets\gr4.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 13:51:25 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010379\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010379.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 13:51:26 IST 2022</time>
+</Log>
+<Log filename="D:\Contrast\280\Output\TOMBK00010379\9780128207321\B9780128207321000011\main.assets\gr5.jpg"><time>Vtool:5.72.1 run at Wed Jun 29 13:51:26 IST 2022</time>
+<command-line-options>-file "D:\Contrast\280\Output\TOMBK00010379\dataset.xml" -log "D:\Deepak\Contrast4ElsBooks3\bin\Debug\\VTools\VtoolLog\TOMBK00010379.log" -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d"</command-line-options>
+<results><total-errors>0</total-errors>
+<total-warnings>0</total-warnings>
+<total-skipped-checks>0</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 13:51:27 IST 2022</time>
+</Log>
+<message id="CON-ITI003f" type="error" position="34:117">The DTD version (BOOK 5.5.0 [PITINFO]) must match the information in the book item file.</message>
+<message id="parser" type="error" position="34:151"><![CDATA[Error: cvc-enumeration-valid: Value 'BOOK 5.5.0 [PITINFO]' is not facet-valid with respect to enumeration '[BOOK 5.2.1 CHAPTER, BOOK 5.2.1 SIMPLE-CHAPTER, BOOK 5.2.1 EXAMINATION, BOOK 5.2.1 FB-NON-CHAPTER, BOOK 5.2.1 GLOSSARY, BOOK 5.2.1 INDEX, BOOK 5.2.1 INTRODUCTION, BOOK 5.2.1 BIBLIOGRAPHY, BOOK 5.3.0 CHAPTER, BOOK 5.3.0 SIMPLE-CHAPTER, BOOK 5.3.0 EXAMINATION, BOOK 5.3.0 FB-NON-CHAPTER, BOOK 5.3.0 GLOSSARY, BOOK 5.3.0 INDEX, BOOK 5.3.0 INTRODUCTION, BOOK 5.3.0 BIBLIOGRAPHY, BOOK 5.3.1 CHAPTER, BOOK 5.3.1 SIMPLE-CHAPTER, BOOK 5.3.1 EXAMINATION, BOOK 5.3.1 FB-NON-CHAPTER, BOOK 5.3.1 GLOSSARY, BOOK 5.3.1 INDEX, BOOK 5.3.1 INTRODUCTION, BOOK 5.3.1 BIBLIOGRAPHY, BOOK 5.4.0 BOOK, BOOK 5.4.0 CHAPTER, BOOK 5.4.0 SIMPLE-CHAPTER, BOOK 5.4.0 EXAMINATION, BOOK 5.4.0 FB-NON-CHAPTER, BOOK 5.4.0 GLOSSARY, BOOK 5.4.0 INDEX, BOOK 5.4.0 INTRODUCTION, BOOK 5.4.0 BIBLIOGRAPHY, BOOK 5.5.0 BOOK, BOOK 5.5.0 CHAPTER, BOOK 5.5.0 SIMPLE-CHAPTER, BOOK 5.5.0 EXAMINATION, BOOK 5.5.0 FB-NON-CHAPTER, BOOK 5.5.0 GLOSSARY, BOOK 5.5.0 INDEX, BOOK 5.5.0 INTRODUCTION, BOOK 5.5.0 BIBLIOGRAPHY, PAGEBREAK 5.0.0]'. It must be a value from the enumeration.]]></message>
+<message id="parser" type="error" position="34:151"><![CDATA[Error: cvc-type.3.1.3: The value 'BOOK 5.5.0 [PITINFO]' of element 'dtd-version' is not valid.]]></message>
+<total-errors>93</total-errors>
+<total-warnings>31</total-warnings>
+<total-skipped-checks>8</total-skipped-checks>
+</results>
+<time>Vtool:5.72.1 run at Wed Jun 29 13:51:27 IST 2022</time>
+</Log>
+</LogReport>

@@ -1,0 +1,2 @@
+D:\Deepak\Contrast4ElsBooks3\bin\Debug\RAI\RAI.exe %2
+D:\Deepak\Contrast4ElsBooks3\bin\Debug\jdk1.8.0_91\bin\java -jar D:\Deepak\Contrast4ElsBooks3\bin\Debug\VTools\Vtool5\vtool.jar -skip "CON-XMP602 CON-ITI005i PDF011 XMP619 CON-ITI005a CON-XMP607 CON-ITI005c XMP603 CON-ITI005d XML510" -log %1.log -file %2\dataset.xml
