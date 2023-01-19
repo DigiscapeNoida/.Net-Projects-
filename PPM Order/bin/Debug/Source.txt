@@ -1,0 +1,10 @@
+# Automatically abort script on errors
+option batch abort
+# Disable overwrite confirmations that conflict with the previous
+option confirm off
+# Connect to SFTP server using a password
+open sftp://tombkpew:tombkpu25189@oxpzaps20l-sftp.elsevier.co.uk/ -hostkey="ssh-rsa 2048 xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx"
+# Upload file
+put Z:\ElsBook\Orders\PPM\9780323313025\2ND-PAGE-PROOF\Current_order\\kup1418219235765_3024-20141210_134716.xml /ftpdata/dropzones/tombkpew/
+# Disconnect
+close

@@ -1,0 +1,1 @@
+C:\Program Files (x86)\WinSCP\WinSCP.com /script=%1% /log=%2%
