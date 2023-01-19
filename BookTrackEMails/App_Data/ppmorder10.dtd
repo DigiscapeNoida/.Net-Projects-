@@ -1,0 +1,697 @@
+<!-- $Id: ppmorder.dtd,v 1.14 2008/07/23 09:32:33 mruck Exp $ -->
+
+<!-- PPM order DTD
+     For sending work orders and instructions to book suppliers
+     Version 1.0r9 dated 23 July 2008
+     Typical invocation:
+     <!DOCTYPE orders PUBLIC "-//ES//DTD PPM order DTD version 1.0//EN//XML" "ppmorder10.dtd">
+-->
+<!-- Change History (will be cleared for version 1.0)
+     v0.1  25 October 2007
+     Created by MRu, based on the Booktrack/PTS order DTDs
+     
+     v0.2  14 December 2007
+     Revised after discussions with RSc
+     Added commentary for Klopotek's benefit
+     
+     v0.3  21 January 2008
+     First sight of PPM supplier order data message schema
+     Added bulk of PPM export fields as new node order-details
+     Updated header elements to take account of available data from PPM
+         
+     v0.4  6 February 2008
+     Added "unit" as attribute to all elements with dimension
+     Removed node "Instructions" as this is not required - instruction details are merged with order details
+     Added production notes fields as required by CR concept SWO_001
+     Made some modifications to element executor (formerly <supplier>) and sub-elements 
+       after feedback from Pete Simpkin / EWAM
+     Moved element supplier-coder to element executor and renamed exec-code
+     Moved element version-no from top level to be a sub-element of book-info (requested by Pete Simpkin)
+     
+     v0.5  7 February 2008 (Klopotek schema v09)
+     Added elements imprint and copyright-yr to element book-details (future schema expansion)
+     Added elements volume-no and volume-name to element series-info
+     Removed element exp-ship-date from element production-position as this will be the same as top element due-date
+     Removed elements order-type and note from element production-position 
+       as these are mapped to other elements in the DTD
+     Removed elements quantity-shipped, si from element production-position (not needed in supplier order)
+     Changed all underscores to hyphens to be consistent with other Elsevier DTDs
+     Added element international-spec to carry some multi-system values (present in Klopotek schema)
+     
+     v0.6  21 February 2008 (Klopotek schema v10)
+     Added element task-no for schedule task identification
+     Added originator (aka author/editor) details to elements book-details and series-info
+     Added element edition-no to element book-details
+     Renamed element type-area/col to "columns" for clarity
+     Removed element paper-size from cover-binding etc., as this field is not used in PPM by Elsevier
+     Renamed element weight as "weight-per-1000-sheets" in elements cover-binding, jacket, end-papers, sections, inserts
+     Renamed element section/paper-req-kg to "paper-req-in-kg" for consistency
+     Renamed element specification/extended to "prod-extent" for clarity
+     Removed element production-position/qty-posted as not required in order
+     
+     v.07  6 March 2008 (Klopotek schema v12)
+     Redefined element international-specification as international-measures, matching Klopotek schema
+     Added length unit "pt" and added length attribute to element fontsize
+     Changed "*" definitions to "+" where the parent element is itself optional (e.g. material+) to avoid empty elements
+     
+     v1.0r1  14 March 2008 (Klopotek schema v13)
+     Final version as released to suppliers
+     Tidied comments throughout the DTD
+     Removed element task-no as task identification will now be handled by PPM (suppliers don't need to do it)
+     
+     v1.0r2  24 April 2008
+     Added order stages "CONVERSION-ORDER" and "GENERIC-ORDER" to accommodate post-typeset conversion projects and allow a general supplier order
+     Changed attribute project\@reprint-no to @els-reprint-no to reflect CR for Elsevier-specific reprint numbering 
+     
+     v1.0r3  2 May 2008 (Klopotek schema v14)
+     Changed many element definitions to optional because of previously unannounced changes to Klopotek schema
+     Changed all "scale" attributes in the colour elements to optional, following Klopotek schema (the absence of the attribute implies "no")
+     Added value "oz." to allowed values of entity %weight, to accommodate error in Klopotek export.  Will be removed when Klopotek fix.
+     
+     v1.0r4  23 May 2008
+     Added elements book-info/mrw-code and book-details/division after feedback from SQS
+     
+     v1.0r5  2 June 2008
+     Added new element sections/section/total-pages in response to Klopotek stylesheet change
+     Added new element book-details/ownership to show fiscal ownership (invoicing company) of book
+     Removed attribute "unit" from elements fontsize and leading
+     
+     v1.0r6  4 June 2008
+     Added new element book-details/no-of-chapters in response to feedback from SQS
+     
+     v1.0r7  19 June 2008
+     Added new work order type COMBINED-MFG-ORDER after discussions with Colin Arthur
+     Changed order of elements in book-details to match stylesheet definition
+     Removed "oz." as a weight unit
+     Patched various small problems caused by another change in Klopotek schema definition
+     
+     v1.0r8  26 June 2008
+     Further changes mandatory-> optional to harmonize with PPM output
+     Added new elements insert/order-type[1..3]-remark
+     Added new element production-position/order-line-notes
+     Renamed element project/note to project/printrun-note
+     Removed element production-position/status (not required)
+    
+     v1.0r9  23 July 2008
+     Added new work order type FULL-SERVICE-ORDER
+     Changed more elements mandatory->optional to harmonize with PPM output
+-->
+
+<!ENTITY % mo                 "( 01|02|03|04|05|06|07|08|09|10|11|12 )" >
+<!ENTITY % day                "( 01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|
+                                 17|18|19|20|21|22|23|24|25|26|27|28|29|30|31 )" >
+<!ENTITY % hr                 "( 00|01|02|03|04|05|06|07|08|09|10|11|
+                                 12|13|14|15|16|17|18|19|20|21|22|23 )" >
+<!ENTITY % ms                 "( 00|01|02|03|04|05|06|07|08|09|
+                                 10|11|12|13|14|15|16|17|18|19|
+                                 20|21|22|23|24|25|26|27|28|29|
+                                 30|31|32|33|34|35|36|37|38|39|
+                                 40|41|42|43|44|45|46|47|48|49|
+                                 50|51|52|53|54|55|56|57|58|59 )" >
+<!ENTITY % yesno              "( yes | no )" >
+<!ENTITY % length             "( mm | in | pt )" >
+<!ENTITY % weight             "( g | kg | oz | lb )" >
+<!ENTITY % unit-system        "( US | SIU )" >
+
+<!-- List of allowed steps in an order
+     For more details see document mru2007.21
+     Anything postfixed "-ORDER" is a work order; others are instructions
+-->
+
+<!ENTITY % step "( ARTWORK-ORDER | COMBINED-MFG-ORDER | CONVERSION-ORDER | COVER-DESIGN-ORDER | 
+                   COVER-MFG-ORDER | COPYEDIT-ORDER | DESIGN-ORDER | FREELANCE-ORDER |
+                   FULL-SERVICE-ORDER | GENERIC-ORDER | INDEXING-ORDER | MS-DEV-ORDER | 
+                   MEDIA-DEV-ORDER | MEDIA-PROOF-ORDER | MEDIA-REPL-ORDER | PRINT-BIND-ORDER | 
+                   PROJECT-MGMT-ORDER | PROOFREAD-ORDER | TYPESET-ORDER | 
+                   CAST-OFF-BOOK | CAST-OFF-BATCH | SAMPLE-PAGES | 
+                   COPYEDIT-BOOK | COPYEDIT-BATCH | 1ST-ARTWORK | CORRECT-ARTWORK | 
+                   TYPESET-BOOK | TYPESET-BATCH | PROOFREAD-1PR-BOOK | PROOFREAD-1PR-BATCH | 
+                   2ND-PROOF-BOOK | 2ND-PROOF-BATCH | PROOFREAD-2PR-BOOK | PROOFREAD-2PR-BATCH | 
+                   PAGE-PROOF-BOOK | PROOFREAD-PAGE-PROOF | INDEX-BOOK | INDEX-BATCH | TYPESET-INDEX |  
+                   2ND-PAGE-PROOF | FINAL-PROOF | PRINT-READY-FILES | 
+                   Q300 | H300 | O300 | H350 )" >
+
+<!ENTITY % exec               "( ES | TYPESETTER | PRINTER | COPYEDITOR | 
+                                 PROOFREADER | DESIGNER | MULTIMEDIA | INDEXER )" >
+
+<!ENTITY % order-type         "( work-order | instruction )" >
+
+<!-- GENERAL SUPPLIER ORDER INFO -->
+<!-- Description of elements within the order - for more information see Tag By Tag
+
+"type" attribute    whether the order is a work order or an instruction
+user-info           details of the PPM user who created the order
+stage               the piece of work that the order or instruction relates to
+executor            supplier details
+order-no            the work order number in PPM
+instruction-no      the instruction number - a sequence within the work order starting at 1
+                    (if absent or zero, it's a work order)
+book-info           contains general identifiers such as ISBN, PII, plus EW version number (see notes there)
+due-date            date the order is due to be completed
+remarks             the free-text notes field from the order or instruction
+prod-site           production location (same codes as used by PTS)
+delivery-addresses  any addresses for delivery of finished goods
+book-details        textual information about the book as contained in the PPM export (see notes there)
+order-details       all the export atrributes available in the data-push for 
+                    supplier orders (see notes there)
+-->
+                  
+<!ELEMENT  orders                   ( order+ ) >
+<!ELEMENT  order                    ( user-info, time, stage, executor, order-no, instruction-no?, 
+                                      book-info, due-date?, remarks?, prod-site, delivery-addresses?, 
+                                      book-details, order-details ) >
+<!ATTLIST  order
+           type                     %order-type;   #REQUIRED >
+
+<!ELEMENT  user-info                ( created-by?, created-on?, modified-by?, modified-on? ) >
+
+<!ELEMENT  time                     EMPTY>
+<!ATTLIST  time
+           day                      %day;          #REQUIRED
+           month                    %mo;           #REQUIRED
+           year                     NMTOKEN        #REQUIRED
+           hr                       %hr;           #IMPLIED
+           min                      %ms;           #IMPLIED
+           sec                      %ms;           #IMPLIED >
+<!-- All times must be in UTC - see Tag By Tag -->
+
+<!ELEMENT  stage                    EMPTY>
+<!ATTLIST  stage
+           step                     %step;         #REQUIRED >
+
+<!ELEMENT  order-no                 ( #PCDATA ) >
+<!ELEMENT  instruction-no           ( #PCDATA ) >
+
+<!ELEMENT  due-date                 ( date ) >
+<!ELEMENT  remarks                  ( #PCDATA ) >
+<!ELEMENT  prod-site                ( #PCDATA ) >
+
+<!ELEMENT  date                     EMPTY >
+<!ATTLIST  date
+           day                      %day;          #REQUIRED
+           month                    %mo;           #REQUIRED
+           year                     NMTOKEN        #REQUIRED > 
+
+<!ELEMENT  executor                 ( exec-code, label, name?, salutation, contact-person? ) >
+<!ATTLIST  executor            
+           type                     %exec;         #REQUIRED
+           addressee                %yesno;        "no" >
+
+<!-- Order/User info -->
+
+<!ELEMENT  created-by               ( #PCDATA ) >
+<!ELEMENT  created-on               ( #PCDATA ) >
+<!ELEMENT  modified-on              ( #PCDATA ) >
+<!ELEMENT  modified-by              ( #PCDATA ) >
+
+<!-- Supplier (executor) contact details -->
+
+<!ELEMENT  exec-code                ( #PCDATA ) >
+<!ELEMENT  label                    ( #PCDATA ) >
+<!ELEMENT  name                     ( #PCDATA ) >
+<!ELEMENT  salutation               ( #PCDATA ) >
+
+<!ELEMENT  contact-person           ( label, first-name?, last-name, salutation, title?, department?, position?, email? ) >
+<!ATTLIST  contact-person 
+           id-location              NMTOKEN        #REQUIRED >
+
+<!ELEMENT  first-name               ( #PCDATA ) >
+<!ELEMENT  last-name                ( #PCDATA ) >
+<!ELEMENT  title                    ( #PCDATA ) >
+<!ELEMENT  department               ( #PCDATA ) >
+<!ELEMENT  position                 ( #PCDATA ) >
+<!ELEMENT  email                    ( #PCDATA ) >
+
+<!-- BOOK INFO -->
+<!-- Identifiers for the book from PPM
+
+version-no   the dataset version number expected in the delivery
+pii          the digital asset collection key for the product
+doi          the DOI (if present)
+isbn         the ISBN of the product that the order relates to
+mrw-code     the Major Reference Works identifier, if the book is an MRW 
+series-info  identifiers for the series if the book belongs to one (see notes there)
+-->
+ 
+<!ELEMENT  book-info                ( version-no?, pii, doi?, isbn, mrw-code?, series-info? ) >
+
+<!ELEMENT  version-no               ( #PCDATA ) >
+<!ELEMENT  pii                      ( #PCDATA ) >
+<!ELEMENT  doi                      ( #PCDATA ) >
+<!ELEMENT  isbn                     ( #PCDATA ) >
+<!ELEMENT  mrw-code                 ( #PCDATA ) >
+
+<!-- SERIES INFO -->
+<!-- Identifiers for the parent series
+
+pii            the digital asset collection key for the series
+issn           the ISSN of the series
+jid            an internal EW code that maps to "Series abbr." in the series pool, prefixed by "BS:"
+series-title   the title of the series from the PPM series record
+volume-number  the number of the volume in the series, if present
+volume-name    the "name" of the volume that prefixes the volume number, e.g. "Volume" or "Issue"
+originators    names of linked people (e.g. authors, editors)
+-->
+
+<!ELEMENT  series-info              ( pii, issn, jid, series-title?, volume-number?, volume-name?, originators? ) >
+
+<!ELEMENT  issn                     ( #PCDATA ) >
+<!ELEMENT  jid                      ( #PCDATA ) >
+<!ELEMENT  series-title             ( #PCDATA ) >
+<!ELEMENT  volume-number            ( #PCDATA ) >
+<!ELEMENT  volume-name              ( #PCDATA ) >
+<!ELEMENT  originators              ( originator+ ) >
+
+<!-- Series info/Originators -->
+
+<!ELEMENT  originator               ( originator-type?, first-name?, last-name? ) >
+<!ATTLIST  originator
+           sort-order               NMTOKEN        #IMPLIED >
+           
+<!ELEMENT  originator-type          ( #PCDATA ) >
+
+<!-- DELIVERY ADDRESSES -->
+<!-- Specifies the addresses and quantities for manufactured products -->
+
+<!ELEMENT  delivery-addresses       ( delivery-address+ ) >
+
+<!ELEMENT  delivery-address         ( delivery-type, quantity, note?, info, label ) >
+
+<!ELEMENT  delivery-type            ( #PCDATA ) >
+<!ELEMENT  quantity                 ( #PCDATA ) >
+<!ELEMENT  note                     ( #PCDATA ) >
+<!ELEMENT  info                     ( #PCDATA ) >
+
+<!-- BOOK DETAILS -->
+<!-- Textual information about the book -->
+<!-- NB "division" = company division (Health Sciences or Science & Technology) -->
+
+<!ELEMENT  book-details             ( version-type?, medium?, book-title?, short-title?, subtitle?, edition-no?, pmg?, 
+                                      version-binding?, imprint?, copyright-yr?, division?, ownership?,
+                                      no-of-chapters?, originators? ) >
+
+<!ELEMENT  version-type             ( #PCDATA ) >
+<!ELEMENT  medium                   ( #PCDATA ) >
+<!ELEMENT  book-title               ( #PCDATA ) >
+<!ELEMENT  short-title              ( #PCDATA ) >
+<!ELEMENT  subtitle                 ( #PCDATA ) >
+<!ELEMENT  edition-no               ( #PCDATA ) >
+<!ELEMENT  pmg                      ( #PCDATA ) >
+<!ELEMENT  version-binding          ( #PCDATA ) >
+<!ELEMENT  imprint                  ( #PCDATA ) >
+<!ELEMENT  copyright-yr             ( #PCDATA ) >
+<!ELEMENT  division                 ( #PCDATA ) >
+<!ELEMENT  ownership                ( #PCDATA ) >
+<!ELEMENT  no-of-chapters           ( #PCDATA ) >
+
+<!-- ORDER DETAILS -->
+<!-- Detailed information about the book's specifications -->
+
+<!ELEMENT  order-details            ( production-position ) >
+<!-- "order-details" is placeholder for other order types - currently only production orders are mapped -->
+
+<!ELEMENT  production-position      ( finish-state?, quantity-ordered?, plan-print-run?, unit-price?, order-line-total?, 
+                                      currency, product-part?, materials?, current-delivery-date?, unit?, order-line-notes?, project ) >
+
+<!ELEMENT  finish-state             ( #PCDATA ) >
+<!ELEMENT  quantity-ordered         ( #PCDATA ) >
+<!ELEMENT  plan-print-run           ( #PCDATA ) >
+<!ELEMENT  unit-price               ( #PCDATA ) >
+<!ELEMENT  order-line-total         ( #PCDATA ) >
+<!ELEMENT  currency                 ( #PCDATA ) >
+<!ELEMENT  product-part             ( #PCDATA ) >
+<!ELEMENT  materials                ( material+ ) >
+<!ELEMENT  current-delivery-date    ( #PCDATA ) >
+<!ELEMENT  unit                     ( #PCDATA ) >
+<!ELEMENT  order-line-notes         ( #PCDATA ) >
+<!ELEMENT  project                  ( project-number, reprint-type?, status?, registration-status?, product-manager?, approved-on?, 
+                                      third-party-edition?, plan-publication-date?, plan-delivery-date?, active-publication-date?,
+                                      active-delivery-date?, nominal-print-run?, plan-print-run?, actual-print-run?, printrun-note?, 
+                                      currency?, segments?, specification?, cover?, parts?, production-notes? ) >
+<!ATTLIST  project 
+           id                       NMTOKEN        #REQUIRED
+           impression-id            NMTOKEN        #REQUIRED
+           els-reprint-no           NMTOKEN        #REQUIRED >
+
+<!-- Order/Production/Materials -->
+
+<!ELEMENT  material                 ( status?, finish-state?, order-number?, isbn?, short-title?, material-type?, material-dimension?, 
+                                      description?, quantity-order?, quantity-consumption?, cost-type?, rating-unit?,
+                                      required-from?, required-to?, dimensions? ) >
+<!ATTLIST  material 
+           term                     NMTOKEN        #IMPLIED
+           type                     NMTOKEN        #IMPLIED >
+
+<!ELEMENT  status                   ( #PCDATA ) >
+<!ELEMENT  order-number             ( #PCDATA ) >
+<!ELEMENT  material-dimension       ( #PCDATA ) >
+<!ELEMENT  description              ( #PCDATA ) >
+<!ELEMENT  quantity-order           ( #PCDATA ) >
+<!ELEMENT  quantity-consumption     ( #PCDATA ) >
+<!ELEMENT  cost-type                ( #PCDATA ) >
+<!ELEMENT  rating-unit              ( #PCDATA ) >
+<!ELEMENT  required-from            ( #PCDATA ) >
+<!ELEMENT  required-to              ( #PCDATA ) >
+<!ELEMENT  dimensions               ( dimension+ ) >
+
+<!-- Order/Production/Materials/Dimensions -->
+
+<!ELEMENT  dimension                ( attribute, value ) >
+
+<!ELEMENT  attribute                ( #PCDATA ) >
+<!ELEMENT  value                    ( #PCDATA ) >
+
+<!-- Order/Production/Project -->
+
+<!ELEMENT  project-number           ( #PCDATA ) >
+<!ELEMENT  reprint-type             ( #PCDATA ) >
+<!ELEMENT  registration-status      ( #PCDATA ) >
+<!ELEMENT  product-manager          ( #PCDATA ) >
+<!ELEMENT  approved-on              ( #PCDATA ) >
+<!ELEMENT  third-party-edition      ( #PCDATA ) >
+<!ELEMENT  plan-publication-date    ( #PCDATA ) >
+<!ELEMENT  plan-delivery-date       ( #PCDATA ) >
+<!ELEMENT  active-publication-date  ( #PCDATA ) >
+<!ELEMENT  active-delivery-date     ( #PCDATA ) >
+<!ELEMENT  nominal-print-run        ( #PCDATA ) >
+<!ELEMENT  actual-print-run         ( #PCDATA ) >
+<!ELEMENT  printrun-note            ( #PCDATA ) >
+
+<!ELEMENT  segments                 ( segment+ ) >
+
+<!ELEMENT  specification            ( spec-classification?, prod-extent?, pages-arab?, pages-roman?, pages-per-sheet?, weight?,
+                                      manuscript-type?, manuscript-pages?, copy-ed-level?, tagging?, typesetting-diffic?,
+                                      text-design-type?, supplier-a?, supplier-b?, binding-method?, spine-thickness?, format?,
+                                      trim-size?, production-method?, interior-colors?, print-from?, manual-weight?, types-mod?,
+                                      types-form?, font?, fontsize?, leading?, binding-style?, spine-style?, block-thickness?,
+                                      type-area?, tables-bw?, tables-color?, formulas-math?, formulas-chem?, adv-internal?,
+                                      adv-external?, costs?, extras?, illustrations?, international-measures? ) >
+<!ELEMENT  cover                    ( cover-status?, design?, picture-source?, texts?, cover-binding?, jacket?, end-papers? ) >
+<!ELEMENT  parts                    ( sections, bounds?, inserts? ) >
+<!ELEMENT  production-notes         ( production-note+ ) >
+
+<!-- Order/Production/Project/Segments -->
+
+<!ELEMENT  segment                  ( description?, segment-quantity?, comment?) >
+
+<!ELEMENT  segment-quantity         ( #PCDATA ) >
+<!ATTLIST  segment-quantity
+           approx                   %yesno;        #REQUIRED
+           calc                     %yesno;        #REQUIRED >
+
+<!ELEMENT  comment                  ( #PCDATA ) >
+
+<!-- Order/Production/Project/Specification -->
+
+<!ELEMENT  spec-classification      ( #PCDATA ) >
+
+<!ELEMENT  prod-extent              ( #PCDATA ) >
+<!ATTLIST  prod-extent
+           status                   NMTOKEN        #REQUIRED >
+
+<!ELEMENT  pages-arab               ( #PCDATA ) >
+<!ELEMENT  pages-roman              ( #PCDATA ) >
+<!ELEMENT  pages-per-sheet          ( #PCDATA ) >
+
+<!ELEMENT  weight                   ( #PCDATA ) >
+<!ATTLIST  weight
+           unit                     %weight;       #REQUIRED >
+
+<!ELEMENT  manuscript-type          ( #PCDATA ) >
+<!ELEMENT  manuscript-pages         ( #PCDATA ) >
+<!ELEMENT  copy-ed-level            ( #PCDATA ) >
+<!ELEMENT  tagging                  ( #PCDATA ) >
+<!ELEMENT  typesetting-diffic       ( #PCDATA ) >
+<!ELEMENT  text-design-type         ( #PCDATA ) >
+<!ELEMENT  supplier-a               ( #PCDATA ) >
+<!ELEMENT  supplier-b               ( #PCDATA ) >
+<!ELEMENT  binding-method           ( #PCDATA ) >
+
+<!ELEMENT  spine-thickness          ( #PCDATA ) >
+<!ATTLIST  spine-thickness
+           unit                     %length;       #REQUIRED >
+           
+<!ELEMENT  format                   ( #PCDATA ) >
+<!ELEMENT  trim-size                ( #PCDATA ) >
+<!ELEMENT  production-method        ( #PCDATA ) >
+<!ELEMENT  interior-colors          ( #PCDATA ) >
+
+<!ELEMENT  manual-weight            ( #PCDATA ) >
+<!ATTLIST  manual-weight
+           unit                     %weight;       #REQUIRED >
+           
+<!ELEMENT  types-mod                ( #PCDATA ) >
+<!ELEMENT  types-form               ( #PCDATA ) >
+<!ELEMENT  font                     ( #PCDATA ) >
+<!ELEMENT  fontsize                 ( #PCDATA ) >
+<!ELEMENT  leading                  ( #PCDATA ) >
+<!ELEMENT  binding-style            ( #PCDATA ) >
+<!ELEMENT  spine-style              ( #PCDATA ) >
+
+<!ELEMENT  block-thickness          ( #PCDATA ) >
+<!ATTLIST  block-thickness
+           unit                     %length;       #REQUIRED >
+           
+<!ELEMENT  type-area                ( height?, width?, head-margin?, gutter-margin?, columns?, no-of-chars?, pic-share? ) >
+<!ELEMENT  tables-bw                ( #PCDATA ) >
+<!ELEMENT  tables-color             ( #PCDATA ) >
+<!ELEMENT  formulas-math            ( #PCDATA ) >
+<!ELEMENT  formulas-chem            ( #PCDATA ) >
+<!ELEMENT  adv-internal             ( #PCDATA ) >
+<!ELEMENT  adv-external             ( #PCDATA ) >
+<!ELEMENT  costs                    ( cost+ ) >
+<!ELEMENT  extras                   ( extra+ ) >
+<!ELEMENT  illustrations            ( illustration+ ) >
+<!ELEMENT  international-measures   ( measure+ )>
+
+<!-- Order/Production/Project/Specification/Type area -->
+
+<!ELEMENT  height                   ( #PCDATA ) >
+<!ATTLIST  height
+           unit                     %length;       #REQUIRED >
+           
+<!ELEMENT  width                    ( #PCDATA ) >
+<!ATTLIST  width
+           unit                     %length;       #REQUIRED >
+           
+<!ELEMENT  head-margin              ( #PCDATA ) >
+<!ATTLIST  head-margin
+           unit                     %length;       #REQUIRED >
+           
+<!ELEMENT  gutter-margin            ( #PCDATA ) >
+<!ATTLIST  gutter-margin
+           unit                     %length;       #REQUIRED >
+           
+<!ELEMENT  columns                  ( #PCDATA ) >
+<!ELEMENT  no-of-chars              ( #PCDATA ) >
+<!ELEMENT  pic-share                ( #PCDATA ) >
+
+<!-- Order/Production/Project/Specification/Costs -->
+
+<!ELEMENT  cost                     ( center?, hours? ) >
+
+<!ELEMENT  center                   ( #PCDATA ) >
+<!ELEMENT  hours                    ( #PCDATA ) >
+
+<!-- Order/Production/Project/Specification/Extras -->
+
+<!ELEMENT  extra                    ( named?, extra-material?, color? ) >
+
+<!ELEMENT  named                    ( #PCDATA ) >
+<!ELEMENT  extra-material           ( #PCDATA ) >
+<!ELEMENT  color                    ( #PCDATA ) >
+
+<!-- Order/Production/Project/Specification/Illustrations -->
+
+<!ELEMENT  illustration             ( type?, category?, quantity? ) >
+
+<!ELEMENT  type                     ( #PCDATA ) >
+<!ELEMENT  category                 ( #PCDATA ) >
+
+<!-- Order/Production/Project/Specification/International measures -->
+
+<!ELEMENT  measure                  ( weight?, format?, trim-size? ) >
+<!ATTLIST  measure
+           system                   %unit-system;  #IMPLIED >
+
+<!-- Order/Production/Project/Cover -->
+
+<!ELEMENT  cover-status             ( #PCDATA ) >
+<!ELEMENT  design                   ( #PCDATA ) >
+<!ELEMENT  picture-source           ( #PCDATA ) >
+<!ELEMENT  texts                    ( text+ ) >
+<!ELEMENT  cover-binding            ( material-type?, binding-spec?, finishing?, paper-quality?, print-from?, per-sheet?,
+                                      colors-ext?, colors-int?, note-color-ext?, note-color-int?, weight-per-1000-sheets?, bulk?,
+                                      paper-req-in-sheet?, paper-req-in-kg?, grain?, grammage?, board-thickness?,
+                                      basic-size-width?, basic-size-height? ) >
+<!ELEMENT  jacket                   ( material-type?, binding-spec?, finishing?, paper-quality?, print-from?, per-sheet?,
+                                      colors-ext?, colors-int?, note-color-ext?, note-color-int?, weight-per-1000-sheets?, bulk?, 
+                                      paper-req-in-sheet?, paper-req-in-kg?, grain?, grammage?, basic-size-width?, 
+                                      basic-size-height? ) >
+<!ELEMENT  end-papers               ( material-type?, binding-spec?, finishing?, paper-quality?, print-from?, per-sheet?,
+                                      colors-front?, colors-back?, note-color-front?, note-color-back?, weight-per-1000-sheets?, bulk?,
+                                      paper-req-in-sheet?, paper-req-in-kg?, grain?, grammage?, basic-size-width?,
+                                      basic-size-height? ) >
+
+<!-- Order/Production/Project/Cover/Texts -->
+
+<!ELEMENT  text                     ( text-type?, text-page?, text-text? ) >
+
+<!ELEMENT  text-type                ( #PCDATA ) >
+<!ELEMENT  text-page                ( #PCDATA ) >
+<!ELEMENT  text-text                ( #PCDATA ) >
+
+<!-- Order/Production/Project/Cover/Cover-Binding, Jacket & End-papers -->
+
+<!ELEMENT  material-type            ( #PCDATA ) >
+<!ELEMENT  binding-spec             ( #PCDATA ) >
+<!ELEMENT  finishing                ( #PCDATA ) >
+<!ELEMENT  paper-quality            ( #PCDATA ) >
+<!ELEMENT  print-from               ( #PCDATA ) >
+<!ELEMENT  per-sheet                ( #PCDATA ) >
+
+<!ELEMENT  colors-ext               ( #PCDATA ) >
+<!ATTLIST  colors-ext 
+           scale                    %yesno;        #IMPLIED >
+
+<!ELEMENT  colors-int               ( #PCDATA ) >
+<!ATTLIST  colors-int 
+           scale                    %yesno;        #IMPLIED >
+
+<!ELEMENT  note-color-ext           ( #PCDATA ) >
+<!ELEMENT  note-color-int           ( #PCDATA ) >
+
+<!ELEMENT  weight-per-1000-sheets   ( #PCDATA ) >
+<!ATTLIST  weight-per-1000-sheets
+           unit                     %weight;       #REQUIRED >
+           
+<!ELEMENT  bulk                     ( #PCDATA ) >
+<!ELEMENT  paper-req-in-sheet       ( #PCDATA ) >
+
+<!ELEMENT  paper-req-in-kg          ( #PCDATA ) >
+<!ATTLIST  paper-req-in-kg
+           unit                     %weight;       #REQUIRED >
+           
+<!ELEMENT  grain                    ( #PCDATA ) >
+<!ELEMENT  grammage                 ( #PCDATA ) >
+<!ELEMENT  board-thickness          ( #PCDATA ) >
+
+<!ELEMENT  basic-size-width         ( #PCDATA ) >
+<!ATTLIST  basic-size-width
+           unit                     %length;       #REQUIRED >
+           
+<!ELEMENT  basic-size-height        ( #PCDATA ) >
+<!ATTLIST  basic-size-height
+           unit                     %length;       #REQUIRED >
+           
+<!-- Additional elements for end-papers -->
+
+<!ELEMENT  colors-front             ( #PCDATA ) >
+<!ATTLIST  colors-front 
+           scale                    %yesno;        #IMPLIED >
+
+<!ELEMENT  colors-back              ( #PCDATA ) >
+<!ATTLIST  colors-back 
+           scale                    %yesno;        #IMPLIED >
+
+<!ELEMENT  note-color-front         ( #PCDATA ) >
+<!ELEMENT  note-color-back          ( #PCDATA ) >
+
+<!-- Order/Production/Project/Parts -->
+
+<!ELEMENT  sections                 ( section* ) >
+<!ELEMENT  bounds                   ( bound-inserts?, special-processes?, manuscript-parts? ) >
+<!ELEMENT  inserts                  ( insert+ ) >
+
+<!-- Order/Production/Project/Parts/Sections -->
+
+<!ELEMENT  section                  ( grammage?, colors?, bulk-text?, bulk?, grain?, extent?, printed-sheet?, bleed?,
+                                      weight-per-1000-sheets?, paper-quality?, material-type?, name?, pages-per-sheet?,
+                                      plate-sets?, total-sheets?, total-pages?, paper-req-in-kg?, pages-from?, pages-to?,
+                                      sheet-combi?, pms?, additionals?, bd-sheets? ) >
+
+<!ELEMENT  colors                   ( #PCDATA ) >
+<!ATTLIST  colors
+           scale                    %yesno;        #IMPLIED >
+
+<!ELEMENT  bulk-text                ( #PCDATA ) >
+<!ELEMENT  extent                   ( #PCDATA ) >
+<!ELEMENT  printed-sheet            ( #PCDATA ) >
+<!ELEMENT  bleed                    ( #PCDATA ) >
+<!ELEMENT  plate-sets               ( #PCDATA ) >
+<!ELEMENT  total-sheets             ( #PCDATA ) >
+<!ELEMENT  total-pages              ( #PCDATA ) >
+<!ELEMENT  pages-from               ( #PCDATA ) >
+<!ELEMENT  pages-to                 ( #PCDATA ) >
+<!ELEMENT  sheet-combi              ( #PCDATA ) >
+<!ELEMENT  pms                      ( #PCDATA ) >
+<!ELEMENT  additionals              ( additional+ ) >
+<!ELEMENT  bd-sheets                ( bd-sheet+ ) >
+
+<!-- Order/Production/Project/Parts/Sections/Additionals -->
+
+<!ELEMENT  additional               ( type-of-data?, medium-type?, format?, condition?, medium-name?, add-additional?, note? ) >
+
+<!ELEMENT  type-of-data             ( #PCDATA ) >
+<!ELEMENT  medium-type              ( #PCDATA ) >
+<!ELEMENT  condition                ( #PCDATA ) >
+<!ELEMENT  medium-name              ( #PCDATA ) >
+<!ELEMENT  add-additional           ( #PCDATA ) >
+
+<!-- Order/Production/Project/Parts/Sections/Bd-sheets -->
+
+<!ELEMENT  bd-sheet                 ( sheet?, number? ) >
+<!ELEMENT  sheet                    ( #PCDATA ) >
+<!ELEMENT  number                   ( #PCDATA ) >
+
+<!-- Order/Production/Project/Parts/Bounds -->
+
+<!ELEMENT  bound-inserts            ( bound-insert+ ) >
+<!ELEMENT  special-processes        ( special-process+ ) >
+<!ELEMENT  manuscript-parts         ( manuscript-part+ ) >
+
+<!ELEMENT  bound-insert             ( name, comment? ) >
+<!ELEMENT  special-process          ( name ) >
+<!ELEMENT  manuscript-part          ( name, authors? ) >
+
+<!ELEMENT  authors                  ( author+ ) >
+
+<!ELEMENT  author                   ( first-name?, name ) >
+
+<!-- Order/Production/Project/Parts/Inserts -->
+
+<!ELEMENT  insert                   ( name, finishing?, per-sheet?, colors-recto?, colors-verso?, pms-recto?, pms-verso?,
+                                      material-type?, paper-quality?, weight-per-1000-sheets?, insert-spec?, print-form?, 
+                                      volume?, paper-req-in-sheet?, paper-req-in-kg?, grain?, grammage?, basic-size-width?, 
+                                      basic-size-height?, order-type1?, order-type1-remark?, order-type2?, order-type2-remark?,
+                                      order-type3?, order-type3-remark? ) >
+
+<!ELEMENT  colors-recto             ( #PCDATA ) >
+<!ATTLIST  colors-recto 
+           scale                    %yesno;        #IMPLIED >
+
+<!ELEMENT  colors-verso             ( #PCDATA ) >
+<!ATTLIST  colors-verso
+           scale                    %yesno;        #IMPLIED >
+
+<!ELEMENT  pms-recto                ( #PCDATA ) >
+<!ELEMENT  pms-verso                ( #PCDATA ) >
+<!ELEMENT  insert-spec              ( #PCDATA ) >
+<!ELEMENT  print-form               ( #PCDATA ) >
+<!ELEMENT  volume                   ( #PCDATA ) >
+<!ELEMENT  order-type1              ( #PCDATA ) >
+<!ELEMENT  order-type1-remark       ( #PCDATA ) >
+<!ELEMENT  order-type2              ( #PCDATA ) >
+<!ELEMENT  order-type2-remark       ( #PCDATA ) >
+<!ELEMENT  order-type3              ( #PCDATA ) >
+<!ELEMENT  order-type3-remark       ( #PCDATA ) >
+
+<!-- Order/Production/Project/Production notes -->
+
+<!ELEMENT  production-note          ( note-name, note-status, note-text ) >
+
+<!ELEMENT  note-name                ( #PCDATA ) >
+<!ELEMENT  note-status              ( #PCDATA ) >
+<!ELEMENT  note-text                ( #PCDATA ) >
+
+<!-- END OF DTD -->

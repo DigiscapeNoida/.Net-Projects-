@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:m="http://www.w3.org/1998/Math/MathML"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:ce="http://www.elsevier.com/xml/common/dtd"
+	xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd">
+	<xsl:output method="html" indent="yes" encoding="windows-1252"/>
+	<xsl:preserve-space elements="*"/>
+
+
+	<xsl:template match="/">
+		<html>
+
+			<body>
+				<table border="2" width="100%" align="center">
+					<tr>
+						<td bgcolor="#E6E6FA">
+							<p style="text-align:justify">
+								<xsl:apply-templates select="orders"/>
+							</p>
+						</td>
+					</tr>
+				</table>
+			</body>
+		</html>
+	</xsl:template>
+
+	<!-- ############# book-metadata ############# -->
+
+
+	<xsl:template match="//book-metadata">
+		<table border="3" width="100%" bgcolor="#E6E6FA" align="center">
+			<thead align="center" style="background-color: #483D8B">
+				<tr>
+					<td>
+						<b>
+							<font size="4" color="#FFFFFF">XML Order</font>
+						</b>
+					</td>
+				</tr>
+			</thead>
+		</table>
+		<table border="3" width="100%" bgcolor="#E6E6FA" align="center">
+			<thead style="background-color: #483D8B">
+				<tr>
+					<td>
+						<b>
+							<font size="4" color="#FFFFFF">Book Lavel Information</font>
+						</b>
+					</td>
+				</tr>
+			</thead>
+		</table>
+		<table border="3" width="100%" bgcolor="#E6E6FA" align="center">
+			<tr>
+				<xsl:if test="pii">
+					<td>
+						<b>
+							<font color="#483D8B">PII: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="pii"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="doi">
+					<td>
+						<b>
+							<font color="#483D8B">DOI: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="doi"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="isbn">
+					<td>
+						<b>
+							<font color="#483D8B">ISBN: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="isbn"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="issn">
+					<td>
+						<b>
+							<font color="#483D8B">ISSN: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="issn"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="volume-editor">
+					<td>
+						<b>
+							<font color="#483D8B">Volume Editor: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="volume-editor"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="jid">
+					<td>
+						<b>
+							<font color="#483D8B">JID: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="jid"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="vol-number">
+					<td>
+						<b>
+							<font color="#483D8B">Volume Number: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="volume-editor"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="book-title">
+					<td>
+						<b>
+							<font color="#483D8B">Book Title: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="book-title"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="subtitle">
+					<td>
+						<b>
+							<font color="#483D8B">SubTitle: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="subtitle"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="edition">
+					<td>
+						<b>
+							<font color="#483D8B">Edition: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="edition"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="imprint">
+					<td>
+						<b>
+							<font color="#483D8B">Imprint: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="imprint"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="version">
+					<td>
+						<b>
+							<font color="#483D8B">Version: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="version"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="stage">
+					<td>
+						<b>
+							<font color="#483D8B">Stage: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="stage"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:for-each select="pub-year">
+					<td>
+						<b>
+							<font color="#483D8B">Expected Year Publ: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:value-of select="@year"/>
+					</td>
+				</xsl:for-each>
+			</tr>
+			<tr>
+				<xsl:for-each select="reg-year">
+					<td>
+						<b>
+							<font color="#483D8B">Year of Registration: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:value-of select="@year"/>
+					</td>
+				</xsl:for-each>
+			</tr>
+			<tr>
+				<xsl:if test="jobType">
+					<td>
+						<b>
+							<font color="#483D8B">Job Type: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="jobType"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:for-each select="received-date">
+					<td>
+						<b>
+							<font color="#483D8B">Received Date: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:if test="@day"> &#32;<xsl:value-of select="@day"
+							/><xsl:text>-</xsl:text>
+						</xsl:if>
+						<xsl:if test="@month">
+							<xsl:value-of select="@month"/>
+							<xsl:text>-</xsl:text>
+						</xsl:if>
+						<xsl:if test="@year">
+							<xsl:value-of select="@year"/>
+						</xsl:if>
+
+					</td>
+				</xsl:for-each>
+			</tr>
+			<tr>
+				<xsl:for-each select="due-date">
+					<td><b><font color="#483D8B">Due Date: </font></b></td>
+					<td>
+						<xsl:if test="@day"> &#32;<xsl:value-of select="@day"/>
+							<xsl:text>-</xsl:text>
+						</xsl:if>
+						<xsl:if test="@month">
+							<xsl:value-of select="@month"/>
+							<xsl:text>-</xsl:text>
+						</xsl:if>
+						<xsl:if test="@year">
+							<xsl:value-of select="@year"/>
+						</xsl:if>
+					</td>
+				</xsl:for-each>
+			</tr>
+			<tr>
+				<xsl:if test="pcw">
+					<td>
+						<b>
+							<font color="#483D8B">pcw: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="PCW"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="ank">
+					<td>
+						<b>
+							<font color="#483D8B">ANK: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="ank"/>
+					</td>
+				</xsl:if>
+			</tr>
+			<tr>
+				<xsl:if test="eisbn">
+					<td>
+						<b>
+							<font color="#483D8B">EISBN: </font>
+						</b>
+					</td>
+					<td>
+						<xsl:apply-templates select="eisbn"/>
+					</td>
+				</xsl:if>
+			</tr>
+		</table>
+		<br/>
+		<table border="3" width="100%" bgcolor="#E6E6FA" align="center">
+			<thead style="background-color: #556B2F">
+				<tr>
+					<td>
+						<b>
+							<font size="4" color="#FFFFFF">Chapter Lavel Information</font>
+						</b>
+					</td>
+				</tr>
+			</thead>
+		</table>
+	</xsl:template>
+
+	<!-- ############# chapter-info ############# -->
+
+	<xsl:template match="//chapters">
+		<table border="3" width="100%" bgcolor="#E6E6FA" align="center">
+			<thead>
+				<tr style="background-color: #C0C0C0">
+					<!-- 		<th><b><font color="#556B2F">CID </font></b></th> -->
+					<th>
+						<b>
+							<font color="#556B2F">CNO </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">PII </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">DOI </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">AID </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">Doc Subtype </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">Title </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">MSS Page </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">From Page </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">To Page </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">Copyright Type</font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">Copyright </font>
+						</b>
+					</th>
+					<th>
+						<b>
+							<font color="#556B2F">Year </font>
+						</b>
+					</th>
+				</tr>
+
+			</thead>
+			<tbody>
+				<xsl:for-each select="node()">
+					<xsl:if test="name() = 'section-info'">
+						<tr>
+							<td colspan="12">
+								<font color="#483D8B">
+									<b>
+										<xsl:value-of select="*"/>
+									</b>
+								</font>
+							</td>
+						</tr>
+
+						<xsl:for-each select="node()">
+							<tr>
+
+								<td>
+									<xsl:if test="cno"> &#32;<xsl:apply-templates select="cno"
+										/>&#32; </xsl:if>
+								</td>
+								<td nowrap="true">
+									<xsl:if test="pii"> &#32;<xsl:apply-templates select="pii"
+										/>&#32; </xsl:if>
+								</td>
+								<td nowrap="true">
+									<xsl:if test="doi"> &#32;<xsl:apply-templates select="doi"
+										/>&#32; </xsl:if>
+								</td>
+								<td nowrap="true">
+									<xsl:if test="aid"> &#32;<xsl:apply-templates select="aid"
+										/>&#32; </xsl:if>
+								</td>
+								<td align="center">
+									<xsl:for-each select="docsubtype"> &#32;<xsl:value-of
+											select="@type"/>&#32; </xsl:for-each>
+								</td>
+								<td>
+									<xsl:if test="//section-info/title"> &#32;<xsl:apply-templates
+											select="title"/>&#32; </xsl:if>
+								</td>
+								<td align="center">
+									<xsl:if test="mss-page"> &#32;<xsl:apply-templates
+											select="mss-page"/>&#32; </xsl:if>
+								</td>
+								<td align="center">
+									<xsl:if test="from-page"> &#32;<xsl:apply-templates
+											select="from-page"/>&#32; </xsl:if>
+								</td>
+								<td align="center">
+									<xsl:if test="to-page"> &#32;<xsl:apply-templates
+											select="to-page"/>&#32; </xsl:if>
+								</td>
+								<xsl:for-each select="copyright">
+									<td nowrap="true">
+										<xsl:if test="@type"> &#32;<xsl:value-of select="@type"
+											/>&#32; </xsl:if>
+									</td>
+									<td nowrap="true">&#32;<xsl:apply-templates select="."
+										/>&#32;</td>
+									<td nowrap="true">
+										<xsl:if test="@year"> &#32;<xsl:value-of select="@year"
+											/>&#32; </xsl:if>
+									</td>
+								</xsl:for-each>
+							</tr>
+						</xsl:for-each>
+
+					</xsl:if>
+				</xsl:for-each>
+				<xsl:for-each select="node()">
+					<xsl:if test="name() = 'chapter-info'">
+						<tr>
+							<td>
+								<xsl:if test="cno"> &#32;<xsl:apply-templates select="cno"/>&#32;
+								</xsl:if>
+							</td>
+							<td nowrap="true">
+								<xsl:if test="pii"> &#32;<xsl:apply-templates select="pii"/>&#32;
+								</xsl:if>
+							</td>
+							<td nowrap="true">
+								<xsl:if test="doi"> &#32;<xsl:apply-templates select="doi"/>&#32;
+								</xsl:if>
+							</td>
+							<td nowrap="true">
+								<xsl:if test="aid"> &#32;<xsl:apply-templates select="aid"/>&#32;
+								</xsl:if>
+							</td>
+							<td align="center">
+								<xsl:for-each select="docsubtype"> &#32;<xsl:value-of select="@type"
+									/>&#32; </xsl:for-each>
+							</td>
+							<td>
+								<xsl:if test="//chapter-info/title"> &#32;<xsl:apply-templates
+										select="title"/>&#32; </xsl:if>
+							</td>
+							<td align="center">
+								<xsl:if test="mss-page"> &#32;<xsl:apply-templates select="mss-page"
+									/>&#32; </xsl:if>
+							</td>
+							<td align="center">
+								<xsl:if test="from-page"> &#32;<xsl:apply-templates
+										select="from-page"/>&#32; </xsl:if>
+							</td>
+							<td align="center">
+								<xsl:if test="to-page"> &#32;<xsl:apply-templates select="to-page"
+									/>&#32; </xsl:if>
+							</td>
+							<xsl:for-each select="copyright">
+								<td nowrap="true">
+									<xsl:if test="@type"> &#32;<xsl:value-of select="@type"/>&#32;
+									</xsl:if>
+								</td>
+								<td nowrap="true">&#32;<xsl:apply-templates select="."/>&#32;</td>
+								<td nowrap="true">
+									<xsl:if test="@year"> &#32;<xsl:value-of select="@year"/>&#32;
+									</xsl:if>
+								</td>
+							</xsl:for-each>
+						</tr>
+					</xsl:if>
+				</xsl:for-each>
+			</tbody>
+		</table>
+	</xsl:template>
+
+</xsl:stylesheet>

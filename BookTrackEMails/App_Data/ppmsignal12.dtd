@@ -1,0 +1,128 @@
+<!-- $Id: ppmsignal.dtd,v 1.12 2010-06-04 09:57:19 mruck Exp $ -->
+
+<!-- PPM XML Signal DTD
+     For signals to PPM
+     Version 1.2r1 dated 15 July 2013
+     Typical invocation:
+     <!DOCTYPE messages PUBLIC "-//ES//DTD PPM signal DTD version 1.2//EN//XML" "ppmsignal12.dtd">
+-->
+<!--
+    v1.2r1  15 July 2013
+    Changes since version 1.1:    
+    * Added value MANAGED CE AND TYPESET ORDER, GENERATE-EPUB, HYBRID - COPYEDIT AND PRODUCE PAGEPROOFS,
+                   OFFSHORE - COPYEDIT AND PRODUCE PAGEPROOFS, COMPILE AND TYPESET INDEX, 
+                   OPTION 0 - COPYEDIT-AND-PRODUCE-PAGEPROOFS to entity %step;
+
+    Changes since version 1.0:    
+    * Added new signal stages CAST-OFF-BOOK-UPDATE and CAST-OFF-BATCH-UPDATE
+    End of changes
+-->
+
+<!-- Signal types (for more information see Tag by Tag):
+supplier-ready = sent by supplier on completion of a task (work order or instruction)
+supplier-problem = sent by supplier when they are unable to process a task (work order or instruction)
+ew-imported = sent by EW when dataset or content is stored
+ew-delivered-sd = sent by EW when dataset is delivered to ScienceDirect
+ew-delivered-mdc = sent by EW when dataset is delivered to MD Consult
+ew-corrupt-order = sent by EW when order from PPM cannot be processed
+-->
+
+
+<!ENTITY % signal   "( supplier-ready | supplier-problem | 
+                       ew-imported | ew-delivered-sd | ew-delivered-mdc | ew-corrupt-order )" >
+
+<!ENTITY % step     "( B0 | CAST-OFF-BOOK | CAST-OFF-BATCH | CAST-OFF-BOOK-UPDATE | CAST-OFF-BATCH-UPDATE | 
+                       SAMPLE-PAGES | COPYEDIT-BOOK | COPYEDIT-BATCH | 1ST-ARTWORK | 
+                       CORRECT-ARTWORK | TYPESET-BOOK | TYPESET-BATCH | PROOFREAD-1PR-BOOK | PROOFREAD-1PR-BATCH | 
+                       2ND-PROOF-BOOK | 2ND-PROOF-BATCH | PROOFREAD-2PR-BOOK | PROOFREAD-2PR-BATCH | PAGE-PROOF-BOOK | 
+                       PROOFREAD-PAGE-PROOF | INDEX-BOOK | INDEX-BATCH | 2ND-PAGE-PROOF | FINAL-PROOF | TYPESET-INDEX | PRINT-READY-FILES | 
+                       Q300 | H300 | O300 | F300 | H350 | GENERATE-EPUB | HYBRID-COPYEDIT-AND-PRODUCE-PAGEPROOFS | OFFSHORE-COPYEDIT-AND-PRODUCE-PAGEPROOFS | 
+                       COMPILE-AND-TYPESET-INDEX | OPTION0-COPYEDIT-AND-PRODUCE-PAGEPROOFS | FILES-TO-ARCHIVE |
+                       ARTWORK-ORDER | COMBINED-MFG-ORDER | CONVERSION-ORDER | COVER-DESIGN-ORDER | COVER-MFG-ORDER | COPYEDIT-ORDER |
+                       DESIGN-ORDER | FREELANCE-ORDER | FULL-SERVICE-ORDER | GENERIC-ORDER | INDEXING-ORDER | 
+                       MS-DEV-ORDER | MEDIA-DEV-ORDER | MEDIA-PROOF-ORDER | MEDIA-REPL-ORDER | PRINT-BIND-ORDER | 
+                       PROJECT-MGMT-ORDER | PROOFREAD-ORDER | TYPESET-ORDER | MANAGED-CE-AND-TYPESET-ORDER )" >
+
+<!ENTITY % problem-type  "(P01|P02|P03|P04|P05|P06|P07|P08|P09|P10|
+                           P11|P12|P13|P14|P15|P16|P17|P18|P19|P20|
+                           P21|P22|P23|P24|P25|P26|P27|P28|P29|P30|
+                           P31|P32|P33|P34|P35|P36|P37|P38|P39|P40|
+                           P41|P42|P43|P44|P45|P46|P47|P48|P49|P50|
+                           P51|P52|P53|P54|P55|P56|P57|P58|P59|P60|
+                           E01)" >
+
+<!ENTITY % mo          "(01|02|03|04|05|06|07|08|09|10|11|12)" >
+<!ENTITY % day         "(01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|
+                         17|18|19|20|21|22|23|24|25|26|27|28|29|30|31)" >
+<!ENTITY % hr          "(00|01|02|03|04|05|06|07|08|09|10|11|
+                         12|13|14|15|16|17|18|19|20|21|22|23)" >
+<!ENTITY % ms          "(00|01|02|03|04|05|06|07|08|09|
+                         10|11|12|13|14|15|16|17|18|19|
+                         20|21|22|23|24|25|26|27|28|29|
+                         30|31|32|33|34|35|36|37|38|39|
+                         40|41|42|43|44|45|46|47|48|49|
+                         50|51|52|53|54|55|56|57|58|59)" >
+
+<!-- GENERAL SUPPLIER SIGNAL INFO -->
+<!-- Description of elements within the signal - for more information see Tag by Tag
+
+signal              signal type (see above for list and summary of expected actions)
+stage               stage type (see above for list and summary of expected actions)
+order-no            the order number sent in the corresponding work order from PPM (must always be present for supplier signals) 
+instruction-no      the instruction number from the corresponding instruction (if present)
+book-info           identifies the collection (by PII, ISBN) if the signal relates to a product
+item-info           identifies the collection (by PII) if the signal relates to an item (contribution)
+                    NB item-info will not be used in the current PPM implementation
+                    NNB signals at the series level are not envisaged at present - hence no element series-info
+supplier-info       any information being returned from suppliers (e.g. product data)
+-->
+
+<!ELEMENT  messages    ( message+ ) >
+
+<!ELEMENT  message     ( time, signal, stage, order-no?, instruction-no?, 
+                       ( book-info | item-info ), supplier-info? ) >
+<!ATTLIST  message
+           id          NMTOKEN         #REQUIRED >
+
+<!ELEMENT  time        EMPTY >
+<!ATTLIST  time
+           day         %day;           #REQUIRED
+           month       %mo;            #REQUIRED
+           year        NMTOKEN         #REQUIRED
+           hr          %hr;            #IMPLIED
+           min         %ms;            #IMPLIED
+           sec         %ms;            #IMPLIED >
+<!-- All times must be in UTC - see Tag by Tag -->
+
+<!ELEMENT  signal      EMPTY >
+<!ATTLIST  signal
+           id          %signal;        #REQUIRED >
+
+<!ELEMENT  stage       EMPTY >
+<!ATTLIST  stage
+           step        %step;          #REQUIRED >
+ 
+<!ELEMENT  order-no            ( #PCDATA ) >
+<!ELEMENT  instruction-no      ( #PCDATA ) >
+
+<!ELEMENT  book-info           ( isbn | ( pii, isbn?) ) >
+<!ELEMENT  pii                 ( #PCDATA ) >
+<!ELEMENT  isbn                ( #PCDATA ) >
+
+<!ELEMENT  item-info           ( pii ) >
+
+<!-- Additional info for supplier messages -->
+
+<!ELEMENT  supplier-info       ( pdf-pages?, remarks?, problems? ) >
+
+<!ELEMENT  pdf-pages           ( #PCDATA ) >
+<!ELEMENT  remarks             ( #PCDATA ) >
+<!ELEMENT  problems            ( problem+ ) >
+
+<!ELEMENT  problem             ( problem-type, problem-remark ) >
+
+<!ELEMENT  problem-type        EMPTY >
+<!ATTLIST  problem-type
+           type                %problem-type;   #REQUIRED >
+
+<!ELEMENT  problem-remark      ( #PCDATA ) >
