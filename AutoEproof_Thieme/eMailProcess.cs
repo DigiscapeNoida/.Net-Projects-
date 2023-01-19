@@ -39,7 +39,7 @@ namespace AutoEproof
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12;
             SmtpClient eMailClient = new SmtpClient("smtp.office365.com");
             eMailClient.UseDefaultCredentials = false;
-            eMailClient.Credentials = new System.Net.NetworkCredential("thieme.j@thomsondigital.com", "Thiemelogin@123");
+            eMailClient.Credentials = new System.Net.NetworkCredential("thieme.j@thomsondigital.com", "Vot27839");
             eMailClient.Port = 587;
             eMailClient.EnableSsl = true;
             eMailClient.Timeout = 600000;
@@ -187,7 +187,7 @@ namespace AutoEproof
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12;
             SmtpClient eMailClient = new SmtpClient("smtp.office365.com");
             eMailClient.UseDefaultCredentials = false;
-            eMailClient.Credentials = new System.Net.NetworkCredential("thieme.j@thomsondigital.com", "Thiemelogin@123");
+            eMailClient.Credentials = new System.Net.NetworkCredential("thieme.j@thomsondigital.com", "Vot27839");
             eMailClient.Port = 587;
             eMailClient.EnableSsl = true;
             eMailClient.Timeout = 600000;
