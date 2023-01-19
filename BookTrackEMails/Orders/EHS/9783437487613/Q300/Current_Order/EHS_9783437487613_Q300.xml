@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE orders SYSTEM "D:\Deepak\BookTrackEMails\App_Data\order.dtd"><?xml-stylesheet type="text/xsl" href="D:\Deepak\BookTrackEMails\App_Data\order.xsl"?>
+<orders>
+  <order>
+    <book-metadata>
+      <update>0</update>
+      <pii>C2021-0-01375-4</pii>
+      <isbn>978-343-7487-61-3</isbn>
+      <volume-editor>Scheinichen</volume-editor>
+      <book-title>Lernkarten Rettungsdienst - Anatomie und Physiologie</book-title>
+      <stage>Q300</stage>
+      <jobType>EHS</jobType>
+      <design-name>Lernkarten (4c)</design-name>
+    </book-metadata>
+    <chapters>
+      <chapter-info>
+        <cid>1</cid>
+        <cno>c0005</cno>
+        <pii>B978-343-7487-61-3.00001-5</pii>
+        <doi>10.1016/B978-343-7487-61-3.00001-5</doi>
+        <aid>00001</aid>
+      </chapter-info>
+      <chapter-info>
+        <cid>2</cid>
+        <cno>c0010</cno>
+        <pii>B978-343-7487-61-3.00002-7</pii>
+        <doi>10.1016/B978-343-7487-61-3.00002-7</doi>
+        <aid>00002</aid>
+      </chapter-info>
+      <chapter-info>
+        <cid>3</cid>
+        <cno>c0015</cno>
+        <pii>B978-343-7487-61-3.00003-9</pii>
+        <doi>10.1016/B978-343-7487-61-3.00003-9</doi>
+        <aid>00003</aid>
+      </chapter-info>
+      <chapter-info>
+        <cid>4</cid>
+        <cno>c0020</cno>
+        <pii>B978-343-7487-61-3.00004-0</pii>
+        <doi>10.1016/B978-343-7487-61-3.00004-0</doi>
+        <aid>00004</aid>
+      </chapter-info>
+      <chapter-info>
+        <cid>5</cid>
+        <cno>c0025</cno>
+        <pii>B978-343-7487-61-3.00005-2</pii>
+        <doi>10.1016/B978-343-7487-61-3.00005-2</doi>
+        <aid>00005</aid>
+      </chapter-info>
+    </chapters>
+  </order>
+</orders>

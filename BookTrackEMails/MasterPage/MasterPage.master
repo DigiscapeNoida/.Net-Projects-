@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="../Css/daleri-single.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../Javascript/count.js"></script>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body background="../Images/bodybg.jpg">
+    <form id="form1" runat="server"> 
+    <div id="wrap" align="center">
+    <h1><a style="color: #FF0000; font-weight: bold">BOOK XML ORDER</a></h1>
+        <p><a href="http://www.thomsondigital.com/" style="color: #33CC33; font-weight: bold">Thomson Digital</a></p>
+
+	<div id="maincontent" align="left">
+		<center><h2>No need to <a href="https://www.google.co.in/">make things</a> complicated...</h2></center>
+		<br />
+		<br />
+		
+		<asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+		
+	</div>
+
+	<p class="footer">Copyright &copy; 2012 <a >Book Xml Order</a>&nbsp; <br />
+	Designed by&nbsp; <a href="http://www.thomsondigital.com/">Thomson Digital</a></p>
+</div>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Template.master.cs" Inherits="MasterPage_Template" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<link href="../Css/daleri-single.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src ="count.js">
+   
+</script>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="newwrap" align="center" 
+        style="width:auto; height: auto; top: auto; right: auto; bottom: auto; left: auto; overflow: auto;">
+        <h1><a style="color: #FF0000; font-weight: bold">BOOK XML ORDER</a></h1>
+        <table cellspacing="0" cellpadding="0" width="800px">
+        <tr >
+            <td align="left" style="width:160px">
+                <asp:LinkButton ID="linkback" runat="server" onclick="linkback_Click">Back</asp:LinkButton>
+            </td>
+            
+           <%-- <td align="left" style="width:160px"></td>--%>
+            <td align="left" style="width:160px"></td>
+            <td align="center" class="style1"><a href="http://www.thomsondigital.com/" style="color: #33CC33; font-weight: bold; width: 160px">Thomson Digital</a>
+            </td>
+            
+            <%--<td align="right" style="width:160px"></td>--%>
+            <td align="right" style="width:160px"></td>
+            
+            <td align="right" style="width:160px">
+                <asp:LinkButton ID="lnksignout" runat="server" onclick="lnksignout_Click">Signout</asp:LinkButton>
+            </td>         
+        </tr>
+        </table>
+       
+	<div id="maincontent" align="left">
+         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+         </asp:ContentPlaceHolder>
+    </div>
+    </div>
+    </form>
+</body>
+</html>
+

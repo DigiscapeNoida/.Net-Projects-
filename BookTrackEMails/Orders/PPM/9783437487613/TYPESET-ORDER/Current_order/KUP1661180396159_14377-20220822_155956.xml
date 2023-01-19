@@ -1,0 +1,141 @@
+<?xml version = '1.0' encoding = 'windows-1252'?>
+<!DOCTYPE orders PUBLIC "-//ES//DTD PPM order DTD version 1.6//EN//XML" "ppmorder16.dtd">
+<orders>
+   <order type="work-order">
+      <user-info>
+         <created-by>GaertnerM</created-by>
+         <created-on>2022-08-22T15:50:57</created-on>
+         <modified-by>GaertnerM</modified-by>
+         <modified-on>2022-08-22T15:57:00</modified-on>
+      </user-info>
+      <time day="22" month="08" year="2022" hr="15" min="59" sec="56"/>
+      <stage step="TYPESET-ORDER"/>
+      <executor type="TYPESETTER" addressee="yes">
+         <exec-code>TOMBK</exec-code>
+         <label>Thomson&lt;br/>Plot No. 129&lt;br/>NOIDA Special Economic Zone&lt;br/>NOIDA- 201305&lt;br/>INDIA</label>
+         <name>Thomson</name>
+         <salutation>Dear Sir/Madam</salutation>
+      </executor>
+      <order-no>50431</order-no>
+      <instruction-no/>
+      <book-info>
+         <pii>C2021-0-01375-4</pii>
+         <isbn>978-3-437-48761-3</isbn>
+         <manifestations>
+            <manifestation dac-master="yes">
+               <isbn>978-3-437-48761-3</isbn>
+               <version-type>Non - Book Physical</version-type>
+            </manifestation>
+            <manifestation dac-master="no">
+               <isbn>978-3-437-05161-6</isbn>
+               <version-type>Electronic - Online</version-type>
+            </manifestation>
+         </manifestations>
+      </book-info>
+      <due-date>
+         <date day="20" month="01" year="2023"/>
+      </due-date>
+      <prod-site>ESMU</prod-site>
+      <book-details>
+         <version-type>Non - Book Physical</version-type>
+         <medium>Miscellaneous printed material</medium>
+         <book-title>Lernkarten Rettungsdienst - Anatomie und Physiologie</book-title>
+         <short-title>XXX Scheinichen, LK RD - Anatomie Phys, 2.A.</short-title>
+         <edition-no>2</edition-no>
+         <pmg>689</pmg>
+         <version-binding>Misc ptd matl/Cards</version-binding>
+         <language>German</language>
+         <imprint>Urban &amp; Fischer</imprint>
+         <copyright-yr>2023</copyright-yr>
+         <division>Health Sciences</division>
+         <ownership>DEU</ownership>
+         <originators>
+            <originator sort-order="1">
+               <originator-type>Author</originator-type>
+               <first-name>Frank</first-name>
+               <last-name>Scheinichen</last-name>
+            </originator>
+            <originator sort-order="2">
+               <originator-type>Author</originator-type>
+               <first-name>Oliver</first-name>
+               <last-name>Rickes</last-name>
+            </originator>
+         </originators>
+      </book-details>
+      <order-details>
+         <production-position>
+            <finish-state>Final product</finish-state>
+            <quantity-ordered>1</quantity-ordered>
+            <plan-print-run>2400</plan-print-run>
+            <currency>EUR</currency>
+            <unit>0</unit>
+            <project id="362205" impression-id="307866" els-reprint-no="1">
+               <project-number>617414</project-number>
+               <status>Active</status>
+               <registration-status>Not yet registered</registration-status>
+               <approved-on>2021-05-17</approved-on>
+               <plan-publication-date>2023-04-18</plan-publication-date>
+               <plan-print-run>2400</plan-print-run>
+               <currency>EUR</currency>
+               <specification>
+                  <spec-classification>C</spec-classification>
+                  <prod-extent status="Ca.">500</prod-extent>
+                  <pages-arab>500</pages-arab>
+                  <tagging>XML</tagging>
+                  <text-design-type>Lernkarten (4c)</text-design-type>
+                  <supplier-a>Thomson&lt;br/>Plot No. 129&lt;br/>NOIDA Special Economic Zone&lt;br/>NOIDA- 201305&lt;br/>INDIA</supplier-a>
+                  <supplier-b>Drukarnia Dimograf Sp z o.o.&lt;br/>ul. Legionów 83&lt;br/>43-300 BIELSKO-BIAŁA&lt;br/>POLAND</supplier-b>
+                  <trim-size>105w x 148h mm</trim-size>
+                  <biblio-ref/>
+                  <interior-colors>4 - colors</interior-colors>
+                  <binding-style>Misc ptd matl/Cards</binding-style>
+                  <extras>
+                     <extra>
+                        <named>Shrinkwrap</named>
+                        <extra-material>By unit</extra-material>
+                     </extra>
+                     <extra>
+                        <named>No extras</named>
+                     </extra>
+                  </extras>
+                  <illustrations>
+                     <illustration>
+                        <type>Colorization figurative scientific (725)</type>
+                        <category>Moderate</category>
+                        <quantity>150</quantity>
+                     </illustration>
+                  </illustrations>
+                  <international-measures>
+                     <measure system="US">
+                        <trim-size>105w x 148h mm</trim-size>
+                     </measure>
+                     <measure system="SIU">
+                        <trim-size>105w x 148h mm</trim-size>
+                     </measure>
+                  </international-measures>
+               </specification>
+               <cover>
+                  <cover-binding>
+                     <binding-spec>Other</binding-spec>
+                     <finishing>Matte film lamination</finishing>
+                     <colors-ext scale="no">4-colors CMYK</colors-ext>
+                     <colors-int scale="no">None</colors-int>
+                  </cover-binding>
+               </cover>
+               <parts>
+                  <sections>
+                     <section>
+                        <grammage>200gsm</grammage>
+                        <colors scale="no">4/4 colors</colors>
+                        <extent>500</extent>
+                        <paper-quality>Quatro Silk</paper-quality>
+                        <name>Text</name>
+                        <pages-per-sheet>1</pages-per-sheet>
+                     </section>
+                  </sections>
+               </parts>
+            </project>
+         </production-position>
+      </order-details>
+   </order>
+</orders>
