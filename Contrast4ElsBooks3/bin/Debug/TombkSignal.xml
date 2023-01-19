@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset-ready xmlns="http://www.elsevier.com/xml/schema/transport/ready-3.0/ready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.elsevier.com/xml/schema/transport/ready-3.0/ready http://www.elsevier.com/xml/schema/transport/ready-3.0/ready.xsd" version="3.0">
+	<dataset-unique-ids>
+		<supplier-code>TOMBK</supplier-code>
+		<supplier-dataset-id>[TOMBK]</supplier-dataset-id>
+	</dataset-unique-ids>
+	<dataset-package-file>
+		<filename>[ZIPNAME]</filename>
+		<md5>[MD]</md5>
+	</dataset-package-file>
+</dataset-ready>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset xmlns="http://www.elsevier.com/xml/schema/transport/book-2016.6/s280" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.elsevier.com/xml/schema/transport/book-2016.6/s280 http://www.elsevier.com/xml/schema/transport/book-2016.6/s280.xsd" schema-version="2016.6">
+[PCINFO]
+<dataset-unique-ids>
+	<supplier-code>TOMBK</supplier-code>
+	<supplier-dataset-id>[DATASETID]</supplier-dataset-id>
+	<timestamp>[TIMESTAMP]</timestamp>
+</dataset-unique-ids>
+<dataset-properties>
+	<dataset-action>LOAD</dataset-action>
+	<production-process>CAP</production-process>
+</dataset-properties>
+<dataset-content>
+<book-item>
+<version>
+<version-number>S280.1</version-number>
+<stage>S280</stage>
+</version>
+<book-item-unique-ids>
+<pii>[PII]</pii>
+<doi>[DOI]</doi>
+<collection-item-id>
+<isbn>[ISBN]</isbn>
+</collection-item-id>
+</book-item-unique-ids>
+<book-item-properties>
+<pit>CHP</pit>
+<production-type>NON-CRC</production-type>
+</book-item-properties>
+[FILEINFO]
+</book-item>
+</dataset-content>
+</dataset>

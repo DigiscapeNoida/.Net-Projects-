@@ -1,0 +1,8 @@
+<!--
+<proof-info>
+<proof-correctors>
+  <proof-corrector sequence="1" role="project manager" name="[PM]" email="[PME]"/>
+</proof-correctors>
+<action type="reproof"/>
+</proof-info>
+-->   

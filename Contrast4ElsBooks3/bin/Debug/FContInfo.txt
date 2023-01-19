@@ -1,0 +1,5 @@
+XML=<pathname>[PATH]/main.xml</pathname><purpose>MAIN</purpose><dtd-version>BOOK 5.5.0 [PITINFO]</dtd-version><weight>FULL-TEXT</weight>
+PDF=<web-pdf><pathname>[PATH]/main.pdf</pathname><purpose>MAIN</purpose><pdf-version>1.7 6.5</pdf-version><pdf-property>DISTILLED OPTIMIZED BOOKMARKED</pdf-property></web-pdf>
+ASSET=<asset><pathname>[PATH]/main.assets/[FILE]</pathname><type>IMAGE-CAP</type></asset>
+
+

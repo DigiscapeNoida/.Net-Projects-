@@ -1,0 +1,4 @@
+<!--<proof-correctors>
+  <proof-corrector sequence="1" role="author" name="[AN]" email="[AE]"/>
+  <proof-corrector sequence="2" role="master copier" q-to-pub="project manager"/>
+</proof-correctors>-->   
