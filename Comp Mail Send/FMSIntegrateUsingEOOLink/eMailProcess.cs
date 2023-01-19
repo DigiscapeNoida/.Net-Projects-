@@ -44,7 +44,7 @@ namespace FMSIntegrateUsingEOOLink
             eMailClient.UseDefaultCredentials = false;
             if (MailDetailObj.MailFrom.ToLower().Trim() == "thieme.j@thomsondigital.com")
             {
-                eMailClient.Credentials = new System.Net.NetworkCredential("thieme.j@thomsondigital.com", "Thiemelogin@123");
+                eMailClient.Credentials = new System.Net.NetworkCredential("thieme.j@thomsondigital.com", "Vot27839");
             }
             if (MailDetailObj.MailFrom.ToLower().Trim() == "eproof@thomsondigital.com")
             {
@@ -146,7 +146,7 @@ namespace FMSIntegrateUsingEOOLink
             eMailClient.UseDefaultCredentials = false;
             if (MailDetailObj.MailFrom.ToLower().Trim()== "thieme.j@thomsondigital.com")
             {
-                eMailClient.Credentials = new System.Net.NetworkCredential("thieme.j@thomsondigital.com", "Thiemelogin@123");
+                eMailClient.Credentials = new System.Net.NetworkCredential("thieme.j@thomsondigital.com", "Vot27839");
             }
             if (MailDetailObj.MailFrom.ToLower().Trim() == "eproof@thomsondigital.com")
             {
