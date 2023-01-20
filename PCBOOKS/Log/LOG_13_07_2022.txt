@@ -1,0 +1,29 @@
+04:08:03 PM:  Process Started
+04:37:59 PM:  Process Started
+04:48:15 PM:  Information found in database to send author mail 
+04:49:01 PM:  Start to send Mail
+04:49:26 PM:  Mail send: Mailsub Author Submission of Human Gonadotropins: Laurence Cole: Chapter 19
+04:49:26 PM:  Mail send: MailTo sonali.kumari@thomsondigital.com
+04:49:26 PM:  Mail send: MailCC p.govindaradjane@elsevier.com
+04:49:26 PM:  Mail send: MailBCC sonali.kumari@thomsondigital.com, books.thomson@gmail.com
+05:00:12 PM:  Process Started
+05:00:12 PM:  Information found in database to send author mail 
+05:00:12 PM:  Start to send Mail
+05:00:12 PM:  Mail send: Mailsub Author Submission of Human Gonadotropins: Laurence Cole: Chapter 19
+05:00:12 PM:  Mail send: MailTo sonali.kumari@thomsondigital.com
+05:00:12 PM:  Mail send: MailCC p.govindaradjane@elsevier.com
+05:00:12 PM:  Mail send: MailBCC sonali.kumari@thomsondigital.com, books.thomson@gmail.com
+05:12:47 PM:  Process Started
+05:12:47 PM:  Information found in database to send author mail 
+05:12:47 PM:  Start to send Mail
+05:12:47 PM:  Mail send: Mailsub Author Submission of Human Gonadotropins: Laurence Cole: Chapter 19
+05:12:47 PM:  Mail send: MailTo sonali.kumari@thomsondigital.com
+05:12:47 PM:  Mail send: MailCC p.govindaradjane@elsevier.com
+05:12:47 PM:  Mail send: MailBCC sonali.kumari@thomsondigital.com, books.thomson@gmail.com
+05:24:59 PM:  Process Started
+05:28:57 PM:  Information found in database to send author mail 
+05:29:18 PM:  Start to send Mail
+05:29:27 PM:  Mail send: Mailsub Human Gonadotropins: Cole: Chapter 19
+05:29:27 PM:  Mail send: MailTo butlersa1@googlemail.com
+05:29:27 PM:  Mail send: MailCC p.govindaradjane@elsevier.com
+05:29:28 PM:  Mail send: MailBCC sonali.kumari@thomsondigital.com, books.thomson@gmail.com
