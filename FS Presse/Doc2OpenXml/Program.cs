@@ -2022,14 +2022,21 @@ namespace Doc2OpenXml
                 string fullpath = path + mwpath + "\\" + jidval + "\\" + yearval + "\\" + filename + "\\" + "5_Départ copie" + "\\";
                 foreach (var f in final_xml)
                 {
-                    File.Copy(f, fullpath + Path.GetFileName(f), true);
+                    if (f.EndsWith("_metadata.xml"))
+                    {
+                        File.Copy(f, fullpath + GetMetaFileName(fullpath, f), true);
+                    }
+                    else
+                    {
+                        File.Copy(f, fullpath + Path.GetFileName(f), true);
+                    }
                 }
                 Directory.Delete(metapath, true);
                 //=================================================
                 if (Directory.Exists(fullpath + "img"))
                 {
                     Directory.Delete(fullpath + "img");
-                }                
+                }
                 string imgbasepath = System.Configuration.ConfigurationSettings.AppSettings["img"].ToString();
                 if (Directory.Exists(imgbasepath))
                 {
@@ -2243,7 +2250,45 @@ namespace Doc2OpenXml
                 }
             }
         }
-
+        public static string GetMetaFileName(string loc, string fl)
+        {
+            try
+            {
+                string fname = "";
+                string[] metas = Directory.GetFiles(loc, "*_metadata.xml", SearchOption.TopDirectoryOnly);
+                int count = metas.Length;
+                count = count + 1;
+                int dl = count.ToString().Length;
+                if (dl == 1)
+                {
+                    fname = "0000" + count.ToString();
+                }
+                else if (dl == 2)
+                {
+                    fname = "000" + count.ToString();
+                }
+                else if (dl == 3)
+                {
+                    fname = "00" + count.ToString();
+                }
+                else if (dl == 4)
+                {
+                    fname = "0" + count.ToString();
+                }
+                else
+                {
+                    fname = count.ToString();
+                }
+                fl = Path.GetFileName(fl);
+                string out1 = fl.Replace("_metadata.xml", "");
+                out1 = out1 + fname + "_metadata.xml";
+                return out1;
+            }
+            catch
+            {
+                return Path.GetFileName(fl);
+            }
+        }
         public static void img_rename()
         {
             if (Directory.Exists(System.Configuration.ConfigurationSettings.AppSettings["img"].ToString()))
