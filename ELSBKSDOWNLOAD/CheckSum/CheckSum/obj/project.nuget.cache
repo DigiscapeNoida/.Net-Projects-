@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdytA1j3K4PdfHW76OY+GJ9/ese4j311i1kawm3OWqz+kFwX6RYx/GqSU+eHlyxY4+ixRiv8NbWQs03RZf0WMg==",
+  "success": true,
+  "projectFilePath": "D:\\Deepak\\ELSBKSDOWNLOAD\\CheckSum\\CheckSum\\CheckSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TD\\.nuget\\packages\\ssh.net\\2020.0.1\\ssh.net.2020.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
