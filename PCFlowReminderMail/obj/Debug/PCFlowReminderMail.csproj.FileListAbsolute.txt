@@ -1,0 +1,81 @@
+D:\Contrast4ElsBooks\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\Contrast4ElsBooks\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\Contrast4ElsBooks\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\Contrast4ElsBooks\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\Contrast4ElsBooks\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\SVN\Books\DOTNET\Elsevier Projects\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\SVN\Books\DOTNET\Elsevier Projects\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\SVN\Books\DOTNET\Elsevier Projects\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\SVN\Books\DOTNET\Elsevier Projects\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\SVN\Books\DOTNET\Elsevier Projects\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\Raushan\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\Raushan\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\Raushan\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\Raushan\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.csprojResolveAssemblyReference.cache
+D:\Raushan\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\Raushan\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+E:\Kshitij\MISC\Elsevier\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+E:\Kshitij\MISC\Elsevier\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+E:\Kshitij\MISC\Elsevier\Contrast4ElsBooks\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+E:\Kshitij\MISC\Elsevier\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+E:\Kshitij\MISC\Elsevier\Contrast4ElsBooks\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\waseem\SVN\Raushan_ProjectHandover\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\waseem\SVN\Raushan_ProjectHandover\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\waseem\SVN\Raushan_ProjectHandover\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\waseem\SVN\Raushan_ProjectHandover\Contrast4ElsBooks2.0\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.csprojResolveAssemblyReference.cache
+D:\waseem\SVN\Raushan_ProjectHandover\Contrast4ElsBooks2.0\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\waseem\SVN\Raushan_ProjectHandover\Contrast4ElsBooks2.0\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\Rohit\Working copy\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\Rohit\Working copy\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\Rohit\Working copy\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\Rohit\Working copy\Contrast4ElsBooks2.0\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\Rohit\Working copy\Contrast4ElsBooks2.0\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\Rohit\Workingcopy\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\Rohit\Workingcopy\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\Rohit\Workingcopy\Contrast4ElsBooks2.0\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\Rohit\Workingcopy\Contrast4ElsBooks2.0\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\Rohit\Workingcopy\Contrast4ElsBooks2.0\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\Rohit\Workingcopy\Contrast4ElsBooks2.0\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.csprojResolveAssemblyReference.cache
+D:\Deepak\Contrast\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\Deepak\Contrast\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\Deepak\Contrast\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\Deepak\Contrast\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\Deepak\Contrast\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\Deepak\Contrast\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.csprojResolveAssemblyReference.cache
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\share\Deepak\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe.config
+D:\share\Deepak\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.exe
+D:\share\Deepak\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.pdb
+D:\share\Deepak\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.exe
+D:\share\Deepak\PCFlowReminderMail\bin\Debug\PCFlowReminderMail.pdb
+D:\share\Deepak\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.csprojResolveAssemblyReference.cache
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail\obj\Debug\PCFlowReminderMail.csprojResolveAssemblyReference.cache
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail (deployed on 22-02-2020)\bin\Debug\PCFlowReminderMail.exe.config
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail (deployed on 22-02-2020)\obj\Debug\PCFlowReminderMail.exe
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail (deployed on 22-02-2020)\obj\Debug\PCFlowReminderMail.pdb
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail (deployed on 22-02-2020)\bin\Debug\PCFlowReminderMail.exe
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail (deployed on 22-02-2020)\bin\Debug\PCFlowReminderMail.pdb
+D:\Deepak\ReadyToDeploy\PCFlowReminderMail (deployed on 22-02-2020)\obj\Debug\PCFlowReminderMail.csprojResolveAssemblyReference.cache
+D:\Rohit\Workingcopy\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.exe.config
+D:\Rohit\Workingcopy\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.exe
+D:\Rohit\Workingcopy\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.pdb
+D:\Rohit\Workingcopy\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.exe
+D:\Rohit\Workingcopy\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.pdb
+D:\Rohit\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.exe.config
+D:\Rohit\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.exe
+D:\Rohit\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.pdb
+D:\Rohit\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.csprojAssemblyReference.cache
+D:\Rohit\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.csproj.CoreCompileInputs.cache
+D:\Rohit\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.exe
+D:\Rohit\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.pdb
+D:\Deepak\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.exe.config
+D:\Deepak\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.exe
+D:\Deepak\PCFlowReminderMail (live)\bin\Debug\PCFlowReminderMail.pdb
+D:\Deepak\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.csproj.AssemblyReference.cache
+D:\Deepak\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.csproj.CoreCompileInputs.cache
+D:\Deepak\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.exe
+D:\Deepak\PCFlowReminderMail (live)\obj\Debug\PCFlowReminderMail.pdb
