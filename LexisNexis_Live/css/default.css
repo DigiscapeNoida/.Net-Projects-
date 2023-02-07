@@ -1,0 +1,151 @@
+﻿a.anchor:link { color:#002780; text-decoration: none; }
+a.anchor:active { color:#002780; text-decoration: none; }
+a.anchor:visited { color:#002780; text-decoration: none; }
+a.anchor:hover { color:#0033CC; text-decoration: underline;}
+
+a.logoutanchor:link { color:#002780; text-decoration: none; }
+a.logoutanchor:active { color:#002780; text-decoration: none; }
+a.logoutanchor:visited { color:#002780; text-decoration: none; }
+a.logoutanchor:hover { color:#FF0000; text-decoration: underline;}
+
+.moduleHead
+{
+text-align:left;
+font-weight:bold;
+font-family:Verdana;
+font-size:11px;
+color:#ffffff;
+background-color:#8c0a0c;
+vertical-align:middle;
+height:16px;
+}
+.labelHead
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bold;
+	color:#104173;
+}
+
+
+.ACInof
+{
+	font-family:Verdana;
+	font-size:10px;
+	font-weight:bold;
+	color:#104173;
+
+	}
+.label
+{
+	font-family:Verdana;
+	font-size:11px;
+	font-weight:normal;
+	color:#29558c;
+	height:17px; 
+}
+
+.message
+{
+	font-family:Verdana;
+	font-size:11px;
+	font-weight:bold;
+	color:#FF0000;
+	text-align:left;
+}
+
+.labelimage
+{
+	background-image:url(../images/small-arrow.GIF);background-repeat:no-repeat;
+	
+}
+
+.button
+{
+	color:white;
+	background-color:#8c0a0c;
+	border-color:#999999;
+	border-width:1px;
+	border-style:Solid;
+	font-size:11px;
+	font-family:Verdana;
+	font-weight:bold;
+}
+.fileupload
+{
+	color:white;
+	background-color:white;
+	font-size:11px;
+	font-family:Verdana;
+	font-weight:bold;
+}
+.header
+{
+	width:100%;
+	height:40px;
+	background:url(../images/Footer.png);
+}
+.header_text
+{
+color:#FFFFFF;
+font-family:Arial;
+text-align:left;
+font-size:16pt;
+font-weight:bolder;
+}
+.border_1px
+{
+	border: solid 1px #999999;
+}
+#modalPage
+{
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px; left: 0px;
+}
+.modalBackground
+{
+    filter: Alpha(Opacity=40); -moz-opacity:0.4; opacity: 0.4;
+    width: 100%; height: 100%; background-color: #999999;
+    position: absolute;
+    z-index: 500;
+    top: 0px; left: 0px;
+}
+.modalContainer
+{
+    position: absolute;
+    width: 100%;
+    left: 0%;
+    top: 0%;
+    z-index: 750;
+}
+.modal
+{
+    background-color: white;
+    border: solid 4px black; position: relative;
+    top: 50%;
+    left: 10%;
+    z-index: 1000;
+    width: 75%;
+    height: 85%;
+    padding: 0px;
+}
+.modalTop
+{
+    width: 100%;
+    background-color: #000099;
+    padding: 4px;
+    color: #ffffff;
+    text-align: right;
+}
+.modalTop a, .modalTop a:visited
+{
+    color: #ffffff;
+}
+.modalBody
+{
+    padding: 10px;
+    text-align:center;
+}

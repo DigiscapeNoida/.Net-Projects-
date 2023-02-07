@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Additional_mail_notification" xml:space="preserve">
+    <value>Notification sup à</value>
+  </data>
+  <data name="All_rights_reserved" xml:space="preserve">
+    <value>Tous les droits sont réservés</value>
+  </data>
+  <data name="Attachments" xml:space="preserve">
+    <value>Pièces jointes</value>
+  </data>
+  <data name="Author" xml:space="preserve">
+    <value>Auteur</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="choose_your_product" xml:space="preserve">
+    <value>Choisissez Votre Produit</value>
+  </data>
+  <data name="collection" xml:space="preserve">
+    <value>Collection</value>
+  </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Commentaire</value>
+  </data>
+  <data name="connected_Username" xml:space="preserve">
+    <value>Nom utilisateur connecté</value>
+  </data>
+  <data name="Copyright" xml:space="preserve">
+    <value>Copyright</value>
+  </data>
+  <data name="Declination" xml:space="preserve">
+    <value>Déclinaison</value>
+  </data>
+  <data name="Delai_back" xml:space="preserve">
+    <value>Délai de retour</value>
+  </data>
+  <data name="Demand_Type" xml:space="preserve">
+    <value>Type de demande</value>
+  </data>
+  <data name="DTD_item" xml:space="preserve">
+    <value>DTD de l'item</value>
+  </data>
+  <data name="Due_Date" xml:space="preserve">
+    <value>Date d'échéance</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>Délai</value>
+  </data>
+  <data name="Encyclopedia" xml:space="preserve">
+    <value>Encyclopédie</value>
+  </data>
+  <data name="Export_All" xml:space="preserve">
+    <value>Exporter tout</value>
+  </data>
+  <data name="export_this_page" xml:space="preserve">
+    <value>Exporter cette page</value>
+  </data>
+  <data name="Folder_Title" xml:space="preserve">
+    <value>Titre  du Dossier</value>
+  </data>
+  <data name="Forget_Password" xml:space="preserve">
+    <value>Mot de passe oublié</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Insert" xml:space="preserve">
+    <value>Insérer</value>
+  </data>
+  <data name="Iteration" xml:space="preserve">
+    <value>Itération</value>
+  </data>
+  <data name="Leonardo_id" xml:space="preserve">
+    <value>Leonardo id</value>
+  </data>
+  <data name="Load_a_file" xml:space="preserve">
+    <value>Charger une pièce jointe</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>S'identifier</value>
+  </data>
+  <data name="login_a_dossier" xml:space="preserve">
+    <value>Identifiez-vous un dossier</value>
+  </data>
+  <data name="login_id" xml:space="preserve">
+    <value>Utilisateur</value>
+  </data>
+  <data name="Log_a_booklet" xml:space="preserve">
+    <value>Loguer un fascicule</value>
+  </data>
+  <data name="Log_correction" xml:space="preserve">
+    <value>Loguer une correction</value>
+  </data>
+  <data name="Log_Out" xml:space="preserve">
+    <value>Se déconnecter</value>
+  </data>
+  <data name="Name_of_applicant" xml:space="preserve">
+    <value>Nom du demandeur</value>
+  </data>
+  <data name="Nature_of_demand" xml:space="preserve">
+    <value>Nature de la demande</value>
+  </data>
+  <data name="new_Folio" xml:space="preserve">
+    <value>Folio</value>
+  </data>
+  <data name="Notification_for_sup" xml:space="preserve">
+    <value>Notification sup à</value>
+  </data>
+  <data name="No_Folio" xml:space="preserve">
+    <value>N° Folio</value>
+  </data>
+  <data name="Number_of_Pages" xml:space="preserve">
+    <value>Nb Pages</value>
+  </data>
+  <data name="Character_count" xml:space="preserve">
+    <value>Nombre de caractères</value>
+  </data>
+  <data name="Online_Production_Tracking" xml:space="preserve">
+    <value>Léonard</value>
+  </data>
+  <data name="Page_Count" xml:space="preserve">
+    <value>Nb Page avant</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Référence</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Return_Date" xml:space="preserve">
+    <value>Date de retour</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Sélectionner</value>
+  </data>
+  <data name="Send_prod" xml:space="preserve">
+    <value>Envoyer en prod</value>
+  </data>
+  <data name="Stage" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>Système</value>
+  </data>
+  <data name="Task" xml:space="preserve">
+    <value>Tâche</value>
+  </data>
+  <data name="Title_Fesc" xml:space="preserve">
+    <value>Titre du Fasc</value>
+  </data>
+  <data name="To_send" xml:space="preserve">
+    <value>Envoyer à Thomson</value>
+  </data>
+  <data name="Type_of_item" xml:space="preserve">
+    <value>Type de l'item</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>Rédaction</value>
+  </data>
+  <data name="Complete" xml:space="preserve">
+    <value>Achevée</value>
+  </data>
+  <data name="Upload_Article" xml:space="preserve">
+    <value>Télécharger Article</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Action" xml:space="preserve">
+    <value>Action</value>
+  </data>
+  <data name="Leonard" xml:space="preserve">
+    <value>Léonard</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>mot de passe</value>
+  </data>
+  <data name="Remove_all_filters" xml:space="preserve">
+    <value>Retirer les filtres</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Chercher</value>
+  </data>
+  <data name="Dossiers" xml:space="preserve">
+    <value>Dossiers</value>
+  </data>
+  <data name="Fiches" xml:space="preserve">
+    <value>Fiches</value>
+  </data>
+  <data name="Journals" xml:space="preserve">
+    <value>Revues</value>
+  </data>
+  <data name="Load_a_fileDosier" xml:space="preserve">
+    <value>Charger une pièce jointe</value>
+  </data>
+  <data name="Log_folder" xml:space="preserve">
+    <value>Déclarer un dossier</value>
+  </data>
+  <data name="TD_Attachments" xml:space="preserve">
+    <value>PJ TD</value>
+  </data>
+  <data name="Time_limit" xml:space="preserve">
+    <value>Délai</value>
+  </data>
+  <data name="Log_a_booklet_encyclo" xml:space="preserve">
+    <value>Déclarer un fascicule(Encyclopédie)</value>
+  </data>
+  <data name="LN_Attachments" xml:space="preserve">
+    <value>PJ LN</value>
+  </data>
+  <data name="Search_dossier" xml:space="preserve">
+    <value>Chercher dossier</value>
+  </data>
+  <data name="Search_Encyclopedia" xml:space="preserve">
+    <value>Chercher Encyclopédie</value>
+  </data>
+  <data name="Load_a_File_dosier" xml:space="preserve">
+    <value>Joindre un dossier</value>
+  </data>
+  <data name="Dossier_delai" xml:space="preserve">
+    <value>Délai</value>
+  </data>
+  <data name="Dossier_heuredate" xml:space="preserve">
+    <value>Date/heure de retour prévisionnelle</value>
+  </data>
+  <data name="Dossier_Publication_Date" xml:space="preserve">
+    <value>Date de publication</value>
+  </data>
+  <data name="Delivery_From_date" xml:space="preserve">
+    <value>Date de livraison début</value>
+  </data>
+  <data name="Delivery_To_date" xml:space="preserve">
+    <value>Date de livraison fin</value>
+  </data>
+  <data name="Login_From_date" xml:space="preserve">
+    <value>Date de réception début</value>
+  </data>
+  <data name="Login_To_date" xml:space="preserve">
+    <value>Date de réception fin</value>
+  </data>
+  <data name="Dossier_Validatemsg" xml:space="preserve">
+    <value>Les champs marqués d’un * sont obligatoires</value>
+  </data>
+  <data name="Change_Password" xml:space="preserve">
+    <value>Modifier votre mot de passe</value>
+  </data>
+  <data name="Confirm_New_Password" xml:space="preserve">
+    <value>Confirmer nouveau mot de passe</value>
+  </data>
+  <data name="Newpassword_Confirmpassword_should_besame" xml:space="preserve">
+    <value>les mots de passe saisis doivent être identiques</value>
+  </data>
+  <data name="New_Password" xml:space="preserve">
+    <value>Nouveau mot de passe</value>
+  </data>
+  <data name="New_Password_should_not_be_blank" xml:space="preserve">
+    <value>Ce champ ne peut pas être vide</value>
+  </data>
+  <data name="Old_Password" xml:space="preserve">
+    <value>Mot de passe actuel</value>
+  </data>
+  <data name="Password_Change_Successfully" xml:space="preserve">
+    <value>Mot de passe modifié</value>
+  </data>
+  <data name="Please_Insert_Old_Password" xml:space="preserve">
+    <value>Insérer ancien mot de passe</value>
+  </data>
+  <data name="PleaseInsertValidloginIDforResetpassword" xml:space="preserve">
+    <value>Insérer nom d'utilisateur valide pour réinitialisation mot de passe</value>
+  </data>
+  <data name="submit" xml:space="preserve">
+    <value>soumettre</value>
+  </data>
+  <data name="Insert_Comment" xml:space="preserve">
+    <value>Insérer commentaire</value>
+  </data>
+  <data name="Name_of_requester" xml:space="preserve">
+    <value>Demandeur</value>
+  </data>
+  <data name="Encyclo_LoadFile" xml:space="preserve">
+    <value>Joindre un fascicule</value>
+  </data>
+  <data name="Encylo_heuredate" xml:space="preserve">
+    <value>Date/heure de retour prévisionnelle</value>
+  </data>
+  <data name="Journal_Article_Title" xml:space="preserve">
+    <value>Titre d'article</value>
+  </data>
+  <data name="Journal_article_type" xml:space="preserve">
+    <value>Type d'article</value>
+  </data>
+  <data name="Journal_Author" xml:space="preserve">
+    <value>Auteur</value>
+  </data>
+  <data name="Journal_Comment" xml:space="preserve">
+    <value>Commentaire</value>
+  </data>
+  <data name="Journal_delai" xml:space="preserve">
+    <value>Délai</value>
+  </data>
+  <data name="Journal_fileload" xml:space="preserve">
+    <value>Joindre un article</value>
+  </data>
+  <data name="Journal_Heading" xml:space="preserve">
+    <value>Déclarer un article</value>
+  </data>
+  <data name="Journal_heuredate" xml:space="preserve">
+    <value>Date/heure de retour prévisionnelle</value>
+  </data>
+  <data name="Journal_notification" xml:space="preserve">
+    <value>Notification sup à</value>
+  </data>
+  <data name="Journal_pubnum" xml:space="preserve">
+    <value>N° publ.</value>
+  </data>
+  <data name="Journal_submit" xml:space="preserve">
+    <value>Envoyer à Thomson</value>
+  </data>
+  <data name="Revue" xml:space="preserve">
+    <value>Revue</value>
+  </data>
+  <data name="AID" xml:space="preserve">
+    <value>AID</value>
+  </data>
+  <data name="JID" xml:space="preserve">
+    <value>JID</value>
+  </data>
+  <data name="Search_Journal" xml:space="preserve">
+    <value>Chercher article</value>
+  </data>
+  <data name="Journal_Revised_Heading" xml:space="preserve">
+    <value>Envoyer en correction un article</value>
+  </data>
+  <data name="Complete_date" xml:space="preserve">
+    <value>Date de retour réelle</value>
+  </data>
+  <data name="In_Date" xml:space="preserve">
+    <value>Date d’envoi</value>
+  </data>
+  <data name="Return_DateJournal" xml:space="preserve">
+    <value>Date de retour souhaitée</value>
+  </data>
+  <data name="Journal_ActualDeliverydate_from" xml:space="preserve">
+    <value>Date de retour réelle début</value>
+  </data>
+  <data name="Journal_ActualDeliverydate_to" xml:space="preserve">
+    <value>Date de retour réelle fin</value>
+  </data>
+  <data name="Journal_deliverydate_from" xml:space="preserve">
+    <value>Date de retour souhaitée début</value>
+  </data>
+  <data name="Journal_deliverydate_To" xml:space="preserve">
+    <value>Date de retour souhaitée fin</value>
+  </data>
+  <data name="Journal_LoginDate_From" xml:space="preserve">
+    <value>Date de réception début</value>
+  </data>
+  <data name="Journal_LoginDate_To" xml:space="preserve">
+    <value>Date de réception fin</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Rafraichir</value>
+  </data>
+  <data name="Load_Fiche_File" xml:space="preserve">
+    <value>Joindre un fichier</value>
+  </data>
+  <data name="Create_User" xml:space="preserve">
+    <value>Gestion des utilisateurs</value>
+  </data>
+  <data name="First_name" xml:space="preserve">
+    <value>Prénom</value>
+  </data>
+  <data name="Last_name" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="Please_select_item_for_delete_user" xml:space="preserve">
+    <value>Merci de faire une sélection</value>
+  </data>
+  <data name="Production_site" xml:space="preserve">
+    <value>Produit</value>
+  </data>
+  <data name="User_already_exist" xml:space="preserve">
+    <value>Utilisateur existe déjà</value>
+  </data>
+  <data name="User_cancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="User_created_successfully" xml:space="preserve">
+    <value>Utilisateur créé</value>
+  </data>
+  <data name="User_Delete" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="User_deleted_successfully" xml:space="preserve">
+    <value>Utilisateur supprimé</value>
+  </data>
+  <data name="User_ID" xml:space="preserve">
+    <value>Identifiant</value>
+  </data>
+  <data name="User_Role" xml:space="preserve">
+    <value>Type d'accès</value>
+  </data>
+  <data name="Delete_Item" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Item_Updated_successfully" xml:space="preserve">
+    <value>Opération effectuée avec succès</value>
+  </data>
+  <data name="Products" xml:space="preserve">
+    <value>Tableau de bord</value>
+  </data>
+  <data name="User_Updated_successfully" xml:space="preserve">
+    <value>Opération effectuée avec succès</value>
+  </data>
+  <data name="User_UpdationFailed" xml:space="preserve">
+    <value>Opération échouée. Merci de réessayer</value>
+  </data>
+  <data name="Work_to_be_Done" xml:space="preserve">
+    <value>Travail à réaliser</value>
+  </data>
+</root>
