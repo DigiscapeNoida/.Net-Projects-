@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="LexisNexis.Service1" CodeBehind="~/App_Code/LexisNexis.Service1.cs" %>

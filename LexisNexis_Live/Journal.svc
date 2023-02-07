@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Factory="System.ServiceModel.Activation.WebScriptServiceHostFactory" Debug="true" Service="LexisNexis.Journal" CodeBehind="~/App_Code/LexisNexis.Journal.cs" %>
